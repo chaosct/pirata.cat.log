@@ -1,0 +1,50 @@
+{
+    "any": 12,
+    "desc": "Davant la convocat\u00f2ria de vaga general pel proper 29 de mar\u00e7, la junta de PIRATA.CAT ha decidit passar a votaci\u00f3 les seg\u00fcents tres opcions respecte al nostre posicionament.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\nvaga",
+    "dia": 10,
+    "final": {
+        "any": 12,
+        "dia": 20,
+        "mes": 3
+    },
+    "hora": "18:10",
+    "id": 162,
+    "mes": 3,
+    "solutions": [
+        {
+            "desc": "Hi ha motius suficients per a una vaga general i per tant Pirates de Catalunya ha de donar suport a la convocat\u00f2ria.",
+            "down": 16,
+            "equal": 8,
+            "id": 531,
+            "title": "Proposta (#1):Posicionar-se A FAVOR de la convocat\u00f2ria de la Vaga General",
+            "up": 63
+        },
+        {
+            "desc": "En aquests moments, una vaga general no sembla ser la millor manera d'aconseguir superar la situaci\u00f3 econ\u00f2mica de l'estat espanyol, i Pirates de Catalunya es posiciona en contra.",
+            "down": 43,
+            "equal": 10,
+            "id": 532,
+            "title": "Proposta (#2):Posicionar-se EN CONTRA de la convocat\u00f2ria de la Vaga General",
+            "up": 10
+        },
+        {
+            "desc": "Els motius de la convocat\u00f2ria no formen part de l'ideari pirata, i donat que dins les persones afiliades hi ha diferents opinions, Pirates de Catalunya es mant\u00e9 neutral davant la convocat\u00f2ria de vaga general.",
+            "down": 23,
+            "equal": 11,
+            "id": 533,
+            "title": "Proposta (#3):NO POSICIONAR-SE davant la convocat\u00f2ria de la Vaga General",
+            "up": 30
+        },
+        {
+            "desc": "Como partido pol\u00edtico dejar a cada afiliado y simpatizante dejar ejercitar este derecho de forma individual.",
+            "down": 6,
+            "equal": 5,
+            "id": 536,
+            "title": "Proposta (#4):Exercir el dret a vaga de forma individual.",
+            "up": 14
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #162: Posicionament de PIRATA.CAT respecte la vaga general",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/162"
+}

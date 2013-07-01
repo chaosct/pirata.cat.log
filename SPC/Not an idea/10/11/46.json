@@ -1,0 +1,21 @@
+{
+    "any": 10,
+    "desc": "Per assegurar que les propostes enviades no contenen faltes d'ortografia proposo l'exist\u00e8ncia de personal que faci de filtre corrector ortogr\u00e0fic i/o gram\u00e0tic de les propostes abans no siguin publicades.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\ncorrecci\ndescripci\nfrases\ngramatica\nortografia\npropostes\nsintaxis",
+    "dia": 6,
+    "hora": "09:00",
+    "id": 46,
+    "mes": 11,
+    "solutions": [
+        {
+            "desc": "Per tal d'assegurar que les propostes enviades no contenen faltes d'ortografia proposo l'exist\u00e8ncia de personal que faci de filtre corrector ortogr\u00e0fic i/o gram\u00e0tic a les propostes enviades abans no siguin publicades.",
+            "down": 0,
+            "equal": 0,
+            "id": 88,
+            "title": "Soluci\u00f3 #1:Personal destinat a corregir possibles faltes de les propostes enviades",
+            "up": 0
+        }
+    ],
+    "status": "Not an idea",
+    "titol": "Idea #46: Corregir les posibles faltes d'ortografia de les propostes enviades",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/46"
+}

@@ -1,0 +1,26 @@
+{
+    "any": 12,
+    "desc": "Se est\u00e1 discutiendo en el Congreso de los Diputados una nueva ley que, a la pr\u00e1ctica, limitar\u00e1 muy seriamente el acceso a la justicia por parte de los ciudadanos. Ten\u00e9is m\u00e1s informaci\u00f3n aqu\u00ed: http://pirata.cat/bloc/?p=3427&cpage;=1#comment-4533\n Grupos cercanos al mundo jur\u00eddico ha convocado manifestaciones en todo el estado para el pr\u00f3ximo 31 de octubre. \n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\nimpostos\nindirectes\ntaxa",
+    "dia": 23,
+    "final": {
+        "any": 12,
+        "dia": 30,
+        "mes": 10
+    },
+    "hora": "16:44",
+    "id": 204,
+    "mes": 10,
+    "solutions": [
+        {
+            "desc": "El acceso a la justicia es un derecho constitucional que est\u00e1, incluso, por encima del derecho a la atenci\u00f3n sanitaria. Esta nueva ley va directamente en contra del ideario pirata.",
+            "down": 0,
+            "equal": 1,
+            "id": 684,
+            "title": "Proposta (#1):Apoyar la manifestaci\u00f3n",
+            "up": 55
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #204: Apoyar la manifestaci\u00f3n del d\u00eda 31 de octubre contra las nuevas tasas judicial",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/204"
+}

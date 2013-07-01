@@ -1,0 +1,26 @@
+{
+    "any": 12,
+    "desc": "Brot Bord \u00e9s un col\u00b7lectiu a favor de l'alliberament sexual del Camp de Tarragona que demana accions a diversos col\u00b7lectius per a recolzar el seu manifest.\n === FINALITZA DISSABTE A LES 23.00H ===\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\nalliberament\nbisexual\nheterosexual\nhomosexual\nsexual\ntransexual",
+    "dia": 9,
+    "final": {
+        "any": 12,
+        "dia": 13,
+        "mes": 5
+    },
+    "hora": "15:25",
+    "id": 172,
+    "mes": 5,
+    "solutions": [
+        {
+            "desc": "Brot Bord demana adhesions al manifest que han el\u00b7laborat.El podeu llegir aqu\u00ed:http://brotbord.wordpress.com/manifest-17-de-maig/",
+            "down": 2,
+            "equal": 5,
+            "id": 549,
+            "title": "Proposta (#1):Esteu d'acord en adherir-nos com a Pirates al manifest?",
+            "up": 30
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #172: Accions de recolzament a Brot Bord; col\u00b7lectiu a favor de l'alliberament sexua",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/172"
+}

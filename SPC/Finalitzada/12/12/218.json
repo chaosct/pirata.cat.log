@@ -1,0 +1,42 @@
+{
+    "any": 12,
+    "desc": "Ante la injusta pol\u00edtica de aplicaci\u00f3n de indultos penales ejercida tanto por el actual Gobierno de Espa\u00f1a como por los anteriores gobiernos, y en respuesta al caso de D. David Reboredo, Willy Uribe se declara en huelga de hambre indefinida con el objetivo de ver materializadas estas tres reclamaciones:\n 1\u00aa Que el actual Gobierno de Espa\u00f1a conceda el indulto a D. David Reboredo, un ciudadano gallego encarcelado por posesi\u00f3n de droga tras llevar ya tres a\u00f1os rehabilitado y trabajando en labores de ayuda social. Para que abandone la prisi\u00f3n y contin\u00fae con su positiva reinserci\u00f3n en la sociedad.\n2\u00aa Que el actual Gobierno de Espa\u00f1a, presidido por D. Mariano Rajoy, explique a los ciudadanos espa\u00f1oles los motivos de los dos indultos concedidos a cuatro polic\u00edas auton\u00f3micos catalanes, condenados en firme por torturas.\n3\u00aa Que el anterior Gobierno de Espa\u00f1a, presidido por D. Jos\u00e9 Luis Rodr\u00edguez Zapatero, explique a los ciudadanos espa\u00f1oles los motivos del indulto concedido al banquero D. Alfredo S\u00e1enz, condenado a tres meses de arresto e inhabilitaci\u00f3n por un delito de acusaci\u00f3n y denuncia falsas.\n ~~~~~~~~~~~~~~~~~~~~~~~\nEsta votaci\u00f3n se cerrar\u00e1 el d\u00eda 18 a las 12:00h\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\nhuelga\nindulto\nvaga",
+    "dia": 13,
+    "final": {
+        "any": 12,
+        "dia": 30,
+        "mes": 12
+    },
+    "hora": "00:26",
+    "id": 218,
+    "mes": 12,
+    "solutions": [
+        {
+            "desc": "Mostrar nuestro apoyo al escritor, y lanzar un comunicado.",
+            "down": 11,
+            "equal": 9,
+            "id": 799,
+            "title": "Proposta (#1):Solidarizarse",
+            "up": 18
+        },
+        {
+            "desc": "Solidaritzar-se est\u00e0 b\u00e9, per\u00f2 correm el risc de quedar-nos amb \"salvas al aire\". Si podem fer quelcom m\u00e9s concret i tangible? Potser no tenim un gran desplegament sobre el terreny, per\u00f2 s\u00ed a nivell telem\u00e0tic. Difonem el link https://www.change.org/es/peticiones/ministerio-de-justicia-indulto-para-david- reboredo-3",
+            "down": 11,
+            "equal": 6,
+            "id": 800,
+            "title": "Proposta (#2):Solidaritzar-se i recolzar la petici\u00f3 via change.org",
+            "up": 19
+        },
+        {
+            "desc": "Aunque comparto en gran parte el reclamo de Willy Uribe, no comulgo con el primero de los puntos. Si las penas se consideran desproporcionadas en relaci\u00f3n al delito cometido se debe legislar para disminuir esas penas y equipararlas a la infracci\u00f3n, sentando precedente para casos similares. El indulto puntual de una persona no sienta precedente, y no deja de ser arbitrario, \u00bfpor qu\u00e9 unos s\u00ed y otros no?  Aunque los pol\u00edticos se sirven de los indultos para perdonar a quien les interesa, son una atribuci\u00f3n de la Corona: es el rey quien ejerce \"el derecho de gracia con arreglo a la Ley\", a propuesta del Ministro de Justicia y tras ser debatido por el Consejo de Ministros. Como me dijo otro pirata con el que habl\u00e9 del tema: \"Esa \"prerrogativa de gracia\" proviene de tiempos medievales en los que el Rey era gobernante absoluto y decid\u00eda por encima de cualquier instituci\u00f3n. Si tenemos separaci\u00f3n de poderes, esto no deber\u00eda existir.\" Por lo tanto, hablamos de una medida totalmente desfasada, m\u00e1s propia del absolutismo de los \"reyes elegidos por mandato divino\" que de un estado democr\u00e1tico; arbitraria, e injusta. Pirates de Catalunya debe posicionarse en contra de todos los indultos, y defender la separaci\u00f3n efectiva de poderes.",
+            "down": 5,
+            "equal": 2,
+            "id": 802,
+            "title": "Proposta (#4):Posicionarnos en contra de todos los indultos",
+            "up": 37
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #218: Huelga de hambre de Willy Uribe",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/218"
+}

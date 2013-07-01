@@ -1,0 +1,34 @@
+{
+    "any": 13,
+    "desc": "A hores d'ara, deu ser del tot conegut per vosaltres el cas de l'Ester Quintana, la dona que va perdre l'ull la vesprada de la darrera vaga general 14N del 2012 al Passeig de Gr\u00e0cia entre Casp i Ronda de Sant Pere.\nEs d\u00f3na la estranya coincid\u00e8ncia que un dels s\u00edmbols de suport ha estat tapar-se l'ull amb un \"pegat\", justament un s\u00edmbol Pirata. Actualment, existeix la campanya OjoConTuOjo.\nCadasc\u00fa de forma individual, ja pot enviar la seva foto i donar el seu suport. Per\u00f2 tamb\u00e9 seria bona idea que de forma col\u00b7lectiva, aprofitant alguna reuni\u00f3, ens f\u00e9ssim una fotografia, enviant-la de part de Pirates de Catalunya. Per aix\u00f2 proposo la soluci\u00f3 1.\n A m\u00e9s a m\u00e9s, l'Ester t\u00e9 una querella (http://www.vilaweb.cat/noticia/4066477/20121218/admesa-tramit-querella-dester- quintana-mossos.html ) en curs contra els responsables de la BRIMO que li han provocat la p\u00e8rdua de l'ull, a la que proposo donar suport. Per aix\u00f2 proposo una segona soluci\u00f3.\n Voldria concloure donant les gr\u00e0cies m\u00e9s sinceres per la decisi\u00f3 de lluitar de l'Ester; nom\u00e9s amb la seva decisi\u00f3 i el recolzament de molts ha estat possible for\u00e7ar la dimissi\u00f3 de Sergi Pla i la sortida de Felip Puig de la conselleria d'Interior. Per altra banda, voldria donar sat\u00edricament \"les gr\u00e0cies\" a aquests 2 \u00faltims i al cos de la BRIMO en general pel nombre de \"pirates catalans\" que han generat; cada cop som m\u00e9s la gent que \"portem un pegat a l'ull\".\n #\u00c0nimsEster !\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\nBRIMO\nEster\ngoma\npilotes",
+    "dia": 2,
+    "final": {
+        "any": 13,
+        "dia": 15,
+        "mes": 5
+    },
+    "hora": "16:32",
+    "id": 221,
+    "mes": 1,
+    "solutions": [
+        {
+            "desc": "Fer-nos una fotografia col\u00b7lectiva, aprofitant alguna reuni\u00f3, on sortim amb un pegat a l'ull esquerre, i enviar-la de part de Pirata.cat, donant aix\u00ed suport a la campanya Ojocontuojo.",
+            "down": 2,
+            "equal": 9,
+            "id": 812,
+            "title": "Proposta (#1):Suport a l'Ester mitjan\u00e7ant la campanya Ojocontuojo",
+            "up": 38
+        },
+        {
+            "desc": "Recolzar la causa de l'Ester Quintana. Recolzem la querella de l'Ester, exigim que no sigui arxivada (com passa freq\u00fcentment amb aquest tipus de causes) i exigim un judici imparcial on es depurin responsabilitats (per l'experi\u00e8ncia de la vaga 29M del 2012 sembla que hi ha jutges que responen als designis del Departament d'Interior).",
+            "down": 1,
+            "equal": 4,
+            "id": 813,
+            "title": "Proposta (#2):Recolzar la querella de l'Ester",
+            "up": 63
+        }
+    ],
+    "status": "In development",
+    "titol": "Idea #221: Suport a l'Ester Quintana",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/221"
+}

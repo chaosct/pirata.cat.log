@@ -1,0 +1,42 @@
+{
+    "any": 12,
+    "desc": "Realitzar una campanya de recerca de persones desaparegudes, en col\u00b7laboraci\u00f3 amb l'Associaci\u00f3 Nacional d'Afectats per Adopcions Irregulars (ANADIR).\n \u00c9s important remarcar que aquesta acci\u00f3 nom\u00e9s pot ser realitzada durant campanya electoral, doncs \u00e9s l'\u00fanic moment en el qual podem fer \u00fas del cens electoral.\n Els advocats Josep Jover i Fabi\u00e1n Plaza afirmen que no hi ha cap problema legal tal qual vol dur-se la iniciativa.\n La carta ha estat redactada amb l'assessorament d'advocats de Pirates de Catalunya i d'ANADIR.\n VOTACI\u00d3 URGENT, ES TANCAR\u00c0 EL DISSABTE 17 DE NOVEMBRE A LES 17h.\n M\u00e9s informaci\u00f3 i debat a: http://pirates.pad.atkn.net/carta-anadir\n\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\nanadir\ndrets\nhumans\npirates",
+    "dia": 16,
+    "final": {
+        "any": 12,
+        "dia": 17,
+        "mes": 11
+    },
+    "hora": "13:38",
+    "id": 211,
+    "mes": 11,
+    "solutions": [
+        {
+            "desc": "Col\u00b7laborar amb l'Associaci\u00f3 ANADIR en la recerca de persones desaparegudes, enviant una carta a persones nascudes el mateix dia que nadons robats, per tal de fer-los saber que podrien ser un nad\u00f3 desaparegut. Per tal de complir amb la legalitat, hem d'incloure publicitat electoral a les cartes, i aquesta acci\u00f3 nom\u00e9s pot dur-se a terme durant campanya electoral, doncs requereix emprar el cens electoral per a la cerca, i nom\u00e9s disposem d'ell fins a final de campanya. No hi ha cap altra forma de fer-ho, i els advocats comenten que si ho fem aix\u00ed, \u00e9s completament legal. Aquesta acci\u00f3 ha estat aprovada en dues reunions de campanya i una de junta, i portem invertides moltes hores de feina. M\u00e9s informaci\u00f3 a: http://pirates.pad.atkn.net/carta-anadir",
+            "down": 46,
+            "equal": 9,
+            "id": 775,
+            "title": "Proposta (#1):Col\u00b7laborar amb l'Associaci\u00f3 ANADIR en la recerca de persones desaparegudes",
+            "up": 78
+        },
+        {
+            "desc": "Colaborar person\u00e1ndonos en el procedimientop y poniendo la informaci\u00f3n de la que disponemos en conocimiento de la fiscal\u00eda. Ver desarrollo de la propuesta en el pad.",
+            "down": 20,
+            "equal": 13,
+            "id": 778,
+            "title": "Proposta (#4):Poner en conocimiento de la Fiscal\u00eda la informaci\u00f3n que tenemos y personarnos.",
+            "up": 95
+        },
+        {
+            "desc": "A pesar de que solo es posible realizar esta accion en el ambito de campa\u00f1ay encontrandolo una accion muy loable creo que realizada en el ambito de la campa\u00f1a quizas distraiga de la difusion basica, el tema de la democracia directa y el ideario pirata.Una acci\u00f3n tan concreta puede opacar o dirigir demasiado la atenci\u00f3n ante este aspecto en concreto.Desde Pirates De Catalunya se apoya sin matices la declaracion universal de los derechos humanos, pero me gustaria comentar que desde mi interpretaci\u00f3n esto sirve como un perfecto tapon para que en vias de la democracia directa no se realicen propuestas xenofobas,discriminatorias o que los violenten en general pero no para que tengamos un precepto de apoyar a lo loco y sin debate cualquier causa justa y loable,somos un partido que apoya el debate y la democracia directa o un partido progresista de izquierda clasica?Aqui viene el gran pero, quizas se me acuse de demasiado tacticista al proponer esto, pero esta propuesta esta en relacion a una cuestion vinculada a los oscuros a\u00f1os del franquismo, el debate del cual ya habreis observado a donde lleva en nuestra historia reciente, a los maniqueismos de siempre y a la tergiversaci\u00f3n habitual entre fachas y progres,rojos y azules blao blao.Encuentro poco recomendable que un tema tan sensible como este lo introduzcamos en el ambito de campa\u00f1a por temor a que nos metan en el cliche de otro partido de izquierdas chachi progre mas.Cuando es obvio que nuestro planteamiento es mas progresista que prometer el paquetito y 4 a\u00f1os a incumplir.Pensad que si por ejemplo metieramos en medio de la campa\u00f1a algo al respecto de los derechos de los animales (dios me libre de comparar ambos temas)ya pensaria la gente que somos otro PACMA mas.Lo dicho la propuesta me parece genial y ya me han informado de que solo es viable dentro de campa\u00f1a,pero yo ofrezco este razonamiento para no apoyarla.Ademas tampoco podemos descartar el fuerte matiz emocional que implica una comunicacion acerca del ambito familiar por alguien externo, por mucho que se este garantizando de que es una acci\u00f3n legal,posiblemente la percepcion emocional sea de que no lo es. OJO CON ESTO!",
+            "down": 33,
+            "equal": 13,
+            "id": 779,
+            "title": "Proposta (#5):No mezclar esta accion con la campa\u00f1a.Muy loable pero puede interferir.",
+            "up": 33
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #211: Col\u00b7laborar amb l'Associaci\u00f3 ANADIR en la recerca de persones desaparegudes",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/211"
+}

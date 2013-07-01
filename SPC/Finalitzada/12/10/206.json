@@ -1,0 +1,282 @@
+{
+    "any": 12,
+    "desc": "Aquesta votaci\u00f3 serveix per acabar de confeccionar el programa electoral de Pirates de Catalunya.\n Es basa en aquest esborrany: https://xifrat.pirata.cat/commons/sites/default/files/programa_eleccions_catalu nya_2012__121029a.pdf I aquest document d'esmenes i propostes recollides al f\u00f2rum: https://xifrat.pirata.cat/commons/sites/default/files/esmenes_02.pdf\n Si us plau, ***reviseu i voteu*** TOTES les esmenes. Si una opci\u00f3 us resulta neutral, empreu l'opci\u00f3 corresponent. Aix\u00f2 es prega per garantir la representativitat de les votacions.\n Reviseu tamb\u00e9 els comentaris al final. Els pirates hi poden afegir informaci\u00f3 addicional.\n T\u00e9 dues fases:\n* Del dia 30 al 1 (19:00): termini per noves esmenes (inicialment ja s'inclouen les proposades a https://xifrat.pirata.cat/forum/categories/programa-25n )\n* Del dia 1 (19:00) a 7 (23:00): termini de votaci\u00f3.\n ===============\nNormes per les esmenes\n===============\n* Han de ser contextualitzades i justificades. No es pot proposar una mesura concreta sense afegir-hi el context necessari.\n* Han de ser compet\u00e8ncia de la Generalitat o que es puguin assolir.\n* Han d'indicar-se a quines l\u00ednies corresponen o a partir de quina l\u00ednia s'afegeixen.\n* El t\u00edtol ha de seguir l'estructura \"[Esmena] Afegir/modificar/esborrar/moure (l\u00ednies) - (t\u00edtol opcional)\"\n* Som conscients que l'esborrany t\u00e9 errors gramaticals, aix\u00ed que us preguem no els indiqueu com solucions (no cal votar aquests errors) sin\u00f3 com comentaris. Gr\u00e0cies!\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\n(cap)",
+    "dia": 29,
+    "final": {
+        "any": 12,
+        "dia": 19,
+        "mes": 11
+    },
+    "hora": "21:30",
+    "id": 206,
+    "mes": 10,
+    "solutions": [
+        {
+            "desc": "El text complet est\u00e0 disponible a https://xifrat.pirata.cat/commons/sites/default/files/programa_eleccions_catalu nya_2012__121029a.pdf I el de les esmenes i propostes recollides al f\u00f2rum a: https://xifrat.pirata.cat/commons/sites/default/files/esmenes_02.pdf  Per favor, afegiu esmenes com solucions. Tingueu present que s'ha fet un gran esfor\u00e7 per assolir aquest text entre les persones que s'hi han implicat, cercant vies per desenvolupar l'ideari per donar resposta a les circumst\u00e0ncies actuals. A m\u00e9s, s'ha pogut participar mitjan\u00e7ant el f\u00f2rum (on est\u00e0 tot penjat) durant les \u00faltimes setmanes. Tot i aix\u00ed, estem oberts a millores i rectificacions raonades.",
+            "down": 1,
+            "equal": 3,
+            "id": 725,
+            "title": "Proposta (#1):Aprovar l'esborrany com programa marc",
+            "up": 30
+        },
+        {
+            "desc": "Canviar \"Sistema Pol\u00edtic i Participaci\u00f3 ciutadana\" per \"Participaci\u00f3 ciutadana\". ---Comentari del grup de programa: \"Creiem que el concepte inicial es m\u00e9s ampli\"",
+            "down": 30,
+            "equal": 6,
+            "id": 732,
+            "title": "Proposta (#2):[Esmena] Modificar (l\u00ednia 278)",
+            "up": 0
+        },
+        {
+            "desc": "Open Data hauria de ser un requisit indispensable per al govern de Catalunya per aix\u00ed poder fer un aut\u00e8ntic control ciutad\u00e0. ---Comentari del grup de programa: Creiem que ja est\u00e0 incl\u00f2s a la nova redacci\u00f3 (l\u00ednies 171-183).",
+            "down": 15,
+            "equal": 15,
+            "id": 733,
+            "title": "Proposta (#3):[Esmena] Afegir (l\u00ednia 183)",
+            "up": 2
+        },
+        {
+            "desc": "Que es pugui accedir de manera lliure, simple i gratu\u00efta a qualsevol informaci\u00f3, dades i documentaci\u00f3 generada en projectes subvencionats amb diners p\u00fablics, sempre respectant la privacitat i la protecci\u00f3 de les dades de car\u00e0cter personal. Cal que tot el coneixement que es generi gr\u00e0cies a fons p\u00fablics sigui obert i per a tothom. De III Transpar\u00e8ncia a IV Patents ---Comentari grup programa: no es veu justificat aquest canvi de lloc.",
+            "down": 24,
+            "equal": 3,
+            "id": 734,
+            "title": "Proposta (#4):[Esmena] Moure (l\u00ednies 131-135 a 277)",
+            "up": 4
+        },
+        {
+            "desc": "Promoure l'estalvi en infraestructures tecnol\u00f2giques mitjan\u00e7ant l'\u00fas de programari lliure, que per una banda garanteix la seguretat en el tractament de les dades personals i alhora fomentar\u00e0 la creaci\u00f3 d'empreses dedicades al seu suport. De III Transpar\u00e8ncia a IV Cultura ---Comentari grup programa: no es veu justificat aquest canvi de lloc.",
+            "down": 16,
+            "equal": 9,
+            "id": 735,
+            "title": "Proposta (#5):[Esmena] Moure (l\u00ednies 154-167 a 245)",
+            "up": 4
+        },
+        {
+            "desc": "Qualsevol contracte de sector p\u00fablic, i qualsevol factura ha de ser a l\u2019abast amb nom\u00e9s un click. ---Comentari grup programa: Creiem que el esperit d\u2019 aquest punt ja est\u00e0 incl\u00f2s al programa.",
+            "down": 6,
+            "equal": 3,
+            "id": 736,
+            "title": "Proposta (#6):[Esmena] Afegir (l\u00ednia 183)",
+            "up": 27
+        },
+        {
+            "desc": "Comentari grup programa: En part s\u2019ha incl\u00f2s al 282-286.--- Catalunya i Espanya necessita una nova Constituci\u00f3. El segle XXI necessita una constituci\u00f3 del segle XI per dibuixar un projecte de futur que millori substancialment lesoportunitats vitals de totes les persones que hi viuen. Proposem la creaci\u00f3 del Consell de Mil, tres-cents anys despr\u00e9s de l\u2019abolici\u00f3, el 15 de Setembre de 1714, del Consellde Cent a Barcelona, la primera cambra democr\u00e0tica creada a l\u2019actual estat espanyol i la instituci\u00f3 m\u00e9s representativa dels ciutadans i les ciutadanes des de el segle XIII. Proposem prendre Isl\u00e0ndia com a exemple en el proc\u00e9s per a la redacci\u00f3 de la nova Constituci\u00f3: convocar a la participaci\u00f3 primer a 1.000 persones triades a l\u2019atzar per presentar els nous principis sobre els quals ens volem regir. El que va ser el seu \u201cNational Forum\u201d ser\u00e0 el nostre \u201cConsell de Mil\u201d, que triaria despr\u00e9s a un grup redu\u00eft de persones -25 a Isl\u00e0ndia- que vulguin participar en la redacci\u00f3 final de la Constituci\u00f3 atenent exclusivament al seu criteri personal; hagin reunit el suport de m\u00e9s de l\u20191% de lapoblaci\u00f3 i donant a tothom durant la campanya l\u2019oportunitat de presentar-se i explicar les seves posicions. Tindre durant tot el proc\u00e9s els documents a la vista, oberts a comentaris, millores i propostes.",
+            "down": 13,
+            "equal": 7,
+            "id": 737,
+            "title": "Proposta (#7):[Esmena] Afegir (l\u00ednia 281)",
+            "up": 19
+        },
+        {
+            "desc": "Aquest organisme independent, defensor dels drets dels electors, garantir\u00e0 que tots els partits formalitzen de manera clara i comparable el seu\u201ccomprom\u00eds electoral\u201d (programa) ---Comentaris grup program: es parla d'un organisme observador que vetlli pels drets dels electors.",
+            "down": 7,
+            "equal": 7,
+            "id": 738,
+            "title": "Proposta (#8):[Esmena] Afegir (l\u00ednia 304)",
+            "up": 21
+        },
+        {
+            "desc": "Far\u00e0 arribar a tots els electors la totalitat de la propaganda electoral, de manera que s\u2019estalvi\u00ef les remeses individualitzades dels partits parlamentaris a c\u00e0rrec de l\u2019estat, es distribueixi tamb\u00e9 la propaganda dels partits extraparlamentaris. ---Comentaris grup program: es parla d'un organisme observador que vetlli pels drets dels electors.",
+            "down": 6,
+            "equal": 5,
+            "id": 739,
+            "title": "Proposta (#9):[Esmena] Afegir (l\u00ednia 304) - continuaci\u00f3 de #8",
+            "up": 24
+        },
+        {
+            "desc": "Disposar\u00e0 d\u2019una base de dades, f\u00e0cil i accessible, on hi haur\u00e0 ben ordenada i sistematitzada tota la informaci\u00f3 disponible sobre el compliment d\u2019aquests compromisos, per tal que els ciutadans i les ciutadanes puguin avaluar si s\u2019han complert. ---Comentaris grup program: es parla d'un organisme observador que vetlli pels drets dels electors.",
+            "down": 4,
+            "equal": 4,
+            "id": 740,
+            "title": "Proposta (#10):[Esmena] Afegir (l\u00ednia 304) - continuaci\u00f3 de #8 i #9",
+            "up": 26
+        },
+        {
+            "desc": "Ampliar el derecho electoral a todo ciudadano que viva y trabaje en Catalunya, y a sus familiares directos que dependan de \u00e9l. ---Comentari grup programa: Caldria definir en m\u00e9s detall que s \u0301enten per viure i treballar a Catalunya",
+            "down": 20,
+            "equal": 8,
+            "id": 741,
+            "title": "Proposta (#11):[Esmena] Afegir (l\u00ednia 305)",
+            "up": 2
+        },
+        {
+            "desc": "Creaci\u00f3 de una entitat publica que gestioni las empreses de economia de be com\u00fa, i en funci\u00f3 de la nota que obtinguin, reducci\u00f3 dels impostos que han de pagar aquestes empreses. ---Comentari grup programa: Potser son mesures prou particulars i concretes que no deurien incorporar-se a unprograma ampli com es aquest, i que en les que caldria mes discussi\u00f3. Comentari administrador: no es parla d'enlloc m\u00e9s d'economia de be com\u00fa. S'hauria de contextualitzar i explicar qu\u00e8 \u00e9s.",
+            "down": 18,
+            "equal": 8,
+            "id": 742,
+            "title": "Proposta (#12):[Esmena] Afegir (l\u00ednia 390)",
+            "up": 1
+        },
+        {
+            "desc": "Una proporci\u00f3 justa entre el salari m\u00ednim i m\u00e0xim, i posar un l\u00edmit al acc\u00e9s a propietat privada s\u00f3n molt bones mesures para repartir la riquesa i reactivar la economia. ---Comentari grup programa: Potser son mesures prou particulars i concretes que no deurien incorporar-se a unprograma ampli com es aquest, i que en les que caldria mes discussi\u00f3. Comentari administrador: en part relacionada amb l'anterior.",
+            "down": 20,
+            "equal": 7,
+            "id": 743,
+            "title": "Proposta (#13):[Esmena] Afegir (l\u00ednia 390) - II",
+            "up": 1
+        },
+        {
+            "desc": "En aquest cap\u00edtol proposo afegir els serveis p\u00fablics es carregui d\u2019una forma en benefici del poble, no a las empreses grans. Aix\u00ed es pot pujar l\u2019ocupaci\u00f3. Tamb\u00e9 proposo afegir \"qualsevol activitat comercial ha de servir en benefici de la comunitat catalana.\" ---Comentari grup programa: Potser son mesures prou particulars i concretes que no deurien incorporar-se a unprograma ampli com es aquest, i que en les que caldria mes discussi\u00f3.",
+            "down": 16,
+            "equal": 9,
+            "id": 744,
+            "title": "Proposta (#14):[Esmena] Afegir (l\u00ednia 390) - III",
+            "up": 1
+        },
+        {
+            "desc": "Eliminaci\u00f3 de taxes als emprenedors fins a que comencin a tindre beneficis. ---Comentari grup programa: Potser son mesures prou particulars i concretes que no deurien incorporar-se a un programa ampli com es aquest, i que en les que caldria mes discussi\u00f3.",
+            "down": 14,
+            "equal": 4,
+            "id": 745,
+            "title": "Proposta (#15):[Esmena] Afegir (l\u00ednia 390) - IV",
+            "up": 13
+        },
+        {
+            "desc": "Como primer paso para un programa de contabilidad centralizado , y para tener m\u00e1s control y poder casar las facturas de unos y otros hacer que todas las facturas segeneren en un servidor central de la administraci\u00f3n. ---Comentari grup programa: Potser son mesures prou particulars i concretes que no deurien incorporar-se a un programa ampli com es aquest, i que en les que caldria mes discussi\u00f3.",
+            "down": 17,
+            "equal": 4,
+            "id": 746,
+            "title": "Proposta (#16):[Esmena] Afegir (l\u00ednia 390) - V",
+            "up": 6
+        },
+        {
+            "desc": "X - UNA SOLUCI\u00d3 PER LA SANITAT P\u00daBLICA ---Comentari grup programa: Potser son mesures prou particulars i concretes que no deurien incorporar-se a unprograma ampli com es aquest, i que en les que caldria mes discussi\u00f3. El cap\u00edtol de la sanitat passaria per una profunda discussi\u00f3 de la conveni\u00e8ncia del model catal\u00e0 (principalment concertat, amb alta privacitat de la provisi\u00f3) versus modelsamb m\u00e9s pes de la provisi\u00f3 p\u00fablica. I del cost d\u2019 aquest model concertat i la poca transpar\u00e8ncia (cas caf\u00e8 amb llet)Cal tornar a replantejar la provisi\u00f3 p\u00fablica d\u2019una Asistencia prim\u00e0ria de qualitat com un deure pel Govern i un dret del ciutad\u00e0.--- -Coordinar la tarja sanit\u00e0ria catalana amb las de la resta del Estat, de manera que qualsevol catal\u00e0 pugui tramitar sense problemes la seva medicaci\u00f3 i que la seva hist\u00f2ria cl\u00ednica estigui disponible a tots els centres de salut del Estat.-Propugnar la mateixa soluci\u00f3 a la resta de Europa perqu\u00e8 qualsevol ciutad\u00e0 europeu pugui se tractat amb diligencia a la totalitat dels centres m\u00e8dics de la Uni\u00f3.-Una vegada aconseguides les dos anteriors propostes, simplificar i reordenar el sistema administratiu de la sanitat catalana, per fer possible el cobrament dels serveis a la resta de administracions espanyoles i europees, que ara mateix majorit\u00e0riament es perden.",
+            "down": 15,
+            "equal": 4,
+            "id": 747,
+            "title": "Proposta (#17):[Esmena] Afegir (l\u00ednia 483) - nou cap\u00edtol sobre sanitat",
+            "up": 13
+        },
+        {
+            "desc": "Treure de la frase \"Catalunya\" i deixar-la aix\u00ed: \"Espanya necessita una nova Constituci\u00f3\" ---------Crec que ens hem de centrar en aconseguir una nova Constituci\u00f3 partint del model actual de conviv\u00e8nvia. La Constituci\u00f3 \u00e9s a nivell de tot l'Estat i demanar una nova Constituci\u00f3 per Espanya ja inclou Catalunya. Si es volgu\u00e9s demanar (o no) una Constituci\u00f3 diferent per Catalunya es faria en un altre bloc del programa.",
+            "down": 22,
+            "equal": 8,
+            "id": 750,
+            "title": "Proposta (#18):[Esmena] Modificar (282) - La nova Constituci\u00f3",
+            "up": 6
+        },
+        {
+            "desc": "Creo que es importante por endeudamiento irreversible al que nos est\u00e1n sometiendo: Posicionar el ideario pirata en contra de las ayudas por parte del estado a los bancos que no sean sist\u00e9micos, y promover la liquidaci\u00f3n de los bancos no viables, haciendo que los inversores privados asuman sus p\u00e9rdidas, en lugar de nacionalizar la deuda.  La no liquidaci\u00f3n de estos bancos es inadmisible ya que parece que solo se hace para no da\u00f1ar la im\u00e1gen de los dirigentes pol\u00edticos que han estado involucrados en su gesti\u00f3n. Parce que el FMI ya ha apuntado en esta direcci\u00f3n y nuestros pol\u00edticos se han hecho los longuis. EDIT: Dado que mi idea original, era sobre modificar el ideario pirata, y eso requerir\u00eda de m\u00e1s discusi\u00f3n y votaci\u00f3n, Reformulo mi propuesta para someter a referendum vinculante los rescates bancarios en espa\u00f1a. Puesto que esta campa\u00f1a es para las elecciones catalanas ser\u00eda pedir que la Generalitat pidiese el referendum al estado espa\u00f1ol.  Los mecanismos de liquidaci\u00f3n bancarios ya est\u00e1n articulados en las leyes espa\u00f1olas, y son justos en la medida en que los depositarios son los primeros en recuperar su dinero, y los accionistas, los \u00faltimos. Esto es de justicia ya que en el sistema capitalista en el que estamos las inversiones privadas no est\u00e1n garantizadas y pueden arrojar ganancias o p\u00e9rdidas, y los inversores han de asumir esto, la alternativa no es nacionalizar las p\u00e9rdidas y privatizar las ganancias como se est\u00e1 haciendo.[...] As\u00ed propongo realizar un referendum con un texto similar a: \"\u00bfDebe Espa\u00f1a inyectar dinero p\u00fablico en bancos con necesidades financieras substanciales para evitar su quiebra o debe liquidar estas entidades tal como est\u00e1 previsto en la ley?\"",
+            "down": 7,
+            "equal": 1,
+            "id": 752,
+            "title": "Proposta (#19):Afegir (390)",
+            "up": 35
+        },
+        {
+            "desc": "Canviar \"que respectin els Drets Humans\" per \"que respectin l'ideari pirata i els Drets Humans\".",
+            "down": 0,
+            "equal": 4,
+            "id": 753,
+            "title": "Proposta (#20):[Esmena] Modificar (l\u00ednia 15)",
+            "up": 30
+        },
+        {
+            "desc": "Redacci\u00f3 alternativa: El que diferencia Pirates de Catalunya d'altres partits \u00e9s que el seu objectiu \u00e9s transformar el sistema pol\u00edtic mitjan\u00e7ant transpar\u00e8ncia total i participaci\u00f3 directa de la ciutadania en els processos de pressa de decisions mitjan\u00e7ant mecanismes com refer\u00e8ndums vinculants (democr\u00e0cia directa), iniciatives populars i altres.",
+            "down": 7,
+            "equal": 2,
+            "id": 754,
+            "title": "Proposta (#21):[Esmena] Modificar (l\u00ednies 17 a 22)",
+            "up": 23
+        },
+        {
+            "desc": "Redacci\u00f3 alternativa (despr\u00e9s de \"reglament del partit\"): El resultat de la votaci\u00f3 es reflectir\u00e0 proporcionalment en la dels representants pirates a la instituci\u00f3 corresponent. \u00c9s a dir, no es limitaran a votar l'opci\u00f3 majorit\u00e0ria, excepte que nom\u00e9s hi hagi un sol representant, sin\u00f3 que traslladaran la distribuci\u00f3 dels vots al SPC mitjan\u00e7ant l'aplicaci\u00f3 d'un algoritme o f\u00f3rmula preestablerts.",
+            "down": 3,
+            "equal": 4,
+            "id": 755,
+            "title": "Proposta (#22):[Esmena] Modificar (l\u00ednies 51 a 55)",
+            "up": 27
+        },
+        {
+            "desc": "Redacci\u00f3 alternativa: Educaci\u00f3: Defensem un sistema educatiu que incentivi la creativitat, la curiositat intel\u00b7lectual, l'autodirecci\u00f3, la responsabilitat social i la cooperaci\u00f3, basat en models de ref\u00e8rncia com Finl\u00e0ndia i en constant di\u00e0leg obert amb la comunitat educativa, pares i alumnes.",
+            "down": 1,
+            "equal": 1,
+            "id": 756,
+            "title": "Proposta (#23):[Esmena] Modificar (l\u00ednies 193 i 194)",
+            "up": 34
+        },
+        {
+            "desc": "Nou punt: Impulsar pol\u00edtiques que permetin avan\u00e7ar cap un model econ\u00f2mic basat en el coneixement i el R+D+i, fugint del model amb el que s'ha produit la situaci\u00f3 de crisi actual.",
+            "down": 1,
+            "equal": 2,
+            "id": 757,
+            "title": "Proposta (#24):[Esmena] Afegir (l\u00ednia 210)",
+            "up": 34
+        },
+        {
+            "desc": "Nou punt: Vot en blanc computable.",
+            "down": 4,
+            "equal": 4,
+            "id": 758,
+            "title": "Proposta (#25):[Esmena] Afegir (l\u00ednia 305)",
+            "up": 32
+        },
+        {
+            "desc": "Nou punt: * Revisi\u00f3 de totes les retallades (en sanitat, educaci\u00f3, etc.) i increments recaptatoris (euro per recepta, taxes universit\u00e0ries, impostos sobre el turisme, etc.) de la \u00faltima legislatura i inici de per\u00edode de consulta i decisi\u00f3 per refer\u00e8ndum per mantenir-los, retirar-los o reestructurar-los, cas per cas.",
+            "down": 0,
+            "equal": 0,
+            "id": 759,
+            "title": "Proposta (#26):[Esmena] Afegir (l\u00ednia 377)",
+            "up": 37
+        },
+        {
+            "desc": "Redacci\u00f3 alternativa: \"les cl\u00e0usules d\u2019inter\u00e8s aplicades als contractes hipotecaris basats en EURIBOR i LIBOR (http://pirata.cat/bloc/?p=3161), la daci\u00f3 en pagament, etc.\"",
+            "down": 1,
+            "equal": 3,
+            "id": 760,
+            "title": "Proposta (#27):[Esmena] Modificar (l\u00ednies 383-384)",
+            "up": 29
+        },
+        {
+            "desc": "En comptes de \"sistemes de vigil\u00e0ncia electr\u00f2nica\" que hi digui \"sistemes de vigil\u00e0ncia electr\u00f2nica, d'\u00fas \u00fanicament per ordre judicial\".",
+            "down": 2,
+            "equal": 2,
+            "id": 761,
+            "title": "Proposta (#28):[Esmena] Modificar (l\u00ednia 449)",
+            "up": 31
+        },
+        {
+            "desc": "Nou punt: * Auditoria p\u00fablica, oberta a la ciutadania, de la despesa de les institucions i aplicar mesures d'estalvi sense afectar a la ciutadania mitjan\u00e7ant:     ** l'\u00fas de programari lliure en les institucions,    ** revisi\u00f3 de contractes actuals i presentaci\u00f3 a concurs p\u00fablic l'oferta de serveis b\u00e0sics com telefonia, electricitat, etc.    ** estalvi i control del consum energ\u00e8tic,    ** reducci\u00f3 d'actes institucionals,    ** etc.",
+            "down": 2,
+            "equal": 3,
+            "id": 762,
+            "title": "Proposta (#29):[Esmena] Afegir (l\u00ednia 378)",
+            "up": 31
+        },
+        {
+            "desc": "Lluitar pels (o garantir els) drets de la ciutadania, com persones i consumidors, davant de les conseq\u00fc\u00e8ncies de la crisi econ\u00f2mica.",
+            "down": 2,
+            "equal": 2,
+            "id": 763,
+            "title": "Proposta (#30):[Esmena] Afegir (l\u00ednia 379)",
+            "up": 31
+        },
+        {
+            "desc": "Aclarir significat de DUDH ja que \u00e9s el primer cop que surt al text i el lector pot descon\u00e8ixer de qu\u00e8 fa refer\u00e8ncia.",
+            "down": 0,
+            "equal": 0,
+            "id": 764,
+            "title": "Proposta (#31):[Esmena] Modificar (l\u00ednia 71)",
+            "up": 33
+        },
+        {
+            "desc": "Canviar:338-341 En conseq\u00fc\u00e8ncia, Pirates de Catalunya defensa el dret a l\u2019autodeterminaci\u00f3 de Catalunya i de tots els pobles i creu que tots els sistemes pol\u00edtics han de respectar i recon\u00e8ixer els sentiments i aspiracions identit\u00e0ries i oferir vies democr\u00e0tiques per a que es manifestin i tinguin una concreci\u00f3 pol\u00edtica i institucional. Per aix\u00f2:338-341 En conseq\u00fc\u00e8ncia, Pirates de Catalunya defensa el dret del poble catal\u00e0 a votar en refer\u00e8ndum si vol l\u2019autodeterminaci\u00f3 de Catalunya, aix\u00ed com la de la resta dels pobles i creu que tots els sistemes pol\u00edtics han de respectar i recon\u00e8ixer els sentiments i aspiracions dels pobles i oferir vies democr\u00e0tiques per a que es manifestin i tinguin una concreci\u00f3 pol\u00edtica i institucional.",
+            "down": 9,
+            "equal": 5,
+            "id": 765,
+            "title": "Proposta (#32):[Esmena] Modificaci\u00f3 (l\u00ednies 338-341)",
+            "up": 22
+        },
+        {
+            "desc": "Creo que las palabras clave en esta ocasi\u00f3n (proceso constituyente) pueden ser bastante importantes, por ello propongo:---------------------Cambiar:Catalunya i Espanya necessiten una nova Constituci\u00f3. Proposem prendre Isl\u00e0ndia com a exemple en el proc\u00e9s per a la redacci\u00f3 de la nova Constituci\u00f3 i donant a tothom l\u2019oportunitat de presentar i explicar les seves posicions Por:Catalunya i Espanya necessiten una nova Constituci\u00f3. Posant a Isl\u00e0ndia com exemple, proposem la redacci\u00f3 d'una nova Constituci\u00f3 mitjan\u00e7ant un proc\u00e9s constituent, que doni l'oportunitat a tots de presentar i explicar les seves posicions.",
+            "down": 1,
+            "equal": 0,
+            "id": 766,
+            "title": "Proposta (#33):[Esmena] Modificar (l\u00edneas 282-284)",
+            "up": 28
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #206: Programa electoral 25N",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/206"
+}

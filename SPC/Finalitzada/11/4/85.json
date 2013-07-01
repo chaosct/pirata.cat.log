@@ -1,0 +1,42 @@
+{
+    "any": 11,
+    "desc": "Aqu\u00ed us podeu afegir si voleu optar a cap de llista de L'Hospitalet de Llobregat. \n Mantenim la proposta en Sala d'espera per donar temps a fer les presentacions. Dem\u00e0 a les 20h s'obrir\u00e0 a votacions.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\ncandidat\nllistes\nlocals\nmunicipals",
+    "dia": 11,
+    "final": {
+        "any": 11,
+        "dia": 17,
+        "mes": 4
+    },
+    "hora": "09:00",
+    "id": 85,
+    "mes": 4,
+    "solutions": [
+        {
+            "desc": "Tinc 26 anys i s\u00f3c Enginyer Superior de Telecomunicacions. Col.laboro activament amb PIRATA.CAT i formo part del grup de treball per a les municipals a L'Hospitalet de Llobregat.  Faig de community manager de Pirates de L'Hospitalet gestionant els comptes de twitter, facebook i bloc oficial de Pirates de L'Hospitalet. Tinc moltes ganes de treballar i ho far\u00e9 durant aquesta campanya tal i com ja vaig fer per a les auton\u00f2miques.",
+            "down": 2,
+            "equal": 2,
+            "id": 188,
+            "title": "Proposta (#1):Victor Rubio",
+            "up": 14
+        },
+        {
+            "desc": "Tamb\u00e9 em postulo com a cap de llista en pro de la pluralitat i del debat :) De formaci\u00f3 comunicador audiovisual fa 8 anys que tinc un negoci propi en forma d'ag\u00e8ncia de comunicaci\u00f3 digital. Vaig estar a llistes per Barcelona a les darrers auton\u00f2miques i dins de Pirates de Catalunya treballo fonamentalment amb el grup d'hospitalet (la feina s'ha de fer a peu de carrer) i a nivell de partit dono un cop de m\u00e0 amb l'estrat\u00e8gia de comunicaci\u00f3. Tinc un parell de handicaps rellevants que \u00e9s la manca de temps i que s\u00f3c hospitalenc d'adopci\u00f3, per\u00f2 amb ganes com la resta de companys.",
+            "down": 1,
+            "equal": 7,
+            "id": 189,
+            "title": "Proposta (#2):David Esteve",
+            "up": 13
+        },
+        {
+            "desc": "Tinc 45 anys i soc Enginyer Superior de Telecomunicacions. Treballo com a professor de secundaria.Penso que ja \u00e9s hora d'intentar canviar les coses i tinc moltes ganes de treballar en aquest projecte.   Sigui qui sigui el cap de llista, a Hospitalet anirem tots a una.",
+            "down": 1,
+            "equal": 5,
+            "id": 192,
+            "title": "Proposta (#3):Miquel \u00c0ngel Carreras",
+            "up": 13
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #85: Votaci\u00f3 Cap de llista L'Hospitalet de Llobregat",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/85"
+}

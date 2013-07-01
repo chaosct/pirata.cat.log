@@ -1,0 +1,82 @@
+{
+    "any": 12,
+    "desc": "La ciutadania demana que els partits politics es pronunciin sobre tota una serie de temes d'actualitat entre els quals est\u00e0 tambe la independencia de Catalunya. A mes, una de les fulles de ruta mes comentades darrerarament als mitjans i universitats oasa per 1) convoocar eleccions al parlament, en els quals el tema de la independencia sigui un tema principl de debat (que es la situacio actual) 2) . Despres, si hi ha majoria, el parlament votara a favor d'una declaracio d' independencia. Es en aquest probable cas que els nostres votants i afiliat haurien de saber ara quina es la posicio actual de PdC respecte a varies posibles mocions al parlament. Aixi, en proposo 7 preguntes, amb una serie de aprioris perque les preguntes i votacio estiguin ben enquadrades:\n \"En el cas que es presentes una moci\u00f3 al parlament de Catalunya, demanant als membre del Parlament de Catalunya votar sobre algun o diversos dels seguents punts, que voleu que els representants de PdC votin, tenint en compte que 1) aquesta votacio es vinculant 2) que es pot fer una altra votaci\u00f3 ulterior, si es demana 3) que es pot contestar afirmativament o negativament o abstenir-se a cada una de les posibles preguntes, essent cada resposta independent de les altres 4) que s'aplicaria la regla pirata de proporcionalitat de la votacio: un x% de representants pirates votaran segons el que hagin un x% de vots afirmatiu, i aixi mateix pels vots negatius o per les abstencions\n Pregunta 1) votar a favor de una declaracio unilateral d'independencia del Parlament de Catalunya, sense cap mes condicio\nPregunta 2) votar a favor de una declaracio unilateral d'independencia del Parlament de Catalunya, si es demana un referendum posterior que convalidi la mocio\nPregunta 3) votar a favor de una declaracio del Parlament de Catalunya per a que Catalunya sigui un estat Asociat a Espanya [com Puerto Rico], sense cap mes condicio\nPregunta 4) votar a favor de una declaracio del Parlament de Catalunya per a que Catalunya sigui un estat Asociat a Espanya [com Puerto Rico],\u00a0 si es demana un referendum posterior que convalidi la mocio\nPregunta 5) votar a favor de una declaracio del Parlament de Catalunya per a que Espanya sigui un estat federal on Catalunya sigui un dels estats, sense cap mes condicio\nPregunta 6) votar a favor de una declaracio del Parlament de Catalunya per a que Espanya sigui un estat federal on Catalunya sigui un dels estats, si es demana un referendum posterior que convalidi la mocio\nPregunta 7) votar a favor de una declaraci\u00f3 del Parlament de Catalunya per a que la pertinen\u00e7a a Espanya sigui sent la mateixa que fins ara\"\n\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\nCatalunya\nEspanya\nIndependencia",
+    "dia": 27,
+    "final": {
+        "any": 13,
+        "dia": 27,
+        "mes": 1
+    },
+    "hora": "02:05",
+    "id": 186,
+    "mes": 9,
+    "solutions": [
+        {
+            "desc": "Posar a votacio les 7 preguntes anteriors, totes alhora, amb les condicions establertes a la capcelera",
+            "down": 0,
+            "equal": 0,
+            "id": 591,
+            "title": "Soluci\u00f3 #1:Votar",
+            "up": 0
+        },
+        {
+            "desc": "Pregunta 1) votar a favor de una declaracio unilateral d'independencia del Parlament de Catalunya, sense cap mes condicio",
+            "down": 0,
+            "equal": 0,
+            "id": 592,
+            "title": "Soluci\u00f3 #2:Pregunta 1) votar a favor de una declaracio unilateral d'independencia del Parl",
+            "up": 0
+        },
+        {
+            "desc": "Pregunta 2) votar a favor de una declaracio unilateral d'independencia del Parlament de Catalunya, si es demana un referendum posterior que convalidi la mocio",
+            "down": 0,
+            "equal": 0,
+            "id": 593,
+            "title": "Soluci\u00f3 #3:Pregunta 2) votar a favor de una declaracio unilateral d'independencia del Parl",
+            "up": 0
+        },
+        {
+            "desc": "Pregunta 3) votar a favor de una declaracio del Parlament de Catalunya per a que Catalunya sigui un estat Asociat a Espanya [com Puerto Rico], sense cap mes condicio",
+            "down": 0,
+            "equal": 0,
+            "id": 594,
+            "title": "Soluci\u00f3 #4:Pregunta 3) votar a favor de una declaracio del Parlament de Catalunya per a que",
+            "up": 0
+        },
+        {
+            "desc": "Pregunta 4) votar a favor de una declaracio del Parlament de Catalunya per a que Catalunya sigui un estat Asociat a Espanya [com Puerto Rico],\u00a0 si es demana un referendum posterior que convalidi la mocio",
+            "down": 0,
+            "equal": 0,
+            "id": 595,
+            "title": "Soluci\u00f3 #5:Pregunta 4) votar a favor de una declaracio del Parlament de Catalunya per a que",
+            "up": 0
+        },
+        {
+            "desc": "Pregunta 5) votar a favor de una declaracio del Parlament de Catalunya per a que Espanya sigui un estat federal on Catalunya sigui un dels estats, sense cap mes condicio",
+            "down": 0,
+            "equal": 0,
+            "id": 596,
+            "title": "Soluci\u00f3 #6:Pregunta 5) votar a favor de una declaracio del Parlament de Catalunya per a que",
+            "up": 0
+        },
+        {
+            "desc": "Pregunta 6) votar a favor de una declaracio del Parlament de Catalunya per a que Espanya sigui un estat federal on Catalunya sigui un dels estats, si es demana un referendum posterior que convalidi la mocio",
+            "down": 0,
+            "equal": 0,
+            "id": 597,
+            "title": "Soluci\u00f3 #7:Pregunta 6) votar a favor de una declaracio del Parlament de Catalunya per a que",
+            "up": 0
+        },
+        {
+            "desc": "Pregunta 7) votar a favor de una declaraci\u00f3 del Parlament de Catalunya per a que la pertinen\u00e7a a Espanya sigui sent la mateixa que fins ara",
+            "down": 0,
+            "equal": 0,
+            "id": 598,
+            "title": "Soluci\u00f3 #8:Pregunta 7) votar a favor de una declaraci\u00f3 del Parlament de Catalunya per a qu",
+            "up": 0
+        }
+    ],
+    "status": "Ja portades a terme",
+    "titol": "Idea #186: Posicionament oficial de Pirates de Catalunya sobre el debat sobre independencia",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/186"
+}

@@ -1,0 +1,34 @@
+{
+    "any": 12,
+    "desc": "La Iniciativa Penal Popular \u00e9s una den\u00fancia de les retallades en la Salut P\u00fablica, que estan causant fins i tot morts en la Sanitat P\u00fablica Catalana. La Iniciativa PEnal Popular \u00e9s una reacci\u00f3 democr\u00e0tica i c\u00edvica per denunciar, fins i tot davant els tribunals, tots els problemes de la Sanitat P\u00fablica, des de les retallades, el repagament sanitari i, especialment, els casos de corrupci\u00f3.\n Tots els detalls els podeu trobar (i \u00e9s molt recomanable que llegiu i us mireu els v\u00eddeos, sobretot el primer) aqu\u00ed: http://is.gd/PhClBp\n Actualitzaci\u00f3 3/Abril/2012. El sistema de punts per entrar a llistes d'espera per operar-se deixa fora els aturats i la gent gran: http://is.gd/pCORfL\n \n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\nJustcia\nSalut",
+    "dia": 11,
+    "final": {
+        "any": 12,
+        "dia": 4,
+        "mes": 9
+    },
+    "hora": "19:51",
+    "id": 163,
+    "mes": 3,
+    "solutions": [
+        {
+            "desc": "La proposta \u00e9s adherir-nos a aquesta iniciativa com a Pirata.Cat tenint en compte que som un partit de defensa dels drets civils. En cas que, per la idiosincr\u00e0sia de la mateixa iniciativa, no sigui possible que com a Pirates ens hi poguem adherir, passar a la proposta 2.",
+            "down": 5,
+            "equal": 4,
+            "id": 534,
+            "title": "Proposta (#1):Adherir-nos a la IPP com a Pirata.Cat si \u00e9s possible",
+            "up": 87
+        },
+        {
+            "desc": "En cas que la soluci\u00f3 anterior sigui inaplicable perqu\u00e8 Pirata.Cat \u00e9s un partit pol\u00edtic, mostrar el nostre suport p\u00fablicament tot suggerint (per les vies habituals de comunicaci\u00f3) a totes les persones afiliades la necessitat d'adherir-se a aquesta iniciativa a t\u00edtol individual. Estan retallant els nostres drets, jugant amb la nostra salut. Aix\u00f2 hauria de ser un terreny sagrat.",
+            "down": 9,
+            "equal": 13,
+            "id": 535,
+            "title": "Proposta (#2):Suggerir les persones afiliades a Pirata.Cat l'adhesi\u00f3 individual",
+            "up": 38
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #163: Adherir-nos a la Iniciativa Penal Popular en defensa de la Salut P\u00fablica",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/163"
+}

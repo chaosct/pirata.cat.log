@@ -1,0 +1,26 @@
+{
+    "any": 11,
+    "desc": "Ha de celebrarse este Domingo una asamblea entre todos los interesados en pertenecer a la lista este s\u00e1bado 16 a las 21:00 horas en Mollet del Vall\u00e9s.\n\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\n(cap)",
+    "dia": 14,
+    "final": {
+        "any": 11,
+        "dia": 17,
+        "mes": 4
+    },
+    "hora": "07:51",
+    "id": 90,
+    "mes": 4,
+    "solutions": [
+        {
+            "desc": "De momento el \u00fanico interesado soy yo, a falta de alguien mejor.",
+            "down": 0,
+            "equal": 3,
+            "id": 203,
+            "title": "Proposta (#2):Francisco Cervera Mart\u00edn",
+            "up": 7
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #90: Votaci\u00f3n cabeza de lista en Mollet del Vall\u00e8s",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/90"
+}

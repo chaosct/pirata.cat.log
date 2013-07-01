@@ -1,0 +1,42 @@
+{
+    "any": 11,
+    "desc": "M\u00e9s enll\u00e0 de la gent que es proposi per a cap de llista, proposo que les seg\u00fcents posicions siguin assignades sota aquest criteri, tot complint les exig\u00e8ncies legals en termes de paritat.\n \n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\ncandidats\nelectorals\nllistes\nmecanisme",
+    "dia": 13,
+    "final": {
+        "any": 11,
+        "dia": 17,
+        "mes": 4
+    },
+    "hora": "17:29",
+    "id": 87,
+    "mes": 4,
+    "solutions": [
+        {
+            "desc": "- Candidats residents al mateix municipi, en ordre d'afiliaci\u00f3. - Cas de ser exhaurits els candidats del mateix municipi i mancar-ne per a completar, emprar independents del mateix municipi.- Cas de no omplir-se la llista, candidats d'altres municipis, seguint el mateix criteri d'ordre d'afiliaci\u00f3. - Cas d'esgotar-se els candidats Pirates, incloure personalitats significatives com a independents (p.e. com en Josep Jover) - Cas de no completar-se, independents de qualsevol municipi.",
+            "down": 16,
+            "equal": 3,
+            "id": 196,
+            "title": "Proposta (#2):Ordre per resid\u00e8ncia i afiliaci\u00f3",
+            "up": 2
+        },
+        {
+            "desc": "Separar la gent que preferia anar a primera fila dels que volien figurar per donar suport a les llistes per\u00f2 no voldrien figurar en els primers llocs (segon, tercer, ...) En el cas de tenir m\u00e9s d'un candidat els que s'han presentat anirien en ordre de votaci\u00f3 per el primer lloc (cap de llista), a partir d'aquest lloc es distribuirien els que volen/prefereixen/noelsimporta anar al primera fila (a sorts) i els que volen figurar per\u00f2 a la retaguarda (tamb\u00e9 a sorts).",
+            "down": 1,
+            "equal": 3,
+            "id": 198,
+            "title": "Proposta (#3):Aleatori en dos grups (a part dels caps de llista)",
+            "up": 21
+        },
+        {
+            "desc": "- Candidats residents al mateix municipi, en ordre d'afiliaci\u00f3. - Cas de ser exhaurits els candidats del mateix municipi. omplim amb candidats pirates d'altres municipis, seguint el mateix criteri d'ordre d'afiliaci\u00f3.- Cas de mancar-ne per a completar, emprar independents del mateix municipi. - Cas d'esgotar-se els candidats Pirates, incloure personalitats significatives com a independents (p.e. com en Josep Jover) - Cas de no completar-se, independents de qualsevol municipi.",
+            "down": 11,
+            "equal": 2,
+            "id": 200,
+            "title": "Proposta (#4):Ordre per afiliaci\u00f3 i resid\u00e8ncia",
+            "up": 5
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #87: Proposta de composici\u00f3 de la Llista electoral, un cop triats caps de llista",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/87"
+}

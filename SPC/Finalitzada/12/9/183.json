@@ -1,0 +1,42 @@
+{
+    "any": 12,
+    "desc": "Mentre vam tindre la possibilitat de rebre donacions amb PayPal, reb\u00edem quasi un 50% m\u00e9s de diner que en l'actualitat.\n Vam decidir fer Boicot a Paypal perqu\u00e8 va congelar els comptes de Wikileaks, per\u00f2 no vam plantejar cap alternativa.\n Fa m\u00e9s d'un any d'aix\u00f2. Vam cercar intensament alternatives, i no hi ha cap altre sistema per a rebre diner amb targes de cr\u00e8dit que permeti rebre el NIF i que operi a l'estat espanyol, que son els requisits legals que tenim, ni un.\n Es va obrir una votaci\u00f3 com aquesta abans de les eleccions generals, i es van dir un munt de sistemes alternatius, i cap permet aquestes dues condicions obligat\u00f2ries per llei.\n A m\u00e9s a m\u00e9s, de voler ser coherents, tamb\u00e9 hauriem de fer boicot a Visa i Mastercard, que tamb\u00e9 van bloquejar les donacions a Wikileaks.\n Ha arribat un punt en que pirates de Catalunya t\u00e9 poc m\u00e9s de 1000 \u20ac al compte, i aquest boicot ens est\u00e0 fent m\u00e9s mal que b\u00e9, doncs l'\u00fanica forma que tenim de rebre diner \u00e9s amb donacions per transfer\u00e8ncies banc\u00e0ries.\n En uns 3 mesos tindrem el sistema de quotes en funcionament, per\u00f2 per a evitar sobrecarregar el tresorer (que com tots \u00e9s voluntari), nom\u00e9s s'enviar\u00e0 1 rebut a l'any.\n Aix\u00f2 far\u00e0 que molts pirates no puguin posar-se una quota anual tan gran com la suma de quotes mensuals, o sigui, no es podr\u00e0 donar tant com es podria.\n L'unica opci\u00f3 que ens queda per a permetre que la gent pugui col\u00b7laborar econ\u00f2micament \u00e9s recuperant un mecanisme m\u00e9s simple per a rebre donacions.\n  Aquesta votaci\u00f3 es tancar\u00e0 el 7 d'octubre.\n\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\nboicot\npaypal\nwikileaks",
+    "dia": 9,
+    "final": {
+        "any": 12,
+        "dia": 28,
+        "mes": 10
+    },
+    "hora": "19:54",
+    "id": 183,
+    "mes": 9,
+    "solutions": [
+        {
+            "desc": "Tenim diverses despeses i poc diner, no podem permetre'ns aquesta p\u00e8rdua d'un 30-40% dels ingressos m\u00e9s temps, doncs ens estem quedant sense diner.",
+            "down": 16,
+            "equal": 5,
+            "id": 583,
+            "title": "Proposta (#1):Tornar a donar-nos d'alta a PayPal",
+            "up": 90
+        },
+        {
+            "desc": "No es pot fer boicot a coses de les que no hi ha una alternativa viable per a la majoria dels afectats.",
+            "down": 26,
+            "equal": 9,
+            "id": 584,
+            "title": "Proposta (#2):No acceptar futures campanyes de boicot a prove\u00efdors sense alternatives viables",
+            "up": 48
+        },
+        {
+            "desc": "Com que no sabem com pot ser el futur i tampoc \u00e9s normal que Paypal no tingui una compet\u00e8ncia m\u00e9s ferotge, proposo que si en el futur hi ha una opci\u00f3 m\u00e9s \u00e8tica i que sigui tan operativa com Paypal ens hi apuntem i abandonem aquest prove\u00efdor.",
+            "down": 6,
+            "equal": 7,
+            "id": 589,
+            "title": "Proposta (#3):Tornar a boicotejar Paypal si en el futur apareix una alternativa m\u00e9s \u00e8tica",
+            "up": 37
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #183: Donar-nos novament d'alta a PayPal",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/183"
+}

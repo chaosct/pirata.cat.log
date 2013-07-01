@@ -1,0 +1,386 @@
+{
+    "any": 11,
+    "desc": "###Aquesta votaci\u00f3 finalitzar\u00e0 el 30 d'octubre a les 20.00h###\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\n(cap)",
+    "dia": 26,
+    "final": {
+        "any": 11,
+        "dia": 30,
+        "mes": 10
+    },
+    "hora": "16:52",
+    "id": 140,
+    "mes": 10,
+    "solutions": [
+        {
+            "desc": "-",
+            "down": 13,
+            "equal": 5,
+            "id": 402,
+            "title": "Proposta (#1):Canvia el sistema, vota't!",
+            "up": 41
+        },
+        {
+            "desc": "-",
+            "down": 18,
+            "equal": 13,
+            "id": 403,
+            "title": "Proposta (#2):Si votes a PIRATA.CAT et votes a tu mateix.",
+            "up": 8
+        },
+        {
+            "desc": "-",
+            "down": 20,
+            "equal": 12,
+            "id": 404,
+            "title": "Proposta (#3):Vota't, vota PIRATA.CAT",
+            "up": 11
+        },
+        {
+            "desc": "--",
+            "down": 12,
+            "equal": 9,
+            "id": 405,
+            "title": "Proposta (#4):El futur \u00e9s teu, vota't!",
+            "up": 22
+        },
+        {
+            "desc": "-",
+            "down": 12,
+            "equal": 17,
+            "id": 406,
+            "title": "Proposta (#5):Tu ets el futur, vota't!",
+            "up": 14
+        },
+        {
+            "desc": "M'ha inspirat na Manoli.",
+            "down": 35,
+            "equal": 7,
+            "id": 407,
+            "title": "Proposta (#6):Imagina't el teu pa\u00eds, Vota't!",
+            "up": 3
+        },
+        {
+            "desc": "Inspirat en qui paga mana.",
+            "down": 39,
+            "equal": 3,
+            "id": 408,
+            "title": "Proposta (#7):Qui vota mana!",
+            "up": 3
+        },
+        {
+            "desc": "La paraula \"diferent\" es la clau.",
+            "down": 6,
+            "equal": 13,
+            "id": 409,
+            "title": "Proposta (#8):Penses diferent? Vota diferent.",
+            "up": 41
+        },
+        {
+            "desc": "-------",
+            "down": 32,
+            "equal": 4,
+            "id": 410,
+            "title": "Proposta (#9):Penses diferent?",
+            "up": 5
+        },
+        {
+            "desc": "------------",
+            "down": 29,
+            "equal": 2,
+            "id": 411,
+            "title": "Proposta (#10):Vota diferent.",
+            "up": 9
+        },
+        {
+            "desc": "Fem com a Isl\u00e0ndia! Banquers, pol\u00edtics, empresaris que han robat tot el que han pogut, a la pres\u00f3!",
+            "down": 44,
+            "equal": 3,
+            "id": 412,
+            "title": "Proposta (#11):Lladres i corruptes a la pres\u00f3!",
+            "up": 1
+        },
+        {
+            "desc": "Li vaig sentir dir a un soci\u00f2leg en una entrevista als matins de TV3 i em va semblar un bon esl\u00f2gan per a la campanya ja que defineix la democr\u00e0cia directa molt clarament.",
+            "down": 25,
+            "equal": 11,
+            "id": 413,
+            "title": "Proposta (#12):El Poble mana. El Pol\u00edtic obeeix.",
+            "up": 6
+        },
+        {
+            "desc": "Son els nostres dos punts forts. I b\u00e9, el moviment #15M els va difondre molt.Som l'\u00fanic partit que ho recolza obertament!",
+            "down": 7,
+            "equal": 16,
+            "id": 414,
+            "title": "Proposta (#13):Democr\u00e0cia Directa. Transpar\u00e8ncia Total.",
+            "up": 40
+        },
+        {
+            "desc": "Seguint el \"vota't\" de pirates, he pensat que podem \"punxar\" una mica als ciutadans per a que es votin a s\u00ed mateixos (votant a pirates) i si no ho fan \u00e9s perque no confien en s\u00ed mateixos i confien m\u00e9s en els altres (els pol\u00edtics) a qui deleguen plenament el poder decisori. A m\u00e9s crec que \u00e9s un esl\u00f2gan for\u00e7a positiu i del bon rollu. :P",
+            "down": 19,
+            "equal": 10,
+            "id": 415,
+            "title": "Proposta (#14):Confia en tu mateix. Vota't.",
+            "up": 14
+        },
+        {
+            "desc": "La soluci\u00f3 #13 m'agrada, per\u00f2 crec que posar-ho separat no queda b\u00e9 com esl\u00f2gan.",
+            "down": 10,
+            "equal": 9,
+            "id": 416,
+            "title": "Proposta (#15):Per una democr\u00e0cia participativa i transparent.",
+            "up": 23
+        },
+        {
+            "desc": "Crec que reflexa molts dels conceptes del partit... des de la transp\u00e0rencia fins a la participaci\u00f3.",
+            "down": 25,
+            "equal": 5,
+            "id": 417,
+            "title": "Proposta (#16):Cansat de parlar amb una paret. Vota PIRATA.CAT",
+            "up": 3
+        },
+        {
+            "desc": "La democr\u00e0cia directa \u00e9s l'aspecte m\u00e9s central del nostre ideari i l'esl\u00f2gan destaca que un diputat pirata permet als votants tenir veu de veritat al Congr\u00e9s.",
+            "down": 11,
+            "equal": 8,
+            "id": 418,
+            "title": "Proposta (#17):Porta la teva veu al Congr\u00e9s, vota't!",
+            "up": 14
+        },
+        {
+            "desc": "Remarca dos aspectes importants, clars i r\u00e0pids.",
+            "down": 17,
+            "equal": 5,
+            "id": 420,
+            "title": "Proposta (#19):Vota diferent, vota't!",
+            "up": 8
+        },
+        {
+            "desc": "'Canvia el sistema' em sonava massa anti-sistema, prefereixo 'Millora el sistema'",
+            "down": 12,
+            "equal": 6,
+            "id": 421,
+            "title": "Proposta (#20):Millora el sistema, vota't!",
+            "up": 9
+        },
+        {
+            "desc": "Unin varies ja publicades fa dies.",
+            "down": 7,
+            "equal": 7,
+            "id": 422,
+            "title": "Proposta (#21):Penses diferent? Vota't!",
+            "up": 17
+        },
+        {
+            "desc": "(Estava proposat al pad de banners.)",
+            "down": 13,
+            "equal": 6,
+            "id": 423,
+            "title": "Proposta (#22):Vull un congr\u00e9s amb 47 milions de diputats",
+            "up": 12
+        },
+        {
+            "desc": "-",
+            "down": 8,
+            "equal": 7,
+            "id": 424,
+            "title": "Proposta (#23):Vols decidir? Vota't!",
+            "up": 16
+        },
+        {
+            "desc": "Com el c\u00e8lebre cogito ergo sum de Descartes (pienso, luego existo).",
+            "down": 12,
+            "equal": 3,
+            "id": 425,
+            "title": "Proposta (#24):Votes, aleshores decideixes.",
+            "up": 10
+        },
+        {
+            "desc": "Ho va proposar alg\u00fa i m'agrada el sentiment de rabia-descontent.",
+            "down": 21,
+            "equal": 4,
+            "id": 426,
+            "title": "Proposta (#25):Bota'ls Vota't!",
+            "up": 5
+        },
+        {
+            "desc": "Traducci\u00f3 del slogan berlin\u00e9s.",
+            "down": 5,
+            "equal": 3,
+            "id": 427,
+            "title": "Proposta (#26):Nosaltres tenim les preguntes. T\u00fa, les respostes",
+            "up": 24
+        },
+        {
+            "desc": "Prescindiria del \"vota\" per diferenciar-nos dels partits \"cl\u00e0ssics\" i canviaria l'acci\u00f3 per fes-te o sigues pirata.",
+            "down": 13,
+            "equal": 2,
+            "id": 429,
+            "title": "Proposta (#27):Sigues pirata!",
+            "up": 4
+        },
+        {
+            "desc": "Un crit de guerra que no demana el vot explicitament",
+            "down": 17,
+            "equal": 1,
+            "id": 430,
+            "title": "Proposta (#28):A por ellos!",
+            "up": 2
+        },
+        {
+            "desc": "Inclusiu",
+            "down": 14,
+            "equal": 3,
+            "id": 431,
+            "title": "Proposta (#29):Pirata +1",
+            "up": 5
+        },
+        {
+            "desc": "Tu pots decidir canviar la societat",
+            "down": 7,
+            "equal": 8,
+            "id": 432,
+            "title": "Proposta (#30):Tu pots decidir canviar la societat",
+            "up": 3
+        },
+        {
+            "desc": "La libertad empieza por tu voto",
+            "down": 8,
+            "equal": 6,
+            "id": 433,
+            "title": "Proposta (#31):La libertad empieza por tu voto",
+            "up": 3
+        },
+        {
+            "desc": "El futuro lo creamos todos",
+            "down": 11,
+            "equal": 5,
+            "id": 434,
+            "title": "Proposta (#32):El futuro lo creamos todos",
+            "up": 2
+        },
+        {
+            "desc": "a saco..!!:-)",
+            "down": 20,
+            "equal": 0,
+            "id": 435,
+            "title": "Proposta (#33):5.000.000 una vergonya!",
+            "up": 0
+        },
+        {
+            "desc": "Tenim un desig....Volem democr\u00e0cia, el que ens donen no ho \u00e9s... per\u00f2, Com podem aconseguir el nostre desig? Fent-nos Pirates",
+            "down": 7,
+            "equal": 1,
+            "id": 436,
+            "title": "Proposta (#34):Vols Democr\u00e0cia? Fes-te Pirata!",
+            "up": 9
+        },
+        {
+            "desc": "Perque no es tracta d'opinar nom\u00e9s un cop cada cuatre anys.",
+            "down": 8,
+            "equal": 5,
+            "id": 437,
+            "title": "Proposta (#35):Fes-te sentir. Ara i sempre. Vota Pirata. Vota't",
+            "up": 4
+        },
+        {
+            "desc": "Es pot evolucionar una mica per\u00f2 es una manera de intentar captar vots de l'anomenat \"vot \u00fatil\" que crec que creixer\u00e0 molt en favor del PSOE. Es all\u00e0 on podem captar molts nous votants.",
+            "down": 9,
+            "equal": 5,
+            "id": 438,
+            "title": "Proposta (#36):\u00datil es votar per una democr\u00e0cia directa, transparent i real. Vota Pirata!",
+            "up": 5
+        },
+        {
+            "desc": "Sona for\u00e7a Matrix, oi? :)",
+            "down": 3,
+            "equal": 2,
+            "id": 439,
+            "title": "Proposta (#37):PIRATA.CAT. Benvingut a la democr\u00e0cia real.",
+            "up": 15
+        },
+        {
+            "desc": "Recordant que el poder de la democr\u00e0cia recau en el poble i per tant es pot ser exigent.",
+            "down": 8,
+            "equal": 2,
+            "id": 441,
+            "title": "Proposta (#38):No et conformis. Vota Pirata",
+            "up": 5
+        },
+        {
+            "desc": "Intentando llamar a la gente a reflexionar sobre nuestra propuesta.Saludos",
+            "down": 9,
+            "equal": 2,
+            "id": 442,
+            "title": "Proposta (#39):Penses? Decideixes? Vota PIRATA.CAT",
+            "up": 3
+        },
+        {
+            "desc": "Simple, directe, s'ent\u00e9n, no cal buscar al diccionari qu\u00e8 significa i, el millor de tot, ja apareix al v\u00eddeo de campanya que tenim al web :)",
+            "down": 8,
+            "equal": 2,
+            "id": 443,
+            "title": "Proposta (#40):Vull m\u00e9s democr\u00e0cia!",
+            "up": 4
+        },
+        {
+            "desc": "Fent refer\u00e8ncia a la Democr\u00e0cia Directa",
+            "down": 6,
+            "equal": 3,
+            "id": 444,
+            "title": "Proposta (#41):Ara tu pots decidir, Vota't!",
+            "up": 5
+        },
+        {
+            "desc": "-",
+            "down": 8,
+            "equal": 2,
+            "id": 445,
+            "title": "Proposta (#42):Vols millorar el sistema? Vota't!",
+            "up": 3
+        },
+        {
+            "desc": "S'ent\u00e9n b\u00e9 i no cal tirar de diccionari per a traduir conceptes com democr\u00e0cia directa :)",
+            "down": 5,
+            "equal": 3,
+            "id": 446,
+            "title": "Proposta (#43):Dret a dir. Dret a decidir. Pirates de Catalunya.",
+            "up": 8
+        },
+        {
+            "desc": "Aquest seria m\u00e9s encarat a la generaci\u00f3 del punk.",
+            "down": 7,
+            "equal": 1,
+            "id": 447,
+            "title": "Proposta (#44):Pirates de Catalunya// Do It Yourself",
+            "up": 7
+        },
+        {
+            "desc": "Seria en dues parts. La primera fa una exposici\u00f3 pamflet\u00e0ria de l'estil \"nosaltres parim, nosaltres decidim\" per\u00f2 el que realment tanca i remarca la idea \u00e9s \"el vot que compta\", que \u00e9s el que cap partit parlamentari pot dir.",
+            "down": 9,
+            "equal": 2,
+            "id": 448,
+            "title": "Proposta (#45):Tu votes, tu decideixes// Pirates de Catalunya, el vot que compta",
+            "up": 4
+        },
+        {
+            "desc": "Crec que pot ser interessant per fer un toc d'alerta a l'electorat indignat i a m\u00e9s t\u00e9 una rima interna que el fa f\u00e0cil de recordar i \u00e9s f\u00e0cil fer el hashtag #CanvideSistema amb la qual cosa crec que podr\u00edem arribar a fer un Trending Topic a Twitter. i acabaria la s\u00e8rie amb aix\u00f2 de \"el vot que compta\", ja que crec que \u00e9s una idea important relacionada amb la idea de \"vot \u00fatil\". No hi ha vot m\u00e9s \u00fatil que aquell que realment compta.",
+            "down": 8,
+            "equal": 2,
+            "id": 449,
+            "title": "Proposta (#46):El #El 20N Canvi de Sistema! // Pirates de Catalunya, el vot que compta",
+            "up": 2
+        },
+        {
+            "desc": "Seg\u00fan encuesta de NC Report 30 julio 2011",
+            "down": 3,
+            "equal": 1,
+            "id": 450,
+            "title": "Proposta (#47):El 43,8% de jovenes pasa de votar.Llego la Hora! Pirata.Cat",
+            "up": 0
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #140: Votaci\u00f3 esl\u00f2gan principal Generals 2011",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/140"
+}

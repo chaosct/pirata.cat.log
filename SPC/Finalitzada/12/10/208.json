@@ -1,0 +1,58 @@
+{
+    "any": 12,
+    "desc": "S'ha plantejat la possibilitat comprar preservatius (i lubricants), amb un disseny frontal personalitzaci\u00f3 (logo+text) per repartir-los durant la campanya.\n Hem trobat un distribu\u00efdor i tenim la possibilitat d'aprofitar per fer una comanda ara.\n Si en sobren es podran aprofitar pel Gay Parade.\n ###################################\nAquesta votaci\u00f3 finalitzar\u00e1 el divendres 2 a les 12:00h\n###################################\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\ncampanya\ncompres",
+    "dia": 29,
+    "final": {
+        "any": 12,
+        "dia": 8,
+        "mes": 11
+    },
+    "hora": "22:53",
+    "id": 208,
+    "mes": 10,
+    "solutions": [
+        {
+            "desc": "Model Cl\u00e0ssic 400\u20ac + 10% IVA (440\u20ac)0,40\u20ac/unitat 1 tinta + color de fonsTermini: 7-10 dies",
+            "down": 22,
+            "equal": 3,
+            "id": 730,
+            "title": "Proposta (#1):1000 preservatius",
+            "up": 24
+        },
+        {
+            "desc": "Model Cl\u00e0ssic 1110\u20ac + 10% IVA (1221\u20ac)0,37\u20ac/unitat 1 tinta + color de fonsTermini: 7-10 dies",
+            "down": 28,
+            "equal": 5,
+            "id": 731,
+            "title": "Proposta (#2):3000 preservatius",
+            "up": 5
+        },
+        {
+            "desc": "Frase \"sistema anti-copia\" inclosa, es la millor propaganda que podem fer. Model Cl\u00e0ssic 3100\u20ac + 10% IVA (3410\u20ac)0,31\u20ac/unitat 1 tinta + color de fonsTermini: 7-10 dies",
+            "down": 36,
+            "equal": 1,
+            "id": 748,
+            "title": "Proposta (#3):10000 preservatius",
+            "up": 6
+        },
+        {
+            "desc": "Creo que hay que pensar un poco mas sobre como enfocar la campa\u00f1a.",
+            "down": 13,
+            "equal": 6,
+            "id": 749,
+            "title": "Proposta (#4):Pensar en otra cosa",
+            "up": 30
+        },
+        {
+            "desc": "Per exemple:- preguntar als companys de Piratenpartei pels preus del seu prove\u00efdor, i importar d'all\u00e0- fer servir subvencions de Sanitat- fer-ho conjuntament amb alguna ONG (p.ex, en contra del Sida), i afegir una enganxina amb el nostre missatge- etc",
+            "down": 13,
+            "equal": 6,
+            "id": 751,
+            "title": "Proposta (#5):Buscar altres prove\u00efdors",
+            "up": 8
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #208: Compres Campanya 25N - [5]: Preservatius",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/208"
+}

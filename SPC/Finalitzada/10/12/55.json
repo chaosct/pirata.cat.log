@@ -1,0 +1,26 @@
+{
+    "any": 10,
+    "desc": "Fem bandera de la transpar\u00e8ncia i hem de donar exemple. \n\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\n(cap)",
+    "dia": 4,
+    "final": {
+        "any": 11,
+        "dia": 3,
+        "mes": 4
+    },
+    "hora": "17:49",
+    "id": 55,
+    "mes": 12,
+    "solutions": [
+        {
+            "desc": "S\u2019haurien de publicar les dades econ\u00f2miques del partit a la web en un lloc ben visible.",
+            "down": 0,
+            "equal": 0,
+            "id": 101,
+            "title": "Proposta (#1):Publicar les dades econ\u00f2miques del partit",
+            "up": 1
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #55: Publicar les dades econ\u00f2miques del partit",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/55"
+}

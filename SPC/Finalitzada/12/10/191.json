@@ -1,0 +1,74 @@
+{
+    "any": 12,
+    "desc": "Votaci\u00f3 per triar el cap de llista de les paperetes per Tarragona per les eleccions catalanes del 25 de novembre de 2012. \n ################################################################ \nA partir del dia 3 d'octubre fins el 9 d'octubre a les 17h hi ha temps per presentar candidatura. \nLes llistes es construiran en funci\u00f3 de l'ordre per vots i respectant la paritat. \n En la vostra candidatura escriviu una presentaci\u00f3, indicant el que cregueu convenient. \nProcureu ser concisos. Podeu incloure enlla\u00e7os si voleu donar informaci\u00f3 addicional. \n################################################################ \n ################################################################ \nSi us plau, voteu nom\u00e9s a la prov\u00edncia on esteu censats. Podeu votar a m\u00e9s d'un candidat.  \n La votaci\u00f3 es tancar\u00e0 el dimarts 16 d'octubre de 2012 a les 17h. \n################################################################\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\nllistes-25N",
+    "dia": 3,
+    "final": {
+        "any": 12,
+        "dia": 28,
+        "mes": 10
+    },
+    "hora": "01:32",
+    "id": 191,
+    "mes": 10,
+    "solutions": [
+        {
+            "desc": "Presentaci\u00f3 de candidatura: experi\u00e8ncia, intencions, possibilitats, condicions, enlla\u00e7os, etc.",
+            "down": 0,
+            "equal": 3,
+            "id": 610,
+            "title": "Proposta (#1):Nom i cognoms (exemple)",
+            "up": 0
+        },
+        {
+            "desc": "Tengo 30 a\u00f1os, nacido en L'Hospitalet de Llobregat, residente en Olesa de Montserrat durante 10 a\u00f1os y actualmente residente en Cunit. Soy t\u00e9cnico en desarrollo de aplicaciones inform\u00e1ticas y actualmente trabajo como analista inform\u00e1tico en Inform\u00e1tica i Telecomunicacions de Catalunya. Mi experiencia laboral se ha centrado en desarrollar software de previsi\u00f3n de riesgo financiero para diversas entidades bancarias. Gracias a mi profesi\u00f3n he podido ver como gobierno y empresas han modificado modelos de negocio y leyes sin tener en cuenta a los ciudadanos y sin importar el impacto que sus acciones tuvieran sobre ellos. Esto me ha llevado a implicarme en diversos movimientos sociales y a colaborar con algunas entidades y asociaciones que defienden la justicia social. Soy afiliado desde Marzo de 2012. y aunque creo que podr\u00eda parecer precipitado presentar una candidatura con una trayectoria tan corta, nuestros principios de democracia directa, de participaci\u00f3n ciudadana y de transparencia hacen que la persona en s\u00ed deje de ser importante. Creo que lo que realmente importa es que vamos a ofrecer la posibilidad de abrir una puerta en el Parlament a los ciudadanos, y que la funci\u00f3n de los candidatos es la de ser esa la llave que abra esa puerta.  Mi compromiso y mis intenciones son colaborar para que esa llave pueda finalmente abrir la puerta del Parlament.",
+            "down": 1,
+            "equal": 3,
+            "id": 617,
+            "title": "Proposta (#2):Javier Ramos Panduro",
+            "up": 9
+        },
+        {
+            "desc": "Tinc 29 anys, he nascut i visc a Valls.  S\u00f3c enginyera inform\u00e0tica de professi\u00f3. Participo a PIRATA.CAT des de l'estiu del 2010, amb tasques diverses, all\u00e0 on calen mans. Actualment s\u00f3c la Secret\u00e0ria General del partit. Em presento com a candidata, sent conscient que sempre haur\u00e9 d'aplicar les 3 lleis pirates.",
+            "down": 1,
+            "equal": 0,
+            "id": 623,
+            "title": "Proposta (#3):Ester Galimany Guasch",
+            "up": 26
+        },
+        {
+            "desc": "F Reyes. 23 anys.",
+            "down": 1,
+            "equal": 0,
+            "id": 626,
+            "title": "Proposta (#4):F Reyes",
+            "up": 17
+        },
+        {
+            "desc": "S\u00f3c l'Iker i visc a Alcover.Enginyer de professi\u00f3 milito a Pirates des de les \u00faltimes eleccions municipals. He col\u00b7laborat en diversos actes de Pirates a Tarragona, tot el que la feina com a enginyer lliure-exercent em permet. Em vaig afiliar al donar-me compte que l'ideari complia tot all\u00f2 que demano a una associaci\u00f3/partit pol\u00edtic i gaudeixo for\u00e7a fent-ne difusi\u00f3.",
+            "down": 1,
+            "equal": 2,
+            "id": 661,
+            "title": "Proposta (#5):Iker Bilbao",
+            "up": 6
+        },
+        {
+            "desc": "Text candidatura pendent. S'actualitzar\u00e0 en les pr\u00f2ximes hores.",
+            "down": 1,
+            "equal": 3,
+            "id": 665,
+            "title": "Proposta (#6):Marta Nogu\u00e9s",
+            "up": 6
+        },
+        {
+            "desc": "Tinc 36 anys, he viscut tota la vida al Pla de Santa Maria i treballo a Alio com a dissenyador industrial.vaig ser reclutat al partit per la Ester fa uns anys i per desgracia no he pogut aportar tant com desitjaria. encara que aquest Setembre he sigut pare per segona vegada presento candicatura per a que m-inclogueu a les llistes Salut!",
+            "down": 2,
+            "equal": 2,
+            "id": 669,
+            "title": "Proposta (#7):Joan Llu\u00eds Adser\u00e0",
+            "up": 3
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #191: Cap de llista per Tarragona. Eleccions 25N",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/191"
+}

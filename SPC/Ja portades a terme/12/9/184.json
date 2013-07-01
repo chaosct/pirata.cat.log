@@ -1,0 +1,42 @@
+{
+    "any": 12,
+    "desc": "Com ja sabeu el 25 de novembre hi ha eleccions catalanes. (anticipades)\n Aquesta proposta/votaci\u00f3 es per saber el posicionament del conjunt de persones de l'ambit dels Pirates de Catalunya, respecte a estar a favor o en contra de l'autodeterminaci\u00f3 de Catalunya, i que estigu\u00e9s en el programa electoral dels Pirates de Catalunya de cara al proper 25 de novembre. \nAix\u00ed tamb\u00e9, no obstant s'han de mantenir els principals ideals d'aquest partit. :)\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\n(cap)",
+    "dia": 25,
+    "final": {
+        "any": 13,
+        "dia": 27,
+        "mes": 1
+    },
+    "hora": "20:00",
+    "id": 184,
+    "mes": 9,
+    "solutions": [
+        {
+            "desc": "A favor, sempre hi quan hi hagi un concens clar dels pirates. ^^",
+            "down": 0,
+            "equal": 0,
+            "id": 586,
+            "title": "Soluci\u00f3 #1:A favor.",
+            "up": 0
+        },
+        {
+            "desc": "Pirates de Catalunya recolzaria la convocat\u00f2ria d'un refer\u00e8ndum d'autodeterminaci\u00f3 pero els afiliats tindrian llibertat de voto.",
+            "down": 0,
+            "equal": 0,
+            "id": 587,
+            "title": "Soluci\u00f3 #2:A favor d'un refer\u00e8ndum d'autodeterminaci\u00f3",
+            "up": 0
+        },
+        {
+            "desc": "Tot i que ja est\u00e0 explicat a les FAQ, encara hi ha gent que ho pregunta. Potser estaria b\u00e9 incorporar expl\u00edcitament el refer\u00e8ndum d'autodeterminaci\u00f3 al programa electoral , com un exemple d'aplicaci\u00f3 del nostre ideari.",
+            "down": 0,
+            "equal": 0,
+            "id": 588,
+            "title": "Soluci\u00f3 #3:Incloure el refer\u00e8ndum d'autodeterminaci\u00f3 al programa electoral",
+            "up": 0
+        }
+    ],
+    "status": "Ja portades a terme",
+    "titol": "Idea #184: Independ\u00e8ncia de Catalunya?",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/184"
+}

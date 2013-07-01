@@ -1,0 +1,74 @@
+{
+    "any": 12,
+    "desc": "A Pirata.cat, la participaci\u00f3 de totes les persones \u00e9s un eix fonamental. Tant ens agrada la participaci\u00f3, que no solem demanar la afiliaci\u00f3 de cap persona per a permetre la seva participaci\u00f3 a les nostres eines de treball i debat. \nTot i aixi, per poder treballar adequadament, cal evitar el soroll innecesari en aquestes eines. Per a aix\u00f2 cal definir un mecanisme, adequat i proporcionat, que permeti tallar el soroll provocat a les nostres eines de participaci\u00f3 per persones no afiliades.\nPer als afiliats, els mecanismes ja queden definit als estatuts de pirata.cat\n SOLS PER A PERSONES NO-AFILIADES\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\n(cap)",
+    "dia": 29,
+    "final": {
+        "any": 12,
+        "dia": 4,
+        "mes": 9
+    },
+    "hora": "15:52",
+    "id": 157,
+    "mes": 1,
+    "solutions": [
+        {
+            "desc": "Quan 10 o m\u00e9s persones afiliades ho sol\u00b7licitin, la Junta bloquejar\u00e0 l'acc\u00e9s a totes les eines de treball i participaci\u00f3, a la persona NO-AFILIADA sol\u00b7licitada.",
+            "down": 44,
+            "equal": 6,
+            "id": 509,
+            "title": "Proposta (#1):Bloquejar l'acc\u00e9s quan ho sol\u00b7licitin 10 o m\u00e9s persones afiliades",
+            "up": 15
+        },
+        {
+            "desc": "Quan 10 o m\u00e9s persones ho sol\u00b7licitin, s'enviar\u00e0 un av\u00eds a la persona en q\u00fcesti\u00f3 avisant-lo. Si continua amb el seu comportament, s'obrir\u00e0 una votaci\u00f3 per refrendar el veto.",
+            "down": 15,
+            "equal": 12,
+            "id": 510,
+            "title": "Proposta (#2):Refrendar el veto",
+            "up": 25
+        },
+        {
+            "desc": "A la llarga caldr\u00e0 trobar mecanismes tipus karma, on una persona que nom\u00e9s es dediqui a crear controversia als canals de participaci\u00f3 pugui ser f\u00e0cilment identificada. No cal excloure ning\u00fa, nom\u00e9s intetar que la gent no encengui els \u00e0nims als altres.",
+            "down": 11,
+            "equal": 12,
+            "id": 511,
+            "title": "Proposta (#3):Trobar mecanismes tipus \"Karma\"",
+            "up": 35
+        },
+        {
+            "desc": "Aplicar la normativa de los estatutos de Pirates de Catalunya a los no afiliados que participan en listas, foros, y dem\u00e1s herramientas de participaci\u00f3n de Pirates, tal y como se aplica a los afiliados. Al tratarse de personas no afiliadas, la expulsi\u00f3n no ser\u00eda del partido, ser\u00eda de las propias herramientas.  La normativa actual dice que:  \"Les infraccions podran ser lleus o greus. Es tipifiquen com a infraccions lleus les seg\u00fcents:- La difusi\u00f3 d'informaci\u00f3 falsa a consci\u00e8ncia.- L'obstrucci\u00f3 de les din\u00e0miques de di\u00e0leg i treball.- L'incompliment de les normes d'etiqueta al lloc web o a qualsevol altre mitj\u00e0 de comunicaci\u00f3 electr\u00f2nica del partit. Es tipifiquen com a infraccions greus les seg\u00fcents:- La reiteraci\u00f3 d'infraccions lleus.- La difusi\u00f3 d'informaci\u00f3 que es consideri confidencial.- El registre o patent de material produ\u00eft pel partit sense el consentiment dels seus \u00f2rgans.[...]- La suplantaci\u00f3 de la identitat d'una altra persona per mitjans telem\u00e0tics.- Els sabotatges t\u00e8cnics contra els sistemes telem\u00e0tics del partit.- La difusi\u00f3 de dades personals d'altres afiliats sense el seu consentiment.- Qualsevol altre acte que atempti greument contra les finalitats o la imatge p\u00fablica del partit.\" En caso de darse cualquiera de estas infracciones, no puede existir una discriminaci\u00f3n hacia los afiliados a Pirates.",
+            "down": 3,
+            "equal": 2,
+            "id": 512,
+            "title": "Proposta (#4):Aplicar la normativa de los estatutos.",
+            "up": 79
+        },
+        {
+            "desc": "El coordinador del grup de treball, o b\u00e9 el moderador de la llista, t\u00e9 autonomia total per a fer callar al troll. El coordinador/moderador por decidir si fer fora al troll, si fer-li un \"mute\" (pot rebre mails, no pot enviar), si fer-ho temporal o permanent. El coordinador/moderador haur\u00e0 d'avisar inmediatament a la Junta, sigui quina sigui la mesura que prengui. A les Asemblees la Junta haur\u00e0 d'explicar quants trolls han estat moderats, per\u00f2 sense donar noms: s'ha de respectar la privacitat d'aquestes persones.",
+            "down": 32,
+            "equal": 6,
+            "id": 513,
+            "title": "Proposta (#5):El coordinador/moderador t\u00e9 autonomia",
+            "up": 9
+        },
+        {
+            "desc": "Redactar entre els afiliats unes normes d'\u00fas raonables de les plataformes obertes a no afiliats. Posteriorment, designar un o diversos moderadors que, a part de banejar, deixin const\u00e0ncia dels motius pels quals han actuat.",
+            "down": 7,
+            "equal": 12,
+            "id": 514,
+            "title": "Proposta (#6):Redactar unes normes d'\u00fas i designar moderadors",
+            "up": 23
+        },
+        {
+            "desc": "El moderador no pot banejar directament, sino que proposa el ban (o alg\u00fan altre tipus de sanci\u00f3) i els afiliats han de votar si s'accepta o no. D'aquesta manera no se li entrega el control total a un moderador que (improbablement) podr\u00eda exercir de censor. Mentre duri la votaci\u00f3 (que podria tenir un m\u00e0xim de 48h per exemple) l'usuari en q\u00fcesti\u00f3 queda bloquejat temporalment. Si la votaci\u00f3 decideix que la proposta de baneig es no merescuda l'usuari pot continuar utilitzant les eines.",
+            "down": 14,
+            "equal": 9,
+            "id": 515,
+            "title": "Proposta (#7):Ampliaci\u00f3 de #6",
+            "up": 5
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #157: Evitar \"sorolls\" innecessaris a les nostres eines de participaci\u00f3",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/157"
+}

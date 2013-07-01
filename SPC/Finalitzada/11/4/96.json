@@ -1,0 +1,210 @@
+{
+    "any": 11,
+    "desc": "Aquesta votaci\u00f3 acabar\u00e0 diumenge 1 de maig a les 23:55h per a poder comen\u00e7ar a editar materials amb l'esl\u00f2gan escollit.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\n(cap)",
+    "dia": 29,
+    "final": {
+        "any": 11,
+        "dia": 2,
+        "mes": 5
+    },
+    "hora": "01:44",
+    "id": 96,
+    "mes": 4,
+    "solutions": [
+        {
+            "desc": "-",
+            "down": 2,
+            "equal": 2,
+            "id": 216,
+            "title": "Proposta (#1):Vota't",
+            "up": 16
+        },
+        {
+            "desc": "-",
+            "down": 4,
+            "equal": 6,
+            "id": 217,
+            "title": "Proposta (#2):Barcelona \u00e9s teva / Mollet \u00e9s teu / etc",
+            "up": 7
+        },
+        {
+            "desc": "-",
+            "down": 4,
+            "equal": 4,
+            "id": 218,
+            "title": "Proposta (#3):Ara decidim tots",
+            "up": 7
+        },
+        {
+            "desc": "-",
+            "down": 3,
+            "equal": 4,
+            "id": 219,
+            "title": "Proposta (#4):No deixis que decideixin per tu",
+            "up": 10
+        },
+        {
+            "desc": "-",
+            "down": 6,
+            "equal": 4,
+            "id": 220,
+            "title": "Proposta (#5):La soluci\u00f3 a la corrupci\u00f3 \u00e9s la transpar\u00e8ncia",
+            "up": 6
+        },
+        {
+            "desc": "-",
+            "down": 4,
+            "equal": 4,
+            "id": 221,
+            "title": "Proposta (#6):Sense intermediaris! Tu manes",
+            "up": 8
+        },
+        {
+            "desc": "-",
+            "down": 5,
+            "equal": 5,
+            "id": 222,
+            "title": "Proposta (#7):Democr\u00e0cia directa ja!",
+            "up": 5
+        },
+        {
+            "desc": "-",
+            "down": 2,
+            "equal": 3,
+            "id": 223,
+            "title": "Proposta (#8):Canvia el sistema, vota't!",
+            "up": 18
+        },
+        {
+            "desc": "-",
+            "down": 7,
+            "equal": 5,
+            "id": 224,
+            "title": "Proposta (#9):Canvia el Joc",
+            "up": 4
+        },
+        {
+            "desc": "-",
+            "down": 12,
+            "equal": 0,
+            "id": 225,
+            "title": "Proposta (#10):Som alternativa",
+            "up": 3
+        },
+        {
+            "desc": "-",
+            "down": 10,
+            "equal": 3,
+            "id": 226,
+            "title": "Proposta (#11):Ja no hi ha excusa!",
+            "up": 1
+        },
+        {
+            "desc": "-",
+            "down": 13,
+            "equal": 0,
+            "id": 227,
+            "title": "Proposta (#12):La joventut mereix algo millor",
+            "up": 2
+        },
+        {
+            "desc": "-",
+            "down": 10,
+            "equal": 0,
+            "id": 228,
+            "title": "Proposta (#13):\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
+            "up": 4
+        },
+        {
+            "desc": "(Potser tamb\u00e9 es interessant proposar en castell\u00e0 algun esl\u00f2gan)",
+            "down": 14,
+            "equal": 1,
+            "id": 229,
+            "title": "Proposta (#14):Jovenes con todav\u00eda ilusi\u00f3n y esperanza",
+            "up": 2
+        },
+        {
+            "desc": "(El cl\u00e1sico ... why not?)",
+            "down": 5,
+            "equal": 2,
+            "id": 230,
+            "title": "Proposta (#15):Vota en negro!",
+            "up": 10
+        },
+        {
+            "desc": "Arrr!",
+            "down": 8,
+            "equal": 2,
+            "id": 231,
+            "title": "Proposta (#16):Pirateja l'ajuntament!",
+            "up": 4
+        },
+        {
+            "desc": "Slogan en angl\u00e8s. Segurament som els primers en fer-ho ;)",
+            "down": 4,
+            "equal": 4,
+            "id": 232,
+            "title": "Proposta (#17):Hack the system!",
+            "up": 7
+        },
+        {
+            "desc": "UTF-8",
+            "down": 10,
+            "equal": 1,
+            "id": 233,
+            "title": "Proposta (#18):\u2620\u2620\u2620\u2620\u2620\u2620\u2620\u2620\u2620\u2620\u2620\u2620\u2620\u2620\u2620\u2620\u2620\u2620\u2620\u2620",
+            "up": 2
+        },
+        {
+            "desc": "\u00ebs un dels molts que se'm passen pel cap",
+            "down": 8,
+            "equal": 2,
+            "id": 234,
+            "title": "Proposta (#19):Pol\u00edtica de futur",
+            "up": 2
+        },
+        {
+            "desc": "DD com el lodo DareDevil, pero diseny nouI democr\u00e0cia directa",
+            "down": 5,
+            "equal": 3,
+            "id": 235,
+            "title": "Proposta (#20):-DD Democracia directa",
+            "up": 4
+        },
+        {
+            "desc": "Aix\u00f2 pot ser pol\u00e8mic i cridaner!",
+            "down": 8,
+            "equal": 2,
+            "id": 236,
+            "title": "Proposta (#21):Quan cobra l'alcalde? DECIDEIX-HO TOT!",
+            "up": 2
+        },
+        {
+            "desc": "Personalitzar per barris per indicar proximitat i revolta des de baix.",
+            "down": 5,
+            "equal": 2,
+            "id": 237,
+            "title": "Proposta (#22):Bellitge Pirata! Raval Pirata! etc...",
+            "up": 4
+        },
+        {
+            "desc": "Des de Matar\u00f3 va sortir aquest esl\u00f2gan",
+            "down": 2,
+            "equal": 1,
+            "id": 238,
+            "title": "Proposta (#23):Sempre he votat, per\u00f2 mai he decidit. Canvia el sistema, vota't.",
+            "up": 9
+        },
+        {
+            "desc": "-",
+            "down": 2,
+            "equal": 1,
+            "id": 241,
+            "title": "Proposta (#26):Democr\u00e0cia per a Tu, Tot, Tothom!",
+            "up": 6
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #96: Votaci\u00f3 de l'esl\u00f2gan general per a les Municipals 2011",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/96"
+}

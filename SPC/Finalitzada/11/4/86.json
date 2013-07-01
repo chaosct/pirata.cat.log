@@ -1,0 +1,34 @@
+{
+    "any": 11,
+    "desc": "Aqu\u00ed us podeu afegir si voleu optar a cap de llista de Matar\u00f3. \n Mantenim la proposta en Sala d'espera per donar temps a fer les presentacions. Dem\u00e0 a les 20h s'obrir\u00e0 a votacions.\n\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\ncandidat\nllistes\nlocals\nmunicipals",
+    "dia": 11,
+    "final": {
+        "any": 11,
+        "dia": 17,
+        "mes": 4
+    },
+    "hora": "23:55",
+    "id": 86,
+    "mes": 4,
+    "solutions": [
+        {
+            "desc": "Tinc 33 anys. Soc Llicenciat en Enginyeria en Inform\u00e0tica, professor de secundaria i des de fa 11 anys director d'un centre de formaci\u00f3 on he fet classes de les anomenades \"tic\" a empresaris, joves i artistes. Soc una persona for\u00e7a inquieta i he fet una mica de tot, he dirigit un programa de radio, vaig escriure un llibre sobre computaci\u00f3 f\u00edsica a secundaria, i he col\u00b7laborat en projectes de software lliure. Estic amb Pirata.cat des de'l principi, encara que no tant activament com m'agradaria.  Em presento com a candidat, amb la intenci\u00f3 de que els 101 votants de pirates a Matar\u00f3 de les darreres eleccions,  puguin tornar a fer-ho. I perqu\u00e8 m'encantaria poder veure com els pirates mataron\u00e8ncs comencen a mostrar als anomenats \"politics\" com funciona la democr\u00e0cia.",
+            "down": 0,
+            "equal": 3,
+            "id": 193,
+            "title": "Proposta (#1):Marco A. Rodr\u00edguez",
+            "up": 15
+        },
+        {
+            "desc": "Tin 28 anys. S\u00f3c estudiant de F\u00edsica.Sempre he treballat en l'\u00e0mbit de l'educaci\u00f3 (ci\u00e8ncies, mates, inform\u00e0tica, etc.).President durant 4 anys de l'associaci\u00f3 CRUAB.President de l'associaci\u00f3 juvenil club de rol Banshee Errante, des de fa 5.Participant en el consell de joventut de Matar\u00f3, des de fa 4 anys.Promotor del Casal de Joves de Pla d'en Boet. Em presento com a candidat perqu\u00e8 una vegada que est\u00e0s a prop dels pol\u00edtics actuals, et dones que alguna cosa s'ha de canviar. I que millor que els ciutadans decideixin el que.",
+            "down": 0,
+            "equal": 3,
+            "id": 204,
+            "title": "Proposta (#2):Javier Rodr\u00edguez",
+            "up": 8
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #86: Votaci\u00f3 Cap de llista a Matar\u00f3",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/86"
+}

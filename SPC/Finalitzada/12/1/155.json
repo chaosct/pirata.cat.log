@@ -1,0 +1,58 @@
+{
+    "any": 12,
+    "desc": "Ens trobem davant un \u00fas massiu de vehicles privats de combusti\u00f3, el qual en les grans ciutats deriva a un problema. Comen\u00e7a un any 2012 amb l'encariment de les tarifes dels transports p\u00fablics fins a preus exagerats i on els transports ecol\u00f2gics com la bicicleta sovint pateixen situacions de discriminaci\u00f3 en la via.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\nbicicleta\nbus\nmetro\ntmb",
+    "dia": 11,
+    "final": {
+        "any": 12,
+        "dia": 3,
+        "mes": 8
+    },
+    "hora": "18:03",
+    "id": 155,
+    "mes": 1,
+    "solutions": [
+        {
+            "desc": "El Partit Pirata ha de buscar apostar per un transport p\u00fablic gratu\u00eft per tal de fomentar l'\u00fas d'aquest i que els vehicles privats a motor quedin en des\u00fas en la vida urbana.",
+            "down": 14,
+            "equal": 9,
+            "id": 496,
+            "title": "Proposta (#1):Apostar per un transport p\u00fablic gratu\u00eft als residents de la ciutat",
+            "up": 39
+        },
+        {
+            "desc": "Grans ciutats com Amsterdam ja han apostat per l'\u00fas de la bicicleta dins la via urbana. Ara \u00e9s hora de fomentar l'\u00fas de la bicicleta, per tal de que aquest vagi en increment.",
+            "down": 1,
+            "equal": 8,
+            "id": 497,
+            "title": "Proposta (#2):Fomentar l'\u00fas de la bicicleta",
+            "up": 62
+        },
+        {
+            "desc": "Una de les solucions evidents a la congesti\u00f3 de les vies urbanes son els aparcaments dissuasoris a les afores. Pero aquests aparcaments han de estar ben comunicats i han d\u00b4esser gratu\u00efts o molt econ\u00f3mics (un euro tot el dia, per exemple), doncs es evident que si es vol fer pagar un aparcament a preu d\u00b4aparcament normal, la gent anir\u00e0 a prop d\u00b4on vol anar. Es de ll\u00f3gica. L\u00b4invent no es nou, jo ho he vist a Cant\u00e0bria i a Asturies, i realment es un descans tant per les persones que viuen al poble o ciutat, com per la persona que arriva que no s\u00b4ha de tornar boja buscant aparcament.",
+            "down": 2,
+            "equal": 10,
+            "id": 499,
+            "title": "Proposta (#3):Fomentar la creaci\u00f3 d\u00b4aparcaments dissuasoris gratu\u00efts o a preus molt reduits",
+            "up": 45
+        },
+        {
+            "desc": "Creo que si se consigue estacionar los veh\u00edculos en las afueras, conseguir\u00edamos que para desplazarse dentro de la ciudad utilicen del trasporte publico o sistemas como el bicing. Se incrementar\u00eda el uso de ambos y se podr\u00eda obtener un mejor servicio y hasta quiz\u00e1 un mejor precio.",
+            "down": 2,
+            "equal": 11,
+            "id": 504,
+            "title": "Proposta (#4):Combinar las medidas",
+            "up": 25
+        },
+        {
+            "desc": "Els punts de la proposta s\u00f3n: (1) Soluci\u00f3 #2 referida al bicing i a la bicicleta privada. (2) Impulsar el Transport P\u00fablic* a la ciutat (metro, bus i bici) i tamb\u00e9 per arribar-hi, \u00e9s a dir, potenciar l'\u00fas i la millora dels trens de rodalies i dels autobusos interurbans. Aix\u00f2 reduiria la utilitzaci\u00f3 del vehicle privat, que al seu torn disminuiria la congesti\u00f3 dins de la ciutat i a les vies d'acc\u00e9s, i tamb\u00e9 els nivells de contaminaci\u00f3. (3) Treballar per revertir la din\u00e0mica de privatitzaci\u00f3 i externalitzaci\u00f3 del Transport P\u00fablic. Una din\u00e0mica que avui afecta tots els serveis p\u00fablics que han de garantir els drets b\u00e0sics de tots els ciutadans. L'acc\u00e9s als serveis p\u00fablics no ha de dependre en cap cas de la capacitat econ\u00f2mica de cada ciutad\u00e0. Igual que la Sanitat P\u00fablica o l'Ensenyament P\u00fablic, el Transport P\u00fablic ha de ser d'acc\u00e9s gratu\u00eft per a tota la poblaci\u00f3. De moment, l'\u00e0mbit de gratu\u00eftat l'extendria a tots els ciutadans englobats dins de l'Administraci\u00f3 que gestioni cada mitj\u00e0 de Transport P\u00fablic en concret, per\u00f2 sempre amb l'objectiu d'anar-la ampliant per incloure el m\u00e0xim de persones. *La meva idea de Transport P\u00fablic inclou qualsevol mitj\u00e0 de transport que l'Administraci\u00f3 P\u00fablica proporcioni per als despla\u00e7aments de la poblaci\u00f3. El Transport P\u00fablic no ha de ser necess\u00e0riament transport col\u00b7lectiu; el bicing n'\u00e9s un exemple, i viceversa, el transport col\u00b7lectiu no \u00e9s necess\u00e0riament Transport P\u00fablic, com per exemple compartir cotxe privat per anar a la feina. Podeu fer un cop d'ull als comentaris que he deixat tamb\u00e9.",
+            "down": 0,
+            "equal": 0,
+            "id": 505,
+            "title": "Proposta (#5):Potenciar el transport p\u00fablic: metro, bus, tren i bicicleta.",
+            "up": 53
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #155: Fomentar l'\u00fas del transport p\u00fablic",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/155"
+}

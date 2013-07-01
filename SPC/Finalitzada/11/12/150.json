@@ -1,0 +1,50 @@
+{
+    "any": 11,
+    "desc": "Esta votaci\u00f3n finaliza el pr\u00f3ximo d\u00eda 25 de diciembre a las 16h.\n En las \u00faltimas reuniones llevadas a cabo en Riereta se ha propuesto crear una red de asociaciones sin \u00e1nimo de lucro afines al ideario pirata. La finalidad de esta medida es mantener activas las reivindicaciones piratas fuera del periodo electoral y sensibilizar a la poblaci\u00f3n.\n Estas asociaciones ser\u00edan completamente independientes a nivel organizativo y ejecutivo de Pirates, pero basar\u00edan su actividad en la defensa y la promoci\u00f3n de principios comunes a los nuestros, y su funcionamiento interno se regir\u00eda con los mismos est\u00e1ndares de transparencia y democracia directa.\n Se proponen las siguientes medidas:\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\nactivisme\nactivismo\nasociaciones\nassociacions\nideari\nideario\npirates\nprincipios\nprincipis",
+    "dia": 4,
+    "final": {
+        "any": 12,
+        "dia": 3,
+        "mes": 1
+    },
+    "hora": "22:31",
+    "id": 150,
+    "mes": 12,
+    "solutions": [
+        {
+            "desc": "Dotar de infraestructura tecnol\u00f3gica: web, listas de correo, sistemas de participaci\u00f3n, chat de voz, etc. a las asociaciones de nueva creaci\u00f3n hasta que dispongan de los recursos necesarios para mantener su propia infraestructura.",
+            "down": 3,
+            "equal": 2,
+            "id": 475,
+            "title": "Proposta (#1):Dar apoyo a nivel de infraestructura tecnol\u00f3gica",
+            "up": 48
+        },
+        {
+            "desc": "Ayudar en la promoci\u00f3n de las nuevas asociaciones afines entre afiliados y medios.",
+            "down": 3,
+            "equal": 4,
+            "id": 476,
+            "title": "Proposta (#2):Promoci\u00f3n entre afiliados y medios de comunicaci\u00f3n",
+            "up": 43
+        },
+        {
+            "desc": "Ofrecer asesoramiento legal.",
+            "down": 4,
+            "equal": 8,
+            "id": 477,
+            "title": "Proposta (#3):Ofrecer asesoramiento legal",
+            "up": 35
+        },
+        {
+            "desc": "Ofrecer apoyo en proyectos o campa\u00f1as puntuales desarrolladas por dichas asociaciones y dar a conocer las necesidades de personal de \u00e9stas entre los afiliados de Pirates.",
+            "down": 6,
+            "equal": 5,
+            "id": 478,
+            "title": "Proposta (#4):Ofrecer apoyo a nivel de recursos humanos",
+            "up": 34
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #150: Apoyar la creaci\u00f3n de Asociaciones afines al ideario de Pirates",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/150"
+}

@@ -1,0 +1,26 @@
+{
+    "any": 12,
+    "desc": "Votaci\u00f3 anul\u00b7lada perqu\u00e8 no s'ha obert i per tant a l'assemblea s'ha votat de forma presencial.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\n(cap)",
+    "dia": 22,
+    "final": {
+        "any": 13,
+        "dia": 27,
+        "mes": 1
+    },
+    "hora": "11:02",
+    "id": 220,
+    "mes": 12,
+    "solutions": [
+        {
+            "desc": "---",
+            "down": 0,
+            "equal": 0,
+            "id": 807,
+            "title": "Soluci\u00f3 #1:---",
+            "up": 0
+        }
+    ],
+    "status": "Ja portades a terme",
+    "titol": "Idea #220: Refrendar estatuts",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/220"
+}

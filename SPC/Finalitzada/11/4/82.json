@@ -1,0 +1,50 @@
+{
+    "any": 11,
+    "desc": "La votaci\u00f3 es tancar\u00e0 diumenge 17 d'abril a les 20h.\n Durant la setmana s'hi poden apuntar altres candidats, quan abans millor.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\ncandidat\nllistes\nlocals\nmunicipals",
+    "dia": 10,
+    "final": {
+        "any": 12,
+        "dia": 12,
+        "mes": 4
+    },
+    "hora": "20:05",
+    "id": 82,
+    "mes": 4,
+    "solutions": [
+        {
+            "desc": "Tinc 25 anys, s\u00f3c llicenciat en Comunicaci\u00f3 Audiovisual i m\u00e0ster en Direcci\u00f3 Cinematogr\u00e0fica, lo qual, com a Pirata, em posa enmig del debat actual sobre els drets d'autor. He realitzat els v\u00eddeos sobre l'Ideari Pirata ( http://bit.ly/gQ3b0r ), he dissenyat el Carnet Pirata d'Or ( http://bit.ly/pirataDor ) i actualment coordino bona part del projecte de les municipals a Barcelona. Aquests mesos tinc prou temps -i ganes!- per dedicar-me a la campanya electoral.",
+            "down": 1,
+            "equal": 1,
+            "id": 185,
+            "title": "Proposta (#1):Juan Irache",
+            "up": 35
+        },
+        {
+            "desc": "Tinc quasi 33 anys, treballo de consultor i formador en programari lliure i col\u00b7laboro amb iniciatives de cultura/programari/informaci\u00f3 lliure des fa quasi 10 anys. He participat activament en la fundaci\u00f3 de Pirates de Catalunya i en formo part de la junta. Vaig col\u00b7laborar en el seu moment en la configuraci\u00f3 dels sistemes de Pirata.cat i tr\u00e0mits de legalitzaci\u00f3 del partit, aix\u00ed com en la campanya al parlament de Catalunya. Ara mateix em dedico principalment a tasques d'organitzaci\u00f3 i comunicaci\u00f3. Treballo com a freelancer, o sigui que comptades algunes dates inamovibles, disposo d'una certa capacitat per a gestionar els meus horaris. Acabo d'estrenar el meu bloc, a on podeu trobar alguna informaci\u00f3 m\u00e9s sobre mi: http://atkn.net",
+            "down": 2,
+            "equal": 3,
+            "id": 195,
+            "title": "Proposta (#2):Kenneth Peiruza",
+            "up": 21
+        },
+        {
+            "desc": "Tinc 43 anys, s\u00f3c funcionari i treballo d'administratiu. Estic a Pirates de Catalunya des de la seva fundaci\u00f3 i s\u00f3c membre actiu. Tamb\u00e9 vaig participar a la campanya deles eleccions al parlament, enganxant cartells i vaig estar a  la llista de Barcelona.",
+            "down": 0,
+            "equal": 0,
+            "id": 206,
+            "title": "Proposta (#3):Francisco Lloret, per\u00f2 tamb\u00e9 a partir de la segona posici\u00f3",
+            "up": 4
+        },
+        {
+            "desc": "Hola Pirates!estic a Pirates de Catalunya des de l'inici del partit i ara exerceixo les funcions de secret\u00e0ria.Visc a Barcelona i crec que puc ser un bon refor\u00e7 per aquesta candidatura.",
+            "down": 0,
+            "equal": 1,
+            "id": 210,
+            "title": "Proposta (#4):Gemma Pom\u00e9,  2a posici\u00f3",
+            "up": 5
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #82: Votaci\u00f3 Cap de llista Barcelona",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/82"
+}

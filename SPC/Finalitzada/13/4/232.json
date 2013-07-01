@@ -1,0 +1,26 @@
+{
+    "any": 13,
+    "desc": "Les AMPAs Eixample en Moviment demanen recolzament per la seva campanya de subtitucions immediates de mestres.\n M\u00e9s informaci\u00f3:\n- Explicaci\u00f3 de la campanya en catal\u00e0: https://docs.google.com/document/d/1nWeRZpvkgw19SggFRKAqx2K4Dpa0_GLUJ_9DYd7oyoA /edit\n- Explicaci\u00f3 de la campanya en castell\u00e0: https://docs.google.com/document/d/1Kjt1mXPkDKUao-sROrJ58A44-E2SiO0fO4PnopiTVLw /edit\n- Comunicat de premsa: https://docs.google.com/document/d/1Ybhpb6ryK4AiMSKl3EWJr3Ntn0yCcju8Bm0uDwOY7u4 /edit\n- Petici\u00f3 a Change.org: http://www.change.org/es/peticiones/ministro-wert-sustituci%C3%B3n-de-maestr-s- ya\n- Web: http://sustitucionesya.org/2013/03/15/campana-de-firmas/\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\nAMPA\ncultura\neducaci",
+    "dia": 14,
+    "final": {
+        "any": 13,
+        "dia": 15,
+        "mes": 5
+    },
+    "hora": "22:46",
+    "id": 232,
+    "mes": 4,
+    "solutions": [
+        {
+            "desc": "Donar recolzament a la campanya publicant el comunicat de premsa com a art\u00edcle al bloc de Pirates i fer difusi\u00f3 de la campanya a trav\u00e9s de les xarxes.",
+            "down": 0,
+            "equal": 4,
+            "id": 833,
+            "title": "Proposta (#1):Recolzar la campanya de les AMPAs Eixample en Moviment",
+            "up": 25
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #232: Recolzar la campanya de subtitucions de mestres de \"AMPAs Eixample en Moviment\"",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/232"
+}

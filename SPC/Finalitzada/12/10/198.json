@@ -1,0 +1,42 @@
+{
+    "any": 12,
+    "desc": "Aquesta votaci\u00f3 romandr\u00e0 oberta fins el proper 16 d'Octubre a les 12:00h, i ser\u00e0 triada la opci\u00f3 m\u00e9s votada, sempre que superi els 2/3 de vots favorables.\n ------------------------------------------------------------------------\n La passada campanya vam comprar (i gastar) 10.000 adhesius.\n De tindre'n m\u00e9s, encara n'haur\u00edem escampat m\u00e9s alegrement.\n Degut a que el disseny emprat no demana el vot (logo + pirata.cat), les podem emprar fora de campanya.\n Imatge: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcFeURxIFSmsxOzgaevoPGHet 37yOqZlv3LAniFkQoG6ENGzck\n Format : 70x70mm\nImpressi\u00f3 : 1+0 tinta negre\nPaper : adhesiu mate\nManipulat : troquelat per radera\nPreu per 10.000 unitats : 125\u20ac\nPreu per 15.000 unitats : 180\u20ac\nPreu per 20.000 unitats : 220\u20ac\n *Transport a un punt de la ciutat de Barcelona incl\u00f2s en pressupostos superiors a 100\u20ac\n Prove\u00efdor: GAM Digital, el mateix que a les passades municipals i generals ( https://docs.google.com/document/d/1EAgOZOFafsPrmrvA3wLKtxE-UKdssVkVLMpnLOO8oFs /edit?hl=ca )\n Relaci\u00f3n de compras: [ http://pirates.pad.atkn.net/ep/pad/view/ro.4AJD7i73$$P/latest ]\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\n25N\nadhesius\ncampanya\ncompres",
+    "dia": 9,
+    "final": {
+        "any": 12,
+        "dia": 24,
+        "mes": 10
+    },
+    "hora": "17:32",
+    "id": 198,
+    "mes": 10,
+    "solutions": [
+        {
+            "desc": "20.000 adhesius per 220 \u20ac + IVA",
+            "down": 2,
+            "equal": 5,
+            "id": 660,
+            "title": "Proposta (#1):20.000 adhesius de Pirata.cat",
+            "up": 6
+        },
+        {
+            "desc": "Contra m\u00e9s en comprem, m\u00e9s barates surten, i en un pitjor cas les acabarem gastant durant el 2013. Com que ocupen poc, potser val la pena fer compra a l'engr\u00f2s. 30.000 adhesius han de costar 330 \u20ac + IVA com a m\u00e0xim.",
+            "down": 3,
+            "equal": 0,
+            "id": 667,
+            "title": "Proposta (#2):30.000 adhesius de Pirata.cat",
+            "up": 32
+        },
+        {
+            "desc": "Cost 125 \u20ac + IVA. La passada campanya vam exhaurir aquesta quantitat, per\u00f2 com que GAM serveix en uns 3-4 dies, podr\u00edem fer una altra comanda fins entrada la primera setmana de campanya.",
+            "down": 2,
+            "equal": 7,
+            "id": 668,
+            "title": "Proposta (#3):10.000 adhesius de Pirata.cat",
+            "up": 3
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #198: Compras Campa\u00f1a 25N - [4]: Pegatinas",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/198"
+}

@@ -1,0 +1,42 @@
+{
+    "any": 11,
+    "desc": "==Per permetre una major participaci\u00f3 dels afiliats, deixem oberta la votaci\u00f3 fins a dimarts 26 d'abril, a les 20h==\n Hem de decidir quin \u00e9s el programa electoral b\u00e0sic que portarem als municipis on ens presentem. L'opci\u00f3 que surti escollida, podr\u00e0 ser adaptada -per consens- a cada localitat respectant sempre l'esperit de l'original, l'Ideari Pirata i la Declaraci\u00f3 Universal dels Drets Humans.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\nLocals\nMarc\nMunicipals\nPrograma",
+    "dia": 16,
+    "final": {
+        "any": 11,
+        "dia": 26,
+        "mes": 4
+    },
+    "hora": "12:07",
+    "id": 91,
+    "mes": 4,
+    "solutions": [
+        {
+            "desc": "Aquesta versi\u00f3 s'ha elaborat a les reunions dels diumenges, prenent com a exemple el de les auton\u00f2miques i adaptant-lo a les possibilitats d'un ajuntament. https://xifrat.pirata.cat/commons/document/programa-municipals-sense-esmenes",
+            "down": 1,
+            "equal": 6,
+            "id": 207,
+            "title": "Proposta (#1):Programa base",
+            "up": 8
+        },
+        {
+            "desc": "Aquesta versi\u00f3 incorpora, al model base, noves propostes i diverses esmenes per tractar alguns temes amb m\u00e9s detall. https://xifrat.pirata.cat/commons/document/programa-amb-esmenes-ferdinand",
+            "down": 1,
+            "equal": 5,
+            "id": 208,
+            "title": "Proposta (#2):Programa detallat",
+            "up": 10
+        },
+        {
+            "desc": "Aquesta versi\u00f3 simplifica alguns punts respecte al programa base i incorpora una petita introducci\u00f3 i les 3 Lleis Pirates. https://xifrat.pirata.cat/commons/document/programa-b%C3%A0sic-amb-intro-i-llei s",
+            "down": 0,
+            "equal": 1,
+            "id": 209,
+            "title": "Proposta (#3):Programa amb Intro i Lleis",
+            "up": 35
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #91: Votaci\u00f3 programa electoral marc per a les eleccions locals del 22M",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/91"
+}

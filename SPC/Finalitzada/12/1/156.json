@@ -1,0 +1,34 @@
+{
+    "any": 12,
+    "desc": "El 18 de gener molts llocs es tancaran en protesta contra la llei SOPA. M\u00e9s info a http://sopastrike.com\n #############################################\nAquesta votaci\u00f3 es tancar\u00e0 el diumenge 15/01 a les 20h\n#############################################\n\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\nSOPA",
+    "dia": 14,
+    "final": {
+        "any": 12,
+        "dia": 15,
+        "mes": 1
+    },
+    "hora": "11:26",
+    "id": 156,
+    "mes": 1,
+    "solutions": [
+        {
+            "desc": "Posar un missatge explicant qu\u00e8 \u00e9s SOPA  i on ens pot conduir, i posar enlla\u00e7os si cal a contingut extern que expliqui el tema. Fer nota de premsa explicant que ens afegim a la campanya i fer-ne \u00e0mplia publicitat a les xarxes socials.",
+            "down": 2,
+            "equal": 1,
+            "id": 502,
+            "title": "Proposta (#3):Tancar el contingut habitual, posant un missatge explicatiu",
+            "up": 33
+        },
+        {
+            "desc": "Idem que l'anterior, per\u00f2 deixant els continguts accessibles",
+            "down": 13,
+            "equal": 6,
+            "id": 503,
+            "title": "Proposta (#4):Posar el missatge explicatiu, per\u00f2 sense tancar el contingut habitual",
+            "up": 2
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #156: Protesta contra SOPA: tanquem la web el 18 de gener?",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/156"
+}

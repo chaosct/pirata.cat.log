@@ -1,0 +1,82 @@
+{
+    "any": 11,
+    "desc": "####Aquesta votaci\u00f3 es tancar\u00e0 el 23 d'octubre a les 20:00 hores####\n Hem guanyat un dels premis del concurs 1dels50mil.cat ( http://1dels50mil.cat/guanyadors-i-premis/ ).\n Hem d'escollir qu\u00e8 fer amb el premi.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\n(cap)",
+    "dia": 18,
+    "final": {
+        "any": 11,
+        "dia": 24,
+        "mes": 10
+    },
+    "hora": "17:28",
+    "id": 136,
+    "mes": 10,
+    "solutions": [
+        {
+            "desc": "Renunciar a la dotaci\u00f3 del premi per donar-la a la Fundaci\u00f3 PuntCAT, que la utilitzar\u00e0 en projectes sense \u00e0nim de lucre (alguns d'ells estan relacionats amb l'Ideari Pirata). http://www.fundacio.cat/obra-social/",
+            "down": 47,
+            "equal": 4,
+            "id": 377,
+            "title": "Proposta (#1):Renunciar al premi",
+            "up": 11
+        },
+        {
+            "desc": "Sortejar el premi i que sigui l'afiliat guanyador qui decideixi amb quina de les opcions es queda.",
+            "down": 56,
+            "equal": 5,
+            "id": 378,
+            "title": "Proposta (#2):Sortejar el premi entre els afiliats de PIRATA.CAT",
+            "up": 4
+        },
+        {
+            "desc": "Tenir un ultraport\u00e0til del partit pot ser \u00fatil per a utilitzar-lo en presentacions, tallers o tenir-lo a Riereta per quan la gent ve sense ordinador que pugui donar-se d'alta i coses aix\u00ed mentre la resta treballem en altres coses. Pot ser un ordinador que estigui ben configurat per funcionar amb la xarxa de Riereta i el Mumble i que no tinguem problemes per connectar-lo cada cop que ho hem de fer en una assemblea.",
+            "down": 14,
+            "equal": 10,
+            "id": 379,
+            "title": "Proposta (#3):Escollir l'ultraport\u00e0til",
+            "up": 46
+        },
+        {
+            "desc": "Escollir el disc dur per emmagatzemar els continguts multim\u00e8dia de PIRATA.CAT.",
+            "down": 22,
+            "equal": 14,
+            "id": 380,
+            "title": "Proposta (#4):Escollir el disc dur",
+            "up": 15
+        },
+        {
+            "desc": "D'aquesta forma podem aconseguir un bons euros per a la campanya. M\u00e9s que res pq no crec que ens faci falta l'ultraport\u00e0til, doncs quasi tots tenim port\u00e0til...",
+            "down": 6,
+            "equal": 4,
+            "id": 382,
+            "title": "Proposta (#5):Subastar el premi entre qui ho vulgui, i aix\u00ed finan\u00e7ar la campanya",
+            "up": 74
+        },
+        {
+            "desc": "No s\u00e9 exactament en qu\u00e8 consisteix el premi perqu\u00e8 no s\u00e9 si la llista que he vist vol dir que ens ho donen tot o que hem d'escollir. Per\u00f2 jo crec que, independentment del que finalment ens vagi b\u00e9 per al partit i la seu central de Riereta, una part del premi hauria d'anar a l'autor del v\u00eddeo.  Com a Pirata.Cat hem aconseguit el puntcat gratu\u00eft durant un any i, el que \u00e9s molt m\u00e9s important, molta visibilitat.  Ara podem fer un munt de notes de premsa enviant els resultats a tots els media, p.e, i encara aconseguir m\u00e9s ress\u00f2.",
+            "down": 7,
+            "equal": 13,
+            "id": 383,
+            "title": "Proposta (#6):Que alguna cosa vagi per a l'autor del V\u00eddeo",
+            "up": 21
+        },
+        {
+            "desc": "Escollir un dels premis (proposeu quin als comentaris) i afegir-lo com a premi -valgui la redund\u00e0ncia- per al guanyador del premi PIRATA.CAT del FAP. http://fap.pirata.cat/",
+            "down": 21,
+            "equal": 7,
+            "id": 384,
+            "title": "Proposta (#7):Escollir un dels premis i afegir-lo com a premi del FAP!",
+            "up": 4
+        },
+        {
+            "desc": "Estem curts de diners per a la campanya. Com fan falta donacions, podem donar n\u00fameros \"virtuals\" per cada 5 euros de donacions, fins a 100 n\u00fameros (i que el guanyador sigui qui coincideixi el seu nombre virtual amb els dos \u00faltims n\u00fameros de la ONCE o d'alguna loteria d'una data determinada). Aix\u00f2 permetria recaptar 500 euros per a la campanya. Aix\u00ed motivaria a donar, per exemple, 20 eurets, amb els que aconsegueixes 4 n\u00fameros:)",
+            "down": 23,
+            "equal": 2,
+            "id": 385,
+            "title": "Proposta (#8):Sortejar el ultraport\u00e0til entre els qui donin donacions.",
+            "up": 3
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #136: Qu\u00e8 fem amb el premi de 1dels50mil.cat?",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/136"
+}

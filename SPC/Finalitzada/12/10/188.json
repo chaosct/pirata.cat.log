@@ -1,0 +1,234 @@
+{
+    "any": 12,
+    "desc": "Votaci\u00f3 per triar el cap de llista de les paperetes per Barcelona per les eleccions catalanes del 25 de novembre de 2012. \n ################################################################ \nA partir del dia 3 d'octubre fins el 9 d'octubre a les 17h hi ha temps per presentar candidatura. \nLes llistes es construiran en funci\u00f3 de l'ordre per vots i respectant la paritat. \n En la vostra candidatura escriviu una presentaci\u00f3, indicant el que cregueu convenient. \nProcureu ser concisos. Podeu incloure enlla\u00e7os si voleu donar informaci\u00f3 addicional. \n################################################################ \n ################################################################ \nSi us plau, voteu nom\u00e9s a la prov\u00edncia on esteu censats. Podeu votar a m\u00e9s d'un candidat.\n La votaci\u00f3 es tancar\u00e0 el dimarts 16 d'octubre de 2012 a les 17h. \n################################################################\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\nllistes-25N",
+    "dia": 3,
+    "final": {
+        "any": 12,
+        "dia": 28,
+        "mes": 10
+    },
+    "hora": "01:16",
+    "id": 188,
+    "mes": 10,
+    "solutions": [
+        {
+            "desc": "Presentaci\u00f3 candidatura: experi\u00e8ncia, intencions, possibilitats, condicions, enlla\u00e7os, etc.",
+            "down": 3,
+            "equal": 3,
+            "id": 607,
+            "title": "Proposta (#1):Nom i cognoms (exemple)",
+            "up": 4
+        },
+        {
+            "desc": "Tinc 34 anys i s\u00f3c investigadora. L'ideari dels Pirates de Catalunya em va engrescar des del principi perqu\u00e8 reflectia molts dels meus punts de vista, sobretot pel que fa al dret dels ciutadans a decidir i l'acc\u00e9s a la informaci\u00f3, per aix\u00f2 m'hi vaig implicar de ple. Col\u00b7laboro amb Pirates de Catalunya des de l'estiu del 2011 en tota mena de tasques: disseny web, redacci\u00f3, traducci\u00f3, recollir avals, organitzaci\u00f3, correu de contacte, reglament intern, creatius, recursos humans, etc. Des del mar\u00e7 del 2012 s\u00f3c coordinadora del Grup de Treball d'Internacional i he participat en diverses reunions internacionals en representaci\u00f3 del partit. El meu camp de recerca \u00e9s l'estudi de l'ordre de curt abast en materials desordenats (com l\u00edquids i vidres) mitjan\u00e7ant experiments de difracci\u00f3 de neutrons. Aquests em permeten mesurar les dist\u00e0ncies entre els \u00e0toms i aix\u00ed poder-ne inferir l'estructura en 3D.Si voleu m\u00e9s informaci\u00f3, podeu trobar el meu curr\u00edculum complet aqu\u00ed:https://gcm.upc.edu/members/muriel/curriculum-agost-2012 (He demanat un projecte del qual encara no s\u00e9 la resoluci\u00f3, si me'l concedissin no podria anar de cap de llista, aix\u00ed que si quan tanquen les llistes encara no ho s\u00e9 potser seria millor que no an\u00e9s en primer lloc.)",
+            "down": 7,
+            "equal": 3,
+            "id": 616,
+            "title": "Proposta (#2):Muriel Rovira Esteva",
+            "up": 61
+        },
+        {
+            "desc": "Tinc 44 anys i s\u00f3c de Barcelona. Pertanyo a Pirates de Catalunya des de la seva creaci\u00f3, i actualment s\u00f3c el secretari del partit.  He participat en totes les campanyes electorals que hem fet fins ara, col\u00b7laborant en tot el que ha estat possible. He participat en diferents grups redactant i fent esmenes al Reglament Intern, i tamb\u00e9 he col\u00b7laborat amb el grup de creatius. He treballat gaireb\u00e9 10 anys a l'Administraci\u00f3, s\u00f3c funcionari de la Generalitat des de l'any 2008, i actualment treballo d'auxiliar administratiu a l'Institut Obert de Catalunya. Tamb\u00e9 estic cursant un cicle formatiu de grau superior d'administraci\u00f3 de sistemes, i tinc estudis d'angl\u00e8s.",
+            "down": 6,
+            "equal": 10,
+            "id": 618,
+            "title": "Proposta (#3):Francisco Lloret L\u00f3pez-Nieto",
+            "up": 18
+        },
+        {
+            "desc": "Tinc 46 anys, enginyers de Telecomunicacions per l'UPC i MBA per Carnegie Mellon. Visc en parella (la Mon, tamb\u00e9 Pirata) i tinc dos fills. Soc nascut a Lleida (capital) pero visc a Barcelona des de fa molts anys.He treballat 6 anys en consultoria de TIC i estrategica a Fran\u00e7a, i per motius de feina tamb\u00e9 he viscut temporalment als EEUU, UK i Australia.Des de fa algo mes de 12 anys, treballo en el departament financer d'una multinacional catalana, on tamb\u00e9 he tingut l'oportunitat de viatjar a multitud de paisos en durades curtes.Vaig descobrir a Pirates quan vig buscar la meva opci\u00f3 de vot entre tots els partits pol\u00edtics que es presentaven a les municipals 2011 a Barcelona. Vaig caure enlluernat per la democr\u00e0cia directa i la transpar\u00e8ncia.Soc militant Pirata des de fa un any, quan a la primera reuni\u00f3 a Riereta vaig veure amb els meus propis ulls com es fan primaries per les llistes (les generals 2011) de forma molt senzilla. En aquella campanya vaig participar recollint avals i fent molta difusio (cartells, A5, etc).",
+            "down": 3,
+            "equal": 9,
+            "id": 619,
+            "title": "Proposta (#4):Moises Carrasco",
+            "up": 23
+        },
+        {
+            "desc": "Tinc 52 anys, de Barcelona. Soc un treballador del sector serveis i crec en el ideari pirata per tal de sembrar un m\u00f2n m\u00e9s just i civilitzat.",
+            "down": 3,
+            "equal": 12,
+            "id": 621,
+            "title": "Proposta (#5):Jordi Villanueva",
+            "up": 13
+        },
+        {
+            "desc": "27 anys, afiliat a PIRATA.CAT des de 2010, enginyer inform\u00e0tic per la UOC, ex-coordinador TIC del partit, candidat pel Senat al passat 20N i actualment treballo com administrador de sistemes. Abans de continuar, vull posar una condici\u00f3 a la meva candidatura: no vull anar el primer. Per motius personals no puc fer-me c\u00e0rrec del que suposen les entrevistes. Si surto el m\u00e9s votat, cedir\u00e9 el lloc al seg\u00fcent, situant-me jo a la posici\u00f3 que correspongui segons ordre i paritat. Em presento per les primerse posicions per animar a m\u00e9s gent a fer-ho. Pirates representa un paradigma nou, lliure d'antics conceptes, funcionant d'una manera totalment aliena als partits actuals. Crec en el que fem i per qu\u00e8 ho fem. I si ens acaben copiant, llavors ser\u00e0 com si hagu\u00e8ssim guanyat totes les eleccions. He participat en les tres anteriors campanyes, coordinant la de les generals. Aix\u00f2 \u00e9s degut a que s\u00f3c inquiet en moltes \u00e0rees i si quelcom no ho conec, ho aprenc. M'agrada ser vers\u00e0til i multidisciplinar.  Com coordinador TIC he ajudat als diferents dissenys de la p\u00e0gina web, he portat els servidors i la seva seguretat (amb la inestimable ajuda de tots els companys, amb experts de seguretat molt professionals). Vaig col\u00b7laborar amb YoAvalo.org i fa un any que \"treballo\" en L\u00fdd, un sistema de participaci\u00f3 ciutadana, per\u00f2 encara est\u00e0 en fase d'an\u00e0lisi (cultivant les propostes que em feu sovint al respecte :)[...]A nivell personal, estic vinculat al m\u00f3n de la cultura lliure amb Qomun http://qomun.com, el directori i plataforma de promoci\u00f3 de la cultura lliure. I porto anys vinculat al m\u00f3n del software lliure, tant com usuari o desenvolupador (m\u00e9s aviat beta-tester), havent participat en associacions locals de Linux i inform\u00e0tica des dels 14 anys. Tamb\u00e9 mantinc socvot http://socvot.com, una web per con\u00e8ixer totes les candidatures de les eleccions.",
+            "down": 6,
+            "equal": 3,
+            "id": 622,
+            "title": "Proposta (#6):Dario Casta\u00f1\u00e9",
+            "up": 54
+        },
+        {
+            "desc": "Mi nombre es Manoli Martin Rey tengo 40 a\u00f1os y nac\u00ed en Barcelona, aunque resido en Sant Fruit\u00f3s de Bages desde el 2003. Estoy casada y tengo dos hijas.  Soy Graduada Social y desde las \u00faltimas elecciones municipales soy regidora Pirata en Sant Fruit\u00f3s de Bages, gobernando en una agrupaci\u00f3n municipal con ERC y candidatos independientes (Imagina\u2019t Sant Fruit\u00f3s) dentro de un tripartito con un grupo independiente (Gent Fent poble) y PSC. Con las regidur\u00edas de Juventud, Comunicaci\u00f3n, TIC y Recursos Humanos, llevo un a\u00f1o y dos meses representando a los vecinos de mi municipio. Sin experiencia pol\u00edtica previa, este primer a\u00f1o ha sido un \u201caterriza como puedas\u201d y una formaci\u00f3n contra corriente de lo que es la administraci\u00f3n p\u00fablica, su funcionamiento y el papel que juega el \u201cpol\u00edtico\u201d en todo el sistema. En este a\u00f1o de legislatura he aprendido que el pol\u00edtico no es el \u00fanico responsable de que las cosas se desarrollen como debieran,  aunque si es una parte muy importante. Dentro de la \u201cbestia\u201d como llamaba Birgitta J\u00f3nsd\u00f3ttir al sistema, los trabajadores, los medios y la participaci\u00f3n ciudadana son muy importantes. He participado en todas las elecciones en las que Pirata.cat ha tenido representaci\u00f3n, he colaborado en todas las campa\u00f1as.[...]Sigo creyendo en la democracia directa y como no tengo ning\u00fan tipo de confianza en ning\u00fan partido de los que dicen \u201crepresentarnos\u201d quiero ser mi propio \u201cgobernante\u201d y decidir entre todos nuestro futuro. Es por ese motivo que presento mi candidatura a las pr\u00f3ximas elecciones al Parlament de Catalunya el 25 de noviembre. http://manoli.pirata.cat/2012/02/12/pequenos-cambios-y-grandes-detalles/http://imaginatsantfruitos.blogspot.com.es/",
+            "down": 9,
+            "equal": 8,
+            "id": 625,
+            "title": "Proposta (#7):Manoli Mart\u00edn",
+            "up": 44
+        },
+        {
+            "desc": "S'acosta una polaritzada campanya entorn a l'autodeterminaci\u00f3 i/o a les retallades del govern. Crec que PIRATA.CAT ha de seguir defensant el canvi de model pol\u00edtic i l'augment de la  participaci\u00f3 ciutadana. Podem aprofitar les escletxes del sistema per establir noves prioritats al marge dels pol\u00edtics. Sempre que pugui sumar al projecte Pirata, aqu\u00ed teniu el meu nom i candidatura pels pr\u00f2xims comicis. Amb 37 anys, treballo per lliure en comunicaci\u00f3 digital. Visc a l'Hospitalet de Llobregat, on col\u00b7laboro amb les iniciatives de l'Assemblea local de L'H. Porto 2 anys col\u00b7laborant amb Pirates de Catalunya. Una mica de safreig: https://twitter.com/davidesteve",
+            "down": 2,
+            "equal": 8,
+            "id": 628,
+            "title": "Proposta (#8):David Esteve L\u00f3pez",
+            "up": 18
+        },
+        {
+            "desc": "Hola, soc Esteve tinc 36 anys i soc d'Hospi.Conec Pirates des de que estava participant com a activista al grup de \"Estado del Malestar\",on era administrador del grup tan a nivell d\u2019Espanya com a Barcelona. All\u00e0 conec a en Kenneth i em parla de Pirata.cat.Des de llavors, soc afiliat de Pirata.cat i col\u2022laboro com a difusor de continguts de manera informal, en les votacions del IdeaTorrent i assisteixo a trobades quan les obligacions m\u2019ho permeten.Pressento la meva candidatura, per sumar esfor\u00e7os. Per aquest motiu us agrairia que en el cas de sortir votada la meva candidatura, sigui de les darreres a la llista, la meva presencia es exclusivament amb intenci\u00f3 de omplir llistes, feina de vegades complicada, encara que si assolim amb \u00e9xit, i arribo a sortir  la funci\u00f3 es \u00fanica i exclusivament ser veu del que es voti aqu\u00ed, tal com espero que sigui com a usuari i membre de base",
+            "down": 1,
+            "equal": 11,
+            "id": 629,
+            "title": "Proposta (#9):Esteve S\u00e0nchez",
+            "up": 14
+        },
+        {
+            "desc": "Tinc 34 anys, de Barcelona. Treballo com a consultor i formador en programari lliure i col\u00b7laboro amb iniciatives de cultura/programari/informaci\u00f3 lliure des del 1998. S\u00f3c un dels membres fundadors de Pirates de Catalunya i en aquests moments vocal de la junta. Als inicis de Pirates de Catalunya vaig ajudar en la configuraci\u00f3 dels sistemes i els tr\u00e0mits de legalitzaci\u00f3 del partit. Comparteixo plenament l'ideari de Pirates, i en especial vull ajudar a donar a con\u00e8ixer la democr\u00e0cia directa i la transpar\u00e8ncia, els nostres grans trets diferencials. Al 2010 vaig coordinar la campanya electoral al parlament de Catalunya, i despr\u00e9s he participat en totes les campanyes electorals de Pirata.cat i en bona part de les no electorals, com #megacomplaint, parents 2 parents, yoavalo, presentaci\u00f3 de Pirata.cat al PPI, congr\u00e9s de PPEU, etc... En aquest moments faig tasques d'organitzaci\u00f3 a la junta, i tasques de premsa/portaveu al grup de comunicaci\u00f3, que \u00e9s a on crec que puc fer m\u00e9s servei. Haur\u00e9 de ser fora els laborables compresos entre el 22 d'octubre i el 21 de novembre. La meva capacitat de treball durant aquesta campanya ser\u00e0 principalment en remot, m\u00e9s els caps de setmana i els \u00faltims dies de campanya, pel que considero que seria m\u00e9s interessant que alg\u00fa altre, amb m\u00e9s disponibilitat que no pas jo, sigui el/la nostre cap de llista.",
+            "down": 11,
+            "equal": 5,
+            "id": 631,
+            "title": "Proposta (#10):Kenneth Peiruza",
+            "up": 56
+        },
+        {
+            "desc": "TITULACI\u00d3 OFICIAL: Llicenciat en Dret per la Universitat de Barcelona, febrer de 1982. Diplomat per l'Escola de Pr\u00e0ctica Jur\u00eddica Roda Ventura, de l'Il\u00b7lustre Col\u00b7legi d'Advocats de Barcelona, en Comptabilitat i Auditoria per advocats. Diplomat en Contractaci\u00f3 Internacional per la Universitat Trias de Bes i Gir\u00f3. Diplomat en Dret Comunitari pel Patronat Catal\u00e0 Pro Europa de la Generalitat de Catalunya. TREBALLS I C\u00c0RRECS:A) ACTIVITAT DOCENT Professor de l'Escola de Policia de Catalunya (1995- 2003). Professor de T\u00e8cniques de Negociaci\u00f3 i Mediaci\u00f3 en diversos cursos organitzats per la Universitat de Barcelona, Col\u00b7legi d'advocats de Barcelona i Col\u00b7legi de Psic\u00f2legs de Barcelona, Diputaci\u00f3 de Barcelona i Diputaci\u00f3 d'Alacant. Professor de T\u00e8cniques d'Auditoria Jur\u00eddica en Entorns Inform\u00e0tics en diversos cursos organitzats per l'Universitat Reina Cristina de l'Escorial, IEE i per Granada UVS i Seresco.[...]Professor del M\u00e0ster de Dret i Inform\u00e0tica d'ICADE (Universitat Pontif\u00edcia de Comillas) i del M\u00e0ster d'ISDE (Institut de Dret i Empresa de Les Heures de la Universitat de Barcelona) Membre del Comit\u00e8 d\u2019experts d\u2019AENOR per a la preparaci\u00f3 de la nova norma ISO/UNE de Procediments \u00c8tics per a les empreses i institucions. Consultor reconegut per BSA i Aenor per donar el certificat Aenor de Software Legal. Consultor reconegut per AENOR per a la Legislaci\u00f3 de la UNE 71502. B) ACTIVITATS CORPORATIVES Primer President de la Secci\u00f3 d'Inform\u00e0tica del Col\u00b7legi d'Advocats de Barcelona. Diputat a la Junta de Govern de l'Il\u00b7lustre Col\u00b7legi d'Advocat de Barcelona (1989 a 1993). Membre de la Fundaci\u00f3 Dintel i de l'OAI (Organitzaci\u00f3 d'Auditoria Inform\u00e0tica Espanyola). Membre del Comit\u00e8 d'Experts en mat\u00e8ria de multiculturalitat per designaci\u00f3 de l'Ajuntament de Terrassa i la Diputaci\u00f3 de Barcelona. Membre fundador d'ACDMA (ASSOCIACI\u00d3 CATALANA PER AL DESENVOLUPAMENT DE LA MEDIACI\u00d3 I L\u2019ARBITRATGE). Va ser un dels set experts encarregats d'introduir la mediaci\u00f3 a Espanya Professor dels Cursos de Doctorat de la Universitat de Barcelona. Ha tutoritzat amb el Departament d'Estad\u00edstica de la Universitat Aut\u00f2noma en la realitzaci\u00f3 de projectes d'enquestes d'intenci\u00f3 de vot. Ha donat formaci\u00f3 en gesti\u00f3 de Conflictes a l'Institut de Sociologia Juridica del Pa\u00efs Vasc a O\u00f1ate i Bilbao. C) ACTIVITAT PROFESSIONAL Exercici lliure com a Advocat des de l'any 1983, en les branques de dret Civil, Mercantil i Comunitari, havent estat escollit com a \u00e0rbitre i mediador en diverses ocasions. Exercici Lliure com a Assessor en Negociaci\u00f3 i Mediaci\u00f3 per a empreses des de 1995. Exercici Lliure com a Auditor des de 1997 especialitzat en Auditoria Jur\u00eddica dels entorns inform\u00e0tics. President del Comit\u00e8 cient\u00edfic de les Jornades de Teulada i Roda de Bar\u00e0. Promotor i dissenyador del conflicte contra el Canon Digital, Ha defensat davant el Tribunal de la Uni\u00f3 Europea l'exenci\u00f3 del Canon Digital en l'assumpte SGAE/PADAWAN PUBLICACIONS: Informe sobre la Implantaci\u00f3 de la LORTAD, en l\u2019\u00e0mbit dels professionals del Dret amb el t\u00edtol \"ADVOCACIA I LORTAD\" (1992). Diversos articles sobre Dret de la Inform\u00e0tica i Telem\u00e0tica apareguts a les revistes Economist&Jurist;, MON JUR\u00cdDIC, Base Inform\u00e0tica, Tecnonews i altres. Diverses Editorials publicades per UPCO. Coautor del llibre \u201cL'AUDITORIA INFORM\u00c0TICA, Un enfocament pr\u00e0ctic\u201d, Publicat per Editorial RAMA. Coautor del Llibre \u201cDrets Humans i Policia\u201d, publicat per la Diputaci\u00f3 de Barcelona. Coautor del Llibre \u201cLos Datos de los ciudadanos en los Ayuntamientos\u201d, Editorial Diaz de Santos.",
+            "down": 14,
+            "equal": 6,
+            "id": 632,
+            "title": "Proposta (#11):Josep Jover i Padr\u00f3 (independent)",
+            "up": 46
+        },
+        {
+            "desc": "Tal y como reza el encabezamiento soy Sonia Are\u00e1n Corral, gipuzkoana afincada en Barcelona desde hace un par de a\u00f1os, donde trabajo como abogado procesalista en las areas de civil-mercantil y penal. Soy afiliada al partido pirata pr\u00e1cticamente desde sus inicios, aunque tard\u00e9 algo m\u00e1s en colaborar todo lo activamente que mi trabajo y mis horarios me permiten. Me afili\u00e9 del modo m\u00e1s tonto, mientras un d\u00eda lanzaba un \"mini\" m\u00edtin entre unos amigos, uno me dijo: \"\u00bfPorqu\u00e9 no te afilias a Piratas, coincides en todo?\", y dicho y hecho, aqu\u00ed estoy, creyendo que luchamos por una efectiva transparencia y por la defensa de los derechos de las personas. Soy una fiel creyente de la democracia, de la transparencia,  y de la necesidad de defender los derechos. Mi propuesta, no va encaminada a ser Cap de Llista ya que no dispongo de mucho tiempo libre, pero s\u00ed que trabajar\u00e9 todo lo que pueda para cambiar las cosas y representar a todas las personas que confian en nosotros, siendo un representante y sin imponer, en ning\u00fan caso, mi forma de pensar.",
+            "down": 2,
+            "equal": 8,
+            "id": 633,
+            "title": "Proposta (#12):Sonia Are\u00e1n Corral",
+            "up": 34
+        },
+        {
+            "desc": "Tinc 27 anys, s\u00f3c enginyer de telecomunicacions i afiliat de PIRATA.CAT des de 2010. Treballo com a project manager en projectes a l'\u00e0mbit de la mobilitat, principalment en el desevolupament d'aplicacions per a smartphones per a diferents empreses i administracions p\u00fabliques.  Col\u00b7laboro activament al grup de treball de PIRATA.CAT a L'H. Des del grup de treball de L'H he participat activament en les diferents tasques de difusi\u00f3 de l'ideari pirata a la nostra ciutat, incloent el treball al carrer i a les diferents xarxes socials. Durant les eleccions municipals, tamb\u00e9 vaig dur a terme les tasques necess\u00e0ries per formalitzar la candidatura a L'H, configurant les llistes de candidats i ajudant a la nostra interlocutora Laura amb les gestions a la JEZ i als mitjans de comunicaci\u00f3 de L'H.  Vaig ser candidat a les auton\u00f2miques de 2010 per Barcelona, a les municipals per L'H i a les generals per Barcelona tamb\u00e9. Actualment s\u00f3c Vocal de la Junta. La meva motivaci\u00f3 \u00e9s sencilla: crec firmement en els idearis PIRATA, i no nom\u00e9s crec que sigui possible implementar-los sin\u00f2 que, segons el meu punt de vista, s\u00f3n una soluci\u00f3 sostenible als problemes actuals dels diferents nivells d'institucions de l'estat/autonomia/municipi en quant a corrupci\u00f3, exc\u00e8s de poder i la desalineaci\u00f3 total que sembla haver-hi entre la politica i el ciutad\u00e0. I despr\u00e9s de dos anys treballant amb tots vosaltres, cada cop estic m\u00e9s segur que ho aconseguirem :-)",
+            "down": 4,
+            "equal": 6,
+            "id": 635,
+            "title": "Proposta (#13):V\u00edctor Rubio Albaladejo",
+            "up": 31
+        },
+        {
+            "desc": "Tinc 36 anys i s\u00f3c de Barcelona, encara que vaig viure molts anys a Girona. Tinc un Bachelor Business in Administration, s\u00f3c diplomada en Relacions Laborals per la Universitat Pompeu Fabra, llicenciada en Ci\u00e8ncies del Treball per la Universitat Oberta de Catalunya i tinc un postgrau de Creaci\u00f3 d'Empreses de la Universitat de Girona. Actualment estudio un cicle formatiu de grau superior d'Administraci\u00f3 i Finances a l'Institut Obert de Catalunya i com ja estava farta d'estudiar angl\u00e8s estic aprenent noruec. En els deu anys que porto treballant a la Generalitat he passat per set Departaments diferents i m'he encarregat de tot tipus de tasques. Des de fa quatre anys s\u00f3c funcion\u00e0ria de carrera i actualment presto serveis al Departament d'Ensenyament, a l'Institut Obert de Catalunya. Tanmateix, aspiro algun dia a poder canalitzar el meu esperit emprenedor muntant la meva pr\u00f2pia empresa. El que m\u00e9s em crida de l'ideari Pirata \u00e9s l'afany de modernitzar l'Administraci\u00f3 i de donar-li una empenta a la democr\u00e0cia directa fent servir les noves tecnologies.",
+            "down": 0,
+            "equal": 13,
+            "id": 636,
+            "title": "Proposta (#14):Tha\u00efs Oliva Frigola",
+            "up": 18
+        },
+        {
+            "desc": "Nascut el 76, Enginyer t\u00e8cnic en Telecomunicacions. S\u00f3c un dels membres fundadors de Pirates. Secretari General fins el gener del 2012. Cap de llista de les primeres eleccions (Auton\u00f2miques 2010), membre de la llista de les eleccions municipals (2011) per Barcelona i cap de llista de les generals (2011) per Lleida.Com avantatge, la meva experi\u00e8ncia en aquest \u00e0mbit i ser una cara que si es busca per internet, ja hi ha articles de les eleccions pr\u00e8vies. Com inconvenient, acabo de tenir un fill i, per tant, el meu comprom\u00eds en el tema de la campanya no ser\u00e0, ni de lluny, l'\u00f2ptim ni previsible, per lo que m\u00e9s que l\u00f2gic que no sigui el cap de llista si la gent no ho considera adequat.",
+            "down": 3,
+            "equal": 10,
+            "id": 637,
+            "title": "Proposta (#15):Xavi Vila",
+            "up": 27
+        },
+        {
+            "desc": "Soy un asturiano de 35 a\u00f1os.  He estudiado Historia, aunque he ejercido de muchas cosas, los \u00faltimos a\u00f1os de top\u00f3grafo. Llevo poco m\u00e1s de un a\u00f1o en Pirates de Catalunya, y en este tiempo he participado sobre todo en el \u00e1rea de Comunicaci\u00f3n, publicando varios art\u00edculos en el blog como este: http://pirata.cat/bloc/?p=2359 Mi compromiso con Pirates procede principalmente de sus aspiraciones con la democracia directa. Creo que, si bien la democracia directa no puede garantizar que todas las decisiones sean acertadas, al menos s\u00ed puede garantizar que la mayor\u00eda de las decisiones no se tomar\u00e1n para que el cu\u00f1ado de alg\u00fan pol\u00edtico se forre. Y eso es un grand\u00edsimo paso adelante.",
+            "down": 2,
+            "equal": 8,
+            "id": 638,
+            "title": "Proposta (#16):(Tiberio) Jorge Coto Bautista",
+            "up": 30
+        },
+        {
+            "desc": "Valles\u00e0 de 38 anys, visc en parella i he estudiat fins a 1er d\u2019IT de sistemes,  la meva vida professional va de l\u2019electr\u00f2nica industrial a l\u2019 inform\u00e0tica passant per diversos camps de sistemes.  Estic a pirates des de poc despr\u00e9s dels seus inicis a l\u2019octubre del 2010, he col\u2022laborat amb algunes campanyes tamb\u00e9 com a candidat al senat. Els pirates hem de portar les decisions, de la poblaci\u00f3, sobre aspectes de la nostre vida que ara estan en mans d\u2019interessos d\u2019uns pocs. La transpar\u00e8ncia i democr\u00e0cia directa han de ser el moll de l\u2019os Pirata en aquests temps.Salut i rom!",
+            "down": 1,
+            "equal": 4,
+            "id": 652,
+            "title": "Proposta (#17):Sergi Jord\u00e0 Vera",
+            "up": 34
+        },
+        {
+            "desc": "O hai! Soc el David, tinc 28 anys i visc a Barcelona. Vaig estudiar a la FIB-UPC, i soc desenvolupador Python. Segueixo el moviment pirata des del 2007, atret per les seves posicions respecte al Programari Lliure. Vaig contribuir a la fundaci\u00f3 de Pirates de Catalunya al 2010, i des de llavors m'interessa la Transpar\u00e8ncia i la Participaci\u00f3 Ciutadana. Actualment soc Coordinador de Comunicaci\u00f3 i Vocal de la Junta, tot i que he en els darrers dos anys he fet una mica de tot:- a Comunicaci\u00f3 he fet xerrades presencials, entrevistes i contacte amb col\u00b7lectius externs, responsable continguts al bloc, estrat\u00e8gia a les xarxes socials, moderador a reunions internes, manteniment del calendari, i tallers de debat per a portaveus.- a TIC vaig fer la primera versi\u00f3 de la web, configuraci\u00f3 i manteniment del bloc, integraci\u00f3 autom\u00e0tica de diferents xarxes socials, seguiment de la pres\u00e8ncia a Internet, i injeccions intravenoses de RedBull al Dario (\u00e9s broma xD)- a Relacions Internacionals: vaig ser delegat a Praga (Assemblea General PPI 2012). He participat a les llistes de correu de PPI, PPEU, PP-Iberoam\u00e9rica, i de la \"Confederaci\u00f3n Pirata\" espanyola. Mantinc contacte regular amb pirates d'altres pa\u00efsos.- Altres: he participat a les tres campanyes electorals anteriors (des d'entrevistes a recollir avals i encartellar), a les festes, al Congr\u00e9s d'Arenys, etc. [...]Com a inconvenient, disposar\u00e9 de poc temps durant la campanya, aix\u00ed que no podr\u00e9 dedicar tant de temps com m'agradaria. Salut i rom!",
+            "down": 6,
+            "equal": 12,
+            "id": 653,
+            "title": "Proposta (#18):David Arcos",
+            "up": 31
+        },
+        {
+            "desc": "Tengo 25 a\u00f1os y soy aut\u00f3nomo. Llevo pensando en Pirata desde 2010, cuando me di cuenta que la pol\u00edtica corriente no funcionaba. Siempre me gust\u00f3 el partido porque no lo considero un partido tan ideol\u00f3gico como herramienta, tiene un fin, y ese es su objetivo. Con el nacimiento del 15M, donde participo activamente, mi colaboraci\u00f3n con Pirates no ha ido m\u00e1s all\u00e1 de estar afiliado, del voto y de hacer campa\u00f1a personal. A nivel personal soy codirector del diario online sobre comunicaci\u00f3n online FrecuenciaDigital.es y participo en la creaci\u00f3n de rLAN (red Libre Abierta Neutral) basada en la red Guifi.Net. Me gano (o lo intento) la vida con ello, y haciendo chapuzas 2.0. Tengo estudios de administraci\u00f3n y finanzas en Grado Superior y he trabajado de auxiliar administrativo y auxiliar contable. Se que hay personas much\u00edsimo m\u00e1s preparadas que yo, y que ser\u00e1n seguramente las cabezas de lista, pero me han animado a que me presente, y creo que si puedo ser una buena ayuda en la lista. Mi compromiso, sea el puesto que sea, ser\u00e1 el uso de todo mi tiempo libre (y el que suelo usar para el sue\u00f1o) a Pirates y a su campa\u00f1a, donde creo que puedo ayudar bastante. L\u00f3gicamente, el 31 de octubre y especialmente el 14 de noviembre, si los sindicatos mayoritarios se apuntan, un servidor estar\u00e1 de Huelga General y de Consumo, y tambi\u00e9n pol\u00edtica, y pienso que deber\u00edamos estarlo todos y el propio partido.",
+            "down": 2,
+            "equal": 14,
+            "id": 655,
+            "title": "Proposta (#19):Francisco Garrobo",
+            "up": 16
+        },
+        {
+            "desc": "Hola, s\u00f3c enginyer industrial de 58 anys, i porto tota la meva vida professional treballant en projectes TIC. He treballat en l'administraci\u00f3 p\u00fablica (Hospital de Bellvitge i ICS) i en empreses multinacionals TIC (Digital, HP, iSOFT, IBA, ...). En l'actualitat s\u00f3c professor col\u2022laborador de la UOC (m\u00e0sters en SI i processos hospitalaris), i treball com a freelance en consultoria i desenvolupament de projectes en aplicacions web i mobile.La meva experi\u00e8ncia com a pirata, \u00e9s m\u00e9s aviat curta, 1 any i pocs mesos, per\u00f2 m'ha ajudat a obrir els ulls ja adonar-me que \u00e9s imprescindible un canvi total en la manera s'ha de fer la pol\u00edtica i en la necessitat imperiosa de canviar el sistema caduc actual de representaci\u00f3 parlament\u00e0ria, per un sistema obert, participatiu, plural on les decisions siguin preses per l'opini\u00f3 i vots de les persones i no dels representants electes.En aquest poc temps he col\u2022laborat en la recollida d'avals de les generals 2011, vaig participar en la campanya del 2011, he estat vinculat a la Junta en aquest 2012, i he realitzar principalment activitats en el Grup de Programa i en el Grup Territorial del Vall\u00e8s Occidental .Estem en una etapa crucial de la hist\u00f2ria de Catalunya, i crec que des de Pirates \u00e9s el moment perqu\u00e8 aportem a aquesta societat la frescor d'idees (democr\u00e0cia, transpar\u00e8ncia, drets humans, participaci\u00f3, ...) que portem en el nostre portfoli i que cal per a la transformaci\u00f3 del sistema pol\u00edtic. juli-----------------------------------------Hola, soy ingeniero industrial de 58 a\u00f1os, y llevo toda mi vida profesional trabajando en proyectos TIC. He trabajado en la administraci\u00f3n p\u00fablica (Hospital de Bellvitge e ICS) y en empresas multinacionales TIC (Digital, HP, iSOFT, IBA,\u2026). En la actualidad soy profesor colaborador de la UOC (masters en SI y procesos hospitalarios), y trabajo como freelance en consultor\u00eda y desarrollo de proyectos en aplicaciones web y mobile.[...]Mi experiencia como pirata, es m\u00e1s bien corta, 1 a\u00f1o y pocos meses, pero me ha ayudado a abrir los ojos y a darme cuenta  que es imprescindible un cambio total en la forma en se debiera hacer la pol\u00edtica y  en la necesidad imperiosa de cambiar el sistema caduco actual de representaci\u00f3n parlamentaria, por un sistema abierto, participativo, plural  donde las decisiones sean tomadas por la opini\u00f3n y votos de las personas y no de los representantes electos. En este poco tiempo he colaborado en la recogida de avales de las generales 2011, particip\u00e9 en la campanya de 2011, he estado vinculado a la Junta en este 2012, y realizo principalmente actividades en el  Grupo de Programa y en el  Grupo Territorial del Vall\u00e9s Occidental.Estamos en una etapa crucial de la historia de Catalunya, y creo que desde Piratas es el momento para que aportemos a esta sociedad la frescura de ideas (democracia , transparencia, Derechos Humanos, Participaci\u00f3n, \u2026) que llevamos en nuestro portafolio y que es necesaria para la transformaci\u00f3n del sistema pol\u00edtico. julio",
+            "down": 1,
+            "equal": 8,
+            "id": 656,
+            "title": "Proposta (#20):Julio Bou Santos",
+            "up": 26
+        },
+        {
+            "desc": "S\u00f3c professor em\u00e8rit de teoria econ\u00f2mica a la Universitat de Barcelona. M\u2019he especialitzat entre d\u2019altres en els temes de economia de la salut, mercat i pol\u00edtica de medicaments y patents.Actualment s\u00f3c el tresorer de Pirates i participo activament en el grup de programa.Els meus principals interessos dins del partit s\u00f3n contribuir a acabar el reglament intern i la eventual modificaci\u00f3 dels estatuts i assegurar-ne l\u2019aplicaci\u00f3 per tal de aconseguir un funcionament del partit que reflecteixi el nostre ideari i al mateix temps sigui \u00e0gil i eficient. Per altra part, crec que hem d\u2019aprofundir en el nostre ideari mitjan\u00e7ant el debat intern i amb altres persones i grups socials, per tal de ser capa\u00e7os d\u2019explicar i conv\u00e8ncer a la societat de l\u2019 inter\u00e8s de les nostres propostes. Quan a temes concrets estic especialment interessat en els que fan refer\u00e8ncia a la transpar\u00e8ncia i al desenvolupament d\u2019instruments amigables per a fer possible la participaci\u00f3 ciutadana.",
+            "down": 2,
+            "equal": 7,
+            "id": 657,
+            "title": "Proposta (#21):Joan Rovira",
+            "up": 40
+        },
+        {
+            "desc": "Barcelonesa de 32 anys, establerta des de fa 6 a l'Alt Pened\u00e8s - Gelida, i resident temporal de la comarca del Baix Llobregat. T\u00e8cnica en Integraci\u00f3 Social i Diplomada en Relacions Laborals amb experi\u00e8ncia en projectes de desenvolupament personal, formaci\u00f3 i inserci\u00f3, incorporant les TIC i el programari lliure de manera transversal. Afiliada a Pirates de Catalunya des del 2011 i candidata pel Senat en les eleccions del 20N. Em presento com a candidata sense optar a la posici\u00f3 de cap\u00e7alera per falta de disposici\u00f3 de temps. En tot cas, treballar\u00e9 per la llibertat de la formaci\u00f3 i la informaci\u00f3, la transpar\u00e8ncia i la democr\u00e0cia directa. nOe Barcelonesa de 32 a\u00f1os, afincada desde hace 6 en el Alt Pened\u00e9s - Gelida, y residente temporal de la comarca del Baix Llobregat. T\u00e9cnica en Integraci\u00f3n Social y Diplomada en Relaciones Laborales con experiencia en proyectos de desarrollo personal, formaci\u00f3n e inserci\u00f3n, incorporando las TIC y el programario libre de manera transversal. Afiliada a Pirates de Catalunya desde 2011 y candidata por el Senado en las elecciones del 20N.  Me presento como candidata sin optar a la posici\u00f3n de cabeza por falta de disposici\u00f3n de tiempo. En todo caso, trabajar\u00e9 por la libertad de la formaci\u00f3n y la informaci\u00f3n, la transparencia y la democracia directa. [...]nOe",
+            "down": 0,
+            "equal": 10,
+            "id": 662,
+            "title": "Proposta (#22):Noemi Romero",
+            "up": 15
+        },
+        {
+            "desc": "Catalan de 32 a\u00f1os. Conozco y me muevo por Pirates de Catalunya desde antes de su fundaci\u00f3n pero por motivos familiares mis apariciones son muy espor\u00e1dicas. Afiliado desde el 2011 (\u00a1\u00a1Gracias Paco!!) Participe en la recogida de avales del a\u00f1o pasado y de modo activista buzoneando y colgando carteles. Creo y sue\u00f1o con la democracia directa y la transparencia.",
+            "down": 1,
+            "equal": 11,
+            "id": 663,
+            "title": "Proposta (#23):Miguel Ponce",
+            "up": 12
+        },
+        {
+            "desc": "11 semanas y 2 d\u00edas en Piratas.Cat; casi dos a\u00f1os sigui\u00e9ndolo... Periodista y profesional de la comunicaci\u00f3n hasta hace poco m\u00e1s de 2 a\u00f1os en empresas e instituciones diversas. Estoy reinvent\u00e1ndome como emprendedora/empresaria, y lo que me cuesta !!!. http://www.linkedin.com/profile/edit?trk=hb_tab_pro_top Tengo 50 a\u00f1os, 2 hijos y 1 hija. Vivo en Alella (Maresme), donde soy regidora en la oposici\u00f3n por la agrupaci\u00f3n electoral Gent d'Alella www.gentdalella.cat .  Comparto el ideario Pirata; admiro el movimiento y c\u00f3mo est\u00e1 creciendo en Europa. Quiero ayudar a que crezca aqu\u00ed. Quiero democracia directa, una nueva Constituci\u00f3n, una nueva Ley Electoral y, sobre todo, m\u00e1s justicia social.  Mantengo cierta prevenci\u00f3n sobre mi disponibilidad en estas elecciones y sobre la compatibilidad de ambas \"militancias\". Pero vamos a hacer camino....",
+            "down": 2,
+            "equal": 8,
+            "id": 666,
+            "title": "Proposta (#24):Merc\u00e8 Marzo",
+            "up": 28
+        },
+        {
+            "desc": "Soc un alien\u00edgena, no s\u00f3c del planeta Terra. A la Terra hi ha molta corrupci\u00f3, i jo no hi vull participar. Per tant, proposo entrar al parlament per rebatejar el planeta terra i democratitzar-lo, per crear un m\u00f3n a on el que regni sigui la pau i no els reis que es van carregant elefants :) Per cert, tinc 23 anys i s\u00f3c t\u00e8cnic en microinform\u00e0tica i xarxes. Salut!",
+            "down": 17,
+            "equal": 12,
+            "id": 672,
+            "title": "Proposta (#25):Antonio Qui\u00f1onero Mart\u00edn",
+            "up": 12
+        },
+        {
+            "desc": "Bona tarda, M'han animat a presentar la meva candidatura, tamb\u00e9 :) B\u00e9, doncs em presento: S\u00f3c l'Aida, tinc 27 anys i s\u00f3c enginyera superior en inform\u00e0tica per la UPC. He estat 5 anys treballant en recerca biom\u00e8dica, concretament en el funcionament i l'ADN de les neurones i el sistema neurol\u00f2gic. Degut a la situaci\u00f3 i a les retallades en el camp de la recerca, vaig haver de deixar aquesta feina i actualment treballo al departament d'IT d'una empresa dedicada a not\u00edcies del mercat de Forex i a monitoritzaci\u00f3 a temps real dels canvis de divises. Les meves passions s\u00f3n la recerca, la inform\u00e0tica, i l'esport, concretament la vela lleugera. En el meu temps lliure dono classes de vela lleugera a tot tipus de persones, especialment a col\u00b7lectius amb risc d'exclusi\u00f3 social, com interns de presons, persones amb malalties mentals greus, persones amb molt pocs recursos econ\u00f2mics i gent amb tot tipus de diversitat funcional, com sords, invidents, parapl\u00e8gics i tetrapl\u00e8gics.  Tamb\u00e9 he impulsat de manera volunt\u00e0ria un projecte de professionalitzaci\u00f3 i implementaci\u00f3 d'eines tecnol\u00f2giques per a que persones d'aquests col\u00b7lectius puguin ser instructors de vela lleugera i puguin accedir al m\u00f3n laboral, millorant aix\u00ed les seves condicions de vida. Pel que fa a Pirates de Catalunya, hi col\u00b7laboro des dels inicis en tot el que puc, organitzant xerrades, cercant avals, escrivint articles... perqu\u00e8 realment crec que nom\u00e9s hi ha una manera de canviar les coses: fent-ho.",
+            "down": 0,
+            "equal": 4,
+            "id": 674,
+            "title": "Proposta (#26):Aida Regi",
+            "up": 33
+        },
+        {
+            "desc": "Democracia significa \"Poder del Pueblo\". Y creo que el siglo XXI, es Pirata. Ha llegado el momento de crear una nueva carta magna, con la que los dirigentes vuelvan a renunciar al poder que se les ha otorgado y el pueblo adquiera mas control sobre su propio destino. Ha llegado el momento de recuperar la Democracia Directa. Con dicho planteamiento me presento como candidato a cabeza de lista. La corrupci\u00f3n y la falta de transparencia son los dos mayores problemas de esa c\u00fapula electa. Y es donde debemos actuar, actuando como \"infiltrados\" de la poblaci\u00f3n para explicar que sucede realmente en cada una de las comisiones.  Sobre mi:35 a\u00f1os, casado y padre. ;)Natural de Mollet del Vall\u00e8s Trabajo actualmente como camarero en un bar de copas. Colaboro con diversas listas piratas desde el 2011. Miembro de 1 asociaci\u00f3n sin \u00e1nimo de lucro y gestiono el proyecto de creaci\u00f3n de \"ADEF Baix Vall\u00e8s\" (Associaci\u00f3 pel desenvolupament econ\u00f2mic i formatiu del Baix Vall\u00e8s.)Colaboro con entidades a nivel inform\u00e1tico en Mollet del Vall\u00e8s, gestionando blog y incidencias varias :)[...]Curs\u00e9 mis estudios de Ingenier\u00eda T\u00e9cnica en inform\u00e1tica de Gesti\u00f3n en  Universitat de Vic, donde por cierto, ayud\u00e9 a crear la asociaci\u00f3n de estudiantes all\u00e1 por el 96 y fui miembro del \u201cConsell interuniversitari de Catalunya\u201d. Asqueado tras asistir a mi primera reuni\u00f3n de la misma, renunci\u00e9 a ambas organizaciones, al ver como de politizadas estaban muchas de las otras asociaciones estudiantiles.Tengo algunos t\u00edtulos de postgrado en redes y como formador de formadores.  No ejerzo como inform\u00e1tico, ya que no tengo buena capacidad para \u201ctarificar\u201d mi propio trabajo :) Demasiadas veces act\u00fao como una ONG. :PDisfruto en la detecci\u00f3n y resoluci\u00f3n de problemas y es por ello que proyect\u00e9 mi perfil profesional como t\u00e9cnico comercial. He trabajado desde los 18 a\u00f1os, mientras estudio permanentemente. De hecho, creo que no se deja jam\u00e1s de aprender. He dirigido mis propios equipos comerciales, he sido aut\u00f3nomo, y he creado 2 empresas, que ya no gestiono por culpa de la crisis bancaria. Colaboro con empresas del sector I+D y mi futuro inmediato pasa por la comercializaci\u00f3n de patentes tecnol\u00f3gicas e industriales.  Creo que el conocimiento, debe ser patrimonio de la humanidad.  No soy la mejor opci\u00f3n como cabeza de lista, ya que voy demasiado liado con mis propios proyectos personales. Pero pongo mi voluntad y mi hacer a disposici\u00f3n del partido y de la ciudadan\u00eda.  Ya he hecho mis elecciones personales en el SPC. :) Mi cita personal:\u201cLos hombres se forjan en el duro yunque del infortunio\u201d. Sin embargo se, que no debo tomarme las cosas demasiado a pecho, o acabar\u00e1 d\u00e1ndome un ataque card\u00edaco. As\u00ed que no os extra\u00f1\u00e9is si escuch\u00e1is o le\u00e9is de vez en cuando un extra\u00f1o comentario.",
+            "down": 0,
+            "equal": 5,
+            "id": 675,
+            "title": "Proposta (#27):Francisco Cervera Mart\u00edn",
+            "up": 16
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #188: Cap de llista per Barcelona. Eleccions 25N",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/188"
+}

@@ -1,0 +1,34 @@
+{
+    "any": 12,
+    "desc": "Se necesitan panfletos durante la campa\u00f1a electoral que incluyan el ideario y las 3 leyes pirata; biling\u00fces a poder ser.\nSer\u00e1 un material com\u00fan a m\u00faltiples acciones: repartir a pie de calle, informaci\u00f3n, etc. y servir\u00e1n como principal elemento propagand\u00edstico del partido durante la campa\u00f1a.\n Todav\u00eda quedan del modelo antiguo, pero contienen algunos errores y adem\u00e1s s\u00f3lo est\u00e1n disponibles en catal\u00e1n.\n Nota: Se ha dise\u00f1ado un modelo de panfleto gen\u00e9rico, por lo que los nuevos que compremos podr\u00e1n ser reutilizados en el futuro para cualquier ocasi\u00f3n.\n  Relaci\u00f3n de compras: [ http://pirates.pad.atkn.net/ep/pad/view/ro.4AJD7i73$$P/latest ]\n #######################################\n# ~ El plazo de esta votaci\u00f3n acaba el Domingo 15 a las 20:00 ~ #\n####################################### \n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\n25N\ncampanya\ncompres",
+    "dia": 9,
+    "final": {
+        "any": 12,
+        "dia": 29,
+        "mes": 10
+    },
+    "hora": "13:33",
+    "id": 196,
+    "mes": 10,
+    "solutions": [
+        {
+            "desc": "Proveidor: SAXOPRINTWeb: http://www.saxoprint.es/shop/flyersTermini de lliurament: Son a Alemanya, serveixen en ~7 dies feiners sense cost addicional o b\u00e9 impressi\u00f3 i enviament urgents en ~4 dies. Preu: 308,60 \u20ac (IVA + transporte inc.)Quantitat: 60.000Qualitat: paper de 90grs, 1 tinta B/N, 2 cares, mida A6 Comentari: Fins la data no hem trobat res m\u00e9s econ\u00f2mic per a imprimir grans volums en paper.",
+            "down": 11,
+            "equal": 9,
+            "id": 658,
+            "title": "Proposta (#1):Comprar 60k pamflets A6 B/N a 2 cares",
+            "up": 15
+        },
+        {
+            "desc": "Proveedor: Gr\u00e1ficas AstoriaPlazo de entrega: Desconocido, pero es una empresa de BCN Precio: 213 \u20ac + IVA (257,73\u20ac)Cantidad: 60.000Calidad: papel de 80gr A6, 1 tinta B/N, 2 caras,  Nota: Precio 'especial' debido a valoraci\u00f3n con el material que el proveedor tiene en stock para abaratar el coste final, por lo que para otros pedidos toca consultar exactamente.",
+            "down": 1,
+            "equal": 3,
+            "id": 670,
+            "title": "Proposta (#2):Otro proveedor, con papel de 80gr",
+            "up": 47
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #196: Compras Campa\u00f1a 25N - 2: Panfletos ideario",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/196"
+}

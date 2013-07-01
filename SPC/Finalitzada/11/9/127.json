@@ -1,0 +1,26 @@
+{
+    "any": 11,
+    "desc": "Votaci\u00f3 per triar el cap de llista de les paperetes per Lleida per les eleccions generals del 20 de Novembre de 2011\nSi us plau, voteu nom\u00e9s les llistes a on esteu censats.\nLa votaci\u00f3 finalitzar\u00e0 la propera assemblea general, el 9 d'octubre. \n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\n(cap)",
+    "dia": 25,
+    "final": {
+        "any": 11,
+        "dia": 9,
+        "mes": 10
+    },
+    "hora": "21:54",
+    "id": 127,
+    "mes": 9,
+    "solutions": [
+        {
+            "desc": "Relacionat amb el moviment Pirata des de 2008. Afiliat del Partido Pirata Espa\u00f1ol des de el 2009. Afiliat amb Pirates de Catalunya des de els seus inicis.Secretari General del Partit Pirata des de Desembre del 2010.Cap de llista per les eleccions auton\u00f2miques del 2010 per Barcelona.Membre del Core Team de Pirate Parties International fins a la seva fundaci\u00f3 a l'abril del 2010.Ha participat en el reportatge \"Ciberactivistes\" del programa Latituds, de TV3, em\u00e8s el 29 de Maig del 2011.Enginyer T\u00e8cnic en Telecomunicacions. Postgrau d'an\u00e0lisis forense i auditoria  t\u00e8cnica. Postgrau d'\u00c0sia Oriental, expert d'economia del Jap\u00f3. Cursant  M\u00e0ster sobre \u00c0sia Oriental.Treballant com a consultor de Seguretat Inform\u00e0tica en clients estrat\u00e8gics.",
+            "down": 0,
+            "equal": 6,
+            "id": 350,
+            "title": "Proposta (#1):Xavier Vila i Espinosa",
+            "up": 21
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #127: Cap de llista per Lleida. Eleccions Generals 2011",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/127"
+}

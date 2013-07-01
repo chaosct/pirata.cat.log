@@ -1,0 +1,34 @@
+{
+    "any": 12,
+    "desc": "Data de finalitzaci\u00f3: 30 d'Agost del 2012\nRequereix de 2/3 de vots favorables per a ser aprovada.\n El Partit pirata te un ideari:\nhttp://pirata.cat/ideari/\nAquest ideari inclou promoure la democracia directa. Aix\u00f2 vol dir promoure que els ciutadans puguin votar directament sobre temes que els afecten. Aix\u00f2 no \u00e9s el mateix que promoure que els afiliats al partit votin sobre temes que els afecten personalment i que no tenen res a veure amb l'ideari del partit.\n Posicionar-se a favor o en contra de la vaga general o a favor o en contra de les manifestacions d'indignats no guarda cap relaci\u00f3 amb l'ideari del partit. Existeixen a m\u00e9s molts partits pol\u00edtics que es posicionen sobre aquests aspectes i l'efecte que s'aconsegueix \u00e9s que els ciutadans no vegin cap diferencia entre el Partit Pirata i partits de caire populista.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\nCatalunya\nde\ndemocrcia\ndirecta\nidearipirates\nparticipaci\npirates\nposicionament",
+    "dia": 27,
+    "final": {
+        "any": 12,
+        "dia": 4,
+        "mes": 9
+    },
+    "hora": "10:58",
+    "id": 165,
+    "mes": 3,
+    "solutions": [
+        {
+            "desc": "No \u00e9s necessari posicionar-se en tots els temes d'actualitat.",
+            "down": 22,
+            "equal": 3,
+            "id": 539,
+            "title": "Proposta (#1):Ajustar-se a l'ideari",
+            "up": 1
+        },
+        {
+            "desc": "El fet de respectar a l'ideari comporta a posicionar-se en els aspectes que m\u00e9s preocupen els ciutadans, recollits tots en la Declaraci\u00f3 Universal dels Drets Humans, i basicament la llibertat individual participativa -una democracia directe-. Aquell que pogu\u00e8s ser situaci\u00f3 de conflicte amb a l'ideari \u00e9s rebutjat inmediatament.",
+            "down": 1,
+            "equal": 3,
+            "id": 547,
+            "title": "Proposta (#2):Ajustar-se a l'ideari sense conflictes",
+            "up": 26
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #165: Que el partit Pirata no es posicioni sobre temes aliens al seu ideari",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/165"
+}

@@ -1,0 +1,26 @@
+{
+    "any": 12,
+    "desc": "Els companys del Piraten Partei fan una crida a nivell europeu per a treballar conjuntament per una Europa dels ciutadans i de les regions.\n Vegeu el text complet aqu\u00ed:\n https://cat.piratenpad.de/405\n Tancament de votacions el 23 de febrer\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\n(cap)",
+    "dia": 13,
+    "final": {
+        "any": 12,
+        "dia": 28,
+        "mes": 10
+    },
+    "hora": "20:50",
+    "id": 158,
+    "mes": 2,
+    "solutions": [
+        {
+            "desc": "Donem suport al manifest i fem \"nostra\" la crida dels companys del Piraten Partei alemany per treballar per una nova i millor Uni\u00f3 Europea.",
+            "down": 2,
+            "equal": 3,
+            "id": 516,
+            "title": "Proposta (#1):Donar suport \u00edntegrament al manifest",
+            "up": 60
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #158: Crida pro Europa del Piraten Partei",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/158"
+}

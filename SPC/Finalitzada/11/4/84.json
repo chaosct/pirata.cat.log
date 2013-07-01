@@ -1,0 +1,34 @@
+{
+    "any": 11,
+    "desc": "Aqu\u00ed us podeu afegir si voleu optar a cap de llista de Lleida.\n Mantenim la proposta en Sala d'espera per donar temps a fer les presentacions. Dem\u00e0 a les 20h s'obrir\u00e0 a votacions.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\ncandidat\nLleida\nllistes\nlocals\nmunicipals",
+    "dia": 11,
+    "final": {
+        "any": 11,
+        "dia": 17,
+        "mes": 4
+    },
+    "hora": "02:04",
+    "id": 84,
+    "mes": 4,
+    "solutions": [
+        {
+            "desc": "Tinc 23 anys i s\u00f3c enginyera t\u00e8cnica en inform\u00e0tica de gesti\u00f3.Coordino i col\u00b7laboro amb bona part de la feina que fem els pirates a Lleida, com assemblees o esdeveniments. A m\u00e9s a m\u00e9s, porto el compte de Twitter i la p\u00e0gina de Facebook de Pirates Lleida i co-piulo en el de Grumets.Vaig col\u00b7laborar activament fent campanya en les anteriors eleccions i penso fer el mateix en les vinents. Tinc moltes ganes de treballar i aconseguir que Pirates de Catalunya sigui una bona opci\u00f3 per Lleida aquest 22 de maig.",
+            "down": 0,
+            "equal": 7,
+            "id": 187,
+            "title": "Proposta (#1):Sandra Bertol\u00edn",
+            "up": 16
+        },
+        {
+            "desc": "Tinc 32 anys, i s\u00f3c Director de Continguts a l'empresa de posicionament web Waydn. Crec que la situaci\u00f3 actual, tant a nivell local, com mundial, requereix de noves propostes pol\u00edtiques que aportin una nova manera d'interpretar la pol\u00edtica, donant el pas de la democracia representativa a la participativa. Cal un canvi generacional i ideol\u00f2gic al m\u00f3n local catal\u00e0. Hem d'acabar amb la generaci\u00f3 dels senyors del ciment. Per tot aix\u00f2, crec que puc aportar molt encap\u00e7alant aquest projecte noved\u00f3s per Lleida.",
+            "down": 0,
+            "equal": 8,
+            "id": 191,
+            "title": "Proposta (#2):Eduard R. Baches",
+            "up": 7
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #84: Votaci\u00f3 Cap de llista Lleida",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/84"
+}

@@ -1,0 +1,66 @@
+{
+    "any": 11,
+    "desc": "A proposta d'un simpatitzant:\n Seria molt bo un comunicat unitari de totes les candidatures d'esquerres: CAV, Pirata.cat, ICV-EUiA, CUP, Des de Baix, ERC... ( http://cat.piratenpad.de/comunicat-unitari-stop-campanya-electoral )\n 1. Suspenent la campanya electoral i cridant a tota la milit\u00e0ncia i simpatitzants a fer pinya a les pla\u00e7es de Catalunya, dia i nit, sense defallir.\n2. Comprometent-vos amb l'esperit de Tahrir: tot el poble unit, el jovent al davant, els partits al darrera recolzant i vinculant lluites sectorials al moviment general.\n3. Comprometent-vos amb els objectius d'Islandia i per tant recolzar el manteniment de les acampades m\u00e9s enll\u00e0 del 22-M: els culpables de la crisi als tribunals, cap submissio al poder financer i constitucio d'una democr\u00e0cia popular.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\n15M\n22m\nacampada\nacampadabcn\ncampanya\neleccions\nnonosvamos\nrevolta\nspanishrevolution",
+    "dia": 19,
+    "final": {
+        "any": 11,
+        "dia": 21,
+        "mes": 5
+    },
+    "hora": "09:58",
+    "id": 101,
+    "mes": 5,
+    "solutions": [
+        {
+            "desc": "Sumar-nos a les reivindicacions de m\u00e9s democr\u00e0cia i participaci\u00f3, a t\u00edtol personal. Tothom a la pla\u00e7a!",
+            "down": 43,
+            "equal": 6,
+            "id": 256,
+            "title": "Proposta (#1):Detindre la campanya electoral i cridar a tots els pirates a anar a les places",
+            "up": 38
+        },
+        {
+            "desc": "Continuar amb la campanya i permetre l'adhesi\u00f3 a les reivindicacions a t\u00edtol personal.",
+            "down": 9,
+            "equal": 7,
+            "id": 257,
+            "title": "Proposta (#2):Continuar amb la campanya i permetre les reivindicacions a t\u00edtol personal",
+            "up": 72
+        },
+        {
+            "desc": "Si hi ha actes concrets de campanya que coincideixin amb concentracions importants de #spanishrevolution, em sembla b\u00e9 suspendre-les o fer-les directament a la pla\u00e7a (No m\u00edtins, per\u00f2 s\u00ed xerrades obertes). No cal polititzar les acampades, per\u00f2 tenim dret a seguir defensant la nostra idea de regeneraci\u00f3 democr\u00e0tica. \u00bfPer qu\u00e8 voldriem suspendre la campanya ara que hi ha un moviment popular tant af\u00ed al nostre ideari i que nosaltres som una alternativa de vot als partits majoritaris? El que no podem fer SOTA CAP CONCEPTE \u00e9s sumar-nos a una acci\u00f3 conjunta que inclogui ICV i ERC, que han manat i manen a l'ajuntament de Barcelona i que per mi haurien de formar part del grup \"no les votes\" des del inici (PP PSC CIU) I menys a corracuita, despr\u00e9s de tant de temps de votacions i organitzacions internes fetes amb m\u00e9s calma.Nosaltres NO som un partit d'esquerres, som democr\u00e0cia directa aplicant tecnologia, que \u00e9s el que est\u00e0 funcionant ara mateix a les pla\u00e7es (per\u00f2 a m\u00e0 al\u00e7ada) Estic a la comissio d'extensio de la acampadabcn, on creiem que el millor seria sumar esfor\u00e7os dels diversos col.lectius. Hi ha alguns de caire pol\u00edtic (sindicats d'estudiants...) que es preguntar\u00e0n el mateix. Ens podem posar d'acord a l'assamblea. Si us voleu comunicar: extensio.acampadabcn@gmail.comSalut!",
+            "down": 4,
+            "equal": 15,
+            "id": 258,
+            "title": "Proposta (#3):No som un partit d'esquerres som un partit \"No les Votes\"",
+            "up": 37
+        },
+        {
+            "desc": "No cal deixar de fer campanya, cal convocar a tothom que pugui anar a la seva pla\u00e7a i ajudar al m\u00e0xim, com un col\u00b7lectiu m\u00e9s. Sumar-nos a una iniciativa que engloba partits no afins a PIRATA.CAT pot ser contraproduent. Per\u00f2 res impedeix que la gent s'identifiqui com pirata i ajudi. I qui no vulgui identificar-se com pirata, cap problema. El primer \u00e9s ajudar! Tamb\u00e9 cal fomentar les xerrades obertes a tothom, ja que abans de tot aix\u00f2 ja teniem assignada Pla\u00e7a Catalunya per fer un acte electoral. En lloc d'un acte cal fer accions que ajudin i fomentin les propostes que comparteixen la gent de l'acampada i pirates, que s\u00f3n totes. El nostre ideari coincideix amb els punts m\u00e9s b\u00e0sics de tots els moviments, en la meva opini\u00f3. PD: Recordeu que aquesta proposta surt d'un simpatitzant. Aquesta persona ha enviat un correu a tots els partits que ell ha considerat convenient i d'esquerres, malgrat PIRATA.CAT no ho sigui per definici\u00f3. Aix\u00ed que la precipitaci\u00f3 i el text s\u00f3n d'aquest simpatitzant. Penso que cal ajudar, sense amagar que som pirates. A m\u00e9s, cal convocar a tots els pirates a les places!",
+            "down": 3,
+            "equal": 10,
+            "id": 259,
+            "title": "Proposta (#4):Convocar tots els pirates a les places i ajudar",
+            "up": 36
+        },
+        {
+            "desc": "Fer nom\u00e9s la de Divendres",
+            "down": 17,
+            "equal": 8,
+            "id": 260,
+            "title": "Proposta (#5):Cancel\u00b7lar nom\u00e9s l'acte de Dijous (P\u00e7a Catalunya)",
+            "up": 2
+        },
+        {
+            "desc": "Des del comen\u00e7ament, hem defensat que no som ni d'esquerres ni de dretes: som pirates. Qualsevol declaraci\u00f3 que hagu\u00e9s de canviar aquesta postura, s'hauria d'aprovar en dos assemblees consecutives (cito de mem\u00f2ria). Crec que no cal associar aquesta opini\u00f3 a cap esl\u00f2gan.",
+            "down": 1,
+            "equal": 4,
+            "id": 261,
+            "title": "Proposta (#6):No som un partit d'esquerres",
+            "up": 10
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #101: Suspendre la campanya electoral i cridar a tota la gent a Pla\u00e7a Catalunya",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/101"
+}

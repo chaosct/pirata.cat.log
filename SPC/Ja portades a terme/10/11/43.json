@@ -1,0 +1,42 @@
+{
+    "any": 10,
+    "desc": "En tots els productes on es pot emmagatzemar informaci\u00f3 s'aplica el fam\u00f3s canon. Es vulnera la presunci\u00f3 d'inoc\u00e8ncia, presuposant per endavant que seran emprats per realitzar c\u00f2pies...\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\n(cap)",
+    "dia": 1,
+    "final": {
+        "any": 12,
+        "dia": 12,
+        "mes": 10
+    },
+    "hora": "09:29",
+    "id": 43,
+    "mes": 11,
+    "solutions": [
+        {
+            "desc": "Una possible soluci\u00f3 seria eliminar el canon sobre els productes verges, i aplicar-lo al producte final, on ja es pagaria un percentatge com a dret de copia (un sol cop). Aquests diners NO serien per empreses, sin\u00f3 per destinar-los al foment de la cultura i per subvencionar-la des del govern. I aix\u00ed repercutir directament sobre els artistes i sobre la societat.",
+            "down": 37,
+            "equal": 8,
+            "id": 83,
+            "title": "Soluci\u00f3 #1:Canviar el seu funcionament",
+            "up": 2
+        },
+        {
+            "desc": "El canon \u00e9s absurd, i punt. \u00c9s com intentar ajudar als pagesos subvencionant els majoristes!! El que cal \u00e9s que el ministeri de cultura tingui un pressupost digne, i aquest sigui qui subvencioni a la creaci\u00f3 cultural, \u00e9s a dir, als artistes, sense intermediaris.",
+            "down": 1,
+            "equal": 3,
+            "id": 86,
+            "title": "Soluci\u00f3 #2:Treure el canon",
+            "up": 79
+        },
+        {
+            "desc": "Eliminar el canon. Y aplicar un canon solamente a las entidades jur\u00eddicas, que CON ANIMO DE LUCRO, utilicen canciones, programas o medios audiovisuales. El usuario de dichos medios, debe pasar periodicamente el listado de aquellos programas, canciones, libros y pel\u00edculas al ministerio de cultura para que \u00e9ste d\u00e9 la parte proporcional a quien corresponda.",
+            "down": 11,
+            "equal": 5,
+            "id": 162,
+            "title": "Soluci\u00f3 #3:Sacar el canon a toda persona f\u00edsica.",
+            "up": 3
+        }
+    ],
+    "status": "Ja portades a terme",
+    "titol": "Idea #43: revisar el canon digital",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/43"
+}

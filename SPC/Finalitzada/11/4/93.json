@@ -1,0 +1,34 @@
+{
+    "any": 11,
+    "desc": "####          Aquesta proposta acabar\u00e0 el dimecres 27 d'Abril             ####\nHi han diverses propostes de publicitat que seria convenient que fossin votades per tots els afiliats.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\ncampanya\npiratacat\npublicitat",
+    "dia": 19,
+    "final": {
+        "any": 12,
+        "dia": 28,
+        "mes": 10
+    },
+    "hora": "21:56",
+    "id": 93,
+    "mes": 4,
+    "solutions": [
+        {
+            "desc": "Proposo contactar amb p\u00e0gines web d'enlla\u00e7os online per a que ens publicitin, a poder ser gratu\u00eftament, a les seves p\u00e0gines web com a forma de difusi\u00f3 del partit, tenint en compte que podem ser un referent com a alternativa a la actual gesti\u00f3 cultural, concepci\u00f3 d'Internet i de la llibertat d'expressi\u00f3 per part de la pol\u00edtica tradicional.",
+            "down": 0,
+            "equal": 2,
+            "id": 212,
+            "title": "Proposta (#1):Demanar a p\u00e0gines d'enlla\u00e7os que ens publicitin",
+            "up": 19
+        },
+        {
+            "desc": "Inserir una campanya de difusi\u00f3 de PIRATA.CAT a facebook, anuncis que apareixen al lateral dret. No demanar\u00edem el vot, sino que donar\u00edem a con\u00e8ixer una opci\u00f3 nova. La campanya hauria de segmentar-se geogr\u00e0ficament als municipis on aparegui. El cost \u00e9s customitzable per impactes, i per tant podem controlar la inversi\u00f3. L'elecci\u00f3 del mitj\u00e0 \u00e9s clarament per afinitat amb el target del potencial votant. A m\u00e9s si s'apunta al grup, podem anar-lo fidelitzant informant de la tasca que duem a terme.",
+            "down": 4,
+            "equal": 1,
+            "id": 213,
+            "title": "Proposta (#2):Campanya d'anuncis a Facebook",
+            "up": 11
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #93: Propostes de publicitat",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/93"
+}

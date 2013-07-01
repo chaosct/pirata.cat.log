@@ -1,0 +1,58 @@
+{
+    "any": 11,
+    "desc": "#####################################################\n##   ATENCI\u00d3: aquesta votaci\u00f3 es tancar\u00e0 el proper diumenge 23/10 a les 12h  ##\n#####################################################\n Tot i que ens agradaria seguir amb el boicot a PayPal ( http://pirata.cat/bloc/?p=1082 ) no hem trobat de moment una alternativa viable (recordeu que el principal obstacle \u00e9s que segons la llei les donacions han de tenir associades nom, cognoms i dni, per tant, ha de ser un sistema que permeti aix\u00f2). I amb la necessitat urgent que tenim ara mateix d'aconseguir donacions per a poder finan\u00e7ar la campanya i dur-la a terme, aquest boicot ens est\u00e0 resultant a efectes pr\u00e0ctics un perjudici molt important per a poder desenvolupar la nostra tasca.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\ndonacions\nfinanament",
+    "dia": 17,
+    "final": {
+        "any": 11,
+        "dia": 24,
+        "mes": 10
+    },
+    "hora": "15:01",
+    "id": 134,
+    "mes": 10,
+    "solutions": [
+        {
+            "desc": "Proposo que retirem temporalment el boicot a PayPal per\u00f2 nom\u00e9s fins que s'acabi la campanya electoral i sempre i quant no trobem una alternativa.",
+            "down": 45,
+            "equal": 6,
+            "id": 370,
+            "title": "Proposta (#1):Retirar el boicot a PayPal durant la campanya",
+            "up": 22
+        },
+        {
+            "desc": "Imagino que si la gent s'obre un compte a Triodos no li cobraran res per la transfer\u00e8ncia (veig un \"laCaixa em cobra 3,5\u20ac\" entre els comentaris).El problema \u00e9s que complicar la vida a la gent no acostuma a ser bona idea, per\u00f2 aix\u00ed mantenim el boicot a PayPal (coherencia) i recomanem banca \u00e8tica, que no est\u00e0 malament.A males, jo faig servir ING-Direct (cuenta n\u00f3mina) i no em cobra per les transfer\u00e8ncies a altres entitats.",
+            "down": 5,
+            "equal": 4,
+            "id": 372,
+            "title": "Proposta (#2):Recomanar entitats per fer transfer\u00e8ncies (Triodos)",
+            "up": 45
+        },
+        {
+            "desc": "Retirar el boicot nom\u00e9s per la campanya pot semblar poc seri\u00f3s. Es segueix buscant una alternativa millor, per\u00f2 mentrestant s'obre el canal de PayPal, explicant clarament a la p\u00e0gina de donacions quina \u00e9s la nostra posici\u00f3.",
+            "down": 24,
+            "equal": 2,
+            "id": 373,
+            "title": "Proposta (#3):Retirar el boicot a PayPal fins trobar una alternativa millor",
+            "up": 11
+        },
+        {
+            "desc": "El donante nos indica la cantidad a donar, y su numero de cuenta. Nosotros desde Triodos realizamos el cargo. Como si fuese un recibo... Consultar el coste, pero creo que es poquito.",
+            "down": 6,
+            "equal": 5,
+            "id": 374,
+            "title": "Proposta (#4):Hacer cargos desde nuestra cuenta en triodos a la cuenta del donante.",
+            "up": 34
+        },
+        {
+            "desc": "Podem animar a la gent a fer donacions oferint quelcom, un detall, a canvi de la donaci\u00f3 per transferencia. Evidentement, ofeririem \"merchandising\" pirata ja que aixi, a m\u00e9s, ens fariem publicitat. La manera pot ser escalada, segons l\u00b4import podem donar una txapa, una agenda, una samarreta... (P.ex: per 100 Euros et regalem una samarreta). Sobre l\u00b4entrega ens ho hauriem de mirar, es podria fer arrivar o podriem demanar que es passesin a buscar per Riereta amb el resguard de la transferencia i el DNI. Aquesta soluci\u00f3 pot ser paralela a d\u00b4altre que es prengui per recaptar fons, i fins i tot es podria fer durar fins m\u00e9s enll\u00e0 de la campanya com a medi d\u00b4anar recaptant fons.  Una soluci\u00f3 aixi tamb\u00e9 animaria a la gent que es reticent a fer la transferencia pel c\u00e0rrec que et fan. Una txapa ja val 2 o 3 Euros.",
+            "down": 5,
+            "equal": 1,
+            "id": 386,
+            "title": "Proposta (#5):Oferir \"merchandising\" per la donaci\u00f3.",
+            "up": 13
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #134: Donacions per la campanya",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/134"
+}

@@ -1,0 +1,42 @@
+{
+    "any": 11,
+    "desc": "S'ha de predicar amb l'exemple. La junta actual de 3 c\u00e0rrecs i n vocals (n\u00famero parell) fa que hi hagi una aparent c\u00fapula de poder que fa que la horitzontalitat funcional del partit quedi en desdit. Per tant, s'obre aquesta votaci\u00f3 per si cal modificar la junta actual o no.\nData l\u00edmit: 3 de desembre a les 12:00. Llavors s'obriran les votacions pels c\u00e0rrecs dels membres de la junta segons aquesta votaci\u00f3 per a ser escollits a la propera assemblea general.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\n(cap)",
+    "dia": 22,
+    "final": {
+        "any": 11,
+        "dia": 4,
+        "mes": 12
+    },
+    "hora": "13:47",
+    "id": 147,
+    "mes": 11,
+    "solutions": [
+        {
+            "desc": "Actualment hi ha 6 vocals (Grumets, Comunicaci\u00f3, Territorial, TIC, Creatius, Portaveu) Treure'ls de la Junta, que nom\u00e9s hi hagi els 3 que el Ministeri de l'Interior demana com a obligatoris. Llavors que hi hagi n responsables de diversos grups de treball (els anteriors mencionats menys portaveu, que pot ser el mateix secretari general) segons les necessitats, que apareguin a una web amb el correu de contacte i la forma de comunicar-se (commons, pad, llista de correu oberta o tancada, senyals de fum, telepatia, ...) aquests responsables reporten peri\u00f2dicament al secretari general per a que es publiqui lo que van fent els diversos grups de treball i cap a on estan anant.A m\u00e9s, aix\u00f2 far\u00e0 que els grups de treball siguin m\u00e9s flexibles i no s'hagi d'anar al notari i pagar per la validaci\u00f3 de n signatures dels vocals cada cop que hi hagi canvi de junta, nom\u00e9s dels 3 c\u00e0rrecs.Una persona pot ser membre de la Junta i responsable d'un grup, per\u00f2 llavors, si hi ha algun tema amb el seu grup, no podr\u00e0 votar.Un grup pot tenir un o m\u00e9s responsables si es poden repartir be la feina....",
+            "down": 45,
+            "equal": 8,
+            "id": 467,
+            "title": "Proposta (#1):Eliminar tots els vocals.",
+            "up": 15
+        },
+        {
+            "desc": "Els vocals estan be per a mirar de controlar que la Junta no faci de les seves. Com m\u00e9s gent menys possiblitats de fer coses estranyes i opaques.",
+            "down": 13,
+            "equal": 9,
+            "id": 468,
+            "title": "Proposta (#2):Deixar-ho com est\u00e0",
+            "up": 82
+        },
+        {
+            "desc": "Si el que es pret\u00e9n \u00e9s minimitzar la Junta encara m\u00e9s, ja que les despeses de notari poden ser per persona, com el cas d'algun membre que no pot anar a Barcelona a formalitzar-ho, per fomentar m\u00e9s l'horitzontalitat, en lloc d'eliminar tots els vocals, deixem dos, que actuarien ambd\u00f3s amb dues funcions espec\u00edfiques: * Comit\u00e9 de garanties per a control\u00b7lar l'activitat de la Junta (aquesta \u00e9s la principal).* Enlla\u00e7 Juntacoordinadors (encara que qualsevol membre de la Junta pot enlla\u00e7ar-se per si mateix, com fins ara, podem tenir un punt centralitzat per a no saturar a la gent de la Junta, portat per dues persones. A la pr\u00e0ctica no \u00e9s imprescindible, ja que no estem a\u00efllats). El millor d'aquest model \u00e9s que els c\u00e0rrecs de m\u00e9s activitat, els coordinadors, poden ser f\u00e0cilment reempla\u00e7ats o combinats i no han de constar davant de notari al Ministeri de l'Interior, fet que pot tirar enrera a m\u00e9s d'una persona. I si alg\u00fa \"cau\", la persona que ocupi la coordinaci\u00f3 estar\u00e0 fins el final del c\u00e0rrec original, amb el l\u00edmit d'un any que hi ha actualment. Aix\u00ed, mantindria el model d'elecci\u00f3 dels diferents coordinadors.",
+            "down": 20,
+            "equal": 11,
+            "id": 469,
+            "title": "Proposta (#3):Reducci\u00f3 per\u00f2 sense eliminaci\u00f3 total",
+            "up": 15
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #147: Modificaci\u00f3 oficial format de la Junta de PIRATA.CAT",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/147"
+}

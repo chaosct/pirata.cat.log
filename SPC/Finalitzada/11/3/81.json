@@ -1,0 +1,26 @@
+{
+    "any": 11,
+    "desc": "########################################################### \n##### ATENCI\u00d3: aquesta votaci\u00f3 finalitzar\u00e0 diumenge 03/04/2011 a les 19.00h ######## \n########################################################### \n Hem d'aprovar, tal i com es va acordar a la \u00faltima assemblea, els comptes des de la fundaci\u00f3 del partit fins ara.\nLa nostra activitat econ\u00f2mica \u00e9s realment minsa, per\u00f2 tamb\u00e9 cal fer aquests processos de la manera m\u00e9s formal possible.\nTeniu a la vostra disposici\u00f3 un petit balan\u00e7 d'ingressos i despeses aqu\u00ed:\n http://pirata.cat/public/tresor/Balan%C3%A72010.png\n i un, encara m\u00e9s petit, pressupost pel present exercici aqu\u00ed:\n http://pirata.cat/public/tresor/Pressupost2011-2012.png\n A nivell d'ingressos, posem una estimaci\u00f3 de la fita que ens agradaria assolir, per poder suportar les despeses que, creiem, tindrem. S'allunya molt, per\u00f2, de la realitat de les donacions rebudes fins ara.\n La partida m\u00e9s important de despeses, a banda de les de material de campanya, \u00e9s la de TIC. Nom\u00e9s l'arrendament dels dos servidors que haur\u00edem de tenir, actualment estem \"d'okupes\" a diferents llocs, ja s'emportar\u00e0 una bona part del past\u00eds tot i que ens faran \"bon tracte\" a on anirem, si tot va com ho tenim planificat.\n Donada la nostra absoluta inexperi\u00e8ncia al respecte, el pressupost \u00e9s d'all\u00f3 m\u00e9s aventurat i segur que no quadrar\u00e0 per enlloc amb la realitat. Per\u00f2 per algun lloc hem de comen\u00e7ar, oi? ;)\n Si teniu qualsevol dubte al respecte, s\u00f3c a la vostra disposici\u00f3 a josep.sanchez@pirata.cat.\n Josep S\u00e0nchez\nTresorer\n \n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\ncomptes\npressupost\nTresoreria",
+    "dia": 31,
+    "final": {
+        "any": 12,
+        "dia": 12,
+        "mes": 4
+    },
+    "hora": "16:03",
+    "id": 81,
+    "mes": 3,
+    "solutions": [
+        {
+            "desc": "Aprovem els comptes presentats sobre ingressos i despeses de 2010 i la proposta de pressupost per a 2011.",
+            "down": 0,
+            "equal": 2,
+            "id": 184,
+            "title": "Proposta (#1):Aprovar comptes 2010 i proposta de pressupost per a 2011",
+            "up": 39
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #81: Aprovaci\u00f3 dels comptes i pressupost per a 2011",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/81"
+}

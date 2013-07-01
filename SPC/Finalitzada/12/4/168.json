@@ -1,0 +1,26 @@
+{
+    "any": 12,
+    "desc": "Pirates de Catalunya \u00e9s ara mateix membre observador a Pirate Parties International (PPI), de manera que no t\u00e9 dret a vot a l'Assemblea General. \n En aquest enlla\u00e7 pots veure les 4 propostes que el grup de treball internacional ha elaborat per a canviar els estatuts del PPI i aix\u00ed poder sol\u00b7licitar ser-ne membre de ple dret:\nhttp://int.piratenpartei.de/PPI_Conference_2012/Proposals\n ATENCI\u00d3: Aquesta votaci\u00f3 es tancar\u00e0 el dimecres 11 d'abril de 2012.\n\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\ninternacional\nPPI",
+    "dia": 3,
+    "final": {
+        "any": 12,
+        "dia": 12,
+        "mes": 4
+    },
+    "hora": "15:31",
+    "id": 168,
+    "mes": 4,
+    "solutions": [
+        {
+            "desc": "Mitjan\u00e7ant les propostes de modificaci\u00f3 dels estatuts del PPI o altres mitjans que estiguin a l'abast de PIRATA.CAT, intentar que el PPI canvi\u00ef l'estatus de Pirates de Catalunya de membre observador a membre ordinari.",
+            "down": 1,
+            "equal": 1,
+            "id": 543,
+            "title": "Proposta (#1):Est\u00e0s d'acord amb qu\u00e8 PIRATA.CAT intenti esdevenir membre de ple dret al PPI?",
+            "up": 92
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #168: PIRATA.CAT membre de ple dret al PPI",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/168"
+}

@@ -1,0 +1,74 @@
+{
+    "any": 12,
+    "desc": "***************************************************\nSI US PLAU, NO AFEGIU M\u00c9S PROPOSTES DE NOMS. LES QUE \nHI HA (1 a 4) S\u00d3N LES CONSENSUADES ENTRE TOTS ELS PARTITS\n***************************************************\nVotaci\u00f3 sobre el nom de la confederaci\u00f3 que formaran, en principi, els seg\u00fcents partits:\n - Pirates de Catalunya\n- Piratas de Galicia\n- Piratas de Madrid\n- Piratas de Extremadura\n- Piratas de La Rioja\n Aquesta confederaci\u00f3 \u00e9s la continuaci\u00f3 de la declaraci\u00f3 d'intencions votada a l'abril: https://xifrat.pirata.cat/ideatorrent/idea/167/\n Voteu els noms que us agradin.\n ########################\nData l\u00edmit: 29 de Desembre a les 23:59\n########################\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\nConfederacio",
+    "dia": 29,
+    "final": {
+        "any": 12,
+        "dia": 30,
+        "mes": 12
+    },
+    "hora": "22:18",
+    "id": 207,
+    "mes": 10,
+    "solutions": [
+        {
+            "desc": "Confederaci\u00f3n Pirata",
+            "down": 9,
+            "equal": 2,
+            "id": 726,
+            "title": "Proposta (#1):Confederaci\u00f3n Pirata",
+            "up": 50
+        },
+        {
+            "desc": "Confederaci\u00f3n de Partidos Pirata",
+            "down": 15,
+            "equal": 7,
+            "id": 727,
+            "title": "Proposta (#2):Confederaci\u00f3n de Partidos Pirata",
+            "up": 22
+        },
+        {
+            "desc": "Confederaci\u00f3n de Piratas",
+            "down": 28,
+            "equal": 10,
+            "id": 728,
+            "title": "Proposta (#3):Confederaci\u00f3n de Piratas",
+            "up": 1
+        },
+        {
+            "desc": "Piratas Confederados",
+            "down": 24,
+            "equal": 7,
+            "id": 729,
+            "title": "Proposta (#4):Piratas Confederados",
+            "up": 7
+        },
+        {
+            "desc": "\u00e9s la costum de poder proposar ;)",
+            "down": 12,
+            "equal": 2,
+            "id": 797,
+            "title": "Proposta (#6): --s\u00f3lo soluciones 1 a 4--; sorry too",
+            "up": 9
+        },
+        {
+            "desc": "---eliminada---",
+            "down": 14,
+            "equal": 3,
+            "id": 798,
+            "title": "Proposta (#7):--s\u00f3lo soluciones 1 a 4--; perd\u00f3n",
+            "up": 6
+        },
+        {
+            "desc": "Es una frikada, lo s\u00e9. Pero me hace gracia. ;)",
+            "down": 0,
+            "equal": 1,
+            "id": 806,
+            "title": "Proposta (#8):Federacion unida de partidos piratas",
+            "up": 0
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #207: Nom de Confederaci\u00f3",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/207"
+}

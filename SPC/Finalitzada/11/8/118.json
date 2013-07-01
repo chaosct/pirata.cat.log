@@ -1,0 +1,26 @@
+{
+    "any": 11,
+    "desc": "###Aquesta votaci\u00f3 es tancar\u00e0 l'1 de setembre a les 20 hores###\n Les juntes de Partido Pirata i Pirates de Catalunya hem redactat el seg\u00fcent acord de col\u00b7laboraci\u00f3 i no solapament, que est\u00e0 comen\u00e7ant a donar els seus fruits en els projectes Jo Avalo i FAP!.\n https://xifrat.pirata.cat/commons/sites/default/files/acord_pirata.pdf\n Degut a que el document s'ha treballat durant una temporada, a que ja estem en precampanya i a que Partido Pirata l'est\u00e0 votant simult\u00e0niament, hauriem de decidir exclusivament si s'aprova o no.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\n(cap)",
+    "dia": 25,
+    "final": {
+        "any": 11,
+        "dia": 2,
+        "mes": 9
+    },
+    "hora": "17:41",
+    "id": 118,
+    "mes": 8,
+    "solutions": [
+        {
+            "desc": "Aprovar el document",
+            "down": 1,
+            "equal": 0,
+            "id": 311,
+            "title": "Proposta (#1):Aprovar el document",
+            "up": 48
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #118: Aprovaci\u00f3 Acord amb Partido Pirata",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/118"
+}

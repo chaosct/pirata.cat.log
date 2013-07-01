@@ -1,0 +1,50 @@
+{
+    "any": 11,
+    "desc": "############################################################\n##Aquesta votaci\u00f3 acabar\u00e0 dissabte 18 de juny de 2011 a les 20h hores ##\n############################################################\n El proper diumenge 3 de juliol, Pirates de Catalunya celebrar\u00e0 la segona Assemblea General d'aquest any.\n Fins ara, les haviem celebrat al local de Riereta a Barcelona, per\u00f2 \u00e9s l\u00f2gic i coherent que visitem altres poblacions, i que aquestes es decideixin per democr\u00e0cia directa.\n Els pirates de tot Catalunya que puguin aconseguir un local d'almenys 50 metres quadrats, amb wifi, una taula i unes cadires, poden incloure la seva proposta, que ser\u00e0 votada per tots els afiliats que ho vulguin.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\nassemblea\ngeneral\npiratacat\npirates",
+    "dia": 12,
+    "final": {
+        "any": 11,
+        "dia": 18,
+        "mes": 6
+    },
+    "hora": "21:07",
+    "id": 113,
+    "mes": 6,
+    "solutions": [
+        {
+            "desc": "\u00c9s on hem celebrat les Assemblees fins ara, el local pot fer la funci\u00f3 si no tenim un altre lloc.",
+            "down": 13,
+            "equal": 7,
+            "id": 297,
+            "title": "Proposta (#1):c/Riereta 5 (Barcelona)",
+            "up": 24
+        },
+        {
+            "desc": "A la prov\u00edncia de Girona no hem presentat cap llista en les passades eleccions municipals, la proposta de fer l'assemblea a Girona \u00e9s aprofitar per poder formar un grup estable a la prov\u00edncia.",
+            "down": 13,
+            "equal": 8,
+            "id": 298,
+            "title": "Proposta (#2):Centre C\u00edvic Santa Eug\u00e8nia (c/Santa Eug\u00e8nia 146, Girona)",
+            "up": 17
+        },
+        {
+            "desc": "Podem fer servir la meva academia si voleu a Matar\u00f3. Connexi\u00f3 ADSL, l'aforament de unes 30 persones, hi ha un bus que enlla\u00e7a amb l'estaci\u00f3 de tren.",
+            "down": 9,
+            "equal": 6,
+            "id": 301,
+            "title": "Proposta (#3):Marf a Matar\u00f3",
+            "up": 12
+        },
+        {
+            "desc": "Bones proposo Terrassa per la 3er trobada info de l'Ateneuhttp://ateneucandela.info/node/89 m\u00e9tode d'acc\u00e9shttp://ateneucandela.info/node/25",
+            "down": 5,
+            "equal": 3,
+            "id": 302,
+            "title": "Proposta (#4):l'Ateneu Candela Terrassa",
+            "up": 12
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #113: Elecci\u00f3 del lloc on celebrarem la propera Assemblea General",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/113"
+}

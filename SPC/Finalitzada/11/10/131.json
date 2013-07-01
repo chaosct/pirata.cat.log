@@ -1,0 +1,50 @@
+{
+    "any": 11,
+    "desc": "Qu\u00e8 us sembla regalar samarretes pirates a aquells qui han suat m\u00e9s per a aconseguir que ens podem presentar? Sense ells, les nostres candidatures no serien possibles...\n Cada samarreta ens costa 4.6 \u20ac IVA incl\u00f2s, i es vendran de forma que es paguin a elles mateixes i fem una mica de calaix....\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\navals\ncampanya\npiratacat\nsamarretes",
+    "dia": 11,
+    "final": {
+        "any": 11,
+        "dia": 30,
+        "mes": 10
+    },
+    "hora": "19:58",
+    "id": 131,
+    "mes": 10,
+    "solutions": [
+        {
+            "desc": "Regalar samarretes als caps de llista per tal que quedin ben guapos a les fotos i v\u00eddeos.",
+            "down": 13,
+            "equal": 10,
+            "id": 364,
+            "title": "Proposta (#1):Regalar samarretes a tots els caps de llista",
+            "up": 36
+        },
+        {
+            "desc": "Sense ells, no hauria estat possible entregar els avals requerits per la nova LOREG.",
+            "down": 5,
+            "equal": 3,
+            "id": 365,
+            "title": "Proposta (#2):Regalar samarretes als \"campions\" de recollida d'avals a cada prov\u00edncia",
+            "up": 77
+        },
+        {
+            "desc": "Doncs hi ha molta m\u00e9s gent i calia 7 cops m\u00e9s avals que a Tarragona, 8 m\u00e9s que a Girona i 13 m\u00e9s que a Lleida.",
+            "down": 22,
+            "equal": 11,
+            "id": 366,
+            "title": "Proposta (#3):Esmena a la Soluci\u00f3 #2 A Barcelona regalar-ne 4",
+            "up": 15
+        },
+        {
+            "desc": "A canvi que es comprometin a lluir-les en p\u00fablic en els seus actes en p\u00fablic. :)",
+            "down": 22,
+            "equal": 12,
+            "id": 367,
+            "title": "Proposta (#4):Donar (donac\u00ed\u00f3) de 2 samarretes als caps de llista",
+            "up": 4
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #131: Regalar samarretes pirates",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/131"
+}

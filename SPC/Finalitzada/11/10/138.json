@@ -1,0 +1,114 @@
+{
+    "any": 11,
+    "desc": "###Aquesta votaci\u00f3 es tancar\u00e0 el 30 d'octubre a les 23.00h###\nVotem el v\u00eddeo que guanyar\u00e0 el premi PIRATA.CAT del FAP! ( http://fap.pirata.cat/ ) i que representar\u00e0 al partit en la propera campanya electoral.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\n(cap)",
+    "dia": 23,
+    "final": {
+        "any": 11,
+        "dia": 30,
+        "mes": 10
+    },
+    "hora": "00:07",
+    "id": 138,
+    "mes": 10,
+    "solutions": [
+        {
+            "desc": "http://fap.pirata.cat/bojos/Autor: Hector Barbero",
+            "down": 14,
+            "equal": 9,
+            "id": 389,
+            "title": "Proposta (#1):Bojos?",
+            "up": 34
+        },
+        {
+            "desc": "http://fap.pirata.cat/la-tele-em-pensa/Autor: Pol L\u00f3pez Grau",
+            "down": 36,
+            "equal": 6,
+            "id": 390,
+            "title": "Proposta (#2):La Tele em Pensa",
+            "up": 10
+        },
+        {
+            "desc": "http://fap.pirata.cat/per-fi-ja-arriben/Autora: Montse Sunyer Oller",
+            "down": 40,
+            "equal": 4,
+            "id": 391,
+            "title": "Proposta (#3):Per fi\u2026 ja arriben!",
+            "up": 4
+        },
+        {
+            "desc": "http://fap.pirata.cat/jo-vull/Autora: Elena Manj\u00f3n Porta",
+            "down": 16,
+            "equal": 10,
+            "id": 392,
+            "title": "Proposta (#4):Jo vull",
+            "up": 16
+        },
+        {
+            "desc": "http://fap.pirata.cat/que-votes-quan-votes/Autor: Carles Fern\u00e0ndez Juli\u00e0",
+            "down": 7,
+            "equal": 0,
+            "id": 393,
+            "title": "Proposta (#5):Qu\u00e8 votes quan votes?",
+            "up": 84
+        },
+        {
+            "desc": "http://fap.pirata.cat/vols-participar/Autor: Raimon Lapuente Ferran",
+            "down": 9,
+            "equal": 11,
+            "id": 394,
+            "title": "Proposta (#6):Vols participar?",
+            "up": 28
+        },
+        {
+            "desc": "http://fap.pirata.cat/cada-4-anys/Autor: Jaume Bonet Martinez",
+            "down": 14,
+            "equal": 12,
+            "id": 395,
+            "title": "Proposta (#7):Cada 4 anys\u2026",
+            "up": 21
+        },
+        {
+            "desc": "http://fap.pirata.cat/votat/Autor: Alberto Miguel Ruiz",
+            "down": 23,
+            "equal": 6,
+            "id": 396,
+            "title": "Proposta (#8):Vota\u2019t",
+            "up": 17
+        },
+        {
+            "desc": "http://fap.pirata.cat/pirata-democracia-directa/Autor: Javier Garc\u00eda Garc\u00eda",
+            "down": 11,
+            "equal": 7,
+            "id": 397,
+            "title": "Proposta (#9):Pirata.cat per la democr\u00e0cia directa",
+            "up": 31
+        },
+        {
+            "desc": "http://fap.pirata.cat/escull-vota-diferent/Autor: Dani Tolleson",
+            "down": 9,
+            "equal": 11,
+            "id": 398,
+            "title": "Proposta (#10):Escull, vota diferent",
+            "up": 39
+        },
+        {
+            "desc": "http://fap.pirata.cat/penses-diferent/Autor: Dario Casta\u00f1\u00e9",
+            "down": 11,
+            "equal": 16,
+            "id": 399,
+            "title": "Proposta (#11):Penses diferent?",
+            "up": 24
+        },
+        {
+            "desc": "http://fap.pirata.cat/fes-te-pirata/Autor: Julio Bou Santos",
+            "down": 17,
+            "equal": 11,
+            "id": 400,
+            "title": "Proposta (#12):Fes-te Pirata",
+            "up": 14
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #138: Votaci\u00f3 premi PIRATA.CAT",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/138"
+}

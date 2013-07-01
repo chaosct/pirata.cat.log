@@ -1,0 +1,42 @@
+{
+    "any": 12,
+    "desc": "Votaci\u00f3 per triar el cap de llista de les paperetes per Lleida per les eleccions catalanes del 25 de novembre de 2012. \n ################################################################ \nA partir del dia 3 d'octubre fins el 9 d'octubre a les 17h hi ha temps per presentar candidatura. \nLes llistes es construiran en funci\u00f3 de l'ordre per vots i respectant la paritat. \n En la vostra candidatura escriviu una presentaci\u00f3, indicant el que cregueu convenient. \nProcureu ser concisos. Podeu incloure enlla\u00e7os si voleu donar informaci\u00f3 addicional. \n################################################################ \n ################################################################ \nSi us plau, voteu nom\u00e9s a la prov\u00edncia on esteu censats. Podeu votar a m\u00e9s d'un candidat.  \n La votaci\u00f3 es tancar\u00e0 el dimarts 16 d'octubre de 2012 a les 17h. \n################################################################\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\nllistes-25N",
+    "dia": 3,
+    "final": {
+        "any": 12,
+        "dia": 28,
+        "mes": 10
+    },
+    "hora": "01:29",
+    "id": 190,
+    "mes": 10,
+    "solutions": [
+        {
+            "desc": "Presentaci\u00f3 de candidatura: experi\u00e8ncia, intencions, possibilitats, condicions, enlla\u00e7os, etc.",
+            "down": 0,
+            "equal": 2,
+            "id": 609,
+            "title": "Proposta (#1):Nom i cognoms (exemple)",
+            "up": 0
+        },
+        {
+            "desc": "Salmantino de 35 a\u00f1os, casado con una lleidatana y padres de dos peque\u00f1os de 3 y 1 a\u00f1o. Residente en Alcoletge. Llevo trabajando desde los 17 a\u00f1os, primero como camarero y luego como Jefe de Restaurante; actualmente funcionario del Estado desde 2007 por oposici\u00f3n y destinado actualmente en la Intervenci\u00f3n Delegada Territorial de la Seguridad Social de Lleida.Esta es la primera vez que he deseado ser candidato a algo, y lo hago por Pirates.Cat porque vivo en Lleida.Afiliado desde Noviembre 2011, que fue cuando supe de vuestra existencia y desde finales de este septiembre colaborador asiduo en pads. Como aspiraci\u00f3n personal es que Lleida deje de ser monocolor CiU y que por esta provincia lejana de la pol\u00edtica catalana haya un pirata convencido en que lo m\u00e1s importante en pol\u00edtica son las personas. Que si hemos adoptado la democracia como sistema lo hagamos bien. Odio la violencia, la intolerancia y la partidocracia. De izquierdas y del Real Madrid (no pod\u00eda ser todo bueno...). Ni organizo ni participo en nada, as\u00ed que todo es una experiencia nueva que afronto con gran ilusi\u00f3n y p\u00e9rdida de horas de sue\u00f1o.Quiero ser la voz del pueblo, de todo el pueblo, ya sea de derechas, del centro, o de las izquierdas. Escuchemos al pueblo, y devolvamos la voz a la calle en cada tema importante. Y convirtamos la democracia representativa en en Democracia, el poder del pueblo.",
+            "down": 0,
+            "equal": 0,
+            "id": 615,
+            "title": "Proposta (#2):Carlos Gonzalez Iglesias",
+            "up": 13
+        },
+        {
+            "desc": "Pirata \"oficial\" des del 2010, per\u00f2 pirata \"de sentiment\" des de fa bastant m\u00e9s temps.Lleidatana de naixement i berlinesa d'adpoci\u00f3. \u00c9s per aquest motiu que no em presento com a cap de llista, sin\u00f3 de segona, donant tot el meu suport al cap de llista que surti escollit. salut i rom!",
+            "down": 0,
+            "equal": 2,
+            "id": 624,
+            "title": "Proposta (#3): Ana Marti Gomez (anneta)",
+            "up": 13
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #190: Cap de llista per Lleida. Eleccions 25N",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/190"
+}

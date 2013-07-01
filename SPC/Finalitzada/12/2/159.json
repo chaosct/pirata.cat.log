@@ -1,0 +1,58 @@
+{
+    "any": 12,
+    "desc": "ATENCI\u00d3: Aquesta votaci\u00f3 es tancar\u00e0 el 24 de febrer de 2012.\n Com s'ha parlat a diferents reunions i a les llistes de treball, des del punt de vista estrat\u00e8gic a Pirates de Catalunya li interessa participar activament en el desenvolupament del moviment pirata internacional. En particular, \u00e9s important coordinar-se amb la resta de partits pirata europeus per a comen\u00e7ar a treballar en una campanya conjunta per a les properes Eleccions Europees 2014.\n S'ha suggerit la creaci\u00f3 del grup de treball per aquest tema per\u00f2 a la vegada s'ha fet pal\u00e8s la necessitat que els representants de PIRATA.CAT que vagin a les reunions o que participin en les discussions de Pirate Parties International (PPI) hagin estat escollits mitjan\u00e7ant el Sistema de Participaci\u00f3 Ciutadana (SPC). PIRATA.CAT pot enviar un m\u00e0xim de 6 delegats. [La votaci\u00f3 d'aquests representants es dur\u00e0 a terme properament.]\n La propera reuni\u00f3 anual de PPI ser\u00e0 del 13 al 15 d'abril i caldria que hi anessin, no els qui tinguin diners per a pagar-s'ho a nivell personal, sin\u00f3 els representants de PIRATA.CAT que hagin estat escollits al SPC. Perqu\u00e8 aix\u00f2 realment fos aix\u00ed caldria finan\u00e7ar el viatge als representants per\u00f2 com que els fons del partit s\u00f3n limitats nom\u00e9s es podr\u00e0 donar una ajuda. Aquesta votaci\u00f3 \u00e9s per decidir quin tipus d'ajuda es d\u00f3na als representants que s'escullin.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\najuda\ndelegats\ninternacional\nInternational\nParties\nPirate\nPPI\nrepresentants",
+    "dia": 14,
+    "final": {
+        "any": 12,
+        "dia": 28,
+        "mes": 10
+    },
+    "hora": "02:27",
+    "id": 159,
+    "mes": 2,
+    "solutions": [
+        {
+            "desc": "Com m\u00e9s representants de Pirates de Catalunya enviem, m\u00e9s feina faran (contactes, intercanvi d'idees, grup de pressi\u00f3...). Aquesta proposta consisteix en finan\u00e7ar a parts iguals els representants que hi vagin (m\u00e0xim 6) per potenciar que hi hagi el m\u00e0xim nombre de Pirates de Catalunya i poder tenir m\u00e9s for\u00e7a a la reuni\u00f3 de PPI. La suma de la despesa total m\u00e0xima pel partit proposada \u00e9s de 500 euros.",
+            "down": 14,
+            "equal": 9,
+            "id": 518,
+            "title": "Proposta (#1):Foment d'un grup gran (6)",
+            "up": 7
+        },
+        {
+            "desc": "Voldr\u00edem enviar el m\u00e0xim nombre de representants de Pirates de Catalunya per tenir m\u00e9s for\u00e7a a la reuni\u00f3 de PPI, per\u00f2 repartir a parts iguals entre 6 persones l'ajuda fa que al final la major part de les despeses se les hagin de finan\u00e7ar a t\u00edtol personal els representants. Aquesta proposta consisteix en finan\u00e7ar a parts iguals un m\u00e0xim de 4 dels representants (entre els que hi vagin, els que hagin estat m\u00e9s votats) fent un balan\u00e7 entre potenciar que hi hagi m\u00e9s Pirates per\u00f2 que el finan\u00e7ament no sigui tan simb\u00f2lic.  La suma de la despesa total m\u00e0xima pel partit proposada \u00e9s de 500 euros.",
+            "down": 7,
+            "equal": 4,
+            "id": 519,
+            "title": "Proposta (#2):Foment d'un grup intermig (4)",
+            "up": 40
+        },
+        {
+            "desc": "Perqu\u00e8 no depengui dels recursos personals de cadasc\u00fa sin\u00f3 que hi vagin persones escollides per a representar PIRATA.CAT cal que l'ajuda cobreixi al menys les despeses m\u00e9s b\u00e0siques, encara que no es fomenti que vagi a la reuni\u00f3 un grup gran de delegats de PIRATA.CAT. Aquesta proposta consisteix en finan\u00e7ar a parts iguals un m\u00e0xim de 2 dels representants (entre els que hi vagin, els que hagin estat m\u00e9s votats) amb una suma de la despesa total m\u00e0xima pel partit proposada de 500 euros.",
+            "down": 8,
+            "equal": 7,
+            "id": 520,
+            "title": "Proposta (#3):Finan\u00e7ar 2 representants",
+            "up": 22
+        },
+        {
+            "desc": "Aquesta proposta consisteix en no finan\u00e7ar cap dels representants que vagin a la reuni\u00f3 de PPI, encara que hagin estat escollits per a representar Pirates de Catalunya mitjan\u00e7ant el SPC. Que vagin a la reuni\u00f3 els representants que tinguin els recursos per a pagar les despeses a t\u00edtol personal.",
+            "down": 28,
+            "equal": 6,
+            "id": 521,
+            "title": "Proposta (#4):No finan\u00e7ar cap representant",
+            "up": 2
+        },
+        {
+            "desc": "Alguns representants necessitaran una ajuda econ\u00f2mica i altres no. Que es reparteixin l'ajuda entre la gent que ho necessiti.",
+            "down": 1,
+            "equal": 1,
+            "id": 526,
+            "title": "Proposta (#5):Repartir l'assignaci\u00f3 entre els representants que ho demanin",
+            "up": 5
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #159: Finan\u00e7ament dels representants de PIRATA.CAT a PPI",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/159"
+}

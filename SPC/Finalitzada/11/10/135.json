@@ -1,0 +1,42 @@
+{
+    "any": 11,
+    "desc": "Seria una bona forma de financiaci\u00f3 la realitzaci\u00f3 d'una tenda online amb productes de Pirata.cat, samarretes, tasses, enganxines, etc.\n\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\n(cap)",
+    "dia": 18,
+    "final": {
+        "any": 11,
+        "dia": 30,
+        "mes": 10
+    },
+    "hora": "12:51",
+    "id": 135,
+    "mes": 10,
+    "solutions": [
+        {
+            "desc": "Es poden fer servir serveis del estil http://www.zazzle.es o http://www.spreadshirt.es, no necesita infraestructura ni supossa cap cost extra, nom\u00e9s donar d'alta la tenda i pujar els dissenys. L'inceintiu de vendes \u00e9s d'un 15% per a vendes inferiors als 100\u20ac mensuals.",
+            "down": 2,
+            "equal": 5,
+            "id": 375,
+            "title": "Proposta (#1):Fer servir tendes existents on pots publicar els teus dissenys",
+            "up": 15
+        },
+        {
+            "desc": "Mitjan\u00e7ant software lliure com Opencart, crear la tenda online de Pirata.cat.  Vendre les nostres samarretes i altres productes amb el logotip pirata. Tots els beneficis serien per al finan\u00e7ament del partit.",
+            "down": 6,
+            "equal": 4,
+            "id": 376,
+            "title": "Proposta (#2):Crear nosaltres la tenda.",
+            "up": 13
+        },
+        {
+            "desc": "Podr\u00edem tenir una tenda pr\u00f2pia amb el programari lliure Opencart on vengu\u00e9ssim els articles dels quals en fem tirades llargues (els dos o tres models de samarretes, pins, etc). Imprescindible que hi hagi un equip de voluntaris que gestioni aix\u00f2. I tamb\u00e9 tenir amb Spreadshirt (o amb un altre servei) una tenda on, encara que els articles siguin molt m\u00e9s cars, hi hagi m\u00e9s varietat pels articles que no tenim en estoc i que es fan d'un en un en funci\u00f3 de la demanda. Per aix\u00f2 no cal un equip ja que els de la companyia que presta el servei ja s'encarreguen de fer l'enviament i d'ingressar els beneficis al banc.",
+            "down": 2,
+            "equal": 2,
+            "id": 381,
+            "title": "Proposta (#3):Tenda pr\u00f2pia + tenda a trav\u00e9s de tercers",
+            "up": 43
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #135: Tenda online de productes pirata",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/135"
+}

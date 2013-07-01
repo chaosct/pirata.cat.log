@@ -1,0 +1,114 @@
+{
+    "any": 12,
+    "desc": "Per estatuts hem de triar una junta nova cada any.\n Els candidats heu d'apuntar el vostre nom i a quin c\u00e0rrec opteu com a soluci\u00f3 (poseu una soluci\u00f3 per cada c\u00e0rrec si opteu a m\u00e9s d'un) i una explicaci\u00f3 de la vostra experi\u00e8ncia pr\u00e8via, motivaci\u00f3, etc.\n La votaci\u00f3 s'obrir\u00e0 el proper 19 de gener de 2013 i es tancar\u00e0 el 2 de febrer de 2013. Cada candidat optant a un c\u00e0rrec \u00e9s una votaci\u00f3 separada i es pot votar positivament, negativament o abstenint-se. Els candidats quedaran ordenats per la suma total de vots negatius i positius (el n\u00famero que es veu al costat del nom), i en cas d'empat tindr\u00e0 prefer\u00e8ncia la persona amb m\u00e9s vots (es a dir, l'opci\u00f3 amb m\u00e9s participaci\u00f3). \n Els candidats que no entrin a la junta quedaran de reserva per si algun dels membres de la junta ha de renunciar durant l'any poder substituir-los.\n Per optar al c\u00e0rrec o a la reserva els candidats hauran d'haver tret com a m\u00ednim el doble de vots positius que negatius.\n SECRETARI/\u00c0RIA GENERAL\n- Ser la cara oficial del partit.\n- Signar els acords que s'acordin per assemblees.\n- Tenir una idea en pla general del que s'est\u00e0 fent i dinamitzar el que no es faci correctament.\n SECRETARI/\u00c0RIA\n- Donar les altes i baixes dels afiliats. Portar el llibre d'actes i d'afiliats al dia.\n- Comprovar la legitimitat, en base als nostres estatuts i les lleis vigents, de qualsevol acte o acci\u00f3 que es vulgui realitzar (en cooperaci\u00f3 amb l'equip jur\u00eddic).\n- Coordinar-se amb el secretari general i el tresorer.\n- Realitzar els tr\u00e0mits legals del partit.\n- En \u00e8poca d'eleccions, coordinar els representants davant les juntes electorals.\n TRESORER/A\n- Responsable de dur els comptes del partit al dia.\n- Publicaci\u00f3 sistem\u00e0tica dels comptes i documents comptables del partit.\n- Validar els moviments econ\u00f2mic que s'hagi de fer.\n- Gesti\u00f3 i control dels pagaments.\n- Control de les donacions i altres possibles ingressos.\n- Emissi\u00f3 dels certificats i confecci\u00f3 de les declaracions o liquidacions fiscals que correspongui (en coordinaci\u00f3 amb Jur\u00eddic, el secretari i el secretari general)\n VOCALS\n- Ajudar en les seves tasques al secretari/\u00e0ria general, el secretari/\u00e0ria, i al tresorer/a.\n- Fer un seguiment global de les tasques que es porten a terme als diferents grups de treball i territorials.\n- Col\u00b7laborar en la cordinaci\u00f3 i comunicaci\u00f3 entre els diferents grups de treball.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\n2013\ngeneral\nJunta\nsecretari\ntresorer\nvocal",
+    "dia": 17,
+    "final": {
+        "any": 13,
+        "dia": 2,
+        "mes": 2
+    },
+    "hora": "15:24",
+    "id": 219,
+    "mes": 12,
+    "solutions": [
+        {
+            "desc": "Aqu\u00ed hi heu de posar l'experi\u00e8ncia pr\u00e8via, motivaci\u00f3, etc.",
+            "down": 0,
+            "equal": 2,
+            "id": 803,
+            "title": "Proposta (#1):Nom del candidat/a (C\u00e0rrec)",
+            "up": 0
+        },
+        {
+            "desc": "Estudiante de enfermer\u00eda, actualmente cursando mi \u00faltimo a\u00f1o de carrera. Tengo 25 a\u00f1os, y llevo algo m\u00e1s de un a\u00f1o afiliada a Pirates de Catalunya.  He colaborado en muchas de las campa\u00f1as que hemos realizado, incluso antes de afiliarme. En Yo Avalo, gestionando las adhesiones, respondiendo dudas de los participantes y en la redacci\u00f3n de documentos; en Megacomplaint, principalmente en la redacci\u00f3n de notas de prensa; y en Parents 2 Parents, en la creaci\u00f3n de la wiki, enlazando materiales, respondiendo emails y redactando notas de prensa y art\u00edculos. He participado tambi\u00e9n en el Congreso que realizamos en Barcelona para la constituci\u00f3n de European Pirates, en el Congreso de Arenys, y como asistente a la \u00faltima Asamblea General de Pirate Parties International (PPI) en Praga. En la \u00faltima campa\u00f1a electoral me he centrado especialmente en temas de comunicaci\u00f3n y en activismo a pie de calle. Colaboro de forma regular en la redacci\u00f3n y correcci\u00f3n de todo tipo de documentos, en la gesti\u00f3n de redes sociales (Facebook) y en la comunicaci\u00f3n con afiliados (bolet\u00edn oficial). Creo enormemente en el proyecto que estamos llevando a cabo, en los principios de democracia y transparencia que defendemos. Creo que son la clave para conseguir un gobierno de la gente y para la gente, y que Pirates puede ser el catalizador del cambio que muchos deseamos. Al principio pens\u00e9 en presentarme como vocal, pero finalmente he decidido presentarme para el cargo de secretaria general dado que ya hay un gran n\u00famero de vocales y considero que puedo ser \u00fatil en este cargo. Conozco el funcionamiento de Pirates y participo activamente en la mayor parte de las listas de trabajo, por lo que tengo una visi\u00f3n general de las acciones que se pretenden llevar a cabo en el pr\u00f3ximo a\u00f1o y puedo ayudar en la organizaci\u00f3n y planificaci\u00f3n de las mismas.",
+            "down": 4,
+            "equal": 4,
+            "id": 808,
+            "title": "Proposta (#2):Soledad Toledo (Secretaria General)",
+            "up": 51
+        },
+        {
+            "desc": "Nascut a Tossa de Mar, La Selva. Estudiant de F\u00edsica de la UAB. Tinc 19 anys, i soc pianista, percusionista, compositor, Dj i Productor musical. Vaig ser membre de les associacions \"Tossa Acci\u00f3 Musical (TAM)\", \"Associaci\u00f3 de m\u00fasica de Tossa\" i co-fundador de \"Associaci\u00f3 de Joves musics de Tossa\" i soc membre de la \"Societat Astron\u00f3mica de la UAB\" (SAUAB).  La meva vida \u00e9s l'art i la ci\u00e8ncia, divulgar cultura i promoure el coneixement. Sempre m'he considerat un idealista, amb ganes de fer el que estigui en la meva m\u00e0 per aconseguir una societat m\u00e9s justa, solidaria i intel\u00b7ligent. Amb els 18 anys acabats de fer em vaig dedicar a llegir els programes electorals i la hist\u00f2ria de tots els partits pol\u00edtics espanyols que vaig trobar. Em vaig afiliar al Partido Pirata Espa\u00f1ol i a Pirates de Catalunya, siguent aquest \u00faltim on vaig centrar la meva participaci\u00f3; i poc despr\u00e8s ja era a les llistes de Girona per les eleccions generals, i vaig participar activament durant la campanya Gironina.  Crec fermament en la lluita pels Drets Humans i per la divulgaci\u00f3 cultural,  i desitjo no quedarme aqu\u00ed i fer m\u00e9s i m\u00e9s coses. Ara em presento com a vocal perqu\u00e8 vull que aquest sigui un partit important, i vull fer el que estigui a la meva m\u00e0 per ajudar en aquest projecte per millorar la pol\u00edtica.",
+            "down": 1,
+            "equal": 5,
+            "id": 809,
+            "title": "Proposta (#3):Alejandro Jim\u00e9nez Rico (Vocal)",
+            "up": 37
+        },
+        {
+            "desc": "Per evitar qualsevol malent\u00e8s amb la meva candidatura com a tresorer, retiro aquesta de vocal.",
+            "down": 4,
+            "equal": 10,
+            "id": 811,
+            "title": "Proposta (#4):Pau Taxonera (Vocal)",
+            "up": 20
+        },
+        {
+            "desc": "Tinc 27 anys, s\u00f3c enginyer de telecomunicacions i afiliat de PIRATA.CAT des de 2010. Treballo com a project manager en projectes a l'\u00e0mbit de la mobilitat, principalment en el desevolupament d'aplicacions per a smartphones per a diferents empreses i administracions p\u00fabliques.  Col\u00b7laboro activament al grup de treball de PIRATA.CAT a L'H. Des del grup de treball de L'H he participat activament en les diferents tasques de difusi\u00f3 de l'ideari pirata a la nostra ciutat, incloent el treball al carrer i a les diferents xarxes socials. Durant les \u00faltimes eleccions auton\u00f2miques, junt amb la Cheli, vaig fer de representant del partit davant la JEZ de L'H i vaig fer campanya al carrer quan el temps m'ho va permetre. Vaig ser candidat a les auton\u00f2miques de 2010 per Barcelona, a les municipals per L'H, a les generals de 2011 per Barcelona i a les auton\u00f2miques de 2012 per Barcelona tamb\u00e9.  Actualment s\u00f3c Vocal de la Junta i m'agradaria continuar treballant des de la Junta per tal de coordinar i fer el seguiment de les diferents tasques que realitzem des de PIRATA.CAT. Aquest any tinc m\u00e9s temps que el passat, aix\u00ed que espero poder dedicar-hi m\u00e9s hores al nostre projecte com\u00fa. La meva motivaci\u00f3 \u00e9s sencilla: crec firmement en els idearis PIRATA, i no nom\u00e9s crec que sigui possible implementar-los sin\u00f2 que, segons el meu punt de vista, s\u00f3n una soluci\u00f3 sostenible als problemes actuals dels diferents nivells d'institucions de l'estat/autonomia/municipi en quant a corrupci\u00f3, exc\u00e8s de poder i la desalineaci\u00f3 total que sembla haver-hi entre la politica i el ciutad\u00e0. [...]I despr\u00e9s de dos anys treballant amb tots vosaltres, cada cop estic m\u00e9s segur que ho aconseguirem :-)",
+            "down": 0,
+            "equal": 4,
+            "id": 815,
+            "title": "Proposta (#5):Victor Rubio (Vocal)",
+            "up": 43
+        },
+        {
+            "desc": "Tinc 44 anys, argent\u00ed de naixement i catal\u00e0 d'adopci\u00f3. Em dedico a l'ensenyament dels escacs a escoles de la Costa Brava i s\u00f3c pare d'una nena de 5 anys.  Vaig comen\u00e7ar a col\u00b7laborar amb Pirates de Catalunya des de maig del 2011, amb la creaci\u00f3 d'un grup de treball per a les passades eleccions generals a la prov\u00edncia de Girona. Amb el temps, el grup s'ha mantingut estable i s'han anat sumant m\u00e9s pirates. Lamentablement, les cont\u00ednues eleccions no ens deixen cr\u00e9ixer ni organitzar-nos: els pocs activistes que tenim (a la prov\u00edncia de Girona) acaben \"cremats\" despr\u00e9s d'un mes i mig d'estr\u00e8s, entre avals, precampanya i campanya electoral. A m\u00e9s, la nostra experi\u00e8ncia pol\u00edtica \u00e9s encara molt breu com per saber qu\u00e8 fer i com fer-ho. Ara disposarem de bastant temps fins les properes eleccions i crec que \u00e9s fonamental que estiguem ben organitzats per quan arribin. Ens cal una bona organitzaci\u00f3 territorial descentralitzada amb grups pirates independents en els diferents municipis. A m\u00e9s dels ja existents, hem de promoure la creaci\u00f3 de nous grups, quants m\u00e9s millor, i oferir tota l'ajuda necess\u00e0ria des de la Junta. He decidit presentar-me com a vocal per donar un cop de m\u00e0 a la Coordinaci\u00f3 Territorial i actuar com a nexe informatiu entre els diferents grups municipals de Girona i la Junta, fent a m\u00e9s una crida a pirates de Tarragona i Lleida a presentar candidatura per donar tamb\u00e9 un cop de m\u00e0 en l'organitzaci\u00f3 territorial en les seves respectives prov\u00edncies.",
+            "down": 0,
+            "equal": 11,
+            "id": 816,
+            "title": "Proposta (#6):Carlos Salgado (Vocal)",
+            "up": 36
+        },
+        {
+            "desc": "Me nacieron en Avil\u00e9s (Asturias) hace ya 35 a\u00f1os, y he estado dando tumbos por muchos lados hasta que acab\u00e9 en Barcelona, ciudad que me tiene enamorado. Mis estudios son de historia, aunque me he pasado los \u00faltimos cinco a\u00f1os trabajando como top\u00f3grafo. Ahora estoy en el paro. Me presento como vocal con una idea concreta: Quisiera propulsar una lista de correo para nuevos afiliados y sacar adelante, de una vez, el sistema de patrocinio del que llevamos tanto tiempo hablando.  Creo que como vocal me ser\u00eda m\u00e1s f\u00e1cil hacerlo y por eso me presento. Pero amenazo con seguir dando el co\u00f1azo aunque no salga, eso s\u00ed :). Eso no quiere decir, claro est\u00e1, que quiera ser vocal para limitarme a este tema, sino que tratar\u00eda de ayudar en todo lo posible, dentro de mis posibilidades, como he hecho hasta ahora. Mi participaci\u00f3n hasta ahora dentro del movimiento pirata ha sido principalmente en la Confederaci\u00f3n, colaborando con otros partidos piratas del resto del estado para crear una plataforma que nos sirva en las europeas y que, en general, nos permita aunar fuerzas. Tambi\u00e9n he escrito varios art\u00edculos de nuestro blog y, en general, he realizado diversas labores de trabajo de calle y difusi\u00f3n por internet.  Tambi\u00e9n he dado una charla sobre Democracia Directa en Madrid y tengo apalabradas varias en Galicia. Estoy redactando un librito sobre este tema que pueda servir para dar a conocer la democracia directa entre la gente que no entiende mucho de pol\u00edtica.[...]Precisamente este tema, el de la democracia directa, me parece el m\u00e1s importante de nuestro ideario y el gran motivo por el que estoy en este partido.",
+            "down": 0,
+            "equal": 5,
+            "id": 817,
+            "title": "Proposta (#7):\"Tiberio\" Jorge Coto Bautista (Vocal)",
+            "up": 50
+        },
+        {
+            "desc": "Soc de Barcelona, 29 anys i t\u00e8cnic de laboratori. Vaig estar implicada al Partido Pirata des del comen\u00e7ament i vaig col.laborar en la creaci\u00f3 de Pirates de Catalunya. Des de llavors he estat implicada en molts aspectes del partit, campanyes, recollides de firmes etc.  He participat en diversos grups i llistes i considero primordial la tasca que ha d'encarar el partit de conectar amb la gent el carrer, l'associaci\u00f3 amb entitats que treballen per una democr\u00e0cia de veritat i donar eines a la societat per tenir aquesta democr\u00e0cia. Fa molts anys que m'interessa la llibertat d'expressi\u00f3, la falta de democr\u00e0cia i la impunitat dels nostres poders politics. M'apassiona la divulgaci\u00f3 de la ci\u00e8ncia i l'esperit cr\u00edtic, m'obsessiona l'estat de la Sanitat P\u00fablica i les conseq\u00fc\u00e8ncies econ\u00f2miques i socials que hem patit per culpa de la bombolla inmobili\u00e0ria. Vull formar part del moviment que posi fre als intents de controlar Internet, el coneixement i l'acc\u00e9s a la informaci\u00f3, i crec que \u00e9s possible canviar aquest sistema, ja sigui entrant i possant-ho tot de cap per avall, o hackejant-lo des de fora. No em fa por la burocr\u00e0cia, m'agrada poder coordinar tasques, m'agrada fer-me responsable de feines concretes i necess\u00e0ries i vull ser un punt de suport i col\u00b7laboraci\u00f3 entre grups i gent que vulgui fer m\u00e9s coses. Crec que podria fer una bona tasca com a secret\u00e0ria i aspiro a poder fer la feina m\u00e9s f\u00e0cil per a tothom.",
+            "down": 3,
+            "equal": 7,
+            "id": 819,
+            "title": "Proposta (#8):Gemma Rabal (Secret\u00e0ria)",
+            "up": 42
+        },
+        {
+            "desc": "Nouvingut Salamantino. De rebote candidato Pirata por Lleida y representante legal voluntario del Partido en las \u00faltimas elecciones al Parlament en LleidaCr\u00edtico con la sociedad en la que vivimos y muy enojado con la impunidad del poder pol\u00edtico-p\u00fablico que permitimos que nos representen. Me presento a volcal por una doble vertiente. Como pirata con residencia en Lleida y como experiencia para empaparme del partido de cara a unas pr\u00f3ximas elecciones.Habitual de la burocracia.  Trabaj\u00e9 en la lista de campa\u00f1a y haciendo aportaciones en comunicacion y en la elaboracion de pads. No garantizo mi presencia f\u00edsica en todas las juntas, pero s\u00ed mi compromiso por estar al menos en remoto.",
+            "down": 4,
+            "equal": 10,
+            "id": 820,
+            "title": "Proposta (#9):Carlos Gonz\u00e1lez Iglesias. (Vocal)",
+            "up": 22
+        },
+        {
+            "desc": "Tinc 61 anys i s\u00f3c empresari. Afiliat primer al partit pirata i despr\u00e9s al nostre partit, vaig votar-vos des del primer dia. En el Congr\u00e9s dels pirates europeus vaig con\u00e8ixer a la Sole, en Dar\u00edo, la Muriel i molts d\u2019altres, i des d\u2019aquell moment no he deixat d\u2019implicar-me en casi totes les accions del partit.Em proposo com a tresorer. He d'admetre que la meva intenci\u00f3 era presentarme sols com a vocal, ja que s\u00f3c un dels que proveeixen de mercadeix al partit, a trav\u00e9s de la meva empresa. I encara que sigui a preu de cost i nom\u00e9s em procuri alguna p\u00e8rdua, no voldria que hi hagu\u00e9s cap possibilitat de confusi\u00f3.No obstant aix\u00f2, pel creixement del partit, degut la meva experi\u00e8ncia com a empresari i el fet que ning\u00fa es presenti per al lloc, crec que on millor puc ajudar \u00e9s en la tresoreria.Espero, en cas que ho cregueu convenient, no defraudar-vos i portar la transpar\u00e8ncia fins al l\u00edmit, especialment pel que fa a la possible relaci\u00f3 amb la meva empresa.",
+            "down": 1,
+            "equal": 5,
+            "id": 821,
+            "title": "Proposta (#10):Pau Taxonera (Tresorer)",
+            "up": 44
+        },
+        {
+            "desc": "S\u00f3c de Barcelona i tinc 34 anys. M'identifico plenament amb l'ideari pirata i fa al voltant d'un any i mig que s\u00f3c un membre actiu de Pirates de Catalunya col\u00b7laborant en tot el que puc.  L'\u00faltim any he fet a m\u00e9s de Coordinadora Internacional, la qual cosa m'ha ajudat a entendre millor les problem\u00e0tiques organitzatives que es poden trobar arreu en qualsevol partit pirata i a aprendre possibles solucions que han aplicat en altres llocs per resoldre-les. Em presento a la junta per donar un cop de m\u00e0 en el que calgui, per\u00f2 per raons de feina ser\u00e9 a Berl\u00edn aix\u00ed que nom\u00e9s podr\u00e9 col\u00b7laborar en tasques que es puguin realitzar en remot. De professi\u00f3 s\u00f3c f\u00edsica experimental i fins ara m'he dedicat a investigar l'estructura de materials desordenats com ara l\u00edquids i vidres (mitjan\u00e7ant la difracci\u00f3 de neutrons).",
+            "down": 3,
+            "equal": 6,
+            "id": 822,
+            "title": "Proposta (#11):Muriel Rovira Esteva (Vocal)",
+            "up": 44
+        },
+        {
+            "desc": "S\u00f3c de Barcelona, soc enginyer inform\u00e0tic i tinc 26 anys. Ja porto quasi 2 anys com a coordinador de Grumets i vaig entrar creant l'aplicaci\u00f3 d'android de Pirates. Col\u00b7laboro amb TIC i he format part de l'actual junta. A dia d'avui soc en un viatge de 3 mesos per tota \u00c0sia, pel que no he pogut afegir abans la meva candidatura i haig de ser molt breu amb la descripci\u00f3 (en 2 hores agafo un avi\u00f3 per iniciar el cam\u00ed de tornada :) ).",
+            "down": 1,
+            "equal": 5,
+            "id": 823,
+            "title": "Proposta (#12):Sergio Arcos Sebasti\u00e1n (Vocal)",
+            "up": 19
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #219: Eleccions a la Junta del 2013",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/219"
+}

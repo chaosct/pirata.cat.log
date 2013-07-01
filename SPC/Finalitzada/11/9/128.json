@@ -1,0 +1,42 @@
+{
+    "any": 11,
+    "desc": "Votaci\u00f3 per triar el cap de llista de les paperetes per Tarragona per les eleccions generals del 20 de novembre de 2011.\n################################################################\n######## Si us plau, voteu nom\u00e9s a la prov\u00edncia on esteu censats ########\n####La votaci\u00f3 es tancar\u00e0 el diumenge 9 d'octubre de 2011 a les 17h ######\n################################################################ \n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\n(cap)",
+    "dia": 26,
+    "final": {
+        "any": 11,
+        "dia": 9,
+        "mes": 10
+    },
+    "hora": "17:33",
+    "id": 128,
+    "mes": 9,
+    "solutions": [
+        {
+            "desc": "Em dic Adri\u00e0 Cereto Massagu\u00e9, s\u00f3c de Calafell, llicenciat en Biotecnologia a la Universitat Rovira i Virgili i ara estic comen\u00e7ant un m\u00e0ster en nutrici\u00f3 i metabolisme i el doctorat en bioinform\u00e0tica. Vaig for\u00e7a atrafegat amb aix\u00f2 i no he pogut dedicar-li a pirates tant de temps com m'agradaria. Treballo amb programari lliure i el faig servir sempre que puc. Em considero biling\u00fce catal\u00e0/castell\u00e0 i a m\u00e9s parlo m\u00e9s o menys algun altre idioma: alemany, angl\u00e8s, franc\u00e8s, portugu\u00e8s i nocions d'esperanto. Conec Pirates pr\u00e0cticament des del seu naixement (ja fa m\u00e9s d'un any), i abans ja tenia al radar el Partido Pirata, i tot i que malauradament l'any passat era a l'estranger, ja em vaig presentar a les llistes de Tarragona a les auton\u00f2miques.",
+            "down": 3,
+            "equal": 2,
+            "id": 351,
+            "title": "Proposta (#1):Adri\u00e0 Cereto Massagu\u00e9",
+            "up": 17
+        },
+        {
+            "desc": "Tengo 32 a\u00f1os, soy Licenciado Informatico. Trabajo como consultor de Seguridad Inform\u00e1tica en clientes estrat\u00e9gicos. Experto en comunicaci\u00f3n y Ventas. Me presento como candidato a las listas de Tarragona, donde he vivido durante la mayor\u00eda de a\u00f1os de mi vida. Creo que ha llegado el momento de trabajar para mejorar las cosas ante la situaci\u00f3n critica que nos ha tocado vivir.",
+            "down": 7,
+            "equal": 1,
+            "id": 352,
+            "title": "Proposta (#2):Ram\u00f3n Rion",
+            "up": 10
+        },
+        {
+            "desc": "S\u00f3c de Reus, pirata de cor,  i intentant treballar pel pa\u00eds des de Reus. Em presento per si hi hagu\u00e9s prou gent per fer la llista pel senat. Sempre i quant no em comporti feina (ja que ho considero molt secundari\u00b7 Si m'ha de dur feina,  com sabreu sere pare abans de les eleccions i no podr\u00e9 dexicar-me a la campanya,  i suposo aue ser\u00e0  el cap de llista del congr\u00e9s.  Trebllo a la biblioteca central dd de Reus.  Envoltat de cultura i ciutadants.  Afeccionat a la m\u00fasica i els c\u00f2mics. I una mica freak.  Afeccionat tamb\u00e9 \u00faltimament a l'economia i a analitzar els disbarats del m\u00f3n on ens ha tocat viure.  Salut",
+            "down": 1,
+            "equal": 0,
+            "id": 362,
+            "title": "Proposta (#3):Jaume Margallo Nieto (SENAT)",
+            "up": 6
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #128: Cap de llista per Tarragona. Eleccions Generals 2011",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/128"
+}

@@ -1,0 +1,26 @@
+{
+    "any": 11,
+    "desc": "Propostes d'organitzaci\u00f3 dels Pirates de Catalunya\n\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\ncatalunya\norganigrama\norganitzaci\npiratacat\npirates",
+    "dia": 2,
+    "final": {
+        "any": 11,
+        "dia": 3,
+        "mes": 4
+    },
+    "hora": "20:12",
+    "id": 65,
+    "mes": 1,
+    "solutions": [
+        {
+            "desc": "Dels membres de la Junta dels Pirates de Catalunya:",
+            "down": 3,
+            "equal": 4,
+            "id": 145,
+            "title": "Proposta (#1):Proposta conjunta d'Organigrama",
+            "up": 25
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #65: Proposta d'estructura Organitzativa",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/65"
+}

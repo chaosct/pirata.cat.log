@@ -1,0 +1,50 @@
+{
+    "any": 11,
+    "desc": "Des de la Lliga per la la\u00efcitat han creat un manifest per la creaci\u00f3 d'un estat veritablement la\u00efc. \nA m\u00e9s a m\u00e9s, proposen esmenes que es podrien afegir al nostre programa municipal, si es volgu\u00e9s.\n Recordatori de l'article 18 de la Declaraci\u00f3 dels DDHH:\n\"Toda persona tiene derecho a la libertad de pensamiento, de conciencia y de religi\u00f3n; este derecho incluye la libertad de cambiar de religi\u00f3n o de creencia, as\u00ed como la libertad de manifestar su religi\u00f3n o su creencia, individual y colectivamente, tanto en p\u00fablico como en privado, por la ense\u00f1anza, la pr\u00e1ctica, el culto y la observancia.\"\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\nDrets\nHumans\nLaicitat\nManifest\nMunicipals",
+    "dia": 4,
+    "final": {
+        "any": 12,
+        "dia": 12,
+        "mes": 4
+    },
+    "hora": "12:40",
+    "id": 98,
+    "mes": 5,
+    "solutions": [
+        {
+            "desc": "Aqu\u00ed teniu el manifest: http://www.laicitat.org/html/manifest.htm I la llista d'adhesions: http://www.laicitat.org/html/adhesions_ent.php",
+            "down": 4,
+            "equal": 2,
+            "id": 250,
+            "title": "Proposta (#1):Adherir-nos com a entitat al manifest",
+            "up": 79
+        },
+        {
+            "desc": "http://www.laicitat.org/html/docestrat.htm#municipal",
+            "down": 9,
+            "equal": 11,
+            "id": 251,
+            "title": "Proposta (#2):Afegir esmenes al nostre programa municipal",
+            "up": 30
+        },
+        {
+            "desc": "Pirates de Catalunya fuera del ideario pirata debe mantenerse ideol\u00f3gicamente neutra. En cualquier caso la adhesi\u00f3n deber\u00eda ser matizada. Algo as\u00ed como: \"Un x% de los afiliados a Pirates de Catalunya se adhieren a este manifiesto, un y% se oponen a la adhesi\u00f3n y a un z% se la refanfinfla y tanto le da.\" Todo el mundo entender\u00e1 lo que significa que x sea igual a 85% por ejemplo. Pero no hay que cerrar puertas a futuros afiliados al partido que puedan verse no representados por posiciones ideol\u00f3gicas que no los representan. Dicho esto paso a crear la soluci\u00edon #4 No Adherirnos la manifiesto",
+            "down": 8,
+            "equal": 5,
+            "id": 268,
+            "title": "Proposta (#3):Mantener la neutralidad ideol\u00f3gica",
+            "up": 11
+        },
+        {
+            "desc": "Pues eso",
+            "down": 23,
+            "equal": 1,
+            "id": 269,
+            "title": "Proposta (#4):No adherirnos como entidad al manifiesto",
+            "up": 1
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #98: Adhesi\u00f3 al Manifest de la Lliga per la la\u00efcitat",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/98"
+}

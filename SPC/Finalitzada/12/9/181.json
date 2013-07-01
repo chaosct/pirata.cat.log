@@ -1,0 +1,34 @@
+{
+    "any": 12,
+    "desc": "ATENCIO: AQUESTA VOTACI\u00d3 HA DE ROMANDRE OBERTA FINS LA ASSEMBLEA DE 29 DE DESEMBRE DE 2012\n A la assemblea de data 1 de Juliol de 2012 es va aprovar el Reglament Intern. No obstant, aquest Reglament encara s'ha de pulir una mica i, per tant, cal aprovar algunes esmenes, mitjan\u00e7ant el procediment establert al propi Reglament.\n Aqui es poden proposar les esmenes que calgui fer.\n Editat: Podeu trobar el text del reglament a: https://xifrat.pirata.cat/commons/document/reglament\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\nreglamentinternesm",
+    "dia": 9,
+    "final": {
+        "any": 13,
+        "dia": 2,
+        "mes": 1
+    },
+    "hora": "16:12",
+    "id": 181,
+    "mes": 9,
+    "solutions": [
+        {
+            "desc": "El punt V.4 diu: Las propuestas de modificaci\u00f3n deber\u00e1n aprobarse por una mayor\u00eda de \u2154 en dos Asambleas generales consecutivas, separadas por un periodo m\u00ednimo de 3 meses naturales. Aix\u00f2 genera un problema, donat que segons els estatuts dues assemblees consecutives han d'estar separades per un m\u00e0xim de 3 mesos, aquest article obliga a que, si es vol modificar el reglament sense incomplir ni els estatuts ni el mateix reglament, calgui fer dues assemblees amb exactament tres messos entre elles, ni un dia m\u00e9s o menys. A m\u00e9s caldria aclarir que cales 2/3 dels assistents, no del total de afiliats. Per tant proposo la seg\u00fcent redacci\u00f3: 4.a) Las propuestas de modificaci\u00f3n deber\u00e1n aprobarse por una mayor\u00eda de dos tercios de los asistentes en dos asambleas generales consecutivas, separadas por un per\u00edodo m\u00ednimo de dos meses naturales. 4.b) Si se ha realizado la votaci\u00f3n online, la votaci\u00f3n deber\u00e1 tener un m\u00ednimo de 2/3 de votos positivos durante la celebraci\u00f3n de cada una de las dos asambleas. D'aquesta forma, una vegada celebrada la primera assemblea, disposem d'un marge d'un mes per celebrar la segona.",
+            "down": 2,
+            "equal": 10,
+            "id": 580,
+            "title": "Proposta (#1):Modificaci\u00f3 article V.4. Modificaci\u00f3 del Reglament",
+            "up": 92
+        },
+        {
+            "desc": "L'article 5 de l'apartat W diu: 5. Cuando en una comarca existan m\u00e1s de dos \u00f3rganos territoriales de car\u00e1cter municipal, la Junta Directiva podr\u00e1 instar a la disoluci\u00f3n de estos y a la constituci\u00f3n de un \u00f3rgano territorial de car\u00e1cter comarcal. Aix\u00f2 no t\u00e9 cap sentit, donat que les delegacions territorials tenen com a finalitat principal organitzar les eleccions en el seu \u00e0mbit territorial, es l\u00f2gic que tinguem agrupacions territorials provincials i locals (municipals). No t\u00e9 sentit tenir agrupacions comarcals.",
+            "down": 8,
+            "equal": 14,
+            "id": 585,
+            "title": "Proposta (#2):Eliminar article W.5",
+            "up": 64
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #181: Esmenes al Reglament",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/181"
+}

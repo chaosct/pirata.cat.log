@@ -1,0 +1,122 @@
+{
+    "any": 11,
+    "desc": "Apunteu el nom i a quin c\u00e0rrec opteu com a soluci\u00f3 i una explicaci\u00f3 de la vostra experi\u00e8ncia pr\u00e8via.\nLa votaci\u00f3 es tanca durant la propera assemblea general del 14 de gener.\n SECRETARI/A GENERAL\n- Ser la cara oficial del partit.\n- Signar els acords que s'acordin per assemblees.\n- Tenir una idea en pla general del que s'est\u00e0 fent i dinamitzar el que no es faci correctament.\n SECRETARI/A\n- Donar les altes i baixes dels afiliats. Portar el llibre d'actes i d'afiliats al dia.\n- Comprovar la legitimitat, en base als nostres estatuts i les lleis vigents, de qualsevol acte o acci\u00f3 que es vulgui realitzar.\n- Coordinar-se amb el secretari general i el tresorer.\n- Realitzar els tr\u00e0mits legals del partit.\n- En \u00e8poca d'eleccions, coordinar els representants davant les juntes electorals.\n TRESORER/A\n- Responsable de dur els comptes del partit al dia. \n- Publicaci\u00f3 sistem\u00e0tica dels comptes i documents comptables del partit. \n- Validar els moviments econ\u00f2mic que s'hagi de fer.\n- Gesti\u00f3 i control dels pagaments.\n- Control de les donacions i altres possibles ingressos.\n- Emissi\u00f3 dels certificats i confecci\u00f3 de les declaracions o liquidacions fiscals que correspongui (en coordinaci\u00f3 amb Jur\u00eddic, el secretari i el secretari general)\n VOCALS (Coordinadors)\nCOMUNICACI\u00d3\n- Coordinar la creaci\u00f3, maquetaci\u00f3, traducci\u00f3 i edici\u00f3 dels articles del bloc.\n- Hi ha un equip d'editors per a aquestes tasques\n- Coordinar la pres\u00e8ncia a xarxes socials, community management:\n- Monitoritzar twitter, afegir enlla\u00e7os d'inter\u00e9s\n https://twitter.com/search/realtime/partit_pirata%20OR%20%22partit%20pirata%22% 20OR%20pirata.cat%20OR%20%22Pirates%20de%20Catalunya%22%20\n- Dinamitzar p\u00e0gina a facebook, crear els esdeveniments importants\n- Dinamitzar p\u00e0gina a google+\n- Supervisar el calendari\n- Redacci\u00f3 i supervisi\u00f3 de notes de premsa.\n- Redacci\u00f3 i supervisi\u00f3 de notes de mailings a afiliats.\n- Supervisar les relacions amb altres partits pirates.\n- Monitoritzar mencions a mitjans de comunicaci\u00f3 (Google Alerts)\n TERRITORIAL\n- Responsable de la comunicaci\u00f3 i coordinaci\u00f3 entre els diferents grups de treball que vagin sorgint pel territori de Catalunya.\n- Fer d'enlla\u00e7 entre els responsables dels grups i la junta o altres \u00f2rgans del partit.\n CREATIUS\n- Responsable de la imatge del partit.\n- Coordinaci\u00f3 de cartells, edici\u00f3 de videos, samarretes, imatges, ...\n- Assessorar als creatius per a que s\u00e0piguen qu\u00e8 es necessita fer en cada moment i en quina direcci\u00f3 han d'anar les propostes. (si porteu un temps a la llista ja sabeu per on va)\n- Gestionar la llista de correu (f\u00e0cil)\n- Gestionar l'apartat del Commons (no tant f\u00e0cil, per\u00f2 se n'apr\u00e8n)\n- Comprovar que es compleix el manual d'identitat corporativa (en aix\u00f2 tindr\u00e0 ajuda)\n- Fer els carnets pirata (20 minuts al mes?)\n- Anar al m\u00e0xim de reunions presencials possibles. (Les que es pugui, vaja)\n- El coordinador ser\u00e0 membre de la Junta, es requereix sentit com\u00fa.\n PORTAVEU\n- Qui d\u00f3na la cara davant premsa i altres medis de comunicaci\u00f3. S'ha de coordinar amb el Secretari general, secretari i amb Comunicaci\u00f3\n TIC\n- Responsable de l'equip de manteniment i documentaci\u00f3 de la infraestructura TIC, serveis i aplicacions necess\u00e0ries*:\n  - Drupal (IdeaTorrent i Commons)\n  - Wordpress\n- Responsable de l'equip de desenvolupament d'aplicacions ad hoc per campanyes espec\u00edfiques:\n  - Actua\n  - Yo Avalo\n  - 10+1 pirates\n- Responsable de l'equip d'estudi i implantaci\u00f3 de nous sistemes de democr\u00e0cia directa/l\u00edquida:\n  - Liquid Feeback\n  - L\u00fdd\n- Coordinaci\u00f3 amb el Secretari per l'alta i baixa d'afiliats. Tindr\u00e0 acc\u00e9s al cens de pirates, pel que es demana responsabilitat, ja que estar\u00e0 subjecte a LOPD.\n- Es requereix:\n   - Sentit com\u00fa: ser\u00e0 membre de la Junta i gestionar\u00e0 dades personals.\n   - Iniciativa: ha de tenir empenta i saber portar projectes endavant.\n   - Ganes d'aprendre: si no hi ha experi\u00e8ncia pr\u00e8via, compensar-ho amb aix\u00f2 ;)\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\nEleccions\njunta",
+    "dia": 25,
+    "final": {
+        "any": 12,
+        "dia": 12,
+        "mes": 4
+    },
+    "hora": "19:24",
+    "id": 151,
+    "mes": 12,
+    "solutions": [
+        {
+            "desc": "Per qu\u00e8 creus que has de ser escollit? (No voteu a aquest, \u00e9s un exemple i els seus vots no seran comptabilitzats)",
+            "down": 1,
+            "equal": 7,
+            "id": 480,
+            "title": "Proposta (#1):Nom i cognoms - C\u00e0rrec al que es presenta",
+            "up": 1
+        },
+        {
+            "desc": "Joan Rovira, Professor Em\u00e8rit d\u2019Economia, Universitat de Barcelona. Professionalment  treballo en recerca i consultoria en el camp de la economia de la salut i les pol\u00edtiques de medicaments per a entitats nacionals i internacionals. Dins de Pirates de Catalunya, a part de fer les tasques de Tresorer, m\u2019agradaria contribuir a concretar i donar a con\u00e8ixer el nostre ideari en temes de democr\u00e0cia participativa, transpar\u00e8ncia i propietat intel\u00b7lectual.",
+            "down": 0,
+            "equal": 5,
+            "id": 482,
+            "title": "Proposta (#2):Joan Rovira Forns - Tresorer",
+            "up": 60
+        },
+        {
+            "desc": "Lamento molt haver de retirar la meva candidatura. Q\u00fcestions sobrevingudes d'\u00e0mbit personal fan que hagi de replantejar-me, durant una bona temporada, com gestiono el meu temps dins i fora de la feina.Penso que les altres persones que es presenten s\u00f3n m\u00e9s que v\u00e0lides, fet que facilita  que no em senti tan malament fent aix\u00f2.Demano disculpes i agraeixo el seu vot a les persones que m'havien fet confian\u00e7a i a tothom que participa en aquestes eleccions, candidats i votants. Josep S\u00e0nchez.",
+            "down": 7,
+            "equal": 2,
+            "id": 483,
+            "title": "Proposta (#3):Candidatura retirada",
+            "up": 40
+        },
+        {
+            "desc": "33 anys, consultor i formador de programari lliure. Activista en defensa d'informaci\u00f3, programari i cultura lliure des del 1996. Membre fundador de Pirates de Catalunya, coordinador de la primera campanya electoral i actual portaveu de Pirates. Faig cops de m\u00e0 als grup de TIC i de Comunicaci\u00f3 de forma puntual. Disposo d'una certa llibertat hor\u00e0ria gr\u00e0cies a que treballo com a freelance, i tinc de contactes i experi\u00e8ncia en el tracte amb mitjans. Crec que hem d'intentar aconseguir participaci\u00f3 i transpar\u00e8ncia total al govern, tot preservant els drets fonamentals i l'acc\u00e9s a la cultura.",
+            "down": 9,
+            "equal": 3,
+            "id": 484,
+            "title": "Proposta (#4):Kenneth Peiruza Cerdan - Vocal",
+            "up": 62
+        },
+        {
+            "desc": "28 anys, enginyera inform\u00e0tica. Vinculada a Pirata.cat des dels seus inicis, he col\u00b7laborat en les tres campanyes electorals, s\u00f3c membre actiu del grup de pirates de Tarragona.  A m\u00e9s a m\u00e9s d'afiliada a Pirates formo part de l'Associaci\u00f3 Hacklabvalls, l'objectiu de la qual \u00e9s la difusi\u00f3 del programari lliure.",
+            "down": 1,
+            "equal": 4,
+            "id": 485,
+            "title": "Proposta (#5):Ester Galimany Guasch - Secret\u00e0ria General",
+            "up": 63
+        },
+        {
+            "desc": "Estic a Pirates de Catalunya des dels seus inicis, i he colaborat a les 3 campanyes electorals. Treballo d'auxiliar administratiu de la Generalitat de Catalunya. Aix\u00f2 fa que, encara que no tinc molta flexibilitat hor\u00e0ria, tinc tres tardes lliures cada setmana (i dos dies totalment ocupats), per fer gestions.",
+            "down": 2,
+            "equal": 7,
+            "id": 486,
+            "title": "Proposta (#6):Francisco Lloret L\u00f3pez-Nieto - Secretari",
+            "up": 36
+        },
+        {
+            "desc": "27 anys, desenvolupador python. Membre fundador de PIRATA.CAT, actual coordinador de Comunicaci\u00f3.",
+            "down": 8,
+            "equal": 4,
+            "id": 487,
+            "title": "Proposta (#7):David Arcos - Vocal",
+            "up": 50
+        },
+        {
+            "desc": "borrat!",
+            "down": 18,
+            "equal": 5,
+            "id": 488,
+            "title": "Proposta (#8):candidatura borrada",
+            "up": 12
+        },
+        {
+            "desc": "Un altre tekkie, 44 anys. Terrassenc. Objector de consci\u00e8ncia plantat i absolt. Verd. Vaig ajudar a crear Els Verds a Catalunya (fins que se'ls van quedar IC).  De vegades (poques) escric al meu blog: http://vivirconmenos.santicasas.net/ Ferm defensor la democr\u00e0cia directa i participativa, el que m'ha portat a participar a PIRATA.CAT, donat que \u00e9s l'\u00fanic projecte que veig que te un cert sentit i futur. No tinc massa temps, per\u00f2 estic disposat a dedicar-hi el poc que pugui (en el que calgui, per aix\u00f2 em proposo per a vocal) per a consolidar el projecte PIRATA.CAT.",
+            "down": 7,
+            "equal": 5,
+            "id": 489,
+            "title": "Proposta (#9):Santi Casas - Vocal",
+            "up": 51
+        },
+        {
+            "desc": "Tinc 27 anys, soc enginyer de telecomunicacions i afiliat de PIRATA.CAT des de 2010. Treballo com a project manager en projectes a l'\u00e0mbit de la mobilitat, principalment en el desevolupament d'aplicacions per a smartphones per a diferents empreses i administracions p\u00fabliques. Col\u00b7laboro activament al grup de treball de PIRATA.CAT a L'H. Des del grup de treball de L'H he participat activament en les diferents tasques de difusi\u00f3 de l'ideari pirata a la nostra ciutat, incloent el treball al carrer i a les diferents xarxes socials. Durant les eleccions municipals, tamb\u00e9 vaig dur a terme les tasques necess\u00e0ries per formalitzar la candidatura a L'H, configurant les llistes de candidats i ajudant a la nostra interlocutora Laura amb les gestions a la JEZ i als mitjans de comunicaci\u00f3 de L'H.La meva motivaci\u00f3 \u00e9s sencilla: crec firmement en els idearis PIRATA, i no nom\u00e9s crec que sigui possible implementar-los sino que, segons el meu punt de vista, s\u00f3n una soluci\u00f3 sostenible als problemes actuals dels diferents nivells d'institucions de l'estat/autonomia/municipi en quant a corrupci\u00f3, exc\u00e8s de poder i la desalineaci\u00f3 total que sembla haver-hi entre la politica i el ciutad\u00e0.I despr\u00e9s d'un any treballant amb tots vosaltres, cada cop estic m\u00e9s segur que ho aconseguirem :-)",
+            "down": 4,
+            "equal": 5,
+            "id": 490,
+            "title": "Proposta (#10):Victor Rubio - Vocal",
+            "up": 49
+        },
+        {
+            "desc": "Tinc 56 anys i soc Enginyer Industrial, encara que tota la meva vida laboral ha estat dedicada a sistemes d\u2019informaci\u00f3 i gesti\u00f3 (\u00e0mbit p\u00fablic i privat). Encara que l\u2019\u00faltim mes no hi estat massa actiu, disposo de bastant temps ja que a la actualitat treballo com a aut\u00f2nom que simultaniejo amb classes a la UOC (sistemes d\u2019informaci\u00f3) i amb tindre cura del meu \u00faltim fill (7 anys). Crec firmament que el sistema de partits i la democr\u00e0cia tal com la vivint actualment esta desfasada i cal un canvi revulsiu en el sistema democr\u00e0tic i de representaci\u00f3 de la ciutadania, i veig que el Moviment Pirata es una oportunitat per poder portar a terme aquests canvis, per la qual cosa vull aportar el  temps i el que creieu oport\u00fa per ajudar aconseguir-ho. (perdoneu el meu catal\u00e0 escrit, encara que nascut a Collserola,  vaig ser educat en castell\u00e0)",
+            "down": 4,
+            "equal": 7,
+            "id": 491,
+            "title": "Proposta (#11):Soluci\u00f3 #11: Juli Bou - Vocal",
+            "up": 35
+        },
+        {
+            "desc": "Jofre Embun, 32 anys, de Barcelona, actualment s\u00f3c t\u00e8cnic inform\u00e0tic en l\u2019empresa Adamo www.adamo.es Degut a la meva feina, passo gaireb\u00e9 les 24/7 hores connectat. Al ser for\u00e7a flexible, puc actualitzar continguts i buscar informaci\u00f3 gaireb\u00e9 en temps real. Ara us deixo una mica d\u2019hist\u00f2ria personal des dels meus inicis a la xarxa... http://bgta.es/blogger/?p=1583pass:pirata",
+            "down": 8,
+            "equal": 7,
+            "id": 492,
+            "title": "Proposta (#12):Soluci\u00f3 #12: Jofre Embun Ors - VOCAL COMUNICACI\u00d3",
+            "up": 27
+        },
+        {
+            "desc": "Tinc 25 anys soc estudiant de enginyeria inform\u00e0tica i telecomunicacions a la UPF, He treballat a Tv3 com a t\u00e8cnic de sistemes i actualment treballo a telef\u00f2nica com a operador de sistemes, tinc m\u00e9s de 3 anys d'experi\u00e8ncia en aquestes empreses. He trobat que ning\u00fa es presenta com a TIC, se que pot ser el lloc on hi hagi m\u00e9s feina per\u00f2, tinc ganes de que aix\u00f2 tiri endavant.No m'anava a presentar per la poca experi\u00e8ncia que tinc, per\u00f2 he decidit que si perqu\u00e8 les meves ganes d'aprendre son il\u00b7limitades.",
+            "down": 4,
+            "equal": 5,
+            "id": 494,
+            "title": "Proposta (#13):Joel Cantarero Lecina - TIC",
+            "up": 15
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #151: Convocat\u00f2ria electoral junta de Pirates de Catalunya.",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/151"
+}

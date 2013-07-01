@@ -1,0 +1,34 @@
+{
+    "any": 12,
+    "desc": "Un grup de treball conjunt (entre Pirates de Catalunya, Piratas de Galicia i Partido Pirata) ha el\u00b7laborat aquest text. Es tracta d'una Declaraci\u00f3 d'intencions, d'un primer pas de cara a establir una Confederaci\u00f3 a nivell estatal.\n ###################################################\nAquesta votaci\u00f3 es tancar\u00e0 el proper 12/04/2012 a les 13h\n###################################################\n Per qu\u00e8 cal confederar-se? Per tres motius:\n- Per que les Eleccions europees la circumscripci\u00f3 \u00e9s estatal. Aix\u00f2 tamb\u00e9 es podria resoldre amb una Coalici\u00f3.\n- Per a evitar la compet\u00e8ncia electoral a d'altres eleccions (que no hi hagi m\u00e9s d'una candidatura pirata al mateix territori).\n- Per que avui per avui la representaci\u00f3 a PPI \u00e9s d'un partit per estat, i no tenim dret a vot.\n- Per que el nostre principal objectiu \u00e9s difondre l'ideari pirata i sumar esfor\u00e7os, ja que tots perseguim els mateixos objectius.\n --\nConfederaci\u00f3n Pirata: Declaraci\u00f3n de Intenciones v0.1\nhttps://cat.piratenpad.de/ep/pad/view/ro.5SkjcHIaITHuKD5MNkVNowJ/rev.120\n--\n\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\nConfederacio\nEspanya",
+    "dia": 2,
+    "final": {
+        "any": 12,
+        "dia": 12,
+        "mes": 4
+    },
+    "hora": "00:16",
+    "id": 167,
+    "mes": 4,
+    "solutions": [
+        {
+            "desc": "Continuarem treballant en aquesta direcci\u00f3 i definirem tots els aspectes en profunditat: detalls t\u00e8cnics, compet\u00e8ncies, seg\u00fcents pasos per a l'aprovaci\u00f3, etc.",
+            "down": 5,
+            "equal": 7,
+            "id": 542,
+            "title": "Proposta (#1):Pirates de Catalunya recolza la Declaraci\u00f3 d'intencions",
+            "up": 74
+        },
+        {
+            "desc": "todo queda igual, pero...en el apartado Elecciones:Queremos presentar una candidatura conjunta a las elecciones europeas 2014. (\"sea en coalici\u00f3n o en federaci\u00f3n\" quedaria fuera).https://cat.piratenpad.de/426Razonamiento:El idioma es principal para reunir la sociedad. Partes de Catalunia como la franja de aragon, el mallorqui, partes de la comunidad valenciana  o algun valle de los pirineos frances deben estar libre en la eleccion de su \"Partit Pirata\" a seguir.Fijar que la letra de intenciones solo se refiere a los elecciones europeas del 2014 deja espacio para negociar con el resto de espa\u00f1a - en la solucion #1 nos limitamos a un teritorio antes de que algiuen nos pida que nos limitemos - ver comentarios)De esta manera el texto no niega la posibilidad de que pirata.cat sea algun dia una fuerza politica fuera de los 4 regiones establecidas por el Gobierno Espa\u00f1ol (una fuerza politica de los catalanparlantes).",
+            "down": 19,
+            "equal": 14,
+            "id": 544,
+            "title": "Proposta (#2):Piratas recolzan la Declaraci\u00f3 amb un petit canvi",
+            "up": 10
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #167: Confederaci\u00f3 Pirata: Declaraci\u00f3 d'intencions",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/167"
+}

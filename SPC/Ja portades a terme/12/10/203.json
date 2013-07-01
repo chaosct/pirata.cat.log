@@ -1,0 +1,50 @@
+{
+    "any": 12,
+    "desc": "A partir d\u00b4ara penso que hem de fer una bona campanya electoral amb l\u00b4objectiu d\u00b4obtenir 5 % a les provincies que lluitar\u00e9m per les eleccions. Si treballem fort no hi ha r\u00e9s dificil. Tenim moltes alternatives per a transmetre al poble. Per\u00f3 com podem generar maneres d\u00b4arrivar a la gent ?\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\neleccions\norganitzatci\npublicitat",
+    "dia": 20,
+    "final": {
+        "any": 13,
+        "dia": 27,
+        "mes": 1
+    },
+    "hora": "18:27",
+    "id": 203,
+    "mes": 10,
+    "solutions": [
+        {
+            "desc": "Costa 75 \u20ac al m\u00e9s per provincia, duraci\u00f3 minima 1 any en aquest diari:http://www.elpuntavui.cat/girona/nacional.htmlJust arriva de titul de Girona a dalt a la dreta. Ser\u00eda  un flash que enlla\u00e7i al programa electoral.",
+            "down": 0,
+            "equal": 0,
+            "id": 680,
+            "title": "Soluci\u00f3 #1:Donar un anunci que enlla\u00e7a al programa electoral a PuntAvui",
+            "up": 0
+        },
+        {
+            "desc": "Altres partits no ho fan. Repartir el programa electoral en paper,  podr\u00eda ser molt b\u00f3 i complementari a les altres solucions. Altres llocs publics serien centres civics, biblioteques, hospitals, ambulatoris, universitats, quioscs, estancs ...etc",
+            "down": 0,
+            "equal": 0,
+            "id": 681,
+            "title": "Soluci\u00f3 #2:Repartir als bars i restaurants o altres llocs publics freq\u00fcentats per la gent",
+            "up": 0
+        },
+        {
+            "desc": "Si teniu algun amic periodista, intenteu per a que facin una entrevista als nostres canditats.",
+            "down": 0,
+            "equal": 0,
+            "id": 682,
+            "title": "Soluci\u00f3 #3:Fer servir contactes personals per a sortir en mitjans de comunicaci\u00f3",
+            "up": 0
+        },
+        {
+            "desc": "Els videos creats per Pirates de Catalunya, suposa moltes visites i una aposta per descobrir el partit en poques paraules, les reds socials poden ajudar molt avui en dia a transmitir i fernos coneixer a tot areu a un cost 0\u20ac.",
+            "down": 0,
+            "equal": 0,
+            "id": 786,
+            "title": "Soluci\u00f3 #4: Utilizar els afiliats per anunciar per les Red Socials el programa electoral.",
+            "up": 0
+        }
+    ],
+    "status": "Ja portades a terme",
+    "titol": "Idea #203: Per fer arrivar EL PROGRAMA ELECTORAL al poble",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/203"
+}

@@ -1,0 +1,26 @@
+{
+    "any": 11,
+    "desc": "########################################################\nAtenci\u00f3: aquesta votaci\u00f3 es tancar\u00e0 el diumenge 13 de novembre de 2011 a les 17h\n########################################################\n Us presentem la segona versi\u00f3 del programa electoral dels Pirates de Catalunya. En aquesta versi\u00f3 es fa especial \u00e8mfasi en la convocat\u00f2ria de refer\u00e8ndums relatius a assumptes no inclosos expl\u00edcitament al nostre ideari que ens han fet arribar diverses persones i institucions a trav\u00e9s dels mecanismes de participaci\u00f3 ciutadana que Pirates de Catalunya ha posat a disposici\u00f3 de la gent.\n Podeu trobar-lo al seg\u00fcent enlla\u00e7:\n http://bit.ly/ProgramaDefinitiu20N\n \n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\n20N\nprograma",
+    "dia": 9,
+    "final": {
+        "any": 11,
+        "dia": 13,
+        "mes": 11
+    },
+    "hora": "01:18",
+    "id": 145,
+    "mes": 11,
+    "solutions": [
+        {
+            "desc": "Aprovo el programa proposat per a seguir-lo i desenvolupar-lo durant la legislatura.",
+            "down": 1,
+            "equal": 3,
+            "id": 461,
+            "title": "Proposta (#1):Aprovar el programa proposat per a les eleccions generals del 20N",
+            "up": 67
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #145: Proposta definitiva de programa electoral 20 de novembre",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/145"
+}

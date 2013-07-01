@@ -1,0 +1,26 @@
+{
+    "any": 10,
+    "desc": "Aprofitant els sistemes telem\u00e0tics dels que es disposa en la actualitat les administracions p\u00fabliques haurien de publicar totes i cada una de les factures que paguin. D'aquesta manera qualsevol ciutad\u00e0 o empresa podria comprovar en que es gasta l'administraci\u00f3 els diners dels seus impostos\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\n(cap)",
+    "dia": 14,
+    "final": {
+        "any": 12,
+        "dia": 28,
+        "mes": 10
+    },
+    "hora": "22:31",
+    "id": 25,
+    "mes": 10,
+    "solutions": [
+        {
+            "desc": "Obligar per llei a totes les administracions catalanes a publicar les factures",
+            "down": 0,
+            "equal": 0,
+            "id": 41,
+            "title": "Proposta (#1):Legislar",
+            "up": 30
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #25: Publicar TOTES les factures de les administracions p\u00fabliques",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/25"
+}

@@ -1,0 +1,26 @@
+{
+    "any": 11,
+    "desc": "Como no conozo a ning\u00fan pirata y visto q en las elecciones pasadas conseguir un regidor en un pueblo peque\u00f1o es m\u00e1s sencillo q en los grandes, me propongo como elegible por alcoletge. \nCompromiso pirata irrenunciable a los derechos humanos y ganas de hacer algo por cambiar desde dentro las formas de hacer pol\u00edtica.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\n(cap)",
+    "dia": 4,
+    "final": {
+        "any": 11,
+        "dia": 4,
+        "mes": 12
+    },
+    "hora": "00:54",
+    "id": 149,
+    "mes": 12,
+    "solutions": [
+        {
+            "desc": "votaci\u00f3n on-line de la lista de lleida",
+            "down": 0,
+            "equal": 0,
+            "id": 474,
+            "title": "Soluci\u00f3 #1:eleccion democratica",
+            "up": 0
+        }
+    ],
+    "status": "Ja portades a terme",
+    "titol": "Idea #149: Elecciones a Regidor",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/149"
+}

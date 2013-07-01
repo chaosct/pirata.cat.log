@@ -1,0 +1,26 @@
+{
+    "any": 11,
+    "desc": "Donar-nos visibilitat al partit al carrer \u00e9s un dels punts importants per a donar-nos a con\u00e8ixer.\n\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\n(cap)",
+    "dia": 13,
+    "final": {
+        "any": 11,
+        "dia": 25,
+        "mes": 4
+    },
+    "hora": "18:20",
+    "id": 88,
+    "mes": 4,
+    "solutions": [
+        {
+            "desc": "El dia de Sant Jordi \u00e9s un dia on molt\u00edssima gent passeja pel carrer.La idea \u00e9s aprofitar aquest dia per a sortir al carrer i repartir punts de llibre del partit, tr\u00edptics amb l'ideari pirata i llibres digitals a trav\u00e9s de bluetooth i/o wifi.\u00c9s una acci\u00f3 que ens donaria molta visibilitat i que no vulnera la llei, sempre i quan no es demani el vot.",
+            "down": 0,
+            "equal": 1,
+            "id": 199,
+            "title": "Proposta (#2):Punts de llibre pirates, tr\u00edptics i llibres digitals per Sant Jordi",
+            "up": 27
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #88: Piratejem els carrers per Sant Jordi",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/88"
+}

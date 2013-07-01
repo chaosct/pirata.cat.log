@@ -1,0 +1,26 @@
+{
+    "any": 12,
+    "desc": "Diversos col\u00b7lectius han engegat la campanya \"Aturem Euovegas\" i han consensuat el seg\u00fcent manifest: http://aturemeurovegas.wordpress.com/manifest/\n **********\nLa votaci\u00f3 finalitzar\u00e0 el proper 20/04/2012, per poder participar com a PIRATA.CAT a la marxa/bicicletada convocada, si surt aprovada.\n**********\n Afecta directament a l'ideari pirata, per manca de transpar\u00e8ncia, control i democr\u00e0cia directa, la manera que els nostres representants estan subhastant el nostre territori davant el multimilionari nord-americ\u00e0 Sheldon Adelson. Per tant, aix\u00f2 no caldria votar-ho.\n Ara b\u00e9, donat que al manifest hi ha altres consideracions que van m\u00e9s enll\u00e0 de l'ideari pirata, es proposa votar-ho per a decidir per democr\u00e0cia directa el recolzament de la campanya.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\neurovegas",
+    "dia": 7,
+    "final": {
+        "any": 12,
+        "dia": 22,
+        "mes": 4
+    },
+    "hora": "10:49",
+    "id": 170,
+    "mes": 4,
+    "solutions": [
+        {
+            "desc": "Recolzar el manifest de la campanya i participar a la convocat\u00f2ria de la marxa/bicicletada del proper 21 d'abril.",
+            "down": 9,
+            "equal": 4,
+            "id": 546,
+            "title": "Proposta (#1):Recolzar la campanya \"Aturem Eurovegas\"",
+            "up": 29
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #170: Recolzar la campanya \"Aturem Eurovegas\"",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/170"
+}

@@ -1,0 +1,42 @@
+{
+    "any": 11,
+    "desc": "Adherirnos al manifiesto elaborado por la Federaci\u00f3n de Asociaciones de Vecinos de Barcelona (Favb) \nLes entitats i persones sotasignants considerem que l'actuaci\u00f3 policial que va tenir lloc a pla\u00e7a Catalunya el mat\u00ed del passat 27 de maig sota el pretext de permetre l'acc\u00e9s dels serveis de neteja de l'Ajuntament de Barcelona va ser injustificada, absurda i desproporcionada. \nLeer aqui http://www.favb.cat/node/598\n\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\n(cap)",
+    "dia": 3,
+    "final": {
+        "any": 12,
+        "dia": 28,
+        "mes": 10
+    },
+    "hora": "00:28",
+    "id": 111,
+    "mes": 6,
+    "solutions": [
+        {
+            "desc": "Debe responder de sus actos ante la ciudadania. Apoyar las iniciativas populares",
+            "down": 5,
+            "equal": 4,
+            "id": 291,
+            "title": "Proposta (#1):Adhesio al manifest demanant la dimissi\u00f3 del conseller d'Interior Felip Puig",
+            "up": 58
+        },
+        {
+            "desc": "Posem una den\u00fancia, o ens afegim a una den\u00fancia existent.",
+            "down": 9,
+            "equal": 3,
+            "id": 292,
+            "title": "Proposta (#2):La dimissi\u00f3 no \u00e9s suficient. A m\u00e9s, cal portar a Felip Puig a la Just\u00edcia",
+            "up": 53
+        },
+        {
+            "desc": "Donar suport a les solucions # 1 i # 2 i demanar la dissoluci\u00f3 dels cossos repressius de l'estat, que passen a ser policies sense armes. I que nom\u00e9s puguin defensar-se, en un cas clar i demostrat, en el moment que utilitzin la viol\u00e8ncia en actes no violents de la poblaci\u00f3, seran expulsats del cos de policia per atacar una manifestaci\u00f3 o protesta pac\u00edfica.",
+            "down": 30,
+            "equal": 4,
+            "id": 296,
+            "title": "Proposta (#3): Dissoluci\u00f3 del cossos repressius + Solici\u00f3ns 1 i 2.",
+            "up": 4
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #111: Adhesion al manifiesto para pedir la dimisi\u00f3n o cese de Felip Puig",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/111"
+}

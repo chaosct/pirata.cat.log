@@ -1,0 +1,82 @@
+{
+    "any": 12,
+    "desc": "Votaci\u00f3 per triar el cap de llista de les paperetes per Girona per les eleccions catalanes del 25 de novembre de 2012. \n ################################################################ \nA partir del dia 3 d'octubre fins el 9 d'octubre a les 17h hi ha temps per presentar candidatura. \nLes llistes es construiran en funci\u00f3 de l'ordre per vots i respectant la paritat. \n En la vostra candidatura escriviu una presentaci\u00f3, indicant el que cregueu convenient. \nProcureu ser concisos. Podeu incloure enlla\u00e7os si voleu donar informaci\u00f3 addicional. \n################################################################ \n ################################################################ \nSi us plau, voteu nom\u00e9s a la prov\u00edncia on esteu censats. Podeu votar a m\u00e9s d'un candidat.  \n La votaci\u00f3 es tancar\u00e0 el dimarts 16 d'octubre de 2012 a les 17h. \n################################################################\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\nllistes-25N",
+    "dia": 3,
+    "final": {
+        "any": 12,
+        "dia": 28,
+        "mes": 10
+    },
+    "hora": "01:27",
+    "id": 189,
+    "mes": 10,
+    "solutions": [
+        {
+            "desc": "Presentaci\u00f3 de candidatura: experi\u00e8ncia, intencions, possibilitats, condicions, enlla\u00e7os, etc.",
+            "down": 0,
+            "equal": 2,
+            "id": 608,
+            "title": "Proposta (#1):Nom i cognoms (exemple)",
+            "up": 0
+        },
+        {
+            "desc": "Tinc 44 anys, argent\u00ed de naixement i catal\u00e0 d'adopci\u00f3. Em dedico a l'ensenyament dels escacs a escoles de la Costa Brava i s\u00f3c pare d'una nena de 4 anys. Vaig comen\u00e7ar a col\u00b7laborar amb Pirates de Catalunya des de maig del 2011, amb la creaci\u00f3 d'un grup de treball per a les passades eleccions generals a la prov\u00edncia de Girona. Amb el temps, el grup s'ha mantingut estable i s'han anat sumant m\u00e9s pirates.Crec fermament en que les coses han de canviar des dels estaments democr\u00e0tics i \u00e9s per aix\u00f2 la meva implicaci\u00f3 amb Pirates de Catalunya, que representa clarament les meves idees: la participaci\u00f3 ciutadana i la transpar\u00e8ncia en la gesti\u00f3 dels diners p\u00fablics.Salut i rom!",
+            "down": 4,
+            "equal": 3,
+            "id": 611,
+            "title": "Proposta (#2):Carlos Salgado",
+            "up": 20
+        },
+        {
+            "desc": "35 anys, nascut a Premi\u00e0 de Mar (Barcelona), i ciutad\u00e0 del barri de Santa Eug\u00e8nia de Ter de Girona des de fa 9 anys. Bibliotecari de formaci\u00f3, treballo com a responsable de desenvolupament tecnol\u00f2gic a la Fundaci\u00f3 Josep Laporte (UAB). Casat, amb dues nenes (3 i 1 anys).Apassionat de la pol\u00edtica des de l'adolesc\u00e8ncia, acostumo a seguir amb molt inter\u00e8s els processos electorals. Afiliat a Pirates des del 2011, col\u00b7laboro amb diversos grups. Ocasionalment, quan tinc inspiraci\u00f3, creo \"memes\" pirates.Crec fermament en la idea d'una politica m\u00e9s transparent i participativa, com a mitj\u00e0 per a aconseguir una implicaci\u00f3 m\u00e9s ferma de la ciutadania.",
+            "down": 4,
+            "equal": 1,
+            "id": 612,
+            "title": "Proposta (#3):Enric Pineda i Tra\u00efd",
+            "up": 19
+        },
+        {
+            "desc": "Tinc 34 anys, nascuda a Tossa de Mar. Visc en parella i s\u00f3c mare d'un petit de 2 anys, l'Elvis.  Estic afiliada a Pirates de Catalunya des de setembre del 2011.   Interiorista de professi\u00f3, per\u00f2 la meva \u00e0nima creativa m'ha portat a moure'm per altres \u00e0mbits del disseny i les arts.   Col.laboro amb diferents entitats locals: Radio Associaci\u00f3 Tossa, Associaci\u00f3 dels Amics de la Marat\u00f3, Associaci\u00f3 del Pessebre Vivent, Televisi\u00f3 de Tossa... Amb aquestes he realitzat i portat a terme diverses activitats de lleure i culturals.   L'art i el disseny han marcat la meva vida, i he realitzat diverses activitats dirigides en aquests \u00e0mbits (cursets, exposicions, concursos, etc).   Em caracteritzo com una persona creativa, extravertida i perfeccionista. M'agraden els projectes que es presenten com un repte i en els que puc utilitzar els meus coneixements per solucionar els problemes que van sorgint.   He vist de prop la pol\u00edtica local, degut a les meves m\u00faltiples col.laboracions amb diverses entitats, cosa que em va dur a un desencant de com funcionava el sistema, fins que vaig con\u00e8ixer Pirates de Catalunya.   S\u00f3c de les persones que creuen que la pol\u00edtica \u00e9s una vocaci\u00f3.",
+            "down": 6,
+            "equal": 0,
+            "id": 613,
+            "title": "Proposta (#4):Lloll Moncus\u00ed",
+            "up": 17
+        },
+        {
+            "desc": "Tinc 27 anys, soc del barri de Santa Eug\u00e8nia, a Girona. Enginyer Electr\u00f2nic i en breu, enginyer en Telecomunicacions.Estic afiliat a Pirates de Catalunya d'en\u00e7\u00e0 les \u00faltimes eleccions auton\u00f2miques. La meva passi\u00f3 es la divulgaci\u00f3 cient\u00edfica, afici\u00f3 que m'ha portat a col\u00b7laborar amb desenes de mitjans de comunicaci\u00f3: desde r\u00e0dios, revistes, televisi\u00f3... Porto tamb\u00e9 un dels blogs de divulgaci\u00f3 cient\u00edfica en castell\u00e0 m\u00e9s visitats de tot el m\u00f3n (Cerebros no Lavados). A part, soc col\u00b7laborador de Naukas.com, el blog d'hist\u00f2ria, ci\u00e8ncia i pensament cr\u00edtic m\u00e9s conegut de la xarxa. Actualment col\u00b7laboro amb Onda Regional de M\u00farcia en una secci\u00f3 de divulgaci\u00f3 cient\u00edfica. Tamb\u00e9 soc membre de l'Agrupaci\u00f3 Astron\u00f2mica de Girona, Societat per a l'Aven\u00e7 del Pensament Cr\u00edtic i L'Associaci\u00f3 Catalana de Comunicaci\u00f3 Cient\u00edfica. He sigut professor a la Universitat de Girona en un curs d'estiu sobre tecnologies 2.0. Per altre banda, soc militant d'Amnistia Internacional, amb la qual cosa, els drets humans son per damunt de tot, un objectiu en la meva vida activista. Soc de car\u00e0cter emprenedor, actiu i social. No em caso amb ning\u00fa. (Bona mostra d'aix\u00f2 ho va patir la pr\u00f2pia Universitat de Girona ara far\u00e0 un any...) i com he dit abans, en la meva perspectiva de la vida els drets humans son clau. Tinc capacitat de negociaci\u00f3, contra-argumentaci\u00f3, superaci\u00f3 i suggesti\u00f3.[...]Desde fa un temps he decidit ficar-me en pol\u00edtica degut al desencantament amb la situaci\u00f3 actual.  Soc una persona que mou molta massa de gent, amb molts contactes tant en mitjans de comunicaci\u00f3 com en l'administraci\u00f3.  Estic decidit a entrar a l'Ajuntament de Girona desde fa un temps. No s\u00e9 si aquesta ser\u00e0 l'ocasi\u00f3, per\u00f2 de ben segur que Pirates estar\u00e0 a l'ajuntament tard o d' hora. Els meus blog: http://cerebrosnolavados.eshttp://www.docuciencia.eshttp://www.naukas.com Algunes col\u00b7laboracions:http://vimeo.com/14645459http://www.youtube.com/watch?v=gdBkKrXjBwYhttp://www.youtube.com/watch?v=ddelN-tiwcc Afer Universitat de Girona:http://cerebrosnolavados.blogspot.com.es/2011/11/universitat-de-girona-abraza-l a.htmlPero trovareu molt\u00edssimes referencies a El Pais, El Mundo, El Periodico, Diari de Girona, etc.",
+            "down": 4,
+            "equal": 4,
+            "id": 614,
+            "title": "Proposta (#5):Alberto Fern\u00e0ndez Sierra",
+            "up": 12
+        },
+        {
+            "desc": "Originari de Figueres, Alt Empord\u00e0, tot i que actualment visc a Girona. Tinc 32 anys i vaig estudiar un grau superior en Sistemes de Telecomunicacions i Inform\u00e0tics a Barcelona, desde llavors he estat en una o altre empresa relacionada amb el sector. Actualment tinc una petita empresa de telecomunicacions, telefonia, xarxes, wifis, seguretat... Anem lluitant com tothom per tirar endavant, encara que cada dia \u00e9s m\u00e9s dif\u00edcil. S\u00f3c afiliat a Pirates de Catalunya desde els seus inicis i a l'antic Partido Pirata Espa\u00f1ol desde 2009. Vaig estar a les llistes de Girona per les auton\u00f2miques, a les de Matar\u00f3 per les locals i vaig participar molt activament a les \u00faltimes generals durant la campanya Gironina.",
+            "down": 3,
+            "equal": 3,
+            "id": 620,
+            "title": "Proposta (#6):\u00c0lex Bueno",
+            "up": 13
+        },
+        {
+            "desc": "Nascut a Tossa de Mar, La Selva. Estudiant de F\u00edsica de la UAB. Tinc 19 anys, i soc pianista, percusionista, compositor, Dj i Productor musical. Vaig ser membre de les associacions \"Tossa Acci\u00f3 Musical (TAM)\", \"Associaci\u00f3 de m\u00fasica de Tossa\" i co-fundador de \"Associaci\u00f3 de Joves musics de Tossa\" i soc membre de la \"Societat Astron\u00f3mica de la UAB\" (SAUAB).La meva vida \u00e9s l'art i la ci\u00e8ncia, divulgar cultura i promoure el coneixement.Sempre m'he considerat un idealista, amb ganes de fer el que estigui en la meva m\u00e0 per aconseguir una societat m\u00e9s justa, solidaria i intel\u00b7ligent. Amb els 18 anys acabats de fer em vaig dedicar a llegir els programes electorals i la hist\u00f2ria de tots els partits pol\u00edtics espanyols que vaig trobar. Em vaig afiliar al Partido Pirata Espa\u00f1ol i a Pirates de Catalunya, siguent aquest \u00faltim on vaig centrar la meva participaci\u00f3; i poc despr\u00e8s ja era a les llistes de Girona per les eleccions generals, i vaig participar activament durant la campanya Gironina. Crec fermament en la lluita pels Drets Humans i ajudar a qui ho necessita (ja estic a llistes per ser donant de medul\u00b7la \u00f2ssia) i desitjo no quedarme aqu\u00ed i fer m\u00e9s i m\u00e9s coses. \"Si vols canviar el m\u00f3n, canviat a tu mateix.\"",
+            "down": 3,
+            "equal": 1,
+            "id": 634,
+            "title": "Proposta (#7):Alejandro Jim\u00e9nez Rico",
+            "up": 13
+        },
+        {
+            "desc": "Hola a tothom, s\u00f3c gironina de naixement i tinc dos fills (nen i nena) de 9 i 7 anys.S\u00f3c llicenciada en Hist\u00f2ria de l'Art i diplomada en Turisme. Parlo cinc idiomes: catal\u00e0, castell\u00e0, angl\u00e8s, franc\u00e8s i alemany.He estat treballant a l'Ajuntament de Blanes fent tasques administratives, per\u00f2 amb la crisi i les retallades m'he quedat a l'atur. Per aix\u00f2, ara tinc temps lliure per col\u00b7laborar amb Pirates i lliutar per una societat m\u00e9s justa, en la qual tots poguem participar i decidir el futur del nostre pa\u00eds.",
+            "down": 1,
+            "equal": 5,
+            "id": 664,
+            "title": "Proposta (#8):Joana Roger Pujol",
+            "up": 9
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #189: Cap de llista per Girona. Eleccions 25N",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/189"
+}

@@ -1,0 +1,322 @@
+{
+    "any": 12,
+    "desc": "Busquem eslogan per les properes eleccions del 25 de novembre.\n Aqu\u00ed trobar\u00e0s la selecci\u00f3 de propostes treballada entre tots als grups de Comunicaci\u00f3 i Creatius. Pots votar m\u00e9s d'una opci\u00f3!\n Pad de treball: http://pirates.pad.atkn.net/ep/pad/view/ro.4OLRtXZMZD5/latest\n -----------------------------------------------------\nAquesta votaci\u00f3 es tancar\u00e0 el Diumenge a les 12:00h\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\n25N\ncampanya",
+    "dia": 26,
+    "final": {
+        "any": 12,
+        "dia": 28,
+        "mes": 10
+    },
+    "hora": "00:35",
+    "id": 205,
+    "mes": 10,
+    "solutions": [
+        {
+            "desc": "La democr\u00e0cia necessita un rescat. Vota Pirata.cat",
+            "down": 18,
+            "equal": 9,
+            "id": 702,
+            "title": "Proposta (#16):La democr\u00e0cia necessita un rescat. Vota Pirata.cat",
+            "up": 56
+        },
+        {
+            "desc": "Democr\u00e0cia Directa, Ara i Sempre!",
+            "down": 16,
+            "equal": 8,
+            "id": 710,
+            "title": "Proposta (#24):Democr\u00e0cia Directa, Ara i Sempre!",
+            "up": 4
+        },
+        {
+            "desc": "No deleguis, decideix!",
+            "down": 13,
+            "equal": 13,
+            "id": 694,
+            "title": "Proposta (#8):No deleguis, decideix!",
+            "up": 19
+        },
+        {
+            "desc": "Tens dret a decidir. Vota Pirates de Catalunya",
+            "down": 10,
+            "equal": 8,
+            "id": 711,
+            "title": "Proposta (#25):Tens dret a decidir. Vota Pirates de Catalunya",
+            "up": 13
+        },
+        {
+            "desc": "Democr\u00e0cia directa i transpar\u00e8ncia. Pirata.cat: Quina Catalunya vols?  ALT: Sustituci\u00f3 de  \"Democr\u00e0cia directa\" per \"Participaci\u00f3 ciutadana\", \"democr\u00e0cia participativa\", \"participaci\u00f3\" o \"Democr\u00e0cia\"",
+            "down": 8,
+            "equal": 1,
+            "id": 723,
+            "title": "Proposta (#37):Democr\u00e0cia directa i transpar\u00e8ncia. Pirata.cat: Quina Catalunya vols?",
+            "up": 2
+        },
+        {
+            "desc": "Ning\u00fa et representar\u00e0 millor que tu mateix. Vota PIRATA.CAT, vota't.",
+            "down": 1,
+            "equal": 2,
+            "id": 724,
+            "title": "Proposta (#38):Ning\u00fa et pot representar millor que tu mateix. Vota PIRATA.CAT.",
+            "up": 4
+        },
+        {
+            "desc": "Si votes el mateix, no canviar\u00e0 res",
+            "down": 17,
+            "equal": 8,
+            "id": 692,
+            "title": "Proposta (#6):Si votes el mateix, no canviar\u00e0 res",
+            "up": 21
+        },
+        {
+            "desc": "Democr\u00e0cia directa. Dret a decidir.",
+            "down": 14,
+            "equal": 7,
+            "id": 699,
+            "title": "Proposta (#13):Democr\u00e0cia directa. Dret a decidir.",
+            "up": 28
+        },
+        {
+            "desc": "Pirata.Cat. Pel dret a decidir... TOT",
+            "down": 13,
+            "equal": 7,
+            "id": 712,
+            "title": "Proposta (#26):Pirata.Cat. Pel dret a decidir... TOT",
+            "up": 6
+        },
+        {
+            "desc": "The Matrix has you :)",
+            "down": 6,
+            "equal": 4,
+            "id": 718,
+            "title": "Proposta (#32):PIRATA.CAT. Benvingut a la democr\u00e0cia real",
+            "up": 4
+        },
+        {
+            "desc": "Junts ho farem, Pirates al Parlament!",
+            "down": 25,
+            "equal": 6,
+            "id": 703,
+            "title": "Proposta (#17):Junts ho farem, Pirates al Parlament!",
+            "up": 7
+        },
+        {
+            "desc": "Vols Cambiar el M\u00f3n?? Vota Pirata.Cat",
+            "down": 7,
+            "equal": 4,
+            "id": 721,
+            "title": "Proposta (#35):Vols Cambiar el M\u00f3n?? Vota Pirata.Cat",
+            "up": 2
+        },
+        {
+            "desc": "Cansat de men\u00fas ideol\u00f2gics? Pensa a la carta. Vota PIRATA.CAT",
+            "down": 23,
+            "equal": 5,
+            "id": 707,
+            "title": "Proposta (#21):Cansat de men\u00fas ideol\u00f2gics? Pensa a la carta. Vota PIRATA.CAT",
+            "up": 13
+        },
+        {
+            "desc": "Agafa el tim\u00f3!",
+            "down": 20,
+            "equal": 9,
+            "id": 695,
+            "title": "Proposta (#9):Agafa el tim\u00f3!",
+            "up": 12
+        },
+        {
+            "desc": "Tu ets la soluci\u00f3!",
+            "down": 19,
+            "equal": 12,
+            "id": 698,
+            "title": "Proposta (#12):Tu ets la soluci\u00f3!",
+            "up": 8
+        },
+        {
+            "desc": "Que no decideixin per tu. Vota PIRATA.CAT",
+            "down": 11,
+            "equal": 6,
+            "id": 690,
+            "title": "Proposta (#4):Que no decideixin per tu. Vota PIRATA.CAT",
+            "up": 43
+        },
+        {
+            "desc": "No nos votes, v\u00f3tate",
+            "down": 31,
+            "equal": 9,
+            "id": 706,
+            "title": "Proposta (#20):No nos votes, v\u00f3tate",
+            "up": 4
+        },
+        {
+            "desc": "\u00bfY si tuvieras el poder de cambiar las cosas?",
+            "down": 15,
+            "equal": 13,
+            "id": 704,
+            "title": "Proposta (#18):\u00bfY si tuvieras el poder de cambiar las cosas?",
+            "up": 18
+        },
+        {
+            "desc": "Ad\u00e9u corrupci\u00f3, Hola democr\u00e0cia directa (aportaci\u00f3 de @pinger)",
+            "down": 15,
+            "equal": 2,
+            "id": 713,
+            "title": "Proposta (#27):Ad\u00e9u corrupci\u00f3, Hola democr\u00e0cia directa",
+            "up": 4
+        },
+        {
+            "desc": "Tu decideixes!",
+            "down": 16,
+            "equal": 13,
+            "id": 697,
+            "title": "Proposta (#11):Tu decideixes!",
+            "up": 10
+        },
+        {
+            "desc": "En petit \"Si vols que tot continu\u00ef igual\", en gran \"NO ENS VOTIS\"",
+            "down": 33,
+            "equal": 8,
+            "id": 705,
+            "title": "Proposta (#19):Si vols que tot continu\u00ef igual... NO ENS VOTIS",
+            "up": 11
+        },
+        {
+            "desc": "\u00e9s important posar l'accent en el fet que ets tu qui decideix",
+            "down": 5,
+            "equal": 5,
+            "id": 719,
+            "title": "Proposta (#33):Est\u00e0s fart que decideixin per tu? Vota Pirates, vota diferent.",
+            "up": 6
+        },
+        {
+            "desc": "2012, El canvi ha arribat - Pirata.cat (aportaci\u00f3 de @pinger)",
+            "down": 12,
+            "equal": 5,
+            "id": 715,
+            "title": "Proposta (#29):2012, El canvi ha arribat - Pirata.cat",
+            "up": 4
+        },
+        {
+            "desc": "Entra al parlament. Vota't.",
+            "down": 14,
+            "equal": 13,
+            "id": 687,
+            "title": "Proposta (#1):Entra al parlament. Vota't.",
+            "up": 21
+        },
+        {
+            "desc": "Democr\u00e0cia a la carta",
+            "down": 19,
+            "equal": 8,
+            "id": 689,
+            "title": "Proposta (#3):Democr\u00e0cia a la carta",
+            "up": 14
+        },
+        {
+            "desc": "Tria participar, vota Pirata.",
+            "down": 13,
+            "equal": 14,
+            "id": 701,
+            "title": "Proposta (#15):Tria participar, vota Pirata.",
+            "up": 17
+        },
+        {
+            "desc": "Si votes Pirata. Tu decideixes!",
+            "down": 20,
+            "equal": 13,
+            "id": 696,
+            "title": "Proposta (#10):Si votes Pirata. Tu decideixes!",
+            "up": 8
+        },
+        {
+            "desc": "Vols decidir? Vota Pirates",
+            "down": 12,
+            "equal": 18,
+            "id": 688,
+            "title": "Proposta (#2):Vols decidir? Vota Pirates",
+            "up": 13
+        },
+        {
+            "desc": "Que els bombin, vota Pirata. (aportaci\u00f3 de @barbazul)",
+            "down": 34,
+            "equal": 1,
+            "id": 708,
+            "title": "Proposta (#22):Que els bombin, vota Pirata",
+            "up": 5
+        },
+        {
+            "desc": "Volem el que tu vols [aportaci\u00f3 de la Lloll, inicialment per un b\u00e0ner]",
+            "down": 6,
+            "equal": 4,
+            "id": 717,
+            "title": "Proposta (#31):Volem el que tu vols",
+            "up": 9
+        },
+        {
+            "desc": "No votar no es la soluci\u00f3, aixeca't del sof\u00e0 (aportaci\u00f3 de @pinger)",
+            "down": 14,
+            "equal": 5,
+            "id": 714,
+            "title": "Proposta (#28):No votar no es la soluci\u00f3, aixeca't del sof\u00e0",
+            "up": 1
+        },
+        {
+            "desc": "Consultar la independ\u00e8ncia, \u00e9s bo. Consultar-ho tot, \u00e9s democr\u00e0cia! (aportaci\u00f3 de @fgarrobo) Alternatiu: \"Consultar la independ\u00e8ncia, \u00e9s bo. Consultar-ho tot, \u00e9s millor!\"",
+            "down": 13,
+            "equal": 4,
+            "id": 709,
+            "title": "Proposta (#23):Consultar la independ\u00e8ncia, \u00e9s bo. Consultar-ho tot, \u00e9s democr\u00e0cia!",
+            "up": 41
+        },
+        {
+            "desc": "Vota Participaci\u00f3, Vota Transpar\u00e8ncia, Vota Llibertat, Vota Pirata.Cat",
+            "down": 4,
+            "equal": 3,
+            "id": 720,
+            "title": "Proposta (#34):Vota Participaci\u00f3, Vota Transpar\u00e8ncia, Vota Llibertat, Vota Pirata.Cat",
+            "up": 8
+        },
+        {
+            "desc": "Tu et representes, tu decideixes. Vota PIRATA.CAT",
+            "down": 12,
+            "equal": 13,
+            "id": 691,
+            "title": "Proposta (#5):Tu et representes, tu decideixes. Vota PIRATA.CAT",
+            "up": 27
+        },
+        {
+            "desc": "Pren el tim\u00f3. Canvia el present. Decideix el futur. Vota PIRATA.CAT",
+            "down": 4,
+            "equal": 3,
+            "id": 722,
+            "title": "Proposta (#36):Pren el tim\u00f3. Canvia el present. Decideix el futur. Vota PIRATA.CAT",
+            "up": 4
+        },
+        {
+            "desc": "Sanitat, Educaci\u00f3, I+D. No oblidem, no perdonem, espereu-nos. Pirata.cat (aportaci\u00f3 de @pinger)",
+            "down": 10,
+            "equal": 4,
+            "id": 716,
+            "title": "Proposta (#30):Sanitat, Educaci\u00f3, I+D. No oblidem, no perdonem, espereu-nos. Pirata.cat",
+            "up": 5
+        },
+        {
+            "desc": "No deleguis, participa!",
+            "down": 14,
+            "equal": 12,
+            "id": 693,
+            "title": "Proposta (#7):No deleguis, participa!",
+            "up": 14
+        },
+        {
+            "desc": "Dret a decidir. A decidir-ho tot.",
+            "down": 18,
+            "equal": 2,
+            "id": 700,
+            "title": "Proposta (#14):Dret a decidir. A decidir-ho tot.",
+            "up": 57
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #205: Eslogan campanya 25N [URGENT]",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/205"
+}

@@ -1,0 +1,58 @@
+{
+    "any": 12,
+    "desc": "En el seg\u00fcent enlla\u00e7 podeu trobar l'esborrany del Reglament Intern fruit de les discussions pr\u00e8vies del grup de treball d'editors:\n https://xifrat.pirata.cat/commons/sites/default/files/proposta-reglament-rii_de fbis.pdf\n El text del Reglament Intern (en blau) est\u00e0 intercalat amb els estatuts (en negre) per a fer-ne m\u00e9s f\u00e0cil la lectura.\n Qualsevol persona afiliada podr\u00e0 presentar esmenes a l\u2019esborrany del Reglament Intern fins el dia 25 de juny de 2012 a les 12 h del migdia.\n El grup d'editors recollir\u00e0 les esmenes proposades i incorporar\u00e0 directament a l'esborrany les que tinguin consens, eliminar\u00e0 les que entrin en conflicte amb els estatuts (que de moment no es modifiquen), posar\u00e0 per ordre les que s'hagin de votar, i si cal n'adaptar\u00e0 la redacci\u00f3 perqu\u00e8 es puguin incorporar directament al text final si s'aproven.\n La votaci\u00f3 de les esmenes s'obrir\u00e0 el 26 de juny i es tancar\u00e0 l'1 de juliol a les 11.30 h abans de l'assemblea general. Durant el per\u00edode de votaci\u00f3 ja no es podran proposar noves esmenes.\n ------------\n A continuaci\u00f3 teniu el procediment que heu de seguir per a proposar esmenes:\n Les esmenes (o una refer\u00e8ncia al document que les cont\u00e9) seran enviades en forma de proposta al SPC amb el t\u00edtol de la proposta indicant el tipus d'esmena que es tracta (ADD, MOD o ELI), i el punt del l'\u00edndex (lletra i n\u00famero) del par\u00e0graf al qual es refereix. O sigui, el t\u00edtol ser\u00e0: \"[TIPUS D'ESMENA] [punt de l'\u00edndex]\".\n Les esmenes seran sobre par\u00e0grafs i de tres tipus:\n * D\u2019addici\u00f3. S\u2019afegeix un par\u00e0graf nou al text. Es referencia com \u201cADD [punt de l\u2019\u00edndex despr\u00e9s del qual s'ha d'afegir]\u201d.\n * De modificaci\u00f3. Es substitueix el par\u00e0graf per un nou text. Es referencia com \u201cMOD [punt de l\u2019\u00edndex del par\u00e0graf]\u201d.\n * D\u2019eliminaci\u00f3. S\u2019elimina un par\u00e0graf. Es referencia com \u201cELI [punt de l\u2019index del par\u00e0graf]\u201d.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\nesmenes\nintern\nreglament",
+    "dia": 18,
+    "final": {
+        "any": 12,
+        "dia": 3,
+        "mes": 7
+    },
+    "hora": "17:54",
+    "id": 178,
+    "mes": 6,
+    "solutions": [
+        {
+            "desc": "3. Se abrir\u00e1 un expediente disciplinario autom\u00e1ticamente a cualquier afiliado o miembro de la junta que se presente a una asamblea general con sandalias y calcetines.",
+            "down": 1,
+            "equal": 4,
+            "id": 570,
+            "title": "Proposta (#1):ADD E.2 (Exemple, no ho voteu)",
+            "up": 1
+        },
+        {
+            "desc": "1. Todo cambio de domicilio deber\u00e1 ser propuesto por la Junta Directiva o un m\u00ednimo de 3 afiliados, debidamente motivado y proponiendo un domicilio alternativo.",
+            "down": 10,
+            "equal": 2,
+            "id": 571,
+            "title": "Proposta (#2):MOD A.1",
+            "up": 9
+        },
+        {
+            "desc": "\"2. Los afiliados podr\u00e1n pertenecer a municipios o comarcas colindantes.\" Jo trobo que encara que no siguin llindants les comarques o municipis dels afiliats, han de poder constituir un \u00e0mbit territorial. Si es vol fer, posem el cas, un \u00e0mbit territorial corresponent a la prov\u00edncia de Tarragona... hi pot haver pirates a la meitat de les comarques sense que es toquin dues comarques amb pirates. Llavors noe s podria constituir? I el mateix, a una escala m\u00e9s redu\u00c7\u00efda, tamb\u00e9 \u00e9s v\u00e0lid en l'\u00e0mbit comarcal per als municipis. En resum: ho trobo una limitaci\u00f3 innecess\u00e0ria.",
+            "down": 0,
+            "equal": 2,
+            "id": 572,
+            "title": "Proposta (#3):ELI W.2",
+            "up": 19
+        },
+        {
+            "desc": "\"7. Cuando en una provincia existan m\u00e1s de dos \u00f3rganos terrritoriales de car\u00e1cter comarcal, laJunta Directiva podr\u00e1 instar a la disoluci\u00f3n de estos y a la constituci\u00f3n de un \u00f3rgano territorialde car\u00e1cter provincial.\"Les prov\u00edncies no es corresponen sempre amb \u00e0mbits territorials f\u00edsics ni socials.Posem el cas de (com abans) Tarragona. Hi ha tres zones ben definides: les terres de l'Ebre, el camp de Tarragona, i un tros del Pened\u00e8s. Els hipot\u00e8tics pirates del baix Pened\u00e8s probablement es podrien organitzar i coordinar millor amb els hipot\u00e8tics pirates de la resta del Pened\u00e8s (alt Pened\u00e8s, el Garraf i l'Anoia) que pas amb els de Tortosa, per exemple. No trobo que ens haguem de restringir a l'\u00e0mbit provincial, ja que les prov\u00edncies s\u00f3n construccions artificioses per a fragmentar els territoris.",
+            "down": 0,
+            "equal": 1,
+            "id": 573,
+            "title": "Proposta (#4):ELI W.7",
+            "up": 21
+        },
+        {
+            "desc": "\"Se establece el domicilio social en C. Riereta 5, local, 08001 Barcelona\" Donat que els estatuts indican un domicili a Terrassa, que es podr\u00e0 canviar mitjan\u00e7ant el reglament intern, al reglament no hem de posar nom\u00e9s un procediment per canviar-lo en un futur, sin\u00e7\u00f3 que hem de posar el domicili que es decideixi. Si no el posem aquesta vegada, no e spodria aprovar el canvi de domicili fins la seg\u00fcent assemblea. Fins i tot, els 3 primers punt podrien ser innecessaris, ja que canviar el domicili es el mateix que canviar qualsevol altre article d'aquest reglament.",
+            "down": 1,
+            "equal": 7,
+            "id": 574,
+            "title": "Proposta (#5):ADD A.4",
+            "up": 11
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #178: Esmenes a la proposta de Reglament Intern",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/178"
+}

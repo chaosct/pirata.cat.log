@@ -1,0 +1,42 @@
+{
+    "any": 12,
+    "desc": "Des de hacktivistas.net s'ha estat desenvolupant el lloc web seg\u00fcent:\nhttp://www.wertdeenlaces.net/\n Fent un copy&paste; del que apareix a primera plana, aquest lloc web implementa l'acci\u00f3 seg\u00fcent:\n \"Se ha elegido una obra con Copyright\u00a9 de un socio de la SGAE. Animamos a todas a que participen en esta acci\u00f3n: consiste en enlazar o usar su obra sin su permiso y acceder a ser denunciadas por el creador ante la comisi\u00f3n del ministerio de cultura encargada sin proceso judicial de tramitar las denuncias de la llamada Ley Sinde-Wert. A partir del 1 de marzo (d\u00eda en el que entra en vigor la aplicaci\u00f3n de dicha ley) el autor, seguramente molesto en alg\u00fan momento, nos presentar\u00e1 una denuncia a todas las p\u00e1ginas que hemos enlazado su obra : )\"\n Veig que el partidopirata.es s'ha adherit tamb\u00e9 a la iniciativa.\n Creieu que pirata.cat s'hauria d'adherir a la iniciativa ?\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n\n\nhacktivistas\nLlei\npartidopirataes\nSinde-Wert",
+    "dia": 22,
+    "final": {
+        "any": 12,
+        "dia": 1,
+        "mes": 3
+    },
+    "hora": "18:00",
+    "id": 161,
+    "mes": 2,
+    "solutions": [
+        {
+            "desc": "Afegim una nova entrada al bloc pirata adherint-nos a la iniciativa.",
+            "down": 3,
+            "equal": 4,
+            "id": 527,
+            "title": "Proposta (#1):pirata.cat s'adhereix a la iniciativa",
+            "up": 23
+        },
+        {
+            "desc": "Pirata.cat dona suport a la iniciativa pero no obliga als seus membres a dur a terme aquesta acci\u00f3. Tothom qui ho vulgui fer ho far\u00e0 a t\u00edtol individual.A mi m'encanta aquesta iniciativa, pero trobo que potser \u00e9s molt radical com per a que al partit sencer se'l criminalitzi.\u00c9s una idea molt picaresca pero amb el tema de Megaupoad hem guanyat nous simpatitzants (tamb\u00e9 de mitjans de comunicaci\u00f3) i trobo que fora b\u00f3 no perdre-ho.",
+            "down": 3,
+            "equal": 6,
+            "id": 529,
+            "title": "Proposta (#2):pirata.cat dona suport a la iniciativa",
+            "up": 12
+        },
+        {
+            "desc": "D'aquesta forma, nom\u00e9s serem vulnerant una llei, la Sinde-Wert. Enlla\u00e7ar mai no pot ser un crim. Si se'ns denuncia, seguirem la legalitat vigent, no sense posar-hi el m\u00e0xim possible de traves a l'administraci\u00f3 (veure proposta d'en Fabi\u00e1n Plaza sobre com jugar amb la llei Sinde-Wert). Per tal que no afecti mai a l'activitat de Pirates, podem fer \u00fas del nom \"pirates.cat\" enlloc de \"pirata.cat\", aix\u00ed no s'hauria d'afectar als nostres webs principals (xifrat.pirata.cat i pirata.cat ).",
+            "down": 3,
+            "equal": 4,
+            "id": 530,
+            "title": "Proposta (#3):Pirata.cat s'adhereix a la iniciativa tot afegint un enlla\u00e7 a un torrent",
+            "up": 10
+        }
+    ],
+    "status": "Finalitzada",
+    "titol": "Idea #161: Proposta d'adhesi\u00f3 al llistat de llocs web desobedients amb la Llei Sinde-Wert",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/161"
+}
