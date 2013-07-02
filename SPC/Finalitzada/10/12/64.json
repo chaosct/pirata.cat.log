@@ -12,6 +12,14 @@
     "mes": 12,
     "solutions": [
         {
+            "desc": "Secret\u00e0ria General - Ester Galimany [...]Em presento com a candidata, per que crec que Pirates de Catalunya, \u00e9s una opci\u00f3 totalment necess\u00e0ria per defensar els nostres drets, tant dins com fora de la xarxa. Vinculada a Pirates des de la seva creaci\u00f3, informatica de professi\u00f3.",
+            "down": 5,
+            "equal": 13,
+            "id": 125,
+            "title": "Soluci\u00f3 #1:Secret\u00e0ria General - Ester Galimany",
+            "up": 41
+        },
+        {
             "desc": "Secretari General - Xavier Vila Cap de llista per les eleccions auton\u00f2miques de Barcelona. Membre del Core Team de Pirate Parties International fins a la seva fundaci\u00f3. Capacitat de xerrar en p\u00fablic. Relacionat amb el moviment Pirata des de 2008. Afiliat del Partido Pirata Espa\u00f1ol des de el 2009. Afiliat amb Pirates de Catalunya des de els seus inicis.",
             "down": 4,
             "equal": 8,
@@ -28,6 +36,22 @@
             "up": 66
         },
         {
+            "desc": "Secret\u00e0ria - Aida Reg\u00ed",
+            "down": 5,
+            "equal": 20,
+            "id": 128,
+            "title": "Soluci\u00f3 #4:Secret\u00e0ria - Aida Reg\u00ed",
+            "up": 13
+        },
+        {
+            "desc": "Tresorer - Paco Lloret [...]Candidat a les eleccions auton\u00f2miques de Barcelona. Relaciona amb el moviment Pirata des de 2007. Afiliat del Partido Pirata des de el 2007. Afiliat amb Pirates de Catalunya des de els seus inicis. Experi\u00e8ncia administrativa en general (treballo d'auxiliar administratiu).",
+            "down": 3,
+            "equal": 14,
+            "id": 129,
+            "title": "Soluci\u00f3 #5:Tresorer - Paco Lloret",
+            "up": 17
+        },
+        {
             "desc": "Candidat per Barcelona a les passades eleccions auton\u00f2miques. He efectuat diverses tasques de difusi\u00f3 durant aquestes campanya, tant a la creaci\u00f3 i correcci\u00f3 de textos, com a les xerrades presencials a diverses poblacions. Tamb\u00e9 he col\u00b7laborat en l'+ambit de l'equip de Tecnologies de la Informaci\u00f3 (TIC), ajudant a administrar l'eina que esteu emprant en aquest moment o creant el formulari d'afiliaci\u00f3.Amb experi\u00e8ncia en treball en equip de manera remota, i presencial, i provinent del m\u00f3n de les comunitats del programari lliure on brego fa anys, penso que el meu concepte de treball col\u00b7laboratiu pot ajudar a tirar aquest projecte endavant.Laboralment s\u00f3c del sector tecnol\u00f2gic, per\u00f2 tamb\u00e9 tinc experi\u00e8ncia en temes legals, comptables i de gesti\u00f3 pura.",
             "down": 3,
             "equal": 11,
@@ -42,6 +66,14 @@
             "id": 131,
             "title": "Proposta (#7):Portaveu - Kenneth Peiruza",
             "up": 72
+        },
+        {
+            "desc": "Portaveu - David Arcos",
+            "down": 1,
+            "equal": 24,
+            "id": 132,
+            "title": "Soluci\u00f3 #8:Portaveu - David Arcos",
+            "up": 15
         },
         {
             "desc": "Coordinador RRPP - David Arcos He fet varies tasques de RRPP durant la campanya al Parlament 2010: n\u00famero 6 per Barcelona, xerrades al p\u00fablic, entrevistes amb col\u00b7lectius externs, relacions internacionals, responsable dels continguts al bloc i a les xarxes socials, moderador a reunions internes, manteniment del calendari, etc. He fet altres tasques a TIC: implementaci\u00f3 de la primera versi\u00f3 de la web pirata.cat, configuraci\u00f3 i manteniment del bloc, integraci\u00f3 autom\u00e0tica de diferents xarxes socials, seguiment de la pres\u00e8ncia a internet.",
@@ -68,46 +100,6 @@
             "up": 54
         },
         {
-            "desc": "He estat candidat per Barcelona a les eleccions auton\u00f2miques. He efectuat diverses tasques de difusi\u00f3 durant la campanya, tant a la creaci\u00f3 i correcci\u00f3 de textos i altre material, com a algunes de les xerrades presencials.Treballo des de fa deu anys a l'ensenyament p\u00fablic; des del 2006, he participat en la difusi\u00f3 del programari lliure des de l'Ubuntu Catalan LoCo Team.",
-            "down": 1,
-            "equal": 6,
-            "id": 138,
-            "title": "Proposta (#14):Coordinador Territorial - Jordi Monteagudo",
-            "up": 45
-        },
-        {
-            "desc": "Secret\u00e0ria General - Ester Galimany [...]Em presento com a candidata, per que crec que Pirates de Catalunya, \u00e9s una opci\u00f3 totalment necess\u00e0ria per defensar els nostres drets, tant dins com fora de la xarxa. Vinculada a Pirates des de la seva creaci\u00f3, informatica de professi\u00f3.",
-            "down": 5,
-            "equal": 13,
-            "id": 125,
-            "title": "Soluci\u00f3 #1:Secret\u00e0ria General - Ester Galimany",
-            "up": 41
-        },
-        {
-            "desc": "Secret\u00e0ria - Aida Reg\u00ed",
-            "down": 5,
-            "equal": 20,
-            "id": 128,
-            "title": "Soluci\u00f3 #4:Secret\u00e0ria - Aida Reg\u00ed",
-            "up": 13
-        },
-        {
-            "desc": "Tresorer - Paco Lloret [...]Candidat a les eleccions auton\u00f2miques de Barcelona. Relaciona amb el moviment Pirata des de 2007. Afiliat del Partido Pirata des de el 2007. Afiliat amb Pirates de Catalunya des de els seus inicis. Experi\u00e8ncia administrativa en general (treballo d'auxiliar administratiu).",
-            "down": 3,
-            "equal": 14,
-            "id": 129,
-            "title": "Soluci\u00f3 #5:Tresorer - Paco Lloret",
-            "up": 17
-        },
-        {
-            "desc": "Portaveu - David Arcos",
-            "down": 1,
-            "equal": 24,
-            "id": 132,
-            "title": "Soluci\u00f3 #8:Portaveu - David Arcos",
-            "up": 15
-        },
-        {
             "desc": "Coordinador RRPP - Jordi Soucheiron [...]S\u00f3c enginyer inform\u00e0tic per la UPC i tinc diversos anys d'experi\u00e8ncia col\u00b7laborant en projectes de software lliure.Dins del partit he estat ajudant en la campanya del 28N, he assistit a diverses xerrades, m'he encarregat de publicar articles al blog, a respondre emails de contacte, etc",
             "down": 3,
             "equal": 16,
@@ -122,6 +114,14 @@
             "id": 137,
             "title": "Soluci\u00f3 #13:Coordinador TIC - Xavier Vila",
             "up": 31
+        },
+        {
+            "desc": "He estat candidat per Barcelona a les eleccions auton\u00f2miques. He efectuat diverses tasques de difusi\u00f3 durant la campanya, tant a la creaci\u00f3 i correcci\u00f3 de textos i altre material, com a algunes de les xerrades presencials.Treballo des de fa deu anys a l'ensenyament p\u00fablic; des del 2006, he participat en la difusi\u00f3 del programari lliure des de l'Ubuntu Catalan LoCo Team.",
+            "down": 1,
+            "equal": 6,
+            "id": 138,
+            "title": "Proposta (#14):Coordinador Territorial - Jordi Monteagudo",
+            "up": 45
         },
         {
             "desc": "No totes les persones que podem votar en les eleccions a la Junta de Pirates estem al corrent de les aptituds dels candidats. I crec que, tant si ens acabem d'afiliar com si ja duem temps a Pirata.cat, caldria que cada candidat fes l'esfor\u00e7 d'explicar les seves motivacions. D'aquesta manera els que no els coneixem tamb\u00e9 els podr\u00edem donar el vot.[...]Recordo que la Junta de qualsevol partit pol\u00edtic hauria de representar tots els seus afiliats, no solament els afiliats que s\u00f3n els seus amics. Tres minuts de redacci\u00f3 x candidat facilitaria la participaci\u00f3. No \u00e9s aix\u00f2 el que vol Pirata.cat?",
