@@ -1,15 +1,14 @@
 {
-    "any": 11,
+    "day": 18,
     "desc": "####Aquesta votaci\u00f3 es tancar\u00e0 el 23 d'octubre a les 20:00 hores####\n\n  \nHem guanyat un dels premis del concurs 1dels50mil.cat ( [[http://1dels50mil.ca\nt/guanyadors-i-premis/](http://1dels50mil.cat/guanyadors-i-premis/)](http://1d\nels50mil.cat/guanyadors-i-premis/) ).\n\n  \nHem d'escollir qu\u00e8 fer amb el premi.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:  (cap)\n\n",
-    "dia": 18,
-    "final": {
-        "any": 11,
-        "dia": 24,
-        "mes": 10
+    "end": {
+        "day": 24,
+        "month": 10,
+        "year": 11
     },
-    "hora": "17:28",
+    "hour": "17:28",
     "id": 136,
-    "mes": 10,
+    "month": 10,
     "solutions": [
         {
             "desc": "Renunciar a la dotaci\u00f3 del premi per donar-la a la Fundaci\u00f3 PuntCAT, que la utilitzar\u00e0 en projectes sense \u00e0nim de lucre (alguns d'ells estan relacionats amb l'Ideari Pirata). http://www.fundacio.cat/obra-social/",
@@ -78,6 +77,7 @@
     ],
     "status": "Finalitzada",
     "tags": [],
-    "titol": "Idea #136: Qu\u00e8 fem amb el premi de 1dels50mil.cat?",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/136"
+    "title": "Idea #136: Qu\u00e8 fem amb el premi de 1dels50mil.cat?",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/136",
+    "year": 11
 }

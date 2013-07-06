@@ -1,15 +1,14 @@
 {
-    "any": 10,
+    "day": 1,
     "desc": "En tots els productes on es pot emmagatzemar informaci\u00f3 s'aplica el fam\u00f3s\ncanon. Es vulnera la presunci\u00f3 d'inoc\u00e8ncia, presuposant per endavant que seran\nemprats per realitzar c\u00f2pies...\n\nEtiquetes: en podeu posar diverses separant-les amb comes:  (cap)\n\n",
-    "dia": 1,
-    "final": {
-        "any": 12,
-        "dia": 12,
-        "mes": 10
+    "end": {
+        "day": 12,
+        "month": 10,
+        "year": 12
     },
-    "hora": "09:29",
+    "hour": "09:29",
     "id": 43,
-    "mes": 11,
+    "month": 11,
     "solutions": [
         {
             "desc": "Una possible soluci\u00f3 seria eliminar el canon sobre els productes verges, i aplicar-lo al producte final, on ja es pagaria un percentatge com a dret de copia (un sol cop). Aquests diners NO serien per empreses, sin\u00f3 per destinar-los al foment de la cultura i per subvencionar-la des del govern. I aix\u00ed repercutir directament sobre els artistes i sobre la societat.",
@@ -38,6 +37,7 @@
     ],
     "status": "Ja portades a terme",
     "tags": [],
-    "titol": "Idea #43: revisar el canon digital",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/43"
+    "title": "Idea #43: revisar el canon digital",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/43",
+    "year": 10
 }

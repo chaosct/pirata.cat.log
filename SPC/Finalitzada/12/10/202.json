@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 19,
     "desc": "El d\u00eda 14 de noviembre, la Cumbre Social, integrada por CCOO, UGT y m\u00e1s de 150\ncolectivos, han convocado una Huelga General, Laboral y de Consumo, en todo el\nterritorio espa\u00f1ol, en el marco de una jornada europea de lucha. La huelga\nser\u00e1 simult\u00e1nea con Portugal, Grecia y Chipre, y tendr\u00e1 grandes movilizaciones\nen pa\u00edses como Francia e Italia.\n\n  \nLa convocatoria aun no se ha definido, pero cae en plena campa\u00f1a electoral\ncatalana, y la definici\u00f3n en torno a ella, justo a 10 d\u00edas de votar, va a ser\nvital.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[14N](https://xifrat.pirata.cat/ideatorrent/?tags=14N)\n[General](https://xifrat.pirata.cat/ideatorrent/?tags=General)\n[Huelga](https://xifrat.pirata.cat/ideatorrent/?tags=Huelga)\n[Vaga](https://xifrat.pirata.cat/ideatorrent/?tags=Vaga)\n\n",
-    "dia": 19,
-    "final": {
-        "any": 12,
-        "dia": 19,
-        "mes": 11
+    "end": {
+        "day": 19,
+        "month": 11,
+        "year": 12
     },
-    "hora": "14:46",
+    "hour": "14:46",
     "id": 202,
-    "mes": 10,
+    "month": 10,
     "solutions": [
         {
             "desc": "Comunicar de manera p\u00fablica nuestro apoyo a la Huelga General del mi\u00e9rcoles 14 de noviembre, as\u00ed como suspender los actos o acciones preparadas para ese d\u00eda en torno a la Campa\u00f1a Electoral",
@@ -51,6 +50,7 @@
         "Huelga",
         "Vaga"
     ],
-    "titol": "Idea #202: Dar apoyo a la Huelga General del 14 de noviembre",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/202"
+    "title": "Idea #202: Dar apoyo a la Huelga General del 14 de noviembre",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/202",
+    "year": 12
 }

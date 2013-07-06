@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 3,
     "desc": "Votaci\u00f3 per triar el cap de llista de les paperetes per Tarragona per les\neleccions catalanes del 25 de novembre de 2012.\n\n  \n################################################################\n\nA partir del dia 3 d'octubre fins el 9 d'octubre a les 17h hi ha temps per\npresentar candidatura.\n\nLes llistes es construiran en funci\u00f3 de l'ordre per vots i respectant la\nparitat.\n\n  \nEn la vostra candidatura escriviu una presentaci\u00f3, indicant el que cregueu\nconvenient.\n\nProcureu ser concisos. Podeu incloure enlla\u00e7os si voleu donar informaci\u00f3\naddicional.\n\n################################################################\n\n  \n################################################################\n\nSi us plau, voteu nom\u00e9s a la prov\u00edncia on esteu censats. Podeu votar a m\u00e9s\nd'un candidat.\n\n  \nLa votaci\u00f3 es tancar\u00e0 el dimarts 16 d'octubre de 2012 a les 17h.\n\n################################################################\n\nEtiquetes: en podeu posar diverses separant-les amb comes:  [llistes-\n25N](https://xifrat.pirata.cat/ideatorrent/?tags=llistes-25N)\n\n",
-    "dia": 3,
-    "final": {
-        "any": 12,
-        "dia": 28,
-        "mes": 10
+    "end": {
+        "day": 28,
+        "month": 10,
+        "year": 12
     },
-    "hora": "01:32",
+    "hour": "01:32",
     "id": 191,
-    "mes": 10,
+    "month": 10,
     "solutions": [
         {
             "desc": "Presentaci\u00f3 de candidatura: experi\u00e8ncia, intencions, possibilitats, condicions, enlla\u00e7os, etc.",
@@ -72,6 +71,7 @@
     "tags": [
         "llistes-25N"
     ],
-    "titol": "Idea #191: Cap de llista per Tarragona. Eleccions 25N",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/191"
+    "title": "Idea #191: Cap de llista per Tarragona. Eleccions 25N",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/191",
+    "year": 12
 }

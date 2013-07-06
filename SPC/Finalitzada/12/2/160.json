@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 19,
     "desc": "ATENCI\u00d3: Aquesta idea romandr\u00e0 a la sala d'espera fins el 22 de febrer perqu\u00e8\nels diferents candidats puguin presentar-hi les seves propostes. El per\u00edode de\nvotaci\u00f3 ser\u00e0 del 23 al 29 de febrer de 2012.\n\n  \nCom s'ha parlat a diferents reunions i a les llistes de treball, des del punt\nde vista estrat\u00e8gic a Pirates de Catalunya li interessa participar activament\nen el desenvolupament del moviment pirata internacional. En particular, \u00e9s\nimportant coordinar-se amb la resta de partits pirata europeus per a comen\u00e7ar\na treballar en una campanya conjunta per a les properes Eleccions Europees\n2014.\n\n  \nS'ha suggerit la creaci\u00f3 del grup de treball per aquest tema per\u00f2 a la vegada\ns'ha fet pal\u00e8s la necessitat que els representants de PIRATA.CAT que vagin a\nles reunions o que participin en les discussions de Pirate Parties\nInternational (PPI) hagin estat escollits mitjan\u00e7ant el Sistema de\nParticipaci\u00f3 Ciutadana (SPC). Aquesta \u00e9s la votaci\u00f3 per escollir aquests\nrepresentants.\n\n  \nLa propera reuni\u00f3 anual de PPI ser\u00e0 del 13 al 15 d'abril i caldria que hi\nanessin, no els qui tinguin diners per a pagar-s'ho a nivell personal, sin\u00f3\nels representants de PIRATA.CAT que hagin estat escollits al SPC. PIRATA.CAT\npot enviar-hi un m\u00e0xim de 6 delegats.\n\n  \nLes persones interessades a treballar en aquest \u00e0mbit i a poder representar\nPirates de Catalunya a nivell internacional poden proposar-se aqu\u00ed posant una\npetita explicaci\u00f3 (disponibilitat per viatjar, idiomes, motivaci\u00f3, experi\u00e8ncia\npr\u00e8via, contactes pirates internacionals, etc).\n\n  \nEls candidats hauran de treure com a m\u00ednim el doble de vots a favor que en\ncontra per a poder ser escollits representants. Normalment les assemblees de\nPPI s\u00f3n obertes, de manera que a t\u00edtol personal en principi hi podr\u00e0 assistir\nqualsevol afiliat de PIRATA.CAT encara que no hagi sortit escollit delegat.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[delegats](https://xifrat.pirata.cat/ideatorrent/?tags=delegats)\n[internacional](https://xifrat.pirata.cat/ideatorrent/?tags=internacional)\n[International](https://xifrat.pirata.cat/ideatorrent/?tags=International)\n[Parties](https://xifrat.pirata.cat/ideatorrent/?tags=Parties)\n[Pirate](https://xifrat.pirata.cat/ideatorrent/?tags=Pirate)\n[PPI](https://xifrat.pirata.cat/ideatorrent/?tags=PPI)\n[representants](https://xifrat.pirata.cat/ideatorrent/?tags=representants)\n\n",
-    "dia": 19,
-    "final": {
-        "any": 12,
-        "dia": 1,
-        "mes": 3
+    "end": {
+        "day": 1,
+        "month": 3,
+        "year": 12
     },
-    "hora": "15:59",
+    "hour": "15:59",
     "id": 160,
-    "mes": 2,
+    "month": 2,
     "solutions": [
         {
             "desc": "Disponibilitat per a viatjar, idiomes, motivaci\u00f3, experi\u00e8ncia pr\u00e8via, contactes pirates internacionals, etc.",
@@ -54,6 +53,7 @@
         "PPI",
         "representants"
     ],
-    "titol": "Idea #160: Representants internacionals de Pirates de Catalunya",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/160"
+    "title": "Idea #160: Representants internacionals de Pirates de Catalunya",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/160",
+    "year": 12
 }

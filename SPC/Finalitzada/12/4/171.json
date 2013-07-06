@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 20,
     "desc": "Abans de l'Assemblea General de la Internacional de Partits Pirata a Praga els\npassats 14 i 15 d'abril vam decidir participar activament en la construcci\u00f3\nd'un partit pirata a nivell europeu:\n\n[[https://xifrat.pirata.cat/ideatorrent/idea/169/\n](https://xifrat.pirata.cat/ideatorrent/idea/169/\n)](https://xifrat.pirata.cat/ideatorrent/idea/169/ )\n\n  \nAra cal que els afiliats ratifiquem la signatura de Pirates de Catalunya del\ntext de la declaraci\u00f3 d'intencions que es va elaborar a Praga entre tots els\npartits (\u00e9s el punt de la declaraci\u00f3 n\u00famero V):\n\n[[https://piratenpad.de/p/ppeuprogram ](https://piratenpad.de/p/ppeuprogram\n)](https://piratenpad.de/p/ppeuprogram )\n\n  \nTots els pirates tamb\u00e9 podeu signar la declaraci\u00f3 a nivell individual al\nmateix enlla\u00e7.\n\n  \nAqu\u00ed teniu la traducci\u00f3 del text al catal\u00e0:\n\n[[http://piratepad.net/ep/pad/view/programaPPEU-cat/rev.467\n](http://piratepad.net/ep/pad/view/programaPPEU-cat/rev.467\n)](http://piratepad.net/ep/pad/view/programaPPEU-cat/rev.467 )\n\n  \nSi us plau, teniu en compte que nom\u00e9s podem acceptar o rebutjar el text.\n\n  \n==========================================\n\nATENCI\u00d3: Aquesta votaci\u00f3 es tancar\u00e0 el 4 de maig de 2012 a les 21 h\n\n==========================================\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[2014](https://xifrat.pirata.cat/ideatorrent/?tags=2014)\n[Eleccions](https://xifrat.pirata.cat/ideatorrent/?tags=Eleccions)\n[European](https://xifrat.pirata.cat/ideatorrent/?tags=European)\n[Europees](https://xifrat.pirata.cat/ideatorrent/?tags=Europees)\n[Europeu](https://xifrat.pirata.cat/ideatorrent/?tags=Europeu)\n[Europeus](https://xifrat.pirata.cat/ideatorrent/?tags=Europeus)\n[Parlament](https://xifrat.pirata.cat/ideatorrent/?tags=Parlament)\n[Pirates](https://xifrat.pirata.cat/ideatorrent/?tags=Pirates)\n[PPEU](https://xifrat.pirata.cat/ideatorrent/?tags=PPEU)\n[PPI](https://xifrat.pirata.cat/ideatorrent/?tags=PPI)\n\n",
-    "dia": 20,
-    "final": {
-        "any": 12,
-        "dia": 6,
-        "mes": 5
+    "end": {
+        "day": 6,
+        "month": 5,
+        "year": 12
     },
-    "hora": "13:16",
+    "hour": "13:16",
     "id": 171,
-    "mes": 4,
+    "month": 4,
     "solutions": [
         {
             "desc": "Ratificar la signatura de Pirates de Catalunya al text de la Declaraci\u00f3.",
@@ -33,6 +32,7 @@
         "PPEU",
         "PPI"
     ],
-    "titol": "Idea #171: Ratificaci\u00f3 de la Declaraci\u00f3 de Praga",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/171"
+    "title": "Idea #171: Ratificaci\u00f3 de la Declaraci\u00f3 de Praga",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/171",
+    "year": 12
 }

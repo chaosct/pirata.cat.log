@@ -1,15 +1,14 @@
 {
-    "any": 11,
+    "day": 4,
     "desc": "Esta votaci\u00f3n finaliza el pr\u00f3ximo d\u00eda 25 de diciembre a las 16h.\n\n  \nEn las \u00faltimas reuniones llevadas a cabo en Riereta se ha propuesto crear una\nred de asociaciones sin \u00e1nimo de lucro afines al ideario pirata. La finalidad\nde esta medida es mantener activas las reivindicaciones piratas fuera del\nperiodo electoral y sensibilizar a la poblaci\u00f3n.\n\n  \nEstas asociaciones ser\u00edan completamente independientes a nivel organizativo y\nejecutivo de Pirates, pero basar\u00edan su actividad en la defensa y la promoci\u00f3n\nde principios comunes a los nuestros, y su funcionamiento interno se regir\u00eda\ncon los mismos est\u00e1ndares de transparencia y democracia directa.\n\n  \nSe proponen las siguientes medidas:\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[activisme](https://xifrat.pirata.cat/ideatorrent/?tags=activisme)\n[activismo](https://xifrat.pirata.cat/ideatorrent/?tags=activismo)\n[asociaciones](https://xifrat.pirata.cat/ideatorrent/?tags=asociaciones)\n[associacions](https://xifrat.pirata.cat/ideatorrent/?tags=associacions)\n[ideari](https://xifrat.pirata.cat/ideatorrent/?tags=ideari)\n[ideario](https://xifrat.pirata.cat/ideatorrent/?tags=ideario)\n[pirates](https://xifrat.pirata.cat/ideatorrent/?tags=pirates)\n[principios](https://xifrat.pirata.cat/ideatorrent/?tags=principios)\n[principis](https://xifrat.pirata.cat/ideatorrent/?tags=principis)\n\n",
-    "dia": 4,
-    "final": {
-        "any": 12,
-        "dia": 3,
-        "mes": 1
+    "end": {
+        "day": 3,
+        "month": 1,
+        "year": 12
     },
-    "hora": "22:31",
+    "hour": "22:31",
     "id": 150,
-    "mes": 12,
+    "month": 12,
     "solutions": [
         {
             "desc": "Dotar de infraestructura tecnol\u00f3gica: web, listas de correo, sistemas de participaci\u00f3n, chat de voz, etc. a las asociaciones de nueva creaci\u00f3n hasta que dispongan de los recursos necesarios para mantener su propia infraestructura.",
@@ -56,6 +55,7 @@
         "principios",
         "principis"
     ],
-    "titol": "Idea #150: Apoyar la creaci\u00f3n de Asociaciones afines al ideario de Pirates",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/150"
+    "title": "Idea #150: Apoyar la creaci\u00f3n de Asociaciones afines al ideario de Pirates",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/150",
+    "year": 11
 }

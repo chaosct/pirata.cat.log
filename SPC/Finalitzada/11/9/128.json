@@ -1,15 +1,14 @@
 {
-    "any": 11,
+    "day": 26,
     "desc": "Votaci\u00f3 per triar el cap de llista de les paperetes per Tarragona per les\neleccions generals del 20 de novembre de 2011.\n\n################################################################\n\n######## Si us plau, voteu nom\u00e9s a la prov\u00edncia on esteu censats ########\n\n####La votaci\u00f3 es tancar\u00e0 el diumenge 9 d'octubre de 2011 a les 17h ######\n\n################################################################\n\nEtiquetes: en podeu posar diverses separant-les amb comes:  (cap)\n\n",
-    "dia": 26,
-    "final": {
-        "any": 11,
-        "dia": 9,
-        "mes": 10
+    "end": {
+        "day": 9,
+        "month": 10,
+        "year": 11
     },
-    "hora": "17:33",
+    "hour": "17:33",
     "id": 128,
-    "mes": 9,
+    "month": 9,
     "solutions": [
         {
             "desc": "Em dic Adri\u00e0 Cereto Massagu\u00e9, s\u00f3c de Calafell, llicenciat en Biotecnologia a la Universitat Rovira i Virgili i ara estic comen\u00e7ant un m\u00e0ster en nutrici\u00f3 i metabolisme i el doctorat en bioinform\u00e0tica. Vaig for\u00e7a atrafegat amb aix\u00f2 i no he pogut dedicar-li a pirates tant de temps com m'agradaria. Treballo amb programari lliure i el faig servir sempre que puc. Em considero biling\u00fce catal\u00e0/castell\u00e0 i a m\u00e9s parlo m\u00e9s o menys algun altre idioma: alemany, angl\u00e8s, franc\u00e8s, portugu\u00e8s i nocions d'esperanto. Conec Pirates pr\u00e0cticament des del seu naixement (ja fa m\u00e9s d'un any), i abans ja tenia al radar el Partido Pirata, i tot i que malauradament l'any passat era a l'estranger, ja em vaig presentar a les llistes de Tarragona a les auton\u00f2miques.",
@@ -38,6 +37,7 @@
     ],
     "status": "Finalitzada",
     "tags": [],
-    "titol": "Idea #128: Cap de llista per Tarragona. Eleccions Generals 2011",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/128"
+    "title": "Idea #128: Cap de llista per Tarragona. Eleccions Generals 2011",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/128",
+    "year": 11
 }

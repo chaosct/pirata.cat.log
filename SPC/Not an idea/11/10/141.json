@@ -1,10 +1,9 @@
 {
-    "any": 11,
+    "day": 27,
     "desc": "Hola,\n\n  \nEm sembla que el fet que hi hagi usuaris amb privilegis especials, que actuen\ncom a moderadors va en contra dels ideals que defensem.\n\n  \nSi no som capa\u00e7os d'aplicar les nostres idees en la nostra pr\u00f2pia web, dubto\nque puguem aplicar-ho a gran escala.\n\n  \nsalutacions,\n\nDavid.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:  (cap)\n\n",
-    "dia": 27,
-    "hora": "18:46",
+    "hour": "18:46",
     "id": 141,
-    "mes": 10,
+    "month": 10,
     "solutions": [
         {
             "desc": "Els integrants del partit han de decidir si una idea passa a l'etapa de vots.",
@@ -17,6 +16,7 @@
     ],
     "status": "Not an idea",
     "tags": [],
-    "titol": "Idea #141: Fer la sala d'espera oberta a tots els participants del partit",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/141"
+    "title": "Idea #141: Fer la sala d'espera oberta a tots els participants del partit",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/141",
+    "year": 11
 }

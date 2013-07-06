@@ -1,10 +1,9 @@
 {
-    "any": 12,
+    "day": 28,
     "desc": "dedede\n\nEtiquetes: en podeu posar diverses separant-les amb comes:  (cap)\n\n",
-    "dia": 28,
-    "hora": "00:40",
+    "hour": "00:40",
     "id": 216,
-    "mes": 11,
+    "month": 11,
     "solutions": [
         {
             "desc": "dededede",
@@ -17,6 +16,7 @@
     ],
     "status": "Not an idea",
     "tags": [],
-    "titol": "Idea #216: dede",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/216"
+    "title": "Idea #216: dede",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/216",
+    "year": 12
 }

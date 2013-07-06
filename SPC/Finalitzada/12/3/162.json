@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 10,
     "desc": "Davant la convocat\u00f2ria de vaga general pel proper 29 de mar\u00e7, la junta de\nPIRATA.CAT ha decidit passar a votaci\u00f3 les seg\u00fcents tres opcions respecte al\nnostre posicionament.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[vaga](https://xifrat.pirata.cat/ideatorrent/?tags=vaga)\n\n",
-    "dia": 10,
-    "final": {
-        "any": 12,
-        "dia": 20,
-        "mes": 3
+    "end": {
+        "day": 20,
+        "month": 3,
+        "year": 12
     },
-    "hora": "18:10",
+    "hour": "18:10",
     "id": 162,
-    "mes": 3,
+    "month": 3,
     "solutions": [
         {
             "desc": "Hi ha motius suficients per a una vaga general i per tant Pirates de Catalunya ha de donar suport a la convocat\u00f2ria.",
@@ -48,6 +47,7 @@
     "tags": [
         "vaga"
     ],
-    "titol": "Idea #162: Posicionament de PIRATA.CAT respecte la vaga general",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/162"
+    "title": "Idea #162: Posicionament de PIRATA.CAT respecte la vaga general",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/162",
+    "year": 12
 }

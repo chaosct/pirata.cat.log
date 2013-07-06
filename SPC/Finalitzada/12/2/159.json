@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 14,
     "desc": "ATENCI\u00d3: Aquesta votaci\u00f3 es tancar\u00e0 el 24 de febrer de 2012.\n\n  \nCom s'ha parlat a diferents reunions i a les llistes de treball, des del punt\nde vista estrat\u00e8gic a Pirates de Catalunya li interessa participar activament\nen el desenvolupament del moviment pirata internacional. En particular, \u00e9s\nimportant coordinar-se amb la resta de partits pirata europeus per a comen\u00e7ar\na treballar en una campanya conjunta per a les properes Eleccions Europees\n2014.\n\n  \nS'ha suggerit la creaci\u00f3 del grup de treball per aquest tema per\u00f2 a la vegada\ns'ha fet pal\u00e8s la necessitat que els representants de PIRATA.CAT que vagin a\nles reunions o que participin en les discussions de Pirate Parties\nInternational (PPI) hagin estat escollits mitjan\u00e7ant el Sistema de\nParticipaci\u00f3 Ciutadana (SPC). PIRATA.CAT pot enviar un m\u00e0xim de 6 delegats.\n[La votaci\u00f3 d'aquests representants es dur\u00e0 a terme properament.]\n\n  \nLa propera reuni\u00f3 anual de PPI ser\u00e0 del 13 al 15 d'abril i caldria que hi\nanessin, no els qui tinguin diners per a pagar-s'ho a nivell personal, sin\u00f3\nels representants de PIRATA.CAT que hagin estat escollits al SPC. Perqu\u00e8 aix\u00f2\nrealment fos aix\u00ed caldria finan\u00e7ar el viatge als representants per\u00f2 com que\nels fons del partit s\u00f3n limitats nom\u00e9s es podr\u00e0 donar una ajuda. Aquesta\nvotaci\u00f3 \u00e9s per decidir quin tipus d'ajuda es d\u00f3na als representants que\ns'escullin.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[ajuda](https://xifrat.pirata.cat/ideatorrent/?tags=ajuda)\n[delegats](https://xifrat.pirata.cat/ideatorrent/?tags=delegats)\n[internacional](https://xifrat.pirata.cat/ideatorrent/?tags=internacional)\n[International](https://xifrat.pirata.cat/ideatorrent/?tags=International)\n[Parties](https://xifrat.pirata.cat/ideatorrent/?tags=Parties)\n[Pirate](https://xifrat.pirata.cat/ideatorrent/?tags=Pirate)\n[PPI](https://xifrat.pirata.cat/ideatorrent/?tags=PPI)\n[representants](https://xifrat.pirata.cat/ideatorrent/?tags=representants)\n\n",
-    "dia": 14,
-    "final": {
-        "any": 12,
-        "dia": 28,
-        "mes": 10
+    "end": {
+        "day": 28,
+        "month": 10,
+        "year": 12
     },
-    "hora": "02:27",
+    "hour": "02:27",
     "id": 159,
-    "mes": 2,
+    "month": 2,
     "solutions": [
         {
             "desc": "Com m\u00e9s representants de Pirates de Catalunya enviem, m\u00e9s feina faran (contactes, intercanvi d'idees, grup de pressi\u00f3...). Aquesta proposta consisteix en finan\u00e7ar a parts iguals els representants que hi vagin (m\u00e0xim 6) per potenciar que hi hagi el m\u00e0xim nombre de Pirates de Catalunya i poder tenir m\u00e9s for\u00e7a a la reuni\u00f3 de PPI. La suma de la despesa total m\u00e0xima pel partit proposada \u00e9s de 500 euros.",
@@ -63,6 +62,7 @@
         "PPI",
         "representants"
     ],
-    "titol": "Idea #159: Finan\u00e7ament dels representants de PIRATA.CAT a PPI",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/159"
+    "title": "Idea #159: Finan\u00e7ament dels representants de PIRATA.CAT a PPI",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/159",
+    "year": 12
 }

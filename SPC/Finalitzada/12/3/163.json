@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 11,
     "desc": "La Iniciativa Penal Popular \u00e9s una den\u00fancia de les retallades en la Salut\nP\u00fablica, que estan causant fins i tot morts en la Sanitat P\u00fablica Catalana. La\nIniciativa PEnal Popular \u00e9s una reacci\u00f3 democr\u00e0tica i c\u00edvica per denunciar,\nfins i tot davant els tribunals, tots els problemes de la Sanitat P\u00fablica, des\nde les retallades, el repagament sanitari i, especialment, els casos de\ncorrupci\u00f3.\n\n  \nTots els detalls els podeu trobar (i \u00e9s molt recomanable que llegiu i us mireu\nels v\u00eddeos, sobretot el primer) aqu\u00ed: [[http://is.gd/PhClBp\n](http://is.gd/PhClBp )](http://is.gd/PhClBp )\n\n  \nActualitzaci\u00f3 3/Abril/2012. El sistema de punts per entrar a llistes d'espera\nper operar-se deixa fora els aturats i la gent gran: [[http://is.gd/pCORfL\n](http://is.gd/pCORfL )](http://is.gd/pCORfL )\n\n  \n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[Justcia](https://xifrat.pirata.cat/ideatorrent/?tags=Justcia)\n[Salut](https://xifrat.pirata.cat/ideatorrent/?tags=Salut)\n\n",
-    "dia": 11,
-    "final": {
-        "any": 12,
-        "dia": 4,
-        "mes": 9
+    "end": {
+        "day": 4,
+        "month": 9,
+        "year": 12
     },
-    "hora": "19:51",
+    "hour": "19:51",
     "id": 163,
-    "mes": 3,
+    "month": 3,
     "solutions": [
         {
             "desc": "La proposta \u00e9s adherir-nos a aquesta iniciativa com a Pirata.Cat tenint en compte que som un partit de defensa dels drets civils. En cas que, per la idiosincr\u00e0sia de la mateixa iniciativa, no sigui possible que com a Pirates ens hi poguem adherir, passar a la proposta 2.",
@@ -33,6 +32,7 @@
         "Justcia",
         "Salut"
     ],
-    "titol": "Idea #163: Adherir-nos a la Iniciativa Penal Popular en defensa de la Salut P\u00fablica",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/163"
+    "title": "Idea #163: Adherir-nos a la Iniciativa Penal Popular en defensa de la Salut P\u00fablica",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/163",
+    "year": 12
 }

@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 7,
     "desc": "Diversos col\u00b7lectius han engegat la campanya \"Aturem Euovegas\" i han\nconsensuat el seg\u00fcent manifest:\n[[http://aturemeurovegas.wordpress.com/manifest/\n](http://aturemeurovegas.wordpress.com/manifest/\n)](http://aturemeurovegas.wordpress.com/manifest/ )\n\n  \n**********   \nLa votaci\u00f3 finalitzar\u00e0 el proper 20/04/2012, per poder participar com a\nPIRATA.CAT a la marxa/bicicletada convocada, si surt aprovada.\n\n**********   \n  \nAfecta directament a l'ideari pirata, per manca de transpar\u00e8ncia, control i\ndemocr\u00e0cia directa, la manera que els nostres representants estan subhastant\nel nostre territori davant el multimilionari nord-americ\u00e0 Sheldon Adelson. Per\ntant, aix\u00f2 no caldria votar-ho.\n\n  \nAra b\u00e9, donat que al manifest hi ha altres consideracions que van m\u00e9s enll\u00e0 de\nl'ideari pirata, es proposa votar-ho per a decidir per democr\u00e0cia directa el\nrecolzament de la campanya.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[eurovegas](https://xifrat.pirata.cat/ideatorrent/?tags=eurovegas)\n\n",
-    "dia": 7,
-    "final": {
-        "any": 12,
-        "dia": 22,
-        "mes": 4
+    "end": {
+        "day": 22,
+        "month": 4,
+        "year": 12
     },
-    "hora": "10:49",
+    "hour": "10:49",
     "id": 170,
-    "mes": 4,
+    "month": 4,
     "solutions": [
         {
             "desc": "Recolzar el manifest de la campanya i participar a la convocat\u00f2ria de la marxa/bicicletada del proper 21 d'abril.",
@@ -24,6 +23,7 @@
     "tags": [
         "eurovegas"
     ],
-    "titol": "Idea #170: Recolzar la campanya \"Aturem Eurovegas\"",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/170"
+    "title": "Idea #170: Recolzar la campanya \"Aturem Eurovegas\"",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/170",
+    "year": 12
 }

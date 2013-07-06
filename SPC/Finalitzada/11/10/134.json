@@ -1,15 +1,14 @@
 {
-    "any": 11,
+    "day": 17,
     "desc": "#####################################################\n\n## ATENCI\u00d3: aquesta votaci\u00f3 es tancar\u00e0 el proper diumenge 23/10 a les 12h ##\n\n#####################################################\n\n  \nTot i que ens agradaria seguir amb el boicot a PayPal ( [[http://pirata.cat/bl\noc/?p=1082](http://pirata.cat/bloc/?p=1082)](http://pirata.cat/bloc/?p=1082) )\nno hem trobat de moment una alternativa viable (recordeu que el principal\nobstacle \u00e9s que segons la llei les donacions han de tenir associades nom,\ncognoms i dni, per tant, ha de ser un sistema que permeti aix\u00f2). I amb la\nnecessitat urgent que tenim ara mateix d'aconseguir donacions per a poder\nfinan\u00e7ar la campanya i dur-la a terme, aquest boicot ens est\u00e0 resultant a\nefectes pr\u00e0ctics un perjudici molt important per a poder desenvolupar la\nnostra tasca.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[donacions](https://xifrat.pirata.cat/ideatorrent/?tags=donacions)\n[finanament](https://xifrat.pirata.cat/ideatorrent/?tags=finanament)\n\n",
-    "dia": 17,
-    "final": {
-        "any": 11,
-        "dia": 24,
-        "mes": 10
+    "end": {
+        "day": 24,
+        "month": 10,
+        "year": 11
     },
-    "hora": "15:01",
+    "hour": "15:01",
     "id": 134,
-    "mes": 10,
+    "month": 10,
     "solutions": [
         {
             "desc": "Proposo que retirem temporalment el boicot a PayPal per\u00f2 nom\u00e9s fins que s'acabi la campanya electoral i sempre i quant no trobem una alternativa.",
@@ -57,6 +56,7 @@
         "donacions",
         "finanament"
     ],
-    "titol": "Idea #134: Donacions per la campanya",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/134"
+    "title": "Idea #134: Donacions per la campanya",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/134",
+    "year": 11
 }

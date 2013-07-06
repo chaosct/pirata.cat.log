@@ -1,15 +1,14 @@
 {
-    "any": 11,
+    "day": 17,
     "desc": "Durant la propera campanya electoral, moviments socials sorgits de la xarxa,\ncom ara #nolesvotes\n[[http://nolesvotes.com/](http://nolesvotes.com/)](http://nolesvotes.com/) o\nla Operaci\u00f3n V de Votaciones [[http://opvdevotaciones.blogspot.com/](http://op\nvdevotaciones.blogspot.com/)](http://opvdevotaciones.blogspot.com/) proposen\npenjar els cartells denunciant els casos de corrupci\u00f3 i demanant que no votis\na PP/PSOE/CiU.\n\n  \nT\u00e8cnicament, aix\u00f2 que faran a priori no \u00e9s legal, doncs els espais reservats a\npropaganda electoral nom\u00e9s es poden emprar per part de partits.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[campanya](https://xifrat.pirata.cat/ideatorrent/?tags=campanya)\n[eleccions](https://xifrat.pirata.cat/ideatorrent/?tags=eleccions)\n[llei](https://xifrat.pirata.cat/ideatorrent/?tags=llei)\n[pirateja](https://xifrat.pirata.cat/ideatorrent/?tags=pirateja)\n\n",
-    "dia": 17,
-    "final": {
-        "any": 11,
-        "dia": 8,
-        "mes": 5
+    "end": {
+        "day": 8,
+        "month": 5,
+        "year": 11
     },
-    "hora": "19:30",
+    "hour": "19:30",
     "id": 92,
-    "mes": 4,
+    "month": 4,
     "solutions": [
         {
             "desc": "A les passades eleccions, alguns partits van emprar adhesius sense cap identificaci\u00f3 del partit, i les normatives municipals no especifiquen que sigui obligatori promocionar a un partit. Si autoritzem a la gent de #nolesvotes, V de Votaciones o qualsevol altre que vulgui fer una contracampanya (PP, PSOE o CiU), si els atura la policia, poden dir que fan promoci\u00f3 dels Pirates i evitar que els multin. Crec que \u00e9s evident la simpatia que es sent per aquests col\u00b7lectius, qu\u00e8 us sembla donar-los cobertura als municipis als quals hi hagi plafons habilitats per a propaganda electoral de qualsevol partit?",
@@ -27,6 +26,7 @@
         "llei",
         "pirateja"
     ],
-    "titol": "Idea #92: Cobertura legal de les protestes contra els partits grans durant campanya",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/92"
+    "title": "Idea #92: Cobertura legal de les protestes contra els partits grans durant campanya",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/92",
+    "year": 11
 }

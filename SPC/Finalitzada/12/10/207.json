@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 29,
     "desc": "***************************************************   \nSI US PLAU, NO AFEGIU M\u00c9S PROPOSTES DE NOMS. LES QUE\n\nHI HA (1 a 4) S\u00d3N LES CONSENSUADES ENTRE TOTS ELS PARTITS\n\n***************************************************   \nVotaci\u00f3 sobre el nom de la confederaci\u00f3 que formaran, en principi, els\nseg\u00fcents partits:\n\n  \n- Pirates de Catalunya   \n- Piratas de Galicia   \n- Piratas de Madrid   \n- Piratas de Extremadura   \n- Piratas de La Rioja   \n  \nAquesta confederaci\u00f3 \u00e9s la continuaci\u00f3 de la declaraci\u00f3 d'intencions votada a\nl'abril: [[https://xifrat.pirata.cat/ideatorrent/idea/167/\n](https://xifrat.pirata.cat/ideatorrent/idea/167/\n)](https://xifrat.pirata.cat/ideatorrent/idea/167/ )\n\n  \nVoteu els noms que us agradin.\n\n  \n########################\n\nData l\u00edmit: 29 de Desembre a les 23:59\n\n########################\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[Confederacio](https://xifrat.pirata.cat/ideatorrent/?tags=Confederacio)\n\n",
-    "dia": 29,
-    "final": {
-        "any": 12,
-        "dia": 30,
-        "mes": 12
+    "end": {
+        "day": 30,
+        "month": 12,
+        "year": 12
     },
-    "hora": "22:18",
+    "hour": "22:18",
     "id": 207,
-    "mes": 10,
+    "month": 10,
     "solutions": [
         {
             "desc": "Confederaci\u00f3n Pirata",
@@ -72,6 +71,7 @@
     "tags": [
         "Confederacio"
     ],
-    "titol": "Idea #207: Nom de Confederaci\u00f3",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/207"
+    "title": "Idea #207: Nom de Confederaci\u00f3",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/207",
+    "year": 12
 }

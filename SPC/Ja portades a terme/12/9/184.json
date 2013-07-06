@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 25,
     "desc": "Com ja sabeu el 25 de novembre hi ha eleccions catalanes. (anticipades)\n\n  \nAquesta proposta/votaci\u00f3 es per saber el posicionament del conjunt de persones\nde l'ambit dels Pirates de Catalunya, respecte a estar a favor o en contra de\nl'autodeterminaci\u00f3 de Catalunya, i que estigu\u00e9s en el programa electoral dels\nPirates de Catalunya de cara al proper 25 de novembre.\n\nAix\u00ed tamb\u00e9, no obstant s'han de mantenir els principals ideals d'aquest\npartit. :)\n\nEtiquetes: en podeu posar diverses separant-les amb comes:  (cap)\n\n",
-    "dia": 25,
-    "final": {
-        "any": 13,
-        "dia": 27,
-        "mes": 1
+    "end": {
+        "day": 27,
+        "month": 1,
+        "year": 13
     },
-    "hora": "20:00",
+    "hour": "20:00",
     "id": 184,
-    "mes": 9,
+    "month": 9,
     "solutions": [
         {
             "desc": "A favor, sempre hi quan hi hagi un concens clar dels pirates. ^^",
@@ -38,6 +37,7 @@
     ],
     "status": "Ja portades a terme",
     "tags": [],
-    "titol": "Idea #184: Independ\u00e8ncia de Catalunya?",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/184"
+    "title": "Idea #184: Independ\u00e8ncia de Catalunya?",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/184",
+    "year": 12
 }

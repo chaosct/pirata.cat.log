@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 9,
     "desc": "Como material de guerrilla, est\u00e1 claro que las cintas pirata no tienen rival.\n\nTenemos que comprar nuevas porque ya no queda ninguna de la campa\u00f1a anterior.\n\n  \nSi fuera necesario, la elecci\u00f3n de un nuevo dise\u00f1o (o eslogan) se realizar\u00e1\ndesde el grupo de 'creatius'.\n\n  \n  \nRelaci\u00f3n de compras: [ [[http://pirates.pad.atkn.net/ep/pad/view/ro.4AJD7i73$$\nP/latest](http://pirates.pad.atkn.net/ep/pad/view/ro.4AJD7i73$$P/latest)](http\n://pirates.pad.atkn.net/ep/pad/view/ro.4AJD7i73$$P/latest) ]\n\n  \n#######################################\n\n# ~ El plazo de esta votaci\u00f3n acaba el Domingo 15 a las 20:00 ~ #\n\n#######################################\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[25N](https://xifrat.pirata.cat/ideatorrent/?tags=25N)\n[campanya](https://xifrat.pirata.cat/ideatorrent/?tags=campanya)\n[compres](https://xifrat.pirata.cat/ideatorrent/?tags=compres)\n\n",
-    "dia": 9,
-    "final": {
-        "any": 12,
-        "dia": 29,
-        "mes": 10
+    "end": {
+        "day": 29,
+        "month": 10,
+        "year": 12
     },
-    "hora": "14:52",
+    "hour": "14:52",
     "id": 197,
-    "mes": 10,
+    "month": 10,
     "solutions": [
         {
             "desc": "Proveidor: Teknopoint InternacionalWeb: www.teknopointinternacional.netTermini de lliurament: Serveixen en ~10 dies feiners. Preu: 286,56 \u20ac (IVA inc.)Quantitat: 36 cintes/caixa x 4 caixes = 144 cintesQualitat: disseny en B/N. Comentari: Un nou disseny de les cintes tindria cost addicional de 48\u20ac",
@@ -26,6 +25,7 @@
         "campanya",
         "compres"
     ],
-    "titol": "Idea #197: Compras Campa\u00f1a 25N - 3: Cintas",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/197"
+    "title": "Idea #197: Compras Campa\u00f1a 25N - 3: Cintas",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/197",
+    "year": 12
 }

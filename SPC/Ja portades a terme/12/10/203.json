@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 20,
     "desc": "A partir d\u00b4ara penso que hem de fer una bona campanya electoral amb l\u00b4objectiu\nd\u00b4obtenir 5 % a les provincies que lluitar\u00e9m per les eleccions. Si treballem\nfort no hi ha r\u00e9s dificil. Tenim moltes alternatives per a transmetre al\npoble. Per\u00f3 com podem generar maneres d\u00b4arrivar a la gent ?\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[eleccions](https://xifrat.pirata.cat/ideatorrent/?tags=eleccions)\n[organitzatci](https://xifrat.pirata.cat/ideatorrent/?tags=organitzatci)\n[publicitat](https://xifrat.pirata.cat/ideatorrent/?tags=publicitat)\n\n",
-    "dia": 20,
-    "final": {
-        "any": 13,
-        "dia": 27,
-        "mes": 1
+    "end": {
+        "day": 27,
+        "month": 1,
+        "year": 13
     },
-    "hora": "18:27",
+    "hour": "18:27",
     "id": 203,
-    "mes": 10,
+    "month": 10,
     "solutions": [
         {
             "desc": "Costa 75 \u20ac al m\u00e9s per provincia, duraci\u00f3 minima 1 any en aquest diari:http://www.elpuntavui.cat/girona/nacional.htmlJust arriva de titul de Girona a dalt a la dreta. Ser\u00eda  un flash que enlla\u00e7i al programa electoral.",
@@ -50,6 +49,7 @@
         "organitzatci",
         "publicitat"
     ],
-    "titol": "Idea #203: Per fer arrivar EL PROGRAMA ELECTORAL al poble",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/203"
+    "title": "Idea #203: Per fer arrivar EL PROGRAMA ELECTORAL al poble",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/203",
+    "year": 12
 }

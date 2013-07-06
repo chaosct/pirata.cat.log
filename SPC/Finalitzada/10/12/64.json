@@ -1,15 +1,14 @@
 {
-    "any": 10,
+    "day": 19,
     "desc": "ATENCI\u00d3, VOTACI\u00d3 FINALITZADA!\n\n  \nAqu\u00ed teniu les diferents candidatures presentades a les eleccions a la junta\ndels Pirates de Catalunya.\n\n  \nSi us plau, voteu totes les candidatures.\n\n  \nLa junta es composa de:\n\n  \n- Secretari General   \n- Secretari   \n- Tresorer   \n- Portaveu   \n- Coordinador RRPP   \n- Coordinador Creatius   \n- Coordinador TIC   \n- Coordinador Territorial   \n- Enlla\u00e7 Grumets (triat directament de les joventuts) \n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[catalunya](https://xifrat.pirata.cat/ideatorrent/?tags=catalunya)\n[de](https://xifrat.pirata.cat/ideatorrent/?tags=de)\n[eleccions](https://xifrat.pirata.cat/ideatorrent/?tags=eleccions)\n[junta](https://xifrat.pirata.cat/ideatorrent/?tags=junta)\n[piratacat](https://xifrat.pirata.cat/ideatorrent/?tags=piratacat)\n[pirates](https://xifrat.pirata.cat/ideatorrent/?tags=pirates)\n\n",
-    "dia": 19,
-    "final": {
-        "any": 11,
-        "dia": 3,
-        "mes": 4
+    "end": {
+        "day": 3,
+        "month": 4,
+        "year": 11
     },
-    "hora": "17:13",
+    "hour": "17:13",
     "id": 64,
-    "mes": 12,
+    "month": 12,
     "solutions": [
         {
             "desc": "Secret\u00e0ria General - Ester Galimany [...]Em presento com a candidata, per que crec que Pirates de Catalunya, \u00e9s una opci\u00f3 totalment necess\u00e0ria per defensar els nostres drets, tant dins com fora de la xarxa. Vinculada a Pirates des de la seva creaci\u00f3, informatica de professi\u00f3.",
@@ -157,6 +156,7 @@
         "piratacat",
         "pirates"
     ],
-    "titol": "Idea #64: Votaci\u00f3 c\u00e0rrecs Junta de Pirates de Catalunya 2010",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/64"
+    "title": "Idea #64: Votaci\u00f3 c\u00e0rrecs Junta de Pirates de Catalunya 2010",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/64",
+    "year": 10
 }

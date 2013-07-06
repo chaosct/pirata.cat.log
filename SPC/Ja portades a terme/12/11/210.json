@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 13,
     "desc": "Alguns partits candidats a les eleccions del 25N han signat una declaraci\u00f3\npromoguda per la associaci\u00f3 \"Unitat contra el Feixisme i el Racisme\" afirmant\nque adopten els seg\u00fcents compromisos de cara a la campanya electoral:\n\n  \n1. No farem servir de discursos xen\u00f2fobs, ni ens quedarem en silenci si altres\nho fan. L\u2019experi\u00e8ncia de Fran\u00e7a demostra clarament que quan els partits\nestablerts fomenten idees xen\u00f2fobes, a la llarga no resten suport al feixisme\nsin\u00f3 que el normalitzen i l\u2019enforteixen.\n\n  \n2. A la vegada que duem a terme la nostra pr\u00f2pia campanya, farem el possible\nper difondre tamb\u00e9 els arguments d\u2019Unitat contra el feixisme i el racisme. Als\nnostres actes, facilitarem la distribuci\u00f3 d\u2019octavetes d\u2019UCFR, perqu\u00e8 els i les\nassistents puguin emportar-se\u2019n un grapat per fer difusi\u00f3.\n\n  \nEntre aquests partits es troba signada:\n\n  \nPer la CUP-Alternativa d\u2019esquerres,\n\nGeorgina Rieradevall Tarr\u00e9s\n\n  \nPer Esquerra Republicana de Catalunya\n\nOriol Junqueras\n\n  \nPer ICV-EUiA\n\nJoan Herrera\n\n  \nPel Partit dels Socialistes de Catalunya\n\nPere Navarro\n\n  \nPer Solidaritat Catalana per la Independ\u00e8ncia\n\nAlfons L\u00f3pez i Tena\n\n  \n[[http://unitatcontraelfeixisme.wordpress.com/2012/11/13/declaracio-de-les-\ncandid atures/](http://unitatcontraelfeixisme.wordpress.com/2012/11/13\n/declaracio-de-les-\ncandidatures/)](http://unitatcontraelfeixisme.wordpress.com/2012/11/13\n/declaracio-de-les-candidatures/)\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[25N](https://xifrat.pirata.cat/ideatorrent/?tags=25N)\n[campanya](https://xifrat.pirata.cat/ideatorrent/?tags=campanya)\n\n",
-    "dia": 13,
-    "final": {
-        "any": 13,
-        "dia": 27,
-        "mes": 1
+    "end": {
+        "day": 27,
+        "month": 1,
+        "year": 13
     },
-    "hora": "19:51",
+    "hour": "19:51",
     "id": 210,
-    "mes": 11,
+    "month": 11,
     "solutions": [
         {
             "desc": "Signar la declaraci\u00f3 per a que PIRATA.CAT es posicioni com un partit totalment en contra del feixisme i el racisme, tot agafant els compromisos que indica el document i explicats a la descripci\u00f3 d'aquesta proposta",
@@ -25,6 +24,7 @@
         "25N",
         "campanya"
     ],
-    "titol": "Idea #210: Declaraci\u00f3 de partits contra el feixisme i el racisme",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/210"
+    "title": "Idea #210: Declaraci\u00f3 de partits contra el feixisme i el racisme",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/210",
+    "year": 12
 }

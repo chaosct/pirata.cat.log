@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 5,
     "desc": "Fa uns dies que s'est\u00e0 debatent a les llistes de correu de PPI (Pirate Parties\nInternational) al voltant de la necessitat de crear un partit pirata d'\u00e0mbit\neuropeu amb l'objectiu de fer m\u00e9s for\u00e7a a nivell de la Uni\u00f3 Europea i de cara\na les eleccions d'\u00e0mbit de la UE.\n\n  \n##################################################\n\nAquesta votaci\u00f3 es tancar\u00e0 el proper dia 12/04/2012 a les 13h\n\n##################################################\n\n  \nPer aix\u00f2 hem pensat que de cara a portar la primera part dels deures fets i\ntenir una posici\u00f3 inicial decidida davant la resta de participants en el debat\nque s'efectuar\u00e0 a l'Assemblea General de PPI que es celebrar\u00e0 els propers 14 i\n15 d'abril a Praga i on hi haur\u00e0 diverses persones en representaci\u00f3 de Pirates\nde Catalunya, com es va votar en el seu moment ([[https://xifrat.pirata.cat/id\neatorrent/idea/160/](https://xifrat.pirata.cat/ideatorrent/idea/160/)](https:/\n/xifrat.pirata.cat/ideatorrent/idea/160/) ), cal votar si ens sembla adient i\ninteressant participar en aquest debat formant-ne part del grup de treball.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[Europa](https://xifrat.pirata.cat/ideatorrent/?tags=Europa)\n[Internacional](https://xifrat.pirata.cat/ideatorrent/?tags=Internacional)\n[PPI](https://xifrat.pirata.cat/ideatorrent/?tags=PPI)\n\n",
-    "dia": 5,
-    "final": {
-        "any": 12,
-        "dia": 12,
-        "mes": 4
+    "end": {
+        "day": 12,
+        "month": 4,
+        "year": 12
     },
-    "hora": "00:39",
+    "hour": "00:39",
     "id": 169,
-    "mes": 4,
+    "month": 4,
     "solutions": [
         {
             "desc": "Encara no hi ha absolutament res decidit, el debat est\u00e0 en els seus estadis m\u00e9s inicials (http://ppeu.net/ ), per\u00f2 creiem que ens \u00e9s molt interessant des del punt de vista del moviment i tamb\u00e9 del nostre com a partit individual a ser-hi des de l'inici i a aportar el nostre punt de vista dins l'embri\u00f3 que es pugui generar.Aquest partit europeu en cap cas subtituir\u00e0 els partits pirates individuals, sin\u00f3 que es planteja com un paraig\u00fces que ens faci m\u00e9s s\u00f2lids i resistents davant els grans grups europeus de la resta de tend\u00e8ncies ja establertes fa d\u00e8cades, ens permeti arribar a influir en la pol\u00edtica continental i portar la veu de cada persona a Brusel\u00b7les, que \u00e9s on fa temps que es decideixen els temes de calat.",
@@ -26,6 +25,7 @@
         "Internacional",
         "PPI"
     ],
-    "titol": "Idea #169: Hem de participar al debat i grup de treball sobre un partit pirata europeu?",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/169"
+    "title": "Idea #169: Hem de participar al debat i grup de treball sobre un partit pirata europeu?",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/169",
+    "year": 12
 }

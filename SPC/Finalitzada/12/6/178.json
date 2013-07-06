@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 18,
     "desc": "En el seg\u00fcent enlla\u00e7 podeu trobar l'esborrany del Reglament Intern fruit de\nles discussions pr\u00e8vies del grup de treball d'editors:\n\n  \n[[https://xifrat.pirata.cat/commons/sites/default/files/proposta-reglament-\nrii_de fbis.pdf ](https://xifrat.pirata.cat/commons/sites/default/files\n/proposta-reglament-rii_defbis.pdf\n)](https://xifrat.pirata.cat/commons/sites/default/files/proposta-reglament-\nrii_defbis.pdf )\n\n  \nEl text del Reglament Intern (en blau) est\u00e0 intercalat amb els estatuts (en\nnegre) per a fer-ne m\u00e9s f\u00e0cil la lectura.\n\n  \nQualsevol persona afiliada podr\u00e0 presentar esmenes a l\u2019esborrany del Reglament\nIntern fins el dia 25 de juny de 2012 a les 12 h del migdia.\n\n  \nEl grup d'editors recollir\u00e0 les esmenes proposades i incorporar\u00e0 directament a\nl'esborrany les que tinguin consens, eliminar\u00e0 les que entrin en conflicte amb\nels estatuts (que de moment no es modifiquen), posar\u00e0 per ordre les que\ns'hagin de votar, i si cal n'adaptar\u00e0 la redacci\u00f3 perqu\u00e8 es puguin incorporar\ndirectament al text final si s'aproven.\n\n  \nLa votaci\u00f3 de les esmenes s'obrir\u00e0 el 26 de juny i es tancar\u00e0 l'1 de juliol a\nles 11.30 h abans de l'assemblea general. Durant el per\u00edode de votaci\u00f3 ja no\nes podran proposar noves esmenes.\n\n  \n------------   \n  \nA continuaci\u00f3 teniu el procediment que heu de seguir per a proposar esmenes:\n\n  \nLes esmenes (o una refer\u00e8ncia al document que les cont\u00e9) seran enviades en\nforma de proposta al SPC amb el t\u00edtol de la proposta indicant el tipus\nd'esmena que es tracta (ADD, MOD o ELI), i el punt del l'\u00edndex (lletra i\nn\u00famero) del par\u00e0graf al qual es refereix. O sigui, el t\u00edtol ser\u00e0: \"[TIPUS\nD'ESMENA] [punt de l'\u00edndex]\".\n\n  \nLes esmenes seran sobre par\u00e0grafs i de tres tipus:\n\n  \n* D\u2019addici\u00f3. S\u2019afegeix un par\u00e0graf nou al text. Es referencia com \u201cADD [punt de l\u2019\u00edndex despr\u00e9s del qual s'ha d'afegir]\u201d.   \n  \n* De modificaci\u00f3. Es substitueix el par\u00e0graf per un nou text. Es referencia com \u201cMOD [punt de l\u2019\u00edndex del par\u00e0graf]\u201d.   \n  \n* D\u2019eliminaci\u00f3. S\u2019elimina un par\u00e0graf. Es referencia com \u201cELI [punt de l\u2019index del par\u00e0graf]\u201d. \n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[esmenes](https://xifrat.pirata.cat/ideatorrent/?tags=esmenes)\n[intern](https://xifrat.pirata.cat/ideatorrent/?tags=intern)\n[reglament](https://xifrat.pirata.cat/ideatorrent/?tags=reglament)\n\n",
-    "dia": 18,
-    "final": {
-        "any": 12,
-        "dia": 3,
-        "mes": 7
+    "end": {
+        "day": 3,
+        "month": 7,
+        "year": 12
     },
-    "hora": "17:54",
+    "hour": "17:54",
     "id": 178,
-    "mes": 6,
+    "month": 6,
     "solutions": [
         {
             "desc": "3. Se abrir\u00e1 un expediente disciplinario autom\u00e1ticamente a cualquier afiliado o miembro de la junta que se presente a una asamblea general con sandalias y calcetines.",
@@ -58,6 +57,7 @@
         "intern",
         "reglament"
     ],
-    "titol": "Idea #178: Esmenes a la proposta de Reglament Intern",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/178"
+    "title": "Idea #178: Esmenes a la proposta de Reglament Intern",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/178",
+    "year": 12
 }

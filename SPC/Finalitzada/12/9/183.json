@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 9,
     "desc": "Mentre vam tindre la possibilitat de rebre donacions amb PayPal, reb\u00edem quasi\nun 50% m\u00e9s de diner que en l'actualitat.\n\n  \nVam decidir fer Boicot a Paypal perqu\u00e8 va congelar els comptes de Wikileaks,\nper\u00f2 no vam plantejar cap alternativa.\n\n  \nFa m\u00e9s d'un any d'aix\u00f2. Vam cercar intensament alternatives, i no hi ha cap\naltre sistema per a rebre diner amb targes de cr\u00e8dit que permeti rebre el NIF\ni que operi a l'estat espanyol, que son els requisits legals que tenim, ni un.\n\n  \nEs va obrir una votaci\u00f3 com aquesta abans de les eleccions generals, i es van\ndir un munt de sistemes alternatius, i cap permet aquestes dues condicions\nobligat\u00f2ries per llei.\n\n  \nA m\u00e9s a m\u00e9s, de voler ser coherents, tamb\u00e9 hauriem de fer boicot a Visa i\nMastercard, que tamb\u00e9 van bloquejar les donacions a Wikileaks.\n\n  \nHa arribat un punt en que pirates de Catalunya t\u00e9 poc m\u00e9s de 1000 \u20ac al compte,\ni aquest boicot ens est\u00e0 fent m\u00e9s mal que b\u00e9, doncs l'\u00fanica forma que tenim de\nrebre diner \u00e9s amb donacions per transfer\u00e8ncies banc\u00e0ries.\n\n  \nEn uns 3 mesos tindrem el sistema de quotes en funcionament, per\u00f2 per a evitar\nsobrecarregar el tresorer (que com tots \u00e9s voluntari), nom\u00e9s s'enviar\u00e0 1 rebut\na l'any.\n\n  \nAix\u00f2 far\u00e0 que molts pirates no puguin posar-se una quota anual tan gran com la\nsuma de quotes mensuals, o sigui, no es podr\u00e0 donar tant com es podria.\n\n  \nL'unica opci\u00f3 que ens queda per a permetre que la gent pugui col\u00b7laborar\necon\u00f2micament \u00e9s recuperant un mecanisme m\u00e9s simple per a rebre donacions.\n\n  \n  \nAquesta votaci\u00f3 es tancar\u00e0 el 7 d'octubre.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[boicot](https://xifrat.pirata.cat/ideatorrent/?tags=boicot)\n[paypal](https://xifrat.pirata.cat/ideatorrent/?tags=paypal)\n[wikileaks](https://xifrat.pirata.cat/ideatorrent/?tags=wikileaks)\n\n",
-    "dia": 9,
-    "final": {
-        "any": 12,
-        "dia": 28,
-        "mes": 10
+    "end": {
+        "day": 28,
+        "month": 10,
+        "year": 12
     },
-    "hora": "19:54",
+    "hour": "19:54",
     "id": 183,
-    "mes": 9,
+    "month": 9,
     "solutions": [
         {
             "desc": "Tenim diverses despeses i poc diner, no podem permetre'ns aquesta p\u00e8rdua d'un 30-40% dels ingressos m\u00e9s temps, doncs ens estem quedant sense diner.",
@@ -42,6 +41,7 @@
         "paypal",
         "wikileaks"
     ],
-    "titol": "Idea #183: Donar-nos novament d'alta a PayPal",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/183"
+    "title": "Idea #183: Donar-nos novament d'alta a PayPal",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/183",
+    "year": 12
 }

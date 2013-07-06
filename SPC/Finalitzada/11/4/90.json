@@ -1,15 +1,14 @@
 {
-    "any": 11,
+    "day": 14,
     "desc": "Ha de celebrarse este Domingo una asamblea entre todos los interesados en\npertenecer a la lista este s\u00e1bado 16 a las 21:00 horas en Mollet del Vall\u00e9s.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:  (cap)\n\n",
-    "dia": 14,
-    "final": {
-        "any": 11,
-        "dia": 17,
-        "mes": 4
+    "end": {
+        "day": 17,
+        "month": 4,
+        "year": 11
     },
-    "hora": "07:51",
+    "hour": "07:51",
     "id": 90,
-    "mes": 4,
+    "month": 4,
     "solutions": [
         {
             "desc": "De momento el \u00fanico interesado soy yo, a falta de alguien mejor.",
@@ -22,6 +21,7 @@
     ],
     "status": "Finalitzada",
     "tags": [],
-    "titol": "Idea #90: Votaci\u00f3n cabeza de lista en Mollet del Vall\u00e8s",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/90"
+    "title": "Idea #90: Votaci\u00f3n cabeza de lista en Mollet del Vall\u00e8s",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/90",
+    "year": 11
 }

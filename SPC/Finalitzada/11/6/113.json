@@ -1,15 +1,14 @@
 {
-    "any": 11,
+    "day": 12,
     "desc": "############################################################\n\n##Aquesta votaci\u00f3 acabar\u00e0 dissabte 18 de juny de 2011 a les 20h hores ##\n\n############################################################\n\n  \nEl proper diumenge 3 de juliol, Pirates de Catalunya celebrar\u00e0 la segona\nAssemblea General d'aquest any.\n\n  \nFins ara, les haviem celebrat al local de Riereta a Barcelona, per\u00f2 \u00e9s l\u00f2gic i\ncoherent que visitem altres poblacions, i que aquestes es decideixin per\ndemocr\u00e0cia directa.\n\n  \nEls pirates de tot Catalunya que puguin aconseguir un local d'almenys 50\nmetres quadrats, amb wifi, una taula i unes cadires, poden incloure la seva\nproposta, que ser\u00e0 votada per tots els afiliats que ho vulguin.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[assemblea](https://xifrat.pirata.cat/ideatorrent/?tags=assemblea)\n[general](https://xifrat.pirata.cat/ideatorrent/?tags=general)\n[piratacat](https://xifrat.pirata.cat/ideatorrent/?tags=piratacat)\n[pirates](https://xifrat.pirata.cat/ideatorrent/?tags=pirates)\n\n",
-    "dia": 12,
-    "final": {
-        "any": 11,
-        "dia": 18,
-        "mes": 6
+    "end": {
+        "day": 18,
+        "month": 6,
+        "year": 11
     },
-    "hora": "21:07",
+    "hour": "21:07",
     "id": 113,
-    "mes": 6,
+    "month": 6,
     "solutions": [
         {
             "desc": "\u00c9s on hem celebrat les Assemblees fins ara, el local pot fer la funci\u00f3 si no tenim un altre lloc.",
@@ -51,6 +50,7 @@
         "piratacat",
         "pirates"
     ],
-    "titol": "Idea #113: Elecci\u00f3 del lloc on celebrarem la propera Assemblea General",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/113"
+    "title": "Idea #113: Elecci\u00f3 del lloc on celebrarem la propera Assemblea General",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/113",
+    "year": 11
 }

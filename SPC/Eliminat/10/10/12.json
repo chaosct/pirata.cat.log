@@ -1,10 +1,9 @@
 {
-    "any": 10,
+    "day": 9,
     "desc": "La democr\u00e0cia directa fou experimentada per primer cop a l'antiga democracia\natenesa (comen\u00e7ant el 508 aC). Aquesta experi\u00e8ncia dur\u00e0 aproximadament dos\nsegles, durant els quals el poder recai\u00e9 en una assemblea en qu\u00e8 hi havia tots\nels ciutadans barons, els c\u00e0rrecs p\u00fablics eren elegits per sorteig, i un\nrepresentant elegit per l'assemblea s'encarregava de liderar l'ex\u00e8rcit de la\nciutat (i era anomenat estratega).\n\n  \nLes restrictives condicions per ser considerat ciutad\u00e0 (nom\u00e9s els barons ho\neren), i per tant poder participar en la vida pol\u00edtica de la ciutat, aix\u00ed com\nla mida redu\u00efda de la ciutat-estat d'Atenes en aquell temps (entorn de les\n300.000 persones) minimitzaven les dificultats log\u00edstiques inherents a aquesta\nforma de govern.\n\n  \nTamb\u00e9 cal tenir en compte la hist\u00f2ria romana, en la qual els ciutadans\nrealitzaven i aprovaven les lleis, que va comen\u00e7ar entorn a 449 aC i va durar\naproximadament quatre segles, fins i tot la mort de Juli C\u00e8sar el 44 aC,\nencara que molts historiadors posen el final de la Rep\u00fablica romana l'any 43\naC, amb l'aprovaci\u00f3 d'una llei anomenada Lex Titia. Segons alguns\nhistoriadors, el fet que els ciutadans tinguessin el protagonisme de fer les\nlleis va ser un factor important que va contribuir a l'apogeu de Roma i de la\ncivilitzaci\u00f3 grecoromana.\n\n  \nDespr\u00e9s d'aquests antecedents llunyans en el temps, aquesta forma de govern ha\nestat molt poc utilitzada (alguns governs l'han implementat en part des de\nllavors, per\u00f2 no fins al nivell de l'antiga Atenes). Les democr\u00e0cies modernes\ngeneralment funcionen mitjan\u00e7ant representants elegits pels ciutadans, el que\nes coneix com democr\u00e0cia representativa.\n\n  \nL'era moderna de la democr\u00e0cia directa va comen\u00e7ar a les ciutats de Su\u00efssa al\nsegle XIII. El 1847, els su\u00efssos van afegir el refer\u00e8ndum estatutari a la seva\nconstituci\u00f3. Aviat van pensar que tenir nom\u00e9s el poder de vetar les lleis que\nprodu\u00efa el Parlament no era suficient, i aix\u00ed el 1891 van afegir la iniciativa\nd'esmena constitucional. Les batalles pol\u00edtiques su\u00efsses des de llavors han\nofert al m\u00f3n una experi\u00e8ncia important en la posada en pr\u00e0ctica d'aquest tipus\nd'iniciatives.\n\n  \nMolts moviments pol\u00edtics al m\u00f3n busquen l'evoluci\u00f3 des de l'actual sistema de\ndemocr\u00e0cia representativa, vigent en la majoria de democr\u00e0cies modernes, cap a\nalgun tipus de democr\u00e0cia directa o de democr\u00e0cia deliberativa (basada en la\npresa de decisions consensuades m\u00e9s que en la simple regla de la majoria).\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[democrcia](https://xifrat.pirata.cat/ideatorrent/?tags=democrcia)\n[directa](https://xifrat.pirata.cat/ideatorrent/?tags=directa)\n[llibertat](https://xifrat.pirata.cat/ideatorrent/?tags=llibertat)\n\n",
-    "dia": 9,
-    "hora": "18:29",
+    "hour": "18:29",
     "id": 12,
-    "mes": 10,
+    "month": 10,
     "solutions": [],
     "status": "Eliminat",
     "tags": [
@@ -12,6 +11,7 @@
         "directa",
         "llibertat"
     ],
-    "titol": "Idea #12: Sistema de proposta i votaci\u00f3 que permetr\u00e0 que tothom opini",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/12"
+    "title": "Idea #12: Sistema de proposta i votaci\u00f3 que permetr\u00e0 que tothom opini",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/12",
+    "year": 10
 }

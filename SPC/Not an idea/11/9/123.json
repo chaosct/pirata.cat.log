@@ -1,10 +1,9 @@
 {
-    "any": 11,
+    "day": 6,
     "desc": "> Informaci\u00f3 pr\u00e8via (redundant)\n\n- 3/24   \n[[http://www.3cat24.cat/noticia/1358926\n](http://www.3cat24.cat/noticia/1358926\n)](http://www.3cat24.cat/noticia/1358926 )\n\n- El Debat   \n[[http://www.eldebat.cat/cat/notices/2011/09/els_mossos_antiavalots_portaran_c\name res_de_video_a_partir_del_2012_89691.php ](http://www.eldebat.cat/cat/noti\nces/2011/09/els_mossos_antiavalots_portaran_cameres_de_video_a_partir_del_2012\n_89691.php )](http://www.eldebat.cat/cat/notices/2011/09/els_mossos_antiavalot\ns_portaran_cameres_de_video_a_partir_del_2012_89691.php )\n\n- Ara   \n[[http://www.ara.cat/societat/Puig-anuncia-antiavalots-comencaran-\ncameres_0_54774 5369.html ](http://www.ara.cat/societat/Puig-anuncia-\nantiavalots-comencaran-cameres_0_547745369.html )](http://www.ara.cat/societat\n/Puig-anuncia-antiavalots-comencaran-cameres_0_547745369.html )\n\n  \n> El meu apunt\n\nEl conseller vol disposar d'imatges que corroborin els atacs contra la\npolicia. Ara b\u00e9, enlloc diu que ning\u00fa que no sigui la policia en pugui\ndisposar. Estic d'acord que els manifestants nom\u00e9s pengen les imatges que els\ninteressen, per\u00f2 la soluci\u00f3 no \u00e9s que la policia nom\u00e9s pengi les que li\ninteressi a ella.\n\n  \nSuposant que l'Estat vol ser just, les imatges enregistrades haurien de servir\nper castigar tant els atacs contra la policia com els abusos contra els\nmanifestants.\n\n  \n> La meva proposta\n\nDemanar p\u00fablicament que, si no est\u00e0 escrit enlloc, les imatges es puguin\nconsultar obertament, i no nom\u00e9s a trav\u00e9s d'una sent\u00e8ncia d'un jutge despr\u00e9s\nd'una den\u00fancia, com possiblement ser\u00e0.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[acces_public](https://xifrat.pirata.cat/ideatorrent/?tags=acces_public)\n[antiavalots](https://xifrat.pirata.cat/ideatorrent/?tags=antiavalots)\n[cameres](https://xifrat.pirata.cat/ideatorrent/?tags=cameres)\n[mossos](https://xifrat.pirata.cat/ideatorrent/?tags=mossos)\n\n",
-    "dia": 6,
-    "hora": "22:03",
+    "hour": "22:03",
     "id": 123,
-    "mes": 9,
+    "month": 9,
     "solutions": [
         {
             "desc": "Creaci\u00f3 de hashtags, article de blog, obrir debats.",
@@ -30,6 +29,7 @@
         "cameres",
         "mossos"
     ],
-    "titol": "Idea #123: Acc\u00e9s obert als enregistraments",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/123"
+    "title": "Idea #123: Acc\u00e9s obert als enregistraments",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/123",
+    "year": 11
 }

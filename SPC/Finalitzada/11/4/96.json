@@ -1,15 +1,14 @@
 {
-    "any": 11,
+    "day": 29,
     "desc": "Aquesta votaci\u00f3 acabar\u00e0 diumenge 1 de maig a les 23:55h per a poder comen\u00e7ar a\neditar materials amb l'esl\u00f2gan escollit.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:  (cap)\n\n",
-    "dia": 29,
-    "final": {
-        "any": 11,
-        "dia": 2,
-        "mes": 5
+    "end": {
+        "day": 2,
+        "month": 5,
+        "year": 11
     },
-    "hora": "01:44",
+    "hour": "01:44",
     "id": 96,
-    "mes": 4,
+    "month": 4,
     "solutions": [
         {
             "desc": "-",
@@ -206,6 +205,7 @@
     ],
     "status": "Finalitzada",
     "tags": [],
-    "titol": "Idea #96: Votaci\u00f3 de l'esl\u00f2gan general per a les Municipals 2011",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/96"
+    "title": "Idea #96: Votaci\u00f3 de l'esl\u00f2gan general per a les Municipals 2011",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/96",
+    "year": 11
 }

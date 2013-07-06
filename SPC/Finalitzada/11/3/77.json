@@ -1,15 +1,14 @@
 {
-    "any": 11,
+    "day": 25,
     "desc": "###########################################################\n\n##### ATENCI\u00d3: aquesta votaci\u00f3 finalitzar\u00e0 diumenge 03/04/2011 a les 19.00h\n########\n\n###########################################################\n\n  \nAquestes properes eleccions municipals, afiliats d'arreu de Catalunya hem anat\nfent contacte amb altres partits pol\u00edtics, on no ens hem pogut presentar sols;\nper a donar-los suport, ajudar en els seus programes participatius, crear\ncoalicions, formar part de les seves llistes de manera independent per\u00f2 amb\nles sigles PIRATA.CAT, etc. en les properes eleccions Municipals de 2011.\n\n  \nDetallem els seg\u00fcents casos per a que l'afiliaci\u00f3 de Pirates de Catalunya els\npuguin votar.\n\n  \nPer a qualsevol informaci\u00f3 addicional podeu contactar a partit@pirata.cat\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[2011](https://xifrat.pirata.cat/ideatorrent/?tags=2011)\n[candidatures](https://xifrat.pirata.cat/ideatorrent/?tags=candidatures)\n[coalicions](https://xifrat.pirata.cat/ideatorrent/?tags=coalicions)\n[municipals](https://xifrat.pirata.cat/ideatorrent/?tags=municipals)\n[partit](https://xifrat.pirata.cat/ideatorrent/?tags=partit)\n[pirata](https://xifrat.pirata.cat/ideatorrent/?tags=pirata)\n\n",
-    "dia": 25,
-    "final": {
-        "any": 11,
-        "dia": 3,
-        "mes": 4
+    "end": {
+        "day": 3,
+        "month": 4,
+        "year": 11
     },
-    "hora": "19:54",
+    "hour": "19:54",
     "id": 77,
-    "mes": 3,
+    "month": 3,
     "solutions": [
         {
             "desc": "La CUP de Tarragona ha acceptat i defensa totalment el nostre ideari.La CUP de Tarragona \u00e9s un projecte municipalista i aut\u00f2nom que creu en el dret a decidir.Ha elaborat el programa de manera participativa i oberta tant a persones f\u00edsiques com jur\u00eddiques.Defensa la democr\u00e0cia participativa i la transpar\u00e8ncia.Pirates de Tarragona participem en l'elaboraci\u00f3 del programa en l'\u00e0mbit de Noves Tecnologies amb fins socials.Ens presentarem, a les llistes de la CUP, com a independents per\u00f2 amb les sigles PIRATA.CAT al costat.",
@@ -69,6 +68,7 @@
         "partit",
         "pirata"
     ],
-    "titol": "Idea #77: Suport-alian\u00e7es-coalicions amb altres partits",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/77"
+    "title": "Idea #77: Suport-alian\u00e7es-coalicions amb altres partits",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/77",
+    "year": 11
 }

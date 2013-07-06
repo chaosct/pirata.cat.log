@@ -1,15 +1,14 @@
 {
-    "any": 13,
+    "day": 21,
     "desc": "P\u00e0gina oficial: [[http://www.letmevote.eu/ ](http://www.letmevote.eu/\n)](http://www.letmevote.eu/ )\n\n  \n### Votaci\u00f3 oberta fins el 15 de Juny de 2013. ###\n\n  \nLet Me Vote \u00e9s una Iniciativa Ciutadana Europea per garantir el dret de vot\nals ciutadans europeus fora del seu pa\u00eds d'origen. Actualment nom\u00e9s poden\nvotar en eleccions locals i europees. Es pret\u00e9n ampliar-ho a totes les\neleccions: auton\u00f2miques i nacionals.\n\n  \nNom\u00e9s a Catalunya estem parlant d'unes cent mil persones en r\u00e8gim comunitari\n[0] (tot i que \u00e9s m\u00e9s ampli que la UE), per\u00f2 a Espanya, representa m\u00e9s de dos\nmilions de persones de la UE, que votaran a les properes europees.\n\n  \nDonar suport a aquesta ECI \u00e9s defensar la participaci\u00f3 ciutadana, defensant el\ndret de votar all\u00e0 on vius, tenint en compte la lliure circulaci\u00f3 de persones\nen la UE i l'article 13 de la Declaraci\u00f3 Universal dels Drets Humans [1].\n\n  \nNota: una ECI \u00e9s l'equivalent europeu d'una ILP. A difer\u00e8ncia de les ILPs\nespanyoles, les ECIs poden ser signades en l\u00ednia nom\u00e9s indicant les teves\ndades en formularis segurs allotjats a servidors de l'EuroParlament.\n\n  \n[0] [[http://extranjeros.empleo.gob.es/es/Estadisticas/operaciones/con-\ncertificado/20 1209/Principales_resultados_30092012.pdf\n](http://extranjeros.empleo.gob.es/es/Estadisticas/operaciones/con-\ncertificado/201209/Principales_resultados_30092012.pdf\n)](http://extranjeros.empleo.gob.es/es/Estadisticas/operaciones/con-\ncertificado/201209/Principales_resultados_30092012.pdf )\n\n[1] [[http://www.un.org/es/documents/udhr/#tabs-13](http://www.un.org/es/docum\nents/udhr/#tabs-13)](http://www.un.org/es/documents/udhr/#tabs-13)\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[eci](https://xifrat.pirata.cat/ideatorrent/?tags=eci)\n[europa](https://xifrat.pirata.cat/ideatorrent/?tags=europa)\n[suport](https://xifrat.pirata.cat/ideatorrent/?tags=suport)\n\n",
-    "dia": 21,
-    "final": {
-        "any": 13,
-        "dia": 15,
-        "mes": 6
+    "end": {
+        "day": 15,
+        "month": 6,
+        "year": 13
     },
-    "hora": "20:40",
+    "hour": "20:40",
     "id": 234,
-    "mes": 4,
+    "month": 4,
     "solutions": [
         {
             "desc": "Donar suport oficial i promoure ECI Let me vote, publicant al blog, recollir firmes i qualsevol altra acci\u00f3 que es pensi.",
@@ -26,6 +25,7 @@
         "europa",
         "suport"
     ],
-    "titol": "Idea #234: Donar suport oficial i promoure ECI Let me vote",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/234"
+    "title": "Idea #234: Donar suport oficial i promoure ECI Let me vote",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/234",
+    "year": 13
 }

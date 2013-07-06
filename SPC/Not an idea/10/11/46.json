@@ -1,10 +1,9 @@
 {
-    "any": 10,
+    "day": 6,
     "desc": "Per assegurar que les propostes enviades no contenen faltes d'ortografia\nproposo l'exist\u00e8ncia de personal que faci de filtre corrector ortogr\u00e0fic i/o\ngram\u00e0tic de les propostes abans no siguin publicades.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[correcci](https://xifrat.pirata.cat/ideatorrent/?tags=correcci)\n[descripci](https://xifrat.pirata.cat/ideatorrent/?tags=descripci)\n[frases](https://xifrat.pirata.cat/ideatorrent/?tags=frases)\n[gramatica](https://xifrat.pirata.cat/ideatorrent/?tags=gramatica)\n[ortografia](https://xifrat.pirata.cat/ideatorrent/?tags=ortografia)\n[propostes](https://xifrat.pirata.cat/ideatorrent/?tags=propostes)\n[sintaxis](https://xifrat.pirata.cat/ideatorrent/?tags=sintaxis)\n\n",
-    "dia": 6,
-    "hora": "09:00",
+    "hour": "09:00",
     "id": 46,
-    "mes": 11,
+    "month": 11,
     "solutions": [
         {
             "desc": "Per tal d'assegurar que les propostes enviades no contenen faltes d'ortografia proposo l'exist\u00e8ncia de personal que faci de filtre corrector ortogr\u00e0fic i/o gram\u00e0tic a les propostes enviades abans no siguin publicades.",
@@ -25,6 +24,7 @@
         "propostes",
         "sintaxis"
     ],
-    "titol": "Idea #46: Corregir les posibles faltes d'ortografia de les propostes enviades",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/46"
+    "title": "Idea #46: Corregir les posibles faltes d'ortografia de les propostes enviades",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/46",
+    "year": 10
 }

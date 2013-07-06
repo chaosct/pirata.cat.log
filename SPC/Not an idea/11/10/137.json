@@ -1,10 +1,9 @@
 {
-    "any": 11,
+    "day": 21,
     "desc": "Tal com l'usuari slackfree va proposar en un comentari durant les votacions\ndels candidats i per extensi\u00f3 del seu comentari proposo que en qualsevol\nvotaci\u00f3 l'usuari no vegi els vots anteriors als seus.\n\n  \nAquest \u00e9s el misstage que ell va postejar:\n\n  \n\"Lamento dir-vos que em sembla un greu error que els resultats parcials de les\nvotacions hagin de ser visibles en tot moment.\n\n  \nEn psicologia utilitzem el concepte tend\u00e8ncia a la conformitat (Asch, 1951).\nUs sorprendrieu de veure fins a quin extrem en experiments cient\u00edfics les\npersones adapten les seves respostes per no diferir en exc\u00e9s del que han dit\nla resta abans. Fins i tot quan la resta estan d'acord amb l'experimentador i\nafirmen una cosa que \u00e9s objectivament falsa!\"\n\n  \nEl fet \u00e9s, que cada usuari est\u00e0 condicionat al qu\u00e8 s'ha votat anteriorment, i\naix\u00ed, els vots anteriors influeixen en els vots posteriors. Doncs, si tots\nvotem a cegues tots votarem sota les mateixes condicions.\n\n  \nPer tant una possible soluci\u00f3 seria veure els resultats un cop s'ha votat (que\nresoldria parcialment el problema, perqu\u00e8 un pirata que ja hagu\u00e9s votat podria\ncomunicar a altres els resultats parcials).\n\n  \nUna altre soluci\u00f3 seria nom\u00e9s publicar els resultats de les votacions un cop\naquestes estiguessin tancades.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:  (cap)\n\n",
-    "dia": 21,
-    "hora": "22:36",
+    "hour": "22:36",
     "id": 137,
-    "mes": 10,
+    "month": 10,
     "solutions": [
         {
             "desc": "Publicar els resultats de les votacions un cop aquestes estiguin tancades, per tal de no influir en els posteriors votants segons les idees dels que ja han votat.",
@@ -17,6 +16,7 @@
     ],
     "status": "Not an idea",
     "tags": [],
-    "titol": "Idea #137: Amagar els resultats parcials de les votacions",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/137"
+    "title": "Idea #137: Amagar els resultats parcials de les votacions",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/137",
+    "year": 11
 }

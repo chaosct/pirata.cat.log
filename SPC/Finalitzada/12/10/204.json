@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 23,
     "desc": "Se est\u00e1 discutiendo en el Congreso de los Diputados una nueva ley que, a la\npr\u00e1ctica, limitar\u00e1 muy seriamente el acceso a la justicia por parte de los\nciudadanos. Ten\u00e9is m\u00e1s informaci\u00f3n aqu\u00ed:\n[[http://pirata.cat/bloc/?p=3427&cpage;=1#comment-4533\n](http://pirata.cat/bloc/?p=3427&cpage=1#comment-4533\n)](http://pirata.cat/bloc/?p=3427&cpage=1#comment-4533 )\n\n  \nGrupos cercanos al mundo jur\u00eddico ha convocado manifestaciones en todo el\nestado para el pr\u00f3ximo 31 de octubre.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[impostos](https://xifrat.pirata.cat/ideatorrent/?tags=impostos)\n[indirectes](https://xifrat.pirata.cat/ideatorrent/?tags=indirectes)\n[taxa](https://xifrat.pirata.cat/ideatorrent/?tags=taxa)\n\n",
-    "dia": 23,
-    "final": {
-        "any": 12,
-        "dia": 30,
-        "mes": 10
+    "end": {
+        "day": 30,
+        "month": 10,
+        "year": 12
     },
-    "hora": "16:44",
+    "hour": "16:44",
     "id": 204,
-    "mes": 10,
+    "month": 10,
     "solutions": [
         {
             "desc": "El acceso a la justicia es un derecho constitucional que est\u00e1, incluso, por encima del derecho a la atenci\u00f3n sanitaria. Esta nueva ley va directamente en contra del ideario pirata.",
@@ -26,6 +25,7 @@
         "indirectes",
         "taxa"
     ],
-    "titol": "Idea #204: Apoyar la manifestaci\u00f3n del d\u00eda 31 de octubre contra las nuevas tasas judicial",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/204"
+    "title": "Idea #204: Apoyar la manifestaci\u00f3n del d\u00eda 31 de octubre contra las nuevas tasas judicial",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/204",
+    "year": 12
 }

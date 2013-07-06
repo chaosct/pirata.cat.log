@@ -1,10 +1,9 @@
 {
-    "any": 11,
+    "day": 27,
     "desc": "Moderador: he mogut aquesta proposta com a soluci\u00f3.\n\nDisculpa, s\u00f3c novell!.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:  (cap)\n\n",
-    "dia": 27,
-    "hora": "23:13",
+    "hour": "23:13",
     "id": 80,
-    "mes": 3,
+    "month": 3,
     "solutions": [
         {
             "desc": "",
@@ -17,6 +16,7 @@
     ],
     "status": "Not an idea",
     "tags": [],
-    "titol": "Idea #80: Llista Municipal a Alcover",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/80"
+    "title": "Idea #80: Llista Municipal a Alcover",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/80",
+    "year": 11
 }

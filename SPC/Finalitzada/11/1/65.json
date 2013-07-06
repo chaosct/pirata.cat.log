@@ -1,15 +1,14 @@
 {
-    "any": 11,
+    "day": 2,
     "desc": "Propostes d'organitzaci\u00f3 dels Pirates de Catalunya\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[catalunya](https://xifrat.pirata.cat/ideatorrent/?tags=catalunya)\n[organigrama](https://xifrat.pirata.cat/ideatorrent/?tags=organigrama)\n[organitzaci](https://xifrat.pirata.cat/ideatorrent/?tags=organitzaci)\n[piratacat](https://xifrat.pirata.cat/ideatorrent/?tags=piratacat)\n[pirates](https://xifrat.pirata.cat/ideatorrent/?tags=pirates)\n\n",
-    "dia": 2,
-    "final": {
-        "any": 11,
-        "dia": 3,
-        "mes": 4
+    "end": {
+        "day": 3,
+        "month": 4,
+        "year": 11
     },
-    "hora": "20:12",
+    "hour": "20:12",
     "id": 65,
-    "mes": 1,
+    "month": 1,
     "solutions": [
         {
             "desc": "Dels membres de la Junta dels Pirates de Catalunya:",
@@ -28,6 +27,7 @@
         "piratacat",
         "pirates"
     ],
-    "titol": "Idea #65: Proposta d'estructura Organitzativa",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/65"
+    "title": "Idea #65: Proposta d'estructura Organitzativa",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/65",
+    "year": 11
 }

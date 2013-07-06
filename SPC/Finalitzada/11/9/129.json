@@ -1,15 +1,14 @@
 {
-    "any": 11,
+    "day": 28,
     "desc": "Se m'ha acudit una altra possible font de finan\u00e7ament: La Loteria de Nadal.\n\n  \nComprem un n\u00famero (s'hauria de fer ja!) i fem participacions pirates de 5\u20ac on\nse'n juguen 3\u20ac i les comencem a vendre compulsivament entre afiliats i\nsimpatitzants.\n\n  \nPotser fins i tot podr\u00edem idear un sistema de venda de participacions online,\nja que les paperetes no s\u00f3n el n\u00famero, on qued\u00e9s reflectit: dades del venedor,\nquantitat comprada, quantitat jugada. Amb botonet de pagament (a vere si ens\ndecidim ja per alguna opci\u00f3) i amb extensi\u00f3 autom\u00e0tica de certificat de\ncompra, drets i lloc de cobrament en cas de premi (el millor sempre \u00e9s\ndipositar el n\u00famero en una entitat banc\u00e0ria: podr\u00edem fer-ho en alguna entitat\ntipus Triodos, etc).\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[Finanament](https://xifrat.pirata.cat/ideatorrent/?tags=Finanament)\n[Loteria](https://xifrat.pirata.cat/ideatorrent/?tags=Loteria)\n[Pirata](https://xifrat.pirata.cat/ideatorrent/?tags=Pirata)\n[Pirates](https://xifrat.pirata.cat/ideatorrent/?tags=Pirates)\n\n",
-    "dia": 28,
-    "final": {
-        "any": 11,
-        "dia": 27,
-        "mes": 10
+    "end": {
+        "day": 27,
+        "month": 10,
+        "year": 11
     },
-    "hora": "16:40",
+    "hour": "16:40",
     "id": 129,
-    "mes": 9,
+    "month": 9,
     "solutions": [
         {
             "desc": "Potser fins i tot podr\u00edem idear un sistema de venda de participacions online, ja que les paperetes no s\u00f3n el n\u00famero, on qued\u00e9s reflectit: dades del venedor, quantitat comprada, quantitat jugada. Amb botonet de pagament (a vere si ens decidim ja per alguna opci\u00f3) i amb extensi\u00f3 autom\u00e0tica de certificat de compra, drets i lloc de cobrament en cas de premi (el millor sempre \u00e9s dipositar el n\u00famero en una entitat banc\u00e0ria: podr\u00edem fer-ho en alguna entitat tipus Triodos, etc).",
@@ -27,6 +26,7 @@
         "Pirata",
         "Pirates"
     ],
-    "titol": "Idea #129: Obtenir finan\u00e7ament venent Loteria de Nadal (opci\u00f3 online)",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/129"
+    "title": "Idea #129: Obtenir finan\u00e7ament venent Loteria de Nadal (opci\u00f3 online)",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/129",
+    "year": 11
 }

@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 30,
     "desc": "### AQUESTA VOTACI\u00d3 ES TANCAR\u00c0 EL 10 DE JUNY DE 2012 ###\n\n  \nS'est\u00e0 creant una organitzaci\u00f3 global per reaccionar de forma r\u00e0pida quan hi\nhagi amenaces contra la llibertat a Internet:\n\n  \n[[http://internetdefenseleague.org/](http://internetdefenseleague.org/)](http:\n//internetdefenseleague.org/)\n\nEtiquetes: en podeu posar diverses separant-les amb comes:  (cap)\n\n",
-    "dia": 30,
-    "final": {
-        "any": 12,
-        "dia": 11,
-        "mes": 6
+    "end": {
+        "day": 11,
+        "month": 6,
+        "year": 12
     },
-    "hora": "04:06",
+    "hour": "04:06",
     "id": 175,
-    "mes": 5,
+    "month": 5,
     "solutions": [
         {
             "desc": "Incloure la nostra web al sistema, donar-hi suport oficialment i executar les accions proposades globalment (sempre que respectin els nostres principis i no interfereixin de forma negativa amb altres activitats del partit, a criteri de la Junta)",
@@ -22,6 +21,7 @@
     ],
     "status": "Finalitzada",
     "tags": [],
-    "titol": "Idea #175: Adherir-nos a \"The Internet Defense Leage\"",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/175"
+    "title": "Idea #175: Adherir-nos a \"The Internet Defense Leage\"",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/175",
+    "year": 12
 }

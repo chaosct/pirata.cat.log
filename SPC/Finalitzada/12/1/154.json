@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 11,
     "desc": "Proposo que el partit pirata exigeixi el tancament de tots els Centres\nd'Internament d'Estrangers. Els CIEs s\u00f3n presons encobertes que et priven de\nllibertat sense haver com\u00e9s cap delicte simplement pel fet de ser migrant i no\ntindre papers. Hem de fomentar que el partit Pirata de Catalunya sigui una\nformaci\u00f3 pol\u00edtica que defensi els Drets Humans i la lluita contra el racisme i\nla xen\u00f2fobia.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[cie](https://xifrat.pirata.cat/ideatorrent/?tags=cie)\n[CIE](https://xifrat.pirata.cat/ideatorrent/?tags=CIE)\n[cultures](https://xifrat.pirata.cat/ideatorrent/?tags=cultures)\n[immigracio](https://xifrat.pirata.cat/ideatorrent/?tags=immigracio)\n[xenofobia](https://xifrat.pirata.cat/ideatorrent/?tags=xenofobia)\n\n",
-    "dia": 11,
-    "final": {
-        "any": 12,
-        "dia": 4,
-        "mes": 9
+    "end": {
+        "day": 4,
+        "month": 9,
+        "year": 12
     },
-    "hora": "17:48",
+    "hour": "17:48",
     "id": 154,
-    "mes": 1,
+    "month": 1,
     "solutions": [
         {
             "desc": "Proposo que el partit pirata exigeixi el tancament de tots els Centres d'Internament d'Estrangers. Els CIEs s\u00f3n presons encobertes que et priven de llibertat sense haver com\u00e9s cap delicte simplement pel fet de ser migrant i no tindre papers. Hem de fomentar que el partit Pirata de Catalunya sigui una formaci\u00f3 pol\u00edtica que defensi els Drets Humans i la lluita contra el racisme i la xen\u00f2fobia.",
@@ -36,6 +35,7 @@
         "immigracio",
         "xenofobia"
     ],
-    "titol": "Idea #154: Exigir els tancament de tots els CIEs",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/154"
+    "title": "Idea #154: Exigir els tancament de tots els CIEs",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/154",
+    "year": 12
 }

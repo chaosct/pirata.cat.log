@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 22,
     "desc": "Des de hacktivistas.net s'ha estat desenvolupant el lloc web seg\u00fcent:\n\n[[http://www.wertdeenlaces.net/ ](http://www.wertdeenlaces.net/\n)](http://www.wertdeenlaces.net/ )\n\n  \nFent un copy&paste; del que apareix a primera plana, aquest lloc web\nimplementa l'acci\u00f3 seg\u00fcent:\n\n  \n\"Se ha elegido una obra con Copyright\u00a9 de un socio de la SGAE. Animamos a\ntodas a que participen en esta acci\u00f3n: consiste en enlazar o usar su obra sin\nsu permiso y acceder a ser denunciadas por el creador ante la comisi\u00f3n del\nministerio de cultura encargada sin proceso judicial de tramitar las denuncias\nde la llamada Ley Sinde-Wert. A partir del 1 de marzo (d\u00eda en el que entra en\nvigor la aplicaci\u00f3n de dicha ley) el autor, seguramente molesto en alg\u00fan\nmomento, nos presentar\u00e1 una denuncia a todas las p\u00e1ginas que hemos enlazado su\nobra : )\"\n\n  \nVeig que el partidopirata.es s'ha adherit tamb\u00e9 a la iniciativa.\n\n  \nCreieu que pirata.cat s'hauria d'adherir a la iniciativa ?\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[hacktivistas](https://xifrat.pirata.cat/ideatorrent/?tags=hacktivistas)\n[Llei](https://xifrat.pirata.cat/ideatorrent/?tags=Llei)\n[partidopirataes](https://xifrat.pirata.cat/ideatorrent/?tags=partidopirataes)\n[Sinde-Wert](https://xifrat.pirata.cat/ideatorrent/?tags=Sinde-Wert)\n\n",
-    "dia": 22,
-    "final": {
-        "any": 12,
-        "dia": 1,
-        "mes": 3
+    "end": {
+        "day": 1,
+        "month": 3,
+        "year": 12
     },
-    "hora": "18:00",
+    "hour": "18:00",
     "id": 161,
-    "mes": 2,
+    "month": 2,
     "solutions": [
         {
             "desc": "Afegim una nova entrada al bloc pirata adherint-nos a la iniciativa.",
@@ -43,6 +42,7 @@
         "partidopirataes",
         "Sinde-Wert"
     ],
-    "titol": "Idea #161: Proposta d'adhesi\u00f3 al llistat de llocs web desobedients amb la Llei Sinde-Wert",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/161"
+    "title": "Idea #161: Proposta d'adhesi\u00f3 al llistat de llocs web desobedients amb la Llei Sinde-Wert",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/161",
+    "year": 12
 }

@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 31,
     "desc": "Amb la promoci\u00f3 de CCOO, CONFAV, l'Observatori DESC, la Plataforma d'Afectats\nper la Hipoteca, la Taula d'entitats del Tercer Sector Social de Catalunya i\nUGT s'est\u00e0 portant a terme una campanaya de recollida de signatures per a\ntramitar una Iniciativa Legislativa Popular a favor de la daci\u00f3 en pagament i\nel lloguer social com a soluci\u00f3 a les execucions hipotec\u00e0ries.\n\n  \nEn aquest enlla\u00e7 podeu trovar el texte relatiu a la ILP:\n\n  \n[[http://www.quenotehipotequenlavida.org/?page_id=63](http://www.quenotehipote\nquenlavida.org/?page_id=63)](http://www.quenotehipotequenlavida.org/?page_id=6\n3)\n\n  \n  \nEn aquest context, crec que a Pirates podr\u00edem colaborar en aquesta iniciativa,\nja que crec que est\u00e1 alineada amb els fonaments del nostre ideari:\n\n  \n1. El fet de presentar una Iniciativa Legislativa Popular relativa a un tema\ntant sensible com les execucions hipotec\u00e0ries va en l\u00ednia amb el principi de\nparticipaci\u00f3 activa i democr\u00e0tica que defensem en el nostre ideari.\n\n2. El dret a l\u2019habitatge digne es un dret reconegut a l\u2019article 25.1 de la\nDeclaraci\u00f3 Universal de Drets Humans:\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[daci](https://xifrat.pirata.cat/ideatorrent/?tags=daci)\n[hipoteca](https://xifrat.pirata.cat/ideatorrent/?tags=hipoteca)\n\n",
-    "dia": 31,
-    "final": {
-        "any": 12,
-        "dia": 27,
-        "mes": 9
+    "end": {
+        "day": 27,
+        "month": 9,
+        "year": 12
     },
-    "hora": "14:16",
+    "hour": "14:16",
     "id": 177,
-    "mes": 5,
+    "month": 5,
     "solutions": [
         {
             "desc": "Informar a tots els afiliats de la iniciativa per tal que puguin colaborar a t\u00edtol personal, tant en la difussi\u00f3 dels mitjans de signatura electr\u00f3nica com a la recollida de signatures en paper.",
@@ -33,6 +32,7 @@
         "daci",
         "hipoteca"
     ],
-    "titol": "Idea #177: Donar suport a la ILP de la Daci\u00f3 en Pagament",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/177"
+    "title": "Idea #177: Donar suport a la ILP de la Daci\u00f3 en Pagament",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/177",
+    "year": 12
 }

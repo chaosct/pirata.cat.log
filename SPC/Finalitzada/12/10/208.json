@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 29,
     "desc": "S'ha plantejat la possibilitat comprar preservatius (i lubricants), amb un\ndisseny frontal personalitzaci\u00f3 (logo+text) per repartir-los durant la\ncampanya.\n\n  \nHem trobat un distribu\u00efdor i tenim la possibilitat d'aprofitar per fer una\ncomanda ara.\n\n  \nSi en sobren es podran aprofitar pel Gay Parade.\n\n  \n###################################\n\nAquesta votaci\u00f3 finalitzar\u00e1 el divendres 2 a les 12:00h\n\n###################################\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[campanya](https://xifrat.pirata.cat/ideatorrent/?tags=campanya)\n[compres](https://xifrat.pirata.cat/ideatorrent/?tags=compres)\n\n",
-    "dia": 29,
-    "final": {
-        "any": 12,
-        "dia": 8,
-        "mes": 11
+    "end": {
+        "day": 8,
+        "month": 11,
+        "year": 12
     },
-    "hora": "22:53",
+    "hour": "22:53",
     "id": 208,
-    "mes": 10,
+    "month": 10,
     "solutions": [
         {
             "desc": "Model Cl\u00e0ssic 400\u20ac + 10% IVA (440\u20ac)0,40\u20ac/unitat 1 tinta + color de fonsTermini: 7-10 dies",
@@ -57,6 +56,7 @@
         "campanya",
         "compres"
     ],
-    "titol": "Idea #208: Compres Campanya 25N - [5]: Preservatius",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/208"
+    "title": "Idea #208: Compres Campanya 25N - [5]: Preservatius",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/208",
+    "year": 12
 }

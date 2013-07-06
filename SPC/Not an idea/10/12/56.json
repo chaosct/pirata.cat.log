@@ -1,10 +1,9 @@
 {
-    "any": 10,
+    "day": 4,
     "desc": "Hi ha un aspecte, per a mi important, que no s\u00e9 si est\u00e0 definit per part de\nPirates. Jo s\u00f3c favorable a l'establiment d'un Estat Catal\u00e0, independent de\nl'estat espanyol i membre de ple dret de la Uni\u00f3 Europea.\n\nNo cal explicar les mancances a que ens condueix ser gobernats des del centre\nde la pen\u00ednsula.\n\nMai no ens reconeixeran la nostra identitat ni els nostres drets com a naci\u00f3.\n\nTot el programa de Pirates m'interessa per\u00f2 hi trobo a faltar aquesta\naspiraci\u00f3.\n\nCatalunya independent!\n\nsalut\n\nmoe\n\nEtiquetes: en podeu posar diverses separant-les amb comes:  (cap)\n\n",
-    "dia": 4,
-    "hora": "20:21",
+    "hour": "20:21",
     "id": 56,
-    "mes": 12,
+    "month": 12,
     "solutions": [
         {
             "desc": "\u00c9s possible assumir aquesta postura com un tret d'identitat?",
@@ -17,6 +16,7 @@
     ],
     "status": "Not an idea",
     "tags": [],
-    "titol": "Idea #56: Estat catal\u00e0",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/56"
+    "title": "Idea #56: Estat catal\u00e0",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/56",
+    "year": 10
 }

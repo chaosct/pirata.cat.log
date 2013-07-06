@@ -1,15 +1,14 @@
 {
-    "any": 11,
+    "day": 16,
     "desc": "==Per permetre una major participaci\u00f3 dels afiliats, deixem oberta la votaci\u00f3\nfins a dimarts 26 d'abril, a les 20h==\n\n  \nHem de decidir quin \u00e9s el programa electoral b\u00e0sic que portarem als municipis\non ens presentem. L'opci\u00f3 que surti escollida, podr\u00e0 ser adaptada -per\nconsens- a cada localitat respectant sempre l'esperit de l'original, l'Ideari\nPirata i la Declaraci\u00f3 Universal dels Drets Humans.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[Locals](https://xifrat.pirata.cat/ideatorrent/?tags=Locals)\n[Marc](https://xifrat.pirata.cat/ideatorrent/?tags=Marc)\n[Municipals](https://xifrat.pirata.cat/ideatorrent/?tags=Municipals)\n[Programa](https://xifrat.pirata.cat/ideatorrent/?tags=Programa)\n\n",
-    "dia": 16,
-    "final": {
-        "any": 11,
-        "dia": 26,
-        "mes": 4
+    "end": {
+        "day": 26,
+        "month": 4,
+        "year": 11
     },
-    "hora": "12:07",
+    "hour": "12:07",
     "id": 91,
-    "mes": 4,
+    "month": 4,
     "solutions": [
         {
             "desc": "Aquesta versi\u00f3 s'ha elaborat a les reunions dels diumenges, prenent com a exemple el de les auton\u00f2miques i adaptant-lo a les possibilitats d'un ajuntament. https://xifrat.pirata.cat/commons/document/programa-municipals-sense-esmenes",
@@ -43,6 +42,7 @@
         "Municipals",
         "Programa"
     ],
-    "titol": "Idea #91: Votaci\u00f3 programa electoral marc per a les eleccions locals del 22M",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/91"
+    "title": "Idea #91: Votaci\u00f3 programa electoral marc per a les eleccions locals del 22M",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/91",
+    "year": 11
 }

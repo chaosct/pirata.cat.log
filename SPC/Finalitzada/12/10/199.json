@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 10,
     "desc": "\u00c9s realment desagradable veure vots negatius en alguns dels candidats per cap\nde llista. Si tots som companys de partit i treballem en la mateixa direcci\u00f3,\nqu\u00e8 justificaci\u00f3 t\u00e9 un vot negatiu?\n\n  \nEn unes eleccions s'ha de votar exclusivament pel candidat de la teva elecci\u00f3\n(o m\u00e9s, si \u00e9s possible), per\u00f2 no negativament pels que no tries.\n\nProposo que, exclusivament per les eleccions a candidats del partit, es\npermeti exclusivament votar a favor (fletxa verda), en blanc (quadrat groc), o\nno votar, per\u00f2 que no sigui possible votar en contra (fletxa vermella).\n\n  \nSi no \u00e9s possible per limitacions del software, que els vots negatius no es\ntinguin en compte a la finalitzaci\u00f3 de l'elecci\u00f3.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[cap](https://xifrat.pirata.cat/ideatorrent/?tags=cap)\n[eleccions](https://xifrat.pirata.cat/ideatorrent/?tags=eleccions)\n[llistes](https://xifrat.pirata.cat/ideatorrent/?tags=llistes)\n\n",
-    "dia": 10,
-    "final": {
-        "any": 12,
-        "dia": 8,
-        "mes": 11
+    "end": {
+        "day": 8,
+        "month": 11,
+        "year": 12
     },
-    "hora": "16:11",
+    "hour": "16:11",
     "id": 199,
-    "mes": 10,
+    "month": 10,
     "solutions": [
         {
             "desc": "Proposo que, exclusivament per les eleccions a candidats del partit, es permeti exclusivament votar a favor (fletxa verda), en blanc (quadrat groc), o no votar, per\u00f2 que no sigui possible votar en contra (fletxa vermella).Si no \u00e9s possible per limitacions del software, que els vots negatius no es tinguin en compte a la finalitzaci\u00f3 de l'elecci\u00f3.",
@@ -26,6 +25,7 @@
         "eleccions",
         "llistes"
     ],
-    "titol": "Idea #199: No tenir en compte els vots negatius per a l'elecci\u00f3 dels caps de llista",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/199"
+    "title": "Idea #199: No tenir en compte els vots negatius per a l'elecci\u00f3 dels caps de llista",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/199",
+    "year": 12
 }

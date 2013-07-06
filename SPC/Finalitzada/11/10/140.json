@@ -1,15 +1,14 @@
 {
-    "any": 11,
+    "day": 26,
     "desc": "###Aquesta votaci\u00f3 finalitzar\u00e0 el 30 d'octubre a les 20.00h###\n\nEtiquetes: en podeu posar diverses separant-les amb comes:  (cap)\n\n",
-    "dia": 26,
-    "final": {
-        "any": 11,
-        "dia": 30,
-        "mes": 10
+    "end": {
+        "day": 30,
+        "month": 10,
+        "year": 11
     },
-    "hora": "16:52",
+    "hour": "16:52",
     "id": 140,
-    "mes": 10,
+    "month": 10,
     "solutions": [
         {
             "desc": "-",
@@ -382,6 +381,7 @@
     ],
     "status": "Finalitzada",
     "tags": [],
-    "titol": "Idea #140: Votaci\u00f3 esl\u00f2gan principal Generals 2011",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/140"
+    "title": "Idea #140: Votaci\u00f3 esl\u00f2gan principal Generals 2011",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/140",
+    "year": 11
 }

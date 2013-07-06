@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 29,
     "desc": "A Pirata.cat, la participaci\u00f3 de totes les persones \u00e9s un eix fonamental. Tant\nens agrada la participaci\u00f3, que no solem demanar la afiliaci\u00f3 de cap persona\nper a permetre la seva participaci\u00f3 a les nostres eines de treball i debat.\n\nTot i aixi, per poder treballar adequadament, cal evitar el soroll innecesari\nen aquestes eines. Per a aix\u00f2 cal definir un mecanisme, adequat i\nproporcionat, que permeti tallar el soroll provocat a les nostres eines de\nparticipaci\u00f3 per persones no afiliades.\n\nPer als afiliats, els mecanismes ja queden definit als estatuts de pirata.cat\n\n  \nSOLS PER A PERSONES NO-AFILIADES\n\nEtiquetes: en podeu posar diverses separant-les amb comes:  (cap)\n\n",
-    "dia": 29,
-    "final": {
-        "any": 12,
-        "dia": 4,
-        "mes": 9
+    "end": {
+        "day": 4,
+        "month": 9,
+        "year": 12
     },
-    "hora": "15:52",
+    "hour": "15:52",
     "id": 157,
-    "mes": 1,
+    "month": 1,
     "solutions": [
         {
             "desc": "Quan 10 o m\u00e9s persones afiliades ho sol\u00b7licitin, la Junta bloquejar\u00e0 l'acc\u00e9s a totes les eines de treball i participaci\u00f3, a la persona NO-AFILIADA sol\u00b7licitada.",
@@ -70,6 +69,7 @@
     ],
     "status": "Finalitzada",
     "tags": [],
-    "titol": "Idea #157: Evitar \"sorolls\" innecessaris a les nostres eines de participaci\u00f3",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/157"
+    "title": "Idea #157: Evitar \"sorolls\" innecessaris a les nostres eines de participaci\u00f3",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/157",
+    "year": 12
 }

@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 11,
     "desc": "Ens trobem davant un \u00fas massiu de vehicles privats de combusti\u00f3, el qual en\nles grans ciutats deriva a un problema. Comen\u00e7a un any 2012 amb l'encariment\nde les tarifes dels transports p\u00fablics fins a preus exagerats i on els\ntransports ecol\u00f2gics com la bicicleta sovint pateixen situacions de\ndiscriminaci\u00f3 en la via.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[bicicleta](https://xifrat.pirata.cat/ideatorrent/?tags=bicicleta)\n[bus](https://xifrat.pirata.cat/ideatorrent/?tags=bus)\n[metro](https://xifrat.pirata.cat/ideatorrent/?tags=metro)\n[tmb](https://xifrat.pirata.cat/ideatorrent/?tags=tmb)\n\n",
-    "dia": 11,
-    "final": {
-        "any": 12,
-        "dia": 3,
-        "mes": 8
+    "end": {
+        "day": 3,
+        "month": 8,
+        "year": 12
     },
-    "hora": "18:03",
+    "hour": "18:03",
     "id": 155,
-    "mes": 1,
+    "month": 1,
     "solutions": [
         {
             "desc": "El Partit Pirata ha de buscar apostar per un transport p\u00fablic gratu\u00eft per tal de fomentar l'\u00fas d'aquest i que els vehicles privats a motor quedin en des\u00fas en la vida urbana.",
@@ -59,6 +58,7 @@
         "metro",
         "tmb"
     ],
-    "titol": "Idea #155: Fomentar l'\u00fas del transport p\u00fablic",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/155"
+    "title": "Idea #155: Fomentar l'\u00fas del transport p\u00fablic",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/155",
+    "year": 12
 }

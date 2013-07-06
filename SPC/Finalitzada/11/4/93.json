@@ -1,15 +1,14 @@
 {
-    "any": 11,
+    "day": 19,
     "desc": "#### Aquesta proposta acabar\u00e0 el dimecres 27 d'Abril ####\n\nHi han diverses propostes de publicitat que seria convenient que fossin\nvotades per tots els afiliats.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[campanya](https://xifrat.pirata.cat/ideatorrent/?tags=campanya)\n[piratacat](https://xifrat.pirata.cat/ideatorrent/?tags=piratacat)\n[publicitat](https://xifrat.pirata.cat/ideatorrent/?tags=publicitat)\n\n",
-    "dia": 19,
-    "final": {
-        "any": 12,
-        "dia": 28,
-        "mes": 10
+    "end": {
+        "day": 28,
+        "month": 10,
+        "year": 12
     },
-    "hora": "21:56",
+    "hour": "21:56",
     "id": 93,
-    "mes": 4,
+    "month": 4,
     "solutions": [
         {
             "desc": "Proposo contactar amb p\u00e0gines web d'enlla\u00e7os online per a que ens publicitin, a poder ser gratu\u00eftament, a les seves p\u00e0gines web com a forma de difusi\u00f3 del partit, tenint en compte que podem ser un referent com a alternativa a la actual gesti\u00f3 cultural, concepci\u00f3 d'Internet i de la llibertat d'expressi\u00f3 per part de la pol\u00edtica tradicional.",
@@ -34,6 +33,7 @@
         "piratacat",
         "publicitat"
     ],
-    "titol": "Idea #93: Propostes de publicitat",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/93"
+    "title": "Idea #93: Propostes de publicitat",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/93",
+    "year": 11
 }

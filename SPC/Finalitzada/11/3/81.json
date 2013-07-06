@@ -1,15 +1,14 @@
 {
-    "any": 11,
+    "day": 31,
     "desc": "###########################################################\n\n##### ATENCI\u00d3: aquesta votaci\u00f3 finalitzar\u00e0 diumenge 03/04/2011 a les 19.00h\n########\n\n###########################################################\n\n  \nHem d'aprovar, tal i com es va acordar a la \u00faltima assemblea, els comptes des\nde la fundaci\u00f3 del partit fins ara.\n\nLa nostra activitat econ\u00f2mica \u00e9s realment minsa, per\u00f2 tamb\u00e9 cal fer aquests\nprocessos de la manera m\u00e9s formal possible.\n\nTeniu a la vostra disposici\u00f3 un petit balan\u00e7 d'ingressos i despeses aqu\u00ed:\n\n  \n[[http://pirata.cat/public/tresor/Balan%C3%A72010.png\n](http://pirata.cat/public/tresor/Balan%C3%A72010.png\n)](http://pirata.cat/public/tresor/Balan%C3%A72010.png )\n\n  \ni un, encara m\u00e9s petit, pressupost pel present exercici aqu\u00ed:\n\n  \n[[http://pirata.cat/public/tresor/Pressupost2011-2012.png\n](http://pirata.cat/public/tresor/Pressupost2011-2012.png\n)](http://pirata.cat/public/tresor/Pressupost2011-2012.png )\n\n  \nA nivell d'ingressos, posem una estimaci\u00f3 de la fita que ens agradaria\nassolir, per poder suportar les despeses que, creiem, tindrem. S'allunya molt,\nper\u00f2, de la realitat de les donacions rebudes fins ara.\n\n  \nLa partida m\u00e9s important de despeses, a banda de les de material de campanya,\n\u00e9s la de TIC. Nom\u00e9s l'arrendament dels dos servidors que haur\u00edem de tenir,\nactualment estem \"d'okupes\" a diferents llocs, ja s'emportar\u00e0 una bona part\ndel past\u00eds tot i que ens faran \"bon tracte\" a on anirem, si tot va com ho\ntenim planificat.\n\n  \nDonada la nostra absoluta inexperi\u00e8ncia al respecte, el pressupost \u00e9s d'all\u00f3\nm\u00e9s aventurat i segur que no quadrar\u00e0 per enlloc amb la realitat. Per\u00f2 per\nalgun lloc hem de comen\u00e7ar, oi? ;)\n\n  \nSi teniu qualsevol dubte al respecte, s\u00f3c a la vostra disposici\u00f3 a\njosep.sanchez@pirata.cat.\n\n  \nJosep S\u00e0nchez\n\nTresorer\n\n  \n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[comptes](https://xifrat.pirata.cat/ideatorrent/?tags=comptes)\n[pressupost](https://xifrat.pirata.cat/ideatorrent/?tags=pressupost)\n[Tresoreria](https://xifrat.pirata.cat/ideatorrent/?tags=Tresoreria)\n\n",
-    "dia": 31,
-    "final": {
-        "any": 12,
-        "dia": 12,
-        "mes": 4
+    "end": {
+        "day": 12,
+        "month": 4,
+        "year": 12
     },
-    "hora": "16:03",
+    "hour": "16:03",
     "id": 81,
-    "mes": 3,
+    "month": 3,
     "solutions": [
         {
             "desc": "Aprovem els comptes presentats sobre ingressos i despeses de 2010 i la proposta de pressupost per a 2011.",
@@ -26,6 +25,7 @@
         "pressupost",
         "Tresoreria"
     ],
-    "titol": "Idea #81: Aprovaci\u00f3 dels comptes i pressupost per a 2011",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/81"
+    "title": "Idea #81: Aprovaci\u00f3 dels comptes i pressupost per a 2011",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/81",
+    "year": 11
 }

@@ -1,15 +1,14 @@
 {
-    "any": 11,
+    "day": 25,
     "desc": "Votaci\u00f3 per triar el cap de llista de les paperetes per Barcelona per les\neleccions generals del 20 de novembre de 2011.\n\n################################################################\n\n######## Si us plau, voteu nom\u00e9s a la prov\u00edncia on esteu censats ########\n\n####La votaci\u00f3 es tancar\u00e0 el diumenge 9 d'octubre de 2011 a les 17h ######\n\n################################################################\n\nEtiquetes: en podeu posar diverses separant-les amb comes:  (cap)\n\n",
-    "dia": 25,
-    "final": {
-        "any": 11,
-        "dia": 9,
-        "mes": 10
+    "end": {
+        "day": 9,
+        "month": 10,
+        "year": 11
     },
-    "hora": "19:40",
+    "hour": "19:40",
     "id": 126,
-    "mes": 9,
+    "month": 9,
     "solutions": [
         {
             "desc": "Tinc 27 anys, soc desenvolupador python/django a una start-up. Parlo castell\u00e0, catal\u00e0 i angl\u00e8s, i tinc nocions m\u00ednimes de franc\u00e8s, noruec i japon\u00e8s.Soc el coordinador del departament de Comunicaci\u00f3, i he participat a les dues campanyes electorals. He fet xerrades presencials, entrevistes i contacte amb col\u00b7lectius externs, responsable continguts al bloc, relacions internacionals, estrat\u00e8gia a les xarxes socials, moderador, etc.Vaig participar a la fundaci\u00f3 de Pirates de Catalunya al 2010. A m\u00e9s, soc afiliat al Partido Pirata des de 2007, i participo a Pirate Parties International i a Partidos Piratas Iberoamericanos.Soc pirata per que defenso el coneixement lliure, la transpar\u00e8ncia i la democr\u00e0cia directa.",
@@ -174,6 +173,7 @@
     ],
     "status": "Finalitzada",
     "tags": [],
-    "titol": "Idea #126: Cap de llista per Barcelona. Eleccions Generals 2011",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/126"
+    "title": "Idea #126: Cap de llista per Barcelona. Eleccions Generals 2011",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/126",
+    "year": 11
 }

@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 9,
     "desc": "Necesitamos panfletos suficientes para cubrir las zonas residenciales de Poble\nNou.\n\n\u00bfPor qu\u00e9 este barrio en concreto? Hicimos un estudio en las elecciones pasadas\ny encontramos que la densidad de poblaci\u00f3n era bastante alta y la media de\nedad de los votantes era la m\u00e1s baja de Barcelona, aunque tampoco\nsignificativamente. Queremos comprobar experimentalmente si los buzoneos son\nefectivos de cara a pr\u00f3ximas campa\u00f1as y acciones.\n\n  \nNota: No habr\u00eda problema si sobraran panfletos, ya que su objetivo es pedir la\nparticipaci\u00f3n, por lo que se podr\u00edan reutilizar en otra acci\u00f3n.\n\n  \n  \nRelaci\u00f3n de compras: [ [[http://pirates.pad.atkn.net/ep/pad/view/ro.4AJD7i73$$\nP/latest](http://pirates.pad.atkn.net/ep/pad/view/ro.4AJD7i73$$P/latest)](http\n://pirates.pad.atkn.net/ep/pad/view/ro.4AJD7i73$$P/latest) ]\n\n  \n######################################\n\n# ~ El plazo de esta votaci\u00f3n acaba el Jueves 11 a las 09:00 ~ #\n\n######################################\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[25N](https://xifrat.pirata.cat/ideatorrent/?tags=25N)\n[campanya](https://xifrat.pirata.cat/ideatorrent/?tags=campanya)\n[compres](https://xifrat.pirata.cat/ideatorrent/?tags=compres)\n\n",
-    "dia": 9,
-    "final": {
-        "any": 12,
-        "dia": 28,
-        "mes": 10
+    "end": {
+        "day": 28,
+        "month": 10,
+        "year": 12
     },
-    "hora": "10:18",
+    "hour": "10:18",
     "id": 195,
-    "mes": 10,
+    "month": 10,
     "solutions": [
         {
             "desc": "Proveidor: SAXOPRINT Web: http://www.saxoprint.es/shop/flyersTermini de lliurament: Son a Alemanya, serveixen en ~7 dies feiners sense cost addicional o b\u00e9 impressi\u00f3 i enviament urgents en ~4 dies. Preu: 187,32 \u20ac (IVA + transporte inc.)Quantitat: 35.000Qualitat: paper de 90grs, 1 tinta B/N, 2 cares, mida A6 Comentari: Fins la data no hem trobat res m\u00e9s econ\u00f2mic per a imprimir grans volums en paper.",
@@ -26,6 +25,7 @@
         "campanya",
         "compres"
     ],
-    "titol": "Idea #195: Compras Campa\u00f1a 25N - 1: Panfletos participaci\u00f3n",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/195"
+    "title": "Idea #195: Compras Campa\u00f1a 25N - 1: Panfletos participaci\u00f3n",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/195",
+    "year": 12
 }

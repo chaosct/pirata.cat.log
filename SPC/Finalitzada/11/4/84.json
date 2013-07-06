@@ -1,15 +1,14 @@
 {
-    "any": 11,
+    "day": 11,
     "desc": "Aqu\u00ed us podeu afegir si voleu optar a cap de llista de Lleida.\n\n  \nMantenim la proposta en Sala d'espera per donar temps a fer les presentacions.\nDem\u00e0 a les 20h s'obrir\u00e0 a votacions.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[candidat](https://xifrat.pirata.cat/ideatorrent/?tags=candidat)\n[Lleida](https://xifrat.pirata.cat/ideatorrent/?tags=Lleida)\n[llistes](https://xifrat.pirata.cat/ideatorrent/?tags=llistes)\n[locals](https://xifrat.pirata.cat/ideatorrent/?tags=locals)\n[municipals](https://xifrat.pirata.cat/ideatorrent/?tags=municipals)\n\n",
-    "dia": 11,
-    "final": {
-        "any": 11,
-        "dia": 17,
-        "mes": 4
+    "end": {
+        "day": 17,
+        "month": 4,
+        "year": 11
     },
-    "hora": "02:04",
+    "hour": "02:04",
     "id": 84,
-    "mes": 4,
+    "month": 4,
     "solutions": [
         {
             "desc": "Tinc 23 anys i s\u00f3c enginyera t\u00e8cnica en inform\u00e0tica de gesti\u00f3.Coordino i col\u00b7laboro amb bona part de la feina que fem els pirates a Lleida, com assemblees o esdeveniments. A m\u00e9s a m\u00e9s, porto el compte de Twitter i la p\u00e0gina de Facebook de Pirates Lleida i co-piulo en el de Grumets.Vaig col\u00b7laborar activament fent campanya en les anteriors eleccions i penso fer el mateix en les vinents. Tinc moltes ganes de treballar i aconseguir que Pirates de Catalunya sigui una bona opci\u00f3 per Lleida aquest 22 de maig.",
@@ -36,6 +35,7 @@
         "locals",
         "municipals"
     ],
-    "titol": "Idea #84: Votaci\u00f3 Cap de llista Lleida",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/84"
+    "title": "Idea #84: Votaci\u00f3 Cap de llista Lleida",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/84",
+    "year": 11
 }

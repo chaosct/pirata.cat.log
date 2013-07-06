@@ -1,10 +1,9 @@
 {
-    "any": 12,
+    "day": 26,
     "desc": "Me he equivocado con el t\u00edtulo, pod\u00e9is borrarmela que no s\u00e9 c\u00f3mo?\n\n  \nGracias\n\nEtiquetes: en podeu posar diverses separant-les amb comes:  (cap)\n\n",
-    "dia": 26,
-    "hora": "15:19",
+    "hour": "15:19",
     "id": 214,
-    "mes": 11,
+    "month": 11,
     "solutions": [
         {
             "desc": "",
@@ -17,6 +16,7 @@
     ],
     "status": "Not an idea",
     "tags": [],
-    "titol": "Idea #214: Sueldo excesivo de los mossos de esquadra",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/214"
+    "title": "Idea #214: Sueldo excesivo de los mossos de esquadra",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/214",
+    "year": 12
 }

@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 9,
     "desc": "Brot Bord \u00e9s un col\u00b7lectiu a favor de l'alliberament sexual del Camp de\nTarragona que demana accions a diversos col\u00b7lectius per a recolzar el seu\nmanifest.\n\n  \n=== FINALITZA DISSABTE A LES 23.00H ===\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[alliberament](https://xifrat.pirata.cat/ideatorrent/?tags=alliberament)\n[bisexual](https://xifrat.pirata.cat/ideatorrent/?tags=bisexual)\n[heterosexual](https://xifrat.pirata.cat/ideatorrent/?tags=heterosexual)\n[homosexual](https://xifrat.pirata.cat/ideatorrent/?tags=homosexual)\n[sexual](https://xifrat.pirata.cat/ideatorrent/?tags=sexual)\n[transexual](https://xifrat.pirata.cat/ideatorrent/?tags=transexual)\n\n",
-    "dia": 9,
-    "final": {
-        "any": 12,
-        "dia": 13,
-        "mes": 5
+    "end": {
+        "day": 13,
+        "month": 5,
+        "year": 12
     },
-    "hora": "15:25",
+    "hour": "15:25",
     "id": 172,
-    "mes": 5,
+    "month": 5,
     "solutions": [
         {
             "desc": "Brot Bord demana adhesions al manifest que han el\u00b7laborat.El podeu llegir aqu\u00ed:http://brotbord.wordpress.com/manifest-17-de-maig/",
@@ -29,6 +28,7 @@
         "sexual",
         "transexual"
     ],
-    "titol": "Idea #172: Accions de recolzament a Brot Bord; col\u00b7lectiu a favor de l'alliberament sexua",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/172"
+    "title": "Idea #172: Accions de recolzament a Brot Bord; col\u00b7lectiu a favor de l'alliberament sexua",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/172",
+    "year": 12
 }

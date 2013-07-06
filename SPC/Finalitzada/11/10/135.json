@@ -1,15 +1,14 @@
 {
-    "any": 11,
+    "day": 18,
     "desc": "Seria una bona forma de financiaci\u00f3 la realitzaci\u00f3 d'una tenda online amb\nproductes de Pirata.cat, samarretes, tasses, enganxines, etc.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:  (cap)\n\n",
-    "dia": 18,
-    "final": {
-        "any": 11,
-        "dia": 30,
-        "mes": 10
+    "end": {
+        "day": 30,
+        "month": 10,
+        "year": 11
     },
-    "hora": "12:51",
+    "hour": "12:51",
     "id": 135,
-    "mes": 10,
+    "month": 10,
     "solutions": [
         {
             "desc": "Es poden fer servir serveis del estil http://www.zazzle.es o http://www.spreadshirt.es, no necesita infraestructura ni supossa cap cost extra, nom\u00e9s donar d'alta la tenda i pujar els dissenys. L'inceintiu de vendes \u00e9s d'un 15% per a vendes inferiors als 100\u20ac mensuals.",
@@ -38,6 +37,7 @@
     ],
     "status": "Finalitzada",
     "tags": [],
-    "titol": "Idea #135: Tenda online de productes pirata",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/135"
+    "title": "Idea #135: Tenda online de productes pirata",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/135",
+    "year": 11
 }

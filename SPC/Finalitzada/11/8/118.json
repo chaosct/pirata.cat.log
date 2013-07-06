@@ -1,15 +1,14 @@
 {
-    "any": 11,
+    "day": 25,
     "desc": "###Aquesta votaci\u00f3 es tancar\u00e0 l'1 de setembre a les 20 hores###\n\n  \nLes juntes de Partido Pirata i Pirates de Catalunya hem redactat el seg\u00fcent\nacord de col\u00b7laboraci\u00f3 i no solapament, que est\u00e0 comen\u00e7ant a donar els seus\nfruits en els projectes Jo Avalo i FAP!.\n\n  \n[[https://xifrat.pirata.cat/commons/sites/default/files/acord_pirata.pdf\n](https://xifrat.pirata.cat/commons/sites/default/files/acord_pirata.pdf\n)](https://xifrat.pirata.cat/commons/sites/default/files/acord_pirata.pdf )\n\n  \nDegut a que el document s'ha treballat durant una temporada, a que ja estem en\nprecampanya i a que Partido Pirata l'est\u00e0 votant simult\u00e0niament, hauriem de\ndecidir exclusivament si s'aprova o no.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:  (cap)\n\n",
-    "dia": 25,
-    "final": {
-        "any": 11,
-        "dia": 2,
-        "mes": 9
+    "end": {
+        "day": 2,
+        "month": 9,
+        "year": 11
     },
-    "hora": "17:41",
+    "hour": "17:41",
     "id": 118,
-    "mes": 8,
+    "month": 8,
     "solutions": [
         {
             "desc": "Aprovar el document",
@@ -22,6 +21,7 @@
     ],
     "status": "Finalitzada",
     "tags": [],
-    "titol": "Idea #118: Aprovaci\u00f3 Acord amb Partido Pirata",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/118"
+    "title": "Idea #118: Aprovaci\u00f3 Acord amb Partido Pirata",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/118",
+    "year": 11
 }

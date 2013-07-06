@@ -1,15 +1,14 @@
 {
-    "any": 11,
+    "day": 10,
     "desc": "La votaci\u00f3 es tancar\u00e0 diumenge 17 d'abril a les 20h.\n\n  \nDurant la setmana s'hi poden apuntar altres candidats, quan abans millor.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[candidat](https://xifrat.pirata.cat/ideatorrent/?tags=candidat)\n[llistes](https://xifrat.pirata.cat/ideatorrent/?tags=llistes)\n[locals](https://xifrat.pirata.cat/ideatorrent/?tags=locals)\n[municipals](https://xifrat.pirata.cat/ideatorrent/?tags=municipals)\n\n",
-    "dia": 10,
-    "final": {
-        "any": 12,
-        "dia": 12,
-        "mes": 4
+    "end": {
+        "day": 12,
+        "month": 4,
+        "year": 12
     },
-    "hora": "20:05",
+    "hour": "20:05",
     "id": 82,
-    "mes": 4,
+    "month": 4,
     "solutions": [
         {
             "desc": "Tinc 25 anys, s\u00f3c llicenciat en Comunicaci\u00f3 Audiovisual i m\u00e0ster en Direcci\u00f3 Cinematogr\u00e0fica, lo qual, com a Pirata, em posa enmig del debat actual sobre els drets d'autor. He realitzat els v\u00eddeos sobre l'Ideari Pirata ( http://bit.ly/gQ3b0r ), he dissenyat el Carnet Pirata d'Or ( http://bit.ly/pirataDor ) i actualment coordino bona part del projecte de les municipals a Barcelona. Aquests mesos tinc prou temps -i ganes!- per dedicar-me a la campanya electoral.",
@@ -51,6 +50,7 @@
         "locals",
         "municipals"
     ],
-    "titol": "Idea #82: Votaci\u00f3 Cap de llista Barcelona",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/82"
+    "title": "Idea #82: Votaci\u00f3 Cap de llista Barcelona",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/82",
+    "year": 11
 }

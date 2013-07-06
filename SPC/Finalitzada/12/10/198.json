@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 9,
     "desc": "Aquesta votaci\u00f3 romandr\u00e0 oberta fins el proper 16 d'Octubre a les 12:00h, i\nser\u00e0 triada la opci\u00f3 m\u00e9s votada, sempre que superi els 2/3 de vots favorables.\n\n  \n------------------------------------------------------------------------   \n  \nLa passada campanya vam comprar (i gastar) 10.000 adhesius.\n\n  \nDe tindre'n m\u00e9s, encara n'haur\u00edem escampat m\u00e9s alegrement.\n\n  \nDegut a que el disseny emprat no demana el vot (logo + pirata.cat), les podem\nemprar fora de campanya.\n\n  \nImatge: [[https://encrypted-\ntbn1.gstatic.com/images?q=tbn:ANd9GcQcFeURxIFSmsxOzgaevoPGHet\n37yOqZlv3LAniFkQoG6ENGzck ](https://encrypted-tbn1.gstatic.com/images?q=tbn:AN\nd9GcQcFeURxIFSmsxOzgaevoPGHet37yOqZlv3LAniFkQoG6ENGzck )](https://encrypted-tb\nn1.gstatic.com/images?q=tbn:ANd9GcQcFeURxIFSmsxOzgaevoPGHet37yOqZlv3LAniFkQoG6\nENGzck )\n\n  \nFormat : 70x70mm\n\nImpressi\u00f3 : 1+0 tinta negre\n\nPaper : adhesiu mate\n\nManipulat : troquelat per radera\n\nPreu per 10.000 unitats : 125\u20ac\n\nPreu per 15.000 unitats : 180\u20ac\n\nPreu per 20.000 unitats : 220\u20ac\n\n  \n*Transport a un punt de la ciutat de Barcelona incl\u00f2s en pressupostos superiors a 100\u20ac   \n  \nProve\u00efdor: GAM Digital, el mateix que a les passades municipals i generals (\n[[https://docs.google.com/document/d/1EAgOZOFafsPrmrvA3wLKtxE-\nUKdssVkVLMpnLOO8oFs /edit?hl=ca](https://docs.google.com/document/d\n/1EAgOZOFafsPrmrvA3wLKtxE-\nUKdssVkVLMpnLOO8oFs/edit?hl=ca)](https://docs.google.com/document/d\n/1EAgOZOFafsPrmrvA3wLKtxE-UKdssVkVLMpnLOO8oFs/edit?hl=ca) )\n\n  \nRelaci\u00f3n de compras: [ [[http://pirates.pad.atkn.net/ep/pad/view/ro.4AJD7i73$$\nP/latest](http://pirates.pad.atkn.net/ep/pad/view/ro.4AJD7i73$$P/latest)](http\n://pirates.pad.atkn.net/ep/pad/view/ro.4AJD7i73$$P/latest) ]\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[25N](https://xifrat.pirata.cat/ideatorrent/?tags=25N)\n[adhesius](https://xifrat.pirata.cat/ideatorrent/?tags=adhesius)\n[campanya](https://xifrat.pirata.cat/ideatorrent/?tags=campanya)\n[compres](https://xifrat.pirata.cat/ideatorrent/?tags=compres)\n\n",
-    "dia": 9,
-    "final": {
-        "any": 12,
-        "dia": 24,
-        "mes": 10
+    "end": {
+        "day": 24,
+        "month": 10,
+        "year": 12
     },
-    "hora": "17:32",
+    "hour": "17:32",
     "id": 198,
-    "mes": 10,
+    "month": 10,
     "solutions": [
         {
             "desc": "20.000 adhesius per 220 \u20ac + IVA",
@@ -43,6 +42,7 @@
         "campanya",
         "compres"
     ],
-    "titol": "Idea #198: Compras Campa\u00f1a 25N - [4]: Pegatinas",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/198"
+    "title": "Idea #198: Compras Campa\u00f1a 25N - [4]: Pegatinas",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/198",
+    "year": 12
 }

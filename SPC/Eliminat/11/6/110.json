@@ -1,10 +1,9 @@
 {
-    "any": 11,
+    "day": 2,
     "desc": "Aquesta es una prova per la presentaci\u00f3 a Sant Fruit\u00f3s\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[ajuntament](https://xifrat.pirata.cat/ideatorrent/?tags=ajuntament)\n\n",
-    "dia": 2,
-    "hora": "14:27",
+    "hour": "14:27",
     "id": 110,
-    "mes": 6,
+    "month": 6,
     "solutions": [
         {
             "desc": "Xerrada a equpi de govern per explicar la proposta",
@@ -19,6 +18,7 @@
     "tags": [
         "ajuntament"
     ],
-    "titol": "Idea #110: Presentaci\u00f3 Sant Fruitos",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/110"
+    "title": "Idea #110: Presentaci\u00f3 Sant Fruitos",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/110",
+    "year": 11
 }

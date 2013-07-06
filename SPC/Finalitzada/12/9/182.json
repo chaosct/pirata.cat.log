@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 9,
     "desc": "Com ja saps, des de Pirates de Catalunya estem participant en la creaci\u00f3 d'una\np\u00e0gina d'enlla\u00e7os p2p (peer to peer) que facilitar\u00e0 l'acc\u00e9s a material escolar\nper a estudiants de prim\u00e0ria, secund\u00e0ria i batxillerat. La p\u00e0gina enlla\u00e7ar\u00e0\nmaterial lliure disponible a la xarxa i possiblement material susceptible de\ncopyright, pel que existeix la possibilitat de que ens apliquin la Llei Sinde.\n\n  \nAquesta votaci\u00f3 es tancar\u00e0 divendres 14 de setembre.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:  (cap)\n\n",
-    "dia": 9,
-    "final": {
-        "any": 12,
-        "dia": 28,
-        "mes": 10
+    "end": {
+        "day": 28,
+        "month": 10,
+        "year": 12
     },
-    "hora": "16:49",
+    "hour": "16:49",
     "id": 182,
-    "mes": 9,
+    "month": 9,
     "solutions": [
         {
             "desc": "Si optem per aquesta opci\u00f3, millorarem el posicionament de pirata.cat a Internet i tindrem m\u00e9s visibilitat a xarxes socials. En cas de que ens apliquin la Llei Sinde, la nostra web seguir\u00e0 sent accessible a trav\u00e9s del domini   http://pirates.cat",
@@ -30,6 +29,7 @@
     ],
     "status": "Finalitzada",
     "tags": [],
-    "titol": "Idea #182: Projecte \"Ni un sol estudiant sense llibres\"",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/182"
+    "title": "Idea #182: Projecte \"Ni un sol estudiant sense llibres\"",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/182",
+    "year": 12
 }

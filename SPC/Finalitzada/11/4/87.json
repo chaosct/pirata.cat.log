@@ -1,15 +1,14 @@
 {
-    "any": 11,
+    "day": 13,
     "desc": "M\u00e9s enll\u00e0 de la gent que es proposi per a cap de llista, proposo que les\nseg\u00fcents posicions siguin assignades sota aquest criteri, tot complint les\nexig\u00e8ncies legals en termes de paritat.\n\n  \n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[candidats](https://xifrat.pirata.cat/ideatorrent/?tags=candidats)\n[electorals](https://xifrat.pirata.cat/ideatorrent/?tags=electorals)\n[llistes](https://xifrat.pirata.cat/ideatorrent/?tags=llistes)\n[mecanisme](https://xifrat.pirata.cat/ideatorrent/?tags=mecanisme)\n\n",
-    "dia": 13,
-    "final": {
-        "any": 11,
-        "dia": 17,
-        "mes": 4
+    "end": {
+        "day": 17,
+        "month": 4,
+        "year": 11
     },
-    "hora": "17:29",
+    "hour": "17:29",
     "id": 87,
-    "mes": 4,
+    "month": 4,
     "solutions": [
         {
             "desc": "- Candidats residents al mateix municipi, en ordre d'afiliaci\u00f3. - Cas de ser exhaurits els candidats del mateix municipi i mancar-ne per a completar, emprar independents del mateix municipi.- Cas de no omplir-se la llista, candidats d'altres municipis, seguint el mateix criteri d'ordre d'afiliaci\u00f3. - Cas d'esgotar-se els candidats Pirates, incloure personalitats significatives com a independents (p.e. com en Josep Jover) - Cas de no completar-se, independents de qualsevol municipi.",
@@ -43,6 +42,7 @@
         "llistes",
         "mecanisme"
     ],
-    "titol": "Idea #87: Proposta de composici\u00f3 de la Llista electoral, un cop triats caps de llista",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/87"
+    "title": "Idea #87: Proposta de composici\u00f3 de la Llista electoral, un cop triats caps de llista",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/87",
+    "year": 11
 }

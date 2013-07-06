@@ -1,15 +1,14 @@
 {
-    "any": 11,
+    "day": 14,
     "desc": "Hem de fer samarretes per a la campanya, amb l'objectiu de donar visibilitat\nal partit i tamb\u00e9 finan\u00e7ar les despeses que tindrem aquestes setmanes.\n\n  \nProposeu els vostres dissenys de forma gr\u00e0fica.\n\n  \nTancarem la votaci\u00f3 dimarts 19 a les 18h\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[Eleccions](https://xifrat.pirata.cat/ideatorrent/?tags=Eleccions)\n[Municipals](https://xifrat.pirata.cat/ideatorrent/?tags=Municipals)\n[Pirata](https://xifrat.pirata.cat/ideatorrent/?tags=Pirata)\n[Samarreta](https://xifrat.pirata.cat/ideatorrent/?tags=Samarreta)\n\n",
-    "dia": 14,
-    "final": {
-        "any": 11,
-        "dia": 19,
-        "mes": 4
+    "end": {
+        "day": 19,
+        "month": 4,
+        "year": 11
     },
-    "hora": "04:56",
+    "hour": "04:56",
     "id": 89,
-    "mes": 4,
+    "month": 4,
     "solutions": [
         {
             "desc": "Samarreta tipus \"I Love\", adaptable a cada municipi on fem campanya. Es pot estampar aquest disseny o el mateix amb els colors invertits. http://dl.dropbox.com/u/15481036/I_Love1b.jpg Idea i disseny inicial per David Esteve, retocs per Juan Irache.",
@@ -35,6 +34,7 @@
         "Pirata",
         "Samarreta"
     ],
-    "titol": "Idea #89: Disseny Samarretes Pirata",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/89"
+    "title": "Idea #89: Disseny Samarretes Pirata",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/89",
+    "year": 11
 }

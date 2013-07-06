@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 13,
     "desc": "Ante la injusta pol\u00edtica de aplicaci\u00f3n de indultos penales ejercida tanto por\nel actual Gobierno de Espa\u00f1a como por los anteriores gobiernos, y en respuesta\nal caso de D. David Reboredo, Willy Uribe se declara en huelga de hambre\nindefinida con el objetivo de ver materializadas estas tres reclamaciones:\n\n  \n1\u00aa Que el actual Gobierno de Espa\u00f1a conceda el indulto a D. David Reboredo, un\nciudadano gallego encarcelado por posesi\u00f3n de droga tras llevar ya tres a\u00f1os\nrehabilitado y trabajando en labores de ayuda social. Para que abandone la\nprisi\u00f3n y contin\u00fae con su positiva reinserci\u00f3n en la sociedad.\n\n2\u00aa Que el actual Gobierno de Espa\u00f1a, presidido por D. Mariano Rajoy, explique\na los ciudadanos espa\u00f1oles los motivos de los dos indultos concedidos a cuatro\npolic\u00edas auton\u00f3micos catalanes, condenados en firme por torturas.\n\n3\u00aa Que el anterior Gobierno de Espa\u00f1a, presidido por D. Jos\u00e9 Luis Rodr\u00edguez\nZapatero, explique a los ciudadanos espa\u00f1oles los motivos del indulto\nconcedido al banquero D. Alfredo S\u00e1enz, condenado a tres meses de arresto e\ninhabilitaci\u00f3n por un delito de acusaci\u00f3n y denuncia falsas.\n\n  \n~~~~~~~~~~~~~~~~~~~~~~~\n\nEsta votaci\u00f3n se cerrar\u00e1 el d\u00eda 18 a las 12:00h\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[huelga](https://xifrat.pirata.cat/ideatorrent/?tags=huelga)\n[indulto](https://xifrat.pirata.cat/ideatorrent/?tags=indulto)\n[vaga](https://xifrat.pirata.cat/ideatorrent/?tags=vaga)\n\n",
-    "dia": 13,
-    "final": {
-        "any": 12,
-        "dia": 30,
-        "mes": 12
+    "end": {
+        "day": 30,
+        "month": 12,
+        "year": 12
     },
-    "hora": "00:26",
+    "hour": "00:26",
     "id": 218,
-    "mes": 12,
+    "month": 12,
     "solutions": [
         {
             "desc": "Mostrar nuestro apoyo al escritor, y lanzar un comunicado.",
@@ -42,6 +41,7 @@
         "indulto",
         "vaga"
     ],
-    "titol": "Idea #218: Huelga de hambre de Willy Uribe",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/218"
+    "title": "Idea #218: Huelga de hambre de Willy Uribe",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/218",
+    "year": 12
 }

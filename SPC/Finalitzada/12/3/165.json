@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 27,
     "desc": "Data de finalitzaci\u00f3: 30 d'Agost del 2012\n\nRequereix de 2/3 de vots favorables per a ser aprovada.\n\n  \nEl Partit pirata te un ideari:\n\n[[http://pirata.cat/ideari/ ](http://pirata.cat/ideari/\n)](http://pirata.cat/ideari/ )\n\nAquest ideari inclou promoure la democracia directa. Aix\u00f2 vol dir promoure que\nels ciutadans puguin votar directament sobre temes que els afecten. Aix\u00f2 no \u00e9s\nel mateix que promoure que els afiliats al partit votin sobre temes que els\nafecten personalment i que no tenen res a veure amb l'ideari del partit.\n\n  \nPosicionar-se a favor o en contra de la vaga general o a favor o en contra de\nles manifestacions d'indignats no guarda cap relaci\u00f3 amb l'ideari del partit.\nExisteixen a m\u00e9s molts partits pol\u00edtics que es posicionen sobre aquests\naspectes i l'efecte que s'aconsegueix \u00e9s que els ciutadans no vegin cap\ndiferencia entre el Partit Pirata i partits de caire populista.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[Catalunya](https://xifrat.pirata.cat/ideatorrent/?tags=Catalunya)\n[de](https://xifrat.pirata.cat/ideatorrent/?tags=de)\n[democrcia](https://xifrat.pirata.cat/ideatorrent/?tags=democrcia)\n[directa](https://xifrat.pirata.cat/ideatorrent/?tags=directa)\n[idearipirates](https://xifrat.pirata.cat/ideatorrent/?tags=idearipirates)\n[participaci](https://xifrat.pirata.cat/ideatorrent/?tags=participaci)\n[pirates](https://xifrat.pirata.cat/ideatorrent/?tags=pirates)\n[posicionament](https://xifrat.pirata.cat/ideatorrent/?tags=posicionament)\n\n",
-    "dia": 27,
-    "final": {
-        "any": 12,
-        "dia": 4,
-        "mes": 9
+    "end": {
+        "day": 4,
+        "month": 9,
+        "year": 12
     },
-    "hora": "10:58",
+    "hour": "10:58",
     "id": 165,
-    "mes": 3,
+    "month": 3,
     "solutions": [
         {
             "desc": "No \u00e9s necessari posicionar-se en tots els temes d'actualitat.",
@@ -39,6 +38,7 @@
         "pirates",
         "posicionament"
     ],
-    "titol": "Idea #165: Que el partit Pirata no es posicioni sobre temes aliens al seu ideari",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/165"
+    "title": "Idea #165: Que el partit Pirata no es posicioni sobre temes aliens al seu ideari",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/165",
+    "year": 12
 }

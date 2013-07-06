@@ -1,15 +1,14 @@
 {
-    "any": 11,
+    "day": 4,
     "desc": "Des de la Lliga per la la\u00efcitat han creat un manifest per la creaci\u00f3 d'un\nestat veritablement la\u00efc.\n\nA m\u00e9s a m\u00e9s, proposen esmenes que es podrien afegir al nostre programa\nmunicipal, si es volgu\u00e9s.\n\n  \nRecordatori de l'article 18 de la Declaraci\u00f3 dels DDHH:\n\n\"Toda persona tiene derecho a la libertad de pensamiento, de conciencia y de\nreligi\u00f3n; este derecho incluye la libertad de cambiar de religi\u00f3n o de\ncreencia, as\u00ed como la libertad de manifestar su religi\u00f3n o su creencia,\nindividual y colectivamente, tanto en p\u00fablico como en privado, por la\nense\u00f1anza, la pr\u00e1ctica, el culto y la observancia.\"\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[Drets](https://xifrat.pirata.cat/ideatorrent/?tags=Drets)\n[Humans](https://xifrat.pirata.cat/ideatorrent/?tags=Humans)\n[Laicitat](https://xifrat.pirata.cat/ideatorrent/?tags=Laicitat)\n[Manifest](https://xifrat.pirata.cat/ideatorrent/?tags=Manifest)\n[Municipals](https://xifrat.pirata.cat/ideatorrent/?tags=Municipals)\n\n",
-    "dia": 4,
-    "final": {
-        "any": 12,
-        "dia": 12,
-        "mes": 4
+    "end": {
+        "day": 12,
+        "month": 4,
+        "year": 12
     },
-    "hora": "12:40",
+    "hour": "12:40",
     "id": 98,
-    "mes": 5,
+    "month": 5,
     "solutions": [
         {
             "desc": "Aqu\u00ed teniu el manifest: http://www.laicitat.org/html/manifest.htm I la llista d'adhesions: http://www.laicitat.org/html/adhesions_ent.php",
@@ -52,6 +51,7 @@
         "Manifest",
         "Municipals"
     ],
-    "titol": "Idea #98: Adhesi\u00f3 al Manifest de la Lliga per la la\u00efcitat",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/98"
+    "title": "Idea #98: Adhesi\u00f3 al Manifest de la Lliga per la la\u00efcitat",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/98",
+    "year": 11
 }

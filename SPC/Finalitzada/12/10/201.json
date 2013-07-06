@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 19,
     "desc": "El d\u00eda 31 de octubre, la CGT ha convocado una Huelga General, Laboral y de\nConsumo, en todo el territorio espa\u00f1ol, que ha sido apoyada por la CNT en\npr\u00e1cticamente todas sus asambleas, as\u00ed como sindicatos minoritarios y diversos\ncolectivos del 15M (e incluso IU en Arag\u00f3n).\n\n  \nLa convocatoria tendr\u00e1, como eje principal, la manifestaci\u00f3n unitaria que fue\nacordada en torno a la Coordinadora Laboral 15M, a las 18h en Arc del Triomf.\n\n  \nParece que, aun convoc\u00e1ndose la del 14 de noviembre, esta se va a mantener en\npie, y por tanto, tambi\u00e9n hay que preguntarse por ella.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[31O](https://xifrat.pirata.cat/ideatorrent/?tags=31O)\n[General](https://xifrat.pirata.cat/ideatorrent/?tags=General)\n[Huelga](https://xifrat.pirata.cat/ideatorrent/?tags=Huelga)\n[Vaga](https://xifrat.pirata.cat/ideatorrent/?tags=Vaga)\n\n",
-    "dia": 19,
-    "final": {
-        "any": 12,
-        "dia": 30,
-        "mes": 10
+    "end": {
+        "day": 30,
+        "month": 10,
+        "year": 12
     },
-    "hora": "14:41",
+    "hour": "14:41",
     "id": 201,
-    "mes": 10,
+    "month": 10,
     "solutions": [
         {
             "desc": "Comunicar de manera p\u00fablica nuestro apoyo a la Huelga General del mi\u00e9rcoles 31 de octubre",
@@ -27,6 +26,7 @@
         "Huelga",
         "Vaga"
     ],
-    "titol": "Idea #201: Dar apoyo a la Huelga General del 31 de octubre",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/201"
+    "title": "Idea #201: Dar apoyo a la Huelga General del 31 de octubre",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/201",
+    "year": 12
 }

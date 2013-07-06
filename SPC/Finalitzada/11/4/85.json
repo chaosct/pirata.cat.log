@@ -1,15 +1,14 @@
 {
-    "any": 11,
+    "day": 11,
     "desc": "Aqu\u00ed us podeu afegir si voleu optar a cap de llista de L'Hospitalet de\nLlobregat.\n\n  \nMantenim la proposta en Sala d'espera per donar temps a fer les presentacions.\nDem\u00e0 a les 20h s'obrir\u00e0 a votacions.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[candidat](https://xifrat.pirata.cat/ideatorrent/?tags=candidat)\n[llistes](https://xifrat.pirata.cat/ideatorrent/?tags=llistes)\n[locals](https://xifrat.pirata.cat/ideatorrent/?tags=locals)\n[municipals](https://xifrat.pirata.cat/ideatorrent/?tags=municipals)\n\n",
-    "dia": 11,
-    "final": {
-        "any": 11,
-        "dia": 17,
-        "mes": 4
+    "end": {
+        "day": 17,
+        "month": 4,
+        "year": 11
     },
-    "hora": "09:00",
+    "hour": "09:00",
     "id": 85,
-    "mes": 4,
+    "month": 4,
     "solutions": [
         {
             "desc": "Tinc 26 anys i s\u00f3c Enginyer Superior de Telecomunicacions. Col.laboro activament amb PIRATA.CAT i formo part del grup de treball per a les municipals a L'Hospitalet de Llobregat.  Faig de community manager de Pirates de L'Hospitalet gestionant els comptes de twitter, facebook i bloc oficial de Pirates de L'Hospitalet. Tinc moltes ganes de treballar i ho far\u00e9 durant aquesta campanya tal i com ja vaig fer per a les auton\u00f2miques.",
@@ -43,6 +42,7 @@
         "locals",
         "municipals"
     ],
-    "titol": "Idea #85: Votaci\u00f3 Cap de llista L'Hospitalet de Llobregat",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/85"
+    "title": "Idea #85: Votaci\u00f3 Cap de llista L'Hospitalet de Llobregat",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/85",
+    "year": 11
 }

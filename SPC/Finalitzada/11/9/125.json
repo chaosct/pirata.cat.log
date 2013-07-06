@@ -1,15 +1,14 @@
 {
-    "any": 11,
+    "day": 25,
     "desc": "Votaci\u00f3 per triar el cap de llista de les paperetes per Girona per les\neleccions generals del 20 de novembre de 2011\n\n################################################################\n\n######## Si us plau, voteu nom\u00e9s a la prov\u00edncia on esteu censats ########\n\n####La votaci\u00f3 es tancar\u00e0 el diumenge 9 d'octubre de 2011 a les 17h ######\n\n################################################################\n\nEtiquetes: en podeu posar diverses separant-les amb comes:  (cap)\n\n",
-    "dia": 25,
-    "final": {
-        "any": 11,
-        "dia": 9,
-        "mes": 10
+    "end": {
+        "day": 9,
+        "month": 10,
+        "year": 11
     },
-    "hora": "18:31",
+    "hour": "18:31",
     "id": 125,
-    "mes": 9,
+    "month": 9,
     "solutions": [
         {
             "desc": "Bel BosCk i Bagu\u00e9 \u00e9s dissenyadora gr\u00e0fica i escriptora, amb dos llibres  publicats. Ha exercit com a periodista a R\u00e0dio Salt, Radiocadena  Espa\u00f1ola, diaris El Punt i l'Avui. Ha estat correctora d'estil al Diari  de Girona i impartit classes de T\u00e8cniques de Redacci\u00f3 al Col\u00b7legi de  Lletres de Girona i d'expressi\u00f3 oral a l'escola de Teatre El Galliner. Tamb\u00e9 ha estat columnista d'opini\u00f3 de La Vanguardia en la  seva edici\u00f3 gironina, on va comen\u00e7ar a exercir als 27 anys i en solitari  el seu activisme pol\u00edtic mitjan\u00e7ant columnes incendi\u00e0ries, que podeu  llegir aqu\u00ed si teniu inter\u00e8s a con\u00e8ixer el seu pensament amb m\u00e9s detall. De la mateixa manera, podeu seguir les seves opinions actuals per mitj\u00e0 del compte de Twitter http://twitter.com/belbosCkEst\u00e0 afiliada a Pirata.Cat des d'octubre de 2010.L'honestedat \u00e9s per damunt de tot la seva moneda de canvi, de manera que  al llarg de la seva vida ha sofert algunes vegades les conseq\u00fc\u00e8ncies negatives de  defensar all\u00f2 en qu\u00e8 creu.Actualment es troba en situaci\u00f3  d'atur laboral, la qual cosa li permet tenir temps lliure per dedicar-se  a col\u00b7laborar en la lluita de Pirata.Cat, partit per al qual ha  redissenyat i fixat el logo oficial i est\u00e0 en proc\u00e9s de redacci\u00f3 i  elaboraci\u00f3 del manual d'identitat corporativa entre d'altres  col\u00b7laboracions en curs.",
@@ -62,6 +61,7 @@
     ],
     "status": "Finalitzada",
     "tags": [],
-    "titol": "Idea #125: Cap de llista per Girona. Eleccions Generals 2011",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/125"
+    "title": "Idea #125: Cap de llista per Girona. Eleccions Generals 2011",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/125",
+    "year": 11
 }

@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 9,
     "desc": "Ens han contactat d'ANADIR, Asociaci\u00f3n Nacional de Afectados por Adopciones\nIrregulares, demanant el nostre suport per la propera manifestaci\u00f3 que faran.\nEns ho exposen a continuaci\u00f3:\n\n  \nQue ANADIR \u00e9s una associaci\u00f3 sense \u00e0nim de lucre creada en el 2009 per\ndefensar els drets de les fam\u00edlies afectades pel robatori de nadons i per la\ncomissi\u00f3 d\u2019adopcions irregulars arreu de l\u2019Estat.\n\n  \nQue el 27/01/2011 ANADIR va interposar la primera demanda pel robatori de\nnadons davant la Fiscalia General de l'Estat, demanda que va ser admesa a\ntr\u00e0mit.\n\n  \nQue a data d\u2019avui, ANADIR compta amb 2100 associats afectats, tots ells en\ncontra de l\u2019arxiu massiu de les den\u00fancies que s\u2019estan fent, en molts casos\nsense cap mena d\u2019investigaci\u00f3 previa.\n\n  \n####################################\n\n# La votaci\u00f3 es tancar\u00e0 el 23 d'octubre a les 23.59h\n\n####################################\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[adopcions](https://xifrat.pirata.cat/ideatorrent/?tags=adopcions)\n[anadir](https://xifrat.pirata.cat/ideatorrent/?tags=anadir)\n[irregulars](https://xifrat.pirata.cat/ideatorrent/?tags=irregulars)\n[manifestaci](https://xifrat.pirata.cat/ideatorrent/?tags=manifestaci)\n[suport](https://xifrat.pirata.cat/ideatorrent/?tags=suport)\n\n",
-    "dia": 9,
-    "final": {
-        "any": 12,
-        "dia": 24,
-        "mes": 10
+    "end": {
+        "day": 24,
+        "month": 10,
+        "year": 12
     },
-    "hora": "00:32",
+    "hour": "00:32",
     "id": 193,
-    "mes": 10,
+    "month": 10,
     "solutions": [
         {
             "desc": "Del seu correu: El proper dia 27/01/2013 a les 11,30h volem fer una nova gran manifestaci\u00f3 davant la Fiscalia General de l'Estat, al carrer Fortuny de Madrid, per denunciar una vegada m\u00e9s el precari estat en que es troben les investigacions de les nostres denuncies. Els sol\u00b7licitem facin seva nostra causa i recolzin aquesta manifestaci\u00f3, aix\u00ed com demanem poder comptar amb la seva assist\u00e8ncia i la dels membres del seu partit en la mateixa.",
@@ -28,6 +27,7 @@
         "manifestaci",
         "suport"
     ],
-    "titol": "Idea #193: Suport manifestaci\u00f3 ANADIR",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/193"
+    "title": "Idea #193: Suport manifestaci\u00f3 ANADIR",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/193",
+    "year": 12
 }

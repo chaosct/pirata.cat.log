@@ -1,15 +1,14 @@
 {
-    "any": 13,
+    "day": 11,
     "desc": "Se habla a menudo de la violencia de g\u00e9nero como algo exclusivamente machista,\npero muchas veces se olvida la violencia psicol\u00f3gica a la cual estan muchos\nhombres de esta sociedad por parte de sus parejas, m\u00e1s dif\u00edcil de detectar,\npero muy nociva para la salud mental de \u00e9stos y para la sociedad en general.\n\nPropongo la creaci\u00f3n de un fondo que sirva para pagar tratamiento psicol\u00f3gico\nde todo aquel hombre que se sienta maltratado psicol\u00f3gicamente por alguna\nmujer de manera cruel y abusiva.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:  (cap)\n\n",
-    "dia": 11,
-    "final": {
-        "any": 13,
-        "dia": 15,
-        "mes": 5
+    "end": {
+        "day": 15,
+        "month": 5,
+        "year": 13
     },
-    "hora": "02:40",
+    "hour": "02:40",
     "id": 223,
-    "mes": 1,
+    "month": 1,
     "solutions": [
         {
             "desc": "Se habla a menudo de la violencia de g\u00e9nero como algo exclusivamente machista, pero muchas veces se olvida la violencia psicol\u00f3gica a la cual estan muchos hombres de esta sociedad por parte de sus parejas, m\u00e1s dif\u00edcil de detectar, pero muy nociva para la salud mental de \u00e9stos y para la sociedad en general.Propongo la creaci\u00f3n de un fondo que sirva para pagar tratamiento psicol\u00f3gico de todo aquel hombre que se sienta maltratado psicol\u00f3gicamente por alguna mujer de manera cruel y abusiva. Enmienda: He le\u00eddo con inter\u00e9s los comentario que los compa\u00f1eros de partido. Conicido con vosotros que el sisitema de donaciones no es adecuado para un partido pol\u00edtico, que no es su objetivo. Me he dejado absorver por otras propuestas de \u00e9sta \u00edndole. Propongo una enmienda para que se presente una declaraci\u00f3n de partido para reconocer el problema, esto ser\u00eda el embri\u00f3n de todo lo dem\u00e1s ( futuras leyes, propuestas en el parlamento...). La sociedad actualmente no reconoce el problema porque hay un status quo de ser pol\u00edticamente correcto, y yo no niego que tenga su funci\u00f3n pues la mujer es m\u00e1s d\u00e9bil f\u00edsicamente al hombre. Pero hay casos, y yo los conozco, de hombres totalmente acabados por violencia psicol\u00f3gica por parte de mujeres, y eso hay reconocerlo y exponerlo, no se puede ocultar. [...]Toni Cant\u00f3 hace poco hizo unas declaraciones en contra de lo pol\u00edticamente correcto, y si bien es cierto que el fundamento era falso, se dej\u00f3 clara la mascarada actual a favor de una burbuja negacionista de cualquier tipo de injusticia y maltrato hacia el hombre por parte de la mujer. Pirates es un partido transversal, y no podemos encallarnos en clich\u00e9s pasados si queremos hacernos notar, esta ha sido la estrategia de upyd, y estan creciendo mucho. No digo que la ideolog\u00eda de upyd sea la correcta, pero opino que su estrategia tiene aspectos muy intereseantes para pirates. Un saludo a todos camaradas.",
@@ -22,6 +21,7 @@
     ],
     "status": "Finalitzada",
     "tags": [],
-    "titol": "Idea #223: Invertir donaciones en hombres v\u00edctimas de la violencia hembrista",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/223"
+    "title": "Idea #223: Invertir donaciones en hombres v\u00edctimas de la violencia hembrista",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/223",
+    "year": 13
 }

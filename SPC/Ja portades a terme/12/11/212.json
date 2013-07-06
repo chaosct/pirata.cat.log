@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 17,
     "desc": "Veo entre agradecido y sorprendido se ha realizado una donaci\u00f3n a Pirata.Cat\npor un importe de 10.000 euros, pero los datos sobre que entidad o particular\nla ha realizado no son visibles de acuerdo con la LOPD.\n\nAqui es donde nos encontramos con un conflicto con respecto a la transparencia\ny la legalidad vigente, porque ya sabemos que la opacidad de una donaci\u00f3n\nsustancial puede ser problematica con respecto a la libertad de un partido\npolitico.Pero por otra parte muchos donantes de buena fe no las harian si su\ndonacion fuera publica porque pasan de lios,quieren ser simplemente activistas\nanonimos.Como gestionamos esta diatriba?\n\nMe gustaria que no se mencionase como el suero de fierabras el metodo del SPC\nporque aun esta muy verde,los criterios de cuando una cosa va o no va a\nvotaci\u00f3n no son estables muchisimas veces argumentando operatividad y tiempo,y\nsi realmente se quisieran promover votaciones interesadas por factores\nexternos se podria hacer invocando la urgencia de la votaci\u00f3n y calculando\ntiempos etc.\n\nQue conste que estoy contento de la donaci\u00f3n evidentemente,pero me gustaria\nque se considerase su reverso espinoso.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:  (cap)\n\n",
-    "dia": 17,
-    "final": {
-        "any": 13,
-        "dia": 27,
-        "mes": 1
+    "end": {
+        "day": 27,
+        "month": 1,
+        "year": 13
     },
-    "hora": "01:30",
+    "hour": "01:30",
     "id": 212,
-    "mes": 11,
+    "month": 11,
     "solutions": [
         {
             "desc": "Con la autorizaci\u00f3n del donante o entidad proporcionar sus datos.Asi al menos podriamos saber si la donaci\u00f3n es publica o no.En estos momentos evidentemente no creo que ninguna logia masonica ni los illuminati no este financiando,pero quien no quiera ver que esto puede ser un asunto a controlar en un futuro cuando haya representaci\u00f3n pues....Sopesad tambien que quizas si damos mucho la tabarra con esto habra quien no suelte un duro porque no quiere que se conozca,que una cosa es ser altruista o otra la exposicion publica.",
@@ -30,6 +29,7 @@
     ],
     "status": "Ja portades a terme",
     "tags": [],
-    "titol": "Idea #212: DONACIONES Y TRANSPARENCIA",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/212"
+    "title": "Idea #212: DONACIONES Y TRANSPARENCIA",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/212",
+    "year": 12
 }

@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 9,
     "desc": "Tal i com entenc que funciona el proc\u00e9s de incautaci\u00f3 d'articles per part de\nla policia, fins ara tots els articles decomissats i encautats per la policia\nja sigui perqu\u00e8 han sigut proves de judicis que ja han estat jutgats o perqu\u00e8\nning\u00fa les reclama o per exemple han quedat \"oblidades\"\n([[http://www.elconfidencial.com/espana/2012/05/09/la-imagen-del-despilfarro-\ncosp edal-exhibe-los-regalos-de-barreda-abandonados-en-un-\nalmacen-97678/)](http://www.elconfidencial.com/espana/2012/05/09/la-imagen-\ndel-despilfarro-cospedal-exhibe-los-regalos-de-barreda-abandonados-en-un-\nalmacen-97678/))](http://www.elconfidencial.com/espana/2012/05/09/la-imagen-\ndel-despilfarro-cospedal-exhibe-los-regalos-de-barreda-abandonados-en-un-\nalmacen-97678/)) , surten a subhasta on si no ets professional del sector o\ntens informaci\u00f3 privilegiada d'amics o coneguts, \u00e9s molt dificil accedir a\nalg\u00fan d'aquests articles. S'ha d'afegir que totes les subhastes es fan en\nhorari laboral i per tant de molt dif\u00edcil acc\u00e9s a la majoria.\n\n  \nEl fet de que en aquesta cadena la formi la policia i empresaris o gent\nparticular sense cap antecedent no significa que no sigui una activitat un\ntant obscura i amb certs obstacles per als \"amateurs\"\n([[http://www.foropolicia.es/foros/subasta-de-\ncoches-t6934.html)](http://www.foropolicia.es/foros/subasta-de-\ncoches-t6934.html))](http://www.foropolicia.es/foros/subasta-de-\ncoches-t6934.html)) Animo a tothom a buscar informaci\u00f3 de la propera subasta,\ni a opinar si ha sigut f\u00e0cil trobar-ho o no.\n\n  \nMoltes vegades hi ha empresaris que ho compren i ho venen a un preu m\u00e9s elevat\ni per tant, aquesta podria ser una forma d' especulaci\u00f3 (refer\u00e8ncia RAE), fent\nque pel fet de \u00e9sser l'intermediari, el preu de l'article s'hagi encarit al\ncomprador final.\n\n  \nA aqu\u00ed tamb\u00e9 s'ha d'afegir, les subhastes judicials, que tot i que poden tenir\nun procediment m\u00e9s clar, a l'hora d'involucrar-te, el fet d'anar \"in situ\" als\njutgats nom\u00e9s per informa-te pot frenar a m\u00e9s d'un\n([[http://www.publicasubasta.com/guia-comprador.aspx).\n](http://www.publicasubasta.com/guia-comprador.aspx).\n)](http://www.publicasubasta.com/guia-comprador.aspx). )\n\n  \nEntenc que hi ha un gran proc\u00e9s administratiu i que hi ha diferents ag\u00e8ncies\nimplicades i que hi ha lleis fetes per aix\u00f2 expressament, per\u00f2 no significa\nque sigui innamovible, fa 20 anys portser era el m\u00e8tode m\u00e9s efectiu, per\u00f2 ara\npotser no...\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[articles](https://xifrat.pirata.cat/ideatorrent/?tags=articles)\n[bancs](https://xifrat.pirata.cat/ideatorrent/?tags=bancs)\n[decomissats](https://xifrat.pirata.cat/ideatorrent/?tags=decomissats)\n[encautaci](https://xifrat.pirata.cat/ideatorrent/?tags=encautaci)\n[jutgats](https://xifrat.pirata.cat/ideatorrent/?tags=jutgats)\n[policia](https://xifrat.pirata.cat/ideatorrent/?tags=policia)\n[Subhasta](https://xifrat.pirata.cat/ideatorrent/?tags=Subhasta)\n\n",
-    "dia": 9,
-    "final": {
-        "any": 13,
-        "dia": 27,
-        "mes": 1
+    "end": {
+        "day": 27,
+        "month": 1,
+        "year": 13
     },
-    "hora": "21:42",
+    "hour": "21:42",
     "id": 173,
-    "mes": 5,
+    "month": 5,
     "solutions": [
         {
             "desc": "\u00c9s per aix\u00f2 que es podria crear una web centralitzada tipus \"ebay\" d'aquesta mena d'articles on tothom tingui el dret a comprar-los. El com fer-ho, i utilitzar les mesures de seguretat adequades, no ho s\u00e9, ho deixo en mans dels professionals, per\u00f2 entenc que ara mateix existeixen els medis. D'aquesta forma, a m\u00e9s, s'agilitza el proc\u00e9s i es fa molt m\u00e9s transparent.",
@@ -30,6 +29,7 @@
         "policia",
         "Subhasta"
     ],
-    "titol": "Idea #173: Articles encautats per la policia",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/173"
+    "title": "Idea #173: Articles encautats per la policia",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/173",
+    "year": 12
 }

@@ -1,15 +1,14 @@
 {
-    "any": 10,
+    "day": 1,
     "desc": "\"Duran Lleida pide ignorar las revelaciones de Wikileaks\" \u00b7 ELPA\u00cdS.com\n\n\u00bfIgnorar informacions sobre il.legalitats greus?\n\n  \nEls nostres amics del partit pirata suec van proposar donar inmunitat\nparlament\u00e0ria als servidors de Wikileaks per tal de garantitzar la seva\ncontinuitat. ([[http://barrapunto.com/articles/10/08/17/226239.shtml)\n](http://barrapunto.com/articles/10/08/17/226239.shtml)\n)](http://barrapunto.com/articles/10/08/17/226239.shtml) )\n\nMalauradament, no van aconseguir representaci\u00f3 al seu parlament.\n\n  \nAra que Wikileaks \u00e9s al punt de mira de tothom, i que molts pol\u00edtics pretenen\nboicotejar la tasca period\u00edstica de wikileaks, seria bo fer alguna acci\u00f3,\nmostrant a la opini\u00f3 p\u00fablica que hi ha partits pol\u00edtics que no tenen por a la\ntranspar\u00e8ncia. Potser garantir els seus servidors es massa, ara per ara,\nper\u00f2...\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[transparencia](https://xifrat.pirata.cat/ideatorrent/?tags=transparencia)\n[wikileaks](https://xifrat.pirata.cat/ideatorrent/?tags=wikileaks)\n\n",
-    "dia": 1,
-    "final": {
-        "any": 11,
-        "dia": 3,
-        "mes": 4
+    "end": {
+        "day": 3,
+        "month": 4,
+        "year": 11
     },
-    "hora": "16:44",
+    "hour": "16:44",
     "id": 52,
-    "mes": 12,
+    "month": 12,
     "solutions": [
         {
             "desc": "- Les xarxes socials van plenes de comentaris A FAVOR de Wikileaks, per\u00f2 la repercussi\u00f3 als mitjans tradicionals \u00e9s gairab\u00e9 inexistent, sobretot tenint en compte la import\u00e0ncia de les darreres revelacions.  - Hi ha molts periodistes que fan suport a la causa de la transpar\u00e8ncia. Per\u00f2 encara son m\u00e9s els pol\u00edtics que consideren Wikileaks un perill i volen tapar aix\u00f3 quant abans millor. - Ni que sigui per contrastar idearis, \u00bfNo haur\u00eda d'apar\u00e8ixer algun pol\u00edtic, no s\u00e9, Josep Jover per exemple :) defensant la postura de ciutadans i periodistes?",
@@ -33,6 +32,7 @@
         "transparencia",
         "wikileaks"
     ],
-    "titol": "Idea #52: En favor de Wikileaks i la transpar\u00e8ncia pol\u00edtica",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/52"
+    "title": "Idea #52: En favor de Wikileaks i la transpar\u00e8ncia pol\u00edtica",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/52",
+    "year": 10
 }

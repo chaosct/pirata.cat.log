@@ -1,15 +1,14 @@
 {
-    "any": 12,
+    "day": 13,
     "desc": "Grabatupleno demana suport per ajudar a que hagi autoritzaci\u00f3 sempre a grabar\ni difondre els plenaris dels ajuntaments, cosa que actualment est\u00e0 molt\ndificultada en nombrosos ajuntaments per prohibici\u00f3 dels alcaldes.\n\n  \nPer a m\u00e9s informaci\u00f3:\n\nwww.grabatupleno.es/el-auto-del-supremo-no-nos-satisface-seguimos-\nadelante_nid- 22.html\n\n  \n##################################\n\n# Aquesta votacio finalitzar\u00e0 el dimarts 23 a les 23:59 #\n\n##################################\n\nEtiquetes: en podeu posar diverses separant-les amb comes:  (cap)\n\n",
-    "dia": 13,
-    "final": {
-        "any": 12,
-        "dia": 24,
-        "mes": 10
+    "end": {
+        "day": 24,
+        "month": 10,
+        "year": 12
     },
-    "hora": "01:20",
+    "hour": "01:20",
     "id": 200,
-    "mes": 10,
+    "month": 10,
     "solutions": [
         {
             "desc": "Proposo que els hi donem suport (moral) amb una nota de premsa i a xarxes socials, i evidentment, comunicar-ho a aquesta plataforma.",
@@ -22,6 +21,7 @@
     ],
     "status": "Finalitzada",
     "tags": [],
-    "titol": "Idea #200: Donar suport (moral) a Grabatupleno",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/200"
+    "title": "Idea #200: Donar suport (moral) a Grabatupleno",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/200",
+    "year": 12
 }

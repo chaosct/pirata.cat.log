@@ -1,15 +1,14 @@
 {
-    "any": 11,
+    "day": 23,
     "desc": "###Aquesta votaci\u00f3 es tancar\u00e0 el 30 d'octubre a les 23.00h###\n\nVotem el v\u00eddeo que guanyar\u00e0 el premi PIRATA.CAT del FAP! (\n[[http://fap.pirata.cat/](http://fap.pirata.cat/)](http://fap.pirata.cat/) ) i\nque representar\u00e0 al partit en la propera campanya electoral.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:  (cap)\n\n",
-    "dia": 23,
-    "final": {
-        "any": 11,
-        "dia": 30,
-        "mes": 10
+    "end": {
+        "day": 30,
+        "month": 10,
+        "year": 11
     },
-    "hora": "00:07",
+    "hour": "00:07",
     "id": 138,
-    "mes": 10,
+    "month": 10,
     "solutions": [
         {
             "desc": "http://fap.pirata.cat/bojos/Autor: Hector Barbero",
@@ -110,6 +109,7 @@
     ],
     "status": "Finalitzada",
     "tags": [],
-    "titol": "Idea #138: Votaci\u00f3 premi PIRATA.CAT",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/138"
+    "title": "Idea #138: Votaci\u00f3 premi PIRATA.CAT",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/138",
+    "year": 11
 }

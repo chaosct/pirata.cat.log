@@ -1,15 +1,14 @@
 {
-    "any": 11,
+    "day": 22,
     "desc": "S'ha de predicar amb l'exemple. La junta actual de 3 c\u00e0rrecs i n vocals\n(n\u00famero parell) fa que hi hagi una aparent c\u00fapula de poder que fa que la\nhoritzontalitat funcional del partit quedi en desdit. Per tant, s'obre aquesta\nvotaci\u00f3 per si cal modificar la junta actual o no.\n\nData l\u00edmit: 3 de desembre a les 12:00. Llavors s'obriran les votacions pels\nc\u00e0rrecs dels membres de la junta segons aquesta votaci\u00f3 per a ser escollits a\nla propera assemblea general.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:  (cap)\n\n",
-    "dia": 22,
-    "final": {
-        "any": 11,
-        "dia": 4,
-        "mes": 12
+    "end": {
+        "day": 4,
+        "month": 12,
+        "year": 11
     },
-    "hora": "13:47",
+    "hour": "13:47",
     "id": 147,
-    "mes": 11,
+    "month": 11,
     "solutions": [
         {
             "desc": "Actualment hi ha 6 vocals (Grumets, Comunicaci\u00f3, Territorial, TIC, Creatius, Portaveu) Treure'ls de la Junta, que nom\u00e9s hi hagi els 3 que el Ministeri de l'Interior demana com a obligatoris. Llavors que hi hagi n responsables de diversos grups de treball (els anteriors mencionats menys portaveu, que pot ser el mateix secretari general) segons les necessitats, que apareguin a una web amb el correu de contacte i la forma de comunicar-se (commons, pad, llista de correu oberta o tancada, senyals de fum, telepatia, ...) aquests responsables reporten peri\u00f2dicament al secretari general per a que es publiqui lo que van fent els diversos grups de treball i cap a on estan anant.A m\u00e9s, aix\u00f2 far\u00e0 que els grups de treball siguin m\u00e9s flexibles i no s'hagi d'anar al notari i pagar per la validaci\u00f3 de n signatures dels vocals cada cop que hi hagi canvi de junta, nom\u00e9s dels 3 c\u00e0rrecs.Una persona pot ser membre de la Junta i responsable d'un grup, per\u00f2 llavors, si hi ha algun tema amb el seu grup, no podr\u00e0 votar.Un grup pot tenir un o m\u00e9s responsables si es poden repartir be la feina....",
@@ -38,6 +37,7 @@
     ],
     "status": "Finalitzada",
     "tags": [],
-    "titol": "Idea #147: Modificaci\u00f3 oficial format de la Junta de PIRATA.CAT",
-    "url": "https://xifrat.pirata.cat/ideatorrent/idea/147"
+    "title": "Idea #147: Modificaci\u00f3 oficial format de la Junta de PIRATA.CAT",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/147",
+    "year": 11
 }
