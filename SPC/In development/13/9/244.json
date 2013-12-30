@@ -1,0 +1,31 @@
+{
+    "day": 15,
+    "desc": "###############\n\nAquesta votaci\u00f3 es tanca el dia 5 d'octubre.\n\n###############\n\n  \n\"Transparencia de Cuentas P\u00fablicas es una plataforma web donde la sociedad\npodr\u00e1 consultar y entender f\u00e1cilmente los principales indicadores econ\u00f3micos\nde su administraci\u00f3n local, provincial o auton\u00f3mica.\"\n\n  \nRecentment aquest projecte ha fet un Goteo a [[http://goteo.org/project\n/transparencia-de-cuentas-publicas](http://goteo.org/project/transparencia-de-\ncuentas-publicas)](http://goteo.org/project/transparencia-de-cuentas-publicas)\nper\u00f2 al ser en ple agost no ha estat f\u00e0cil organitzar-nos a nivell\nConfederaci\u00f3 per tal de decidir si donar-li suport.\n\n  \nDes dels diferents delegats a la Confederaci\u00f3 hem parlat amb el promotor i ens\ncomenta que podem fer la donaci\u00f3 de patrocini (500\u20ac) en les properes setmanes,\nsi aix\u00ed ho decidim.\n\n  \nAltres membres de la Confederaci\u00f3 ja s'han posat en marxa i han obert aquest\nformulari per fer donacions: [[https://piratasdegalicia.org/web/crowdfunding-\npara-transparencia-de-cuentas-pub licas ](https://piratasdegalicia.org/web\n/crowdfunding-para-transparencia-de-cuentas-publicas\n)](https://piratasdegalicia.org/web/crowdfunding-para-transparencia-de-\ncuentas-publicas )\n\n  \nAix\u00ed, aquesta votaci\u00f3 \u00e9s per decidir si els Pirates de Catalunya estem d'acord\nen fer-ho i col\u00b7laborar-hi com a Confederaci\u00f3.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[confederacio](https://xifrat.pirata.cat/ideatorrent/?tags=confederacio)\n[patrocini](https://xifrat.pirata.cat/ideatorrent/?tags=patrocini)\n[transparencia](https://xifrat.pirata.cat/ideatorrent/?tags=transparencia)\n\n",
+    "end": {
+        "day": 5,
+        "month": 10,
+        "year": 13
+    },
+    "hour": "21:11",
+    "id": 244,
+    "month": 9,
+    "solutions": [
+        {
+            "desc": "Vull donar suport a la Confederaci\u00f3 per patrocinar el projecte Transparencia de cuentas p\u00fablicas, col\u00b7laborant a completar la quantitat que es donar\u00e0, tenint en compte que Piratas de Galicia ja t\u00e9 170\u20ac (a data de 24 de setembre).",
+            "down": 1,
+            "equal": 3,
+            "id": 862,
+            "title": "Proposta (#1):Vull donar suport a la Confederaci\u00f3 per patrocinar el projecte",
+            "up": 28
+        }
+    ],
+    "status": "In development",
+    "tags": [
+        "confederacio",
+        "patrocini",
+        "transparencia"
+    ],
+    "title": "Idea #244: Patrocinar projecte Transparencia de cuentas p\u00fablicas des de la Confederaci\u00f3",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/244",
+    "year": 13
+}

@@ -1,0 +1,59 @@
+{
+    "day": 4,
+    "desc": "###########\n\nLa votaci\u00f3 es tancar\u00e0 el dia 11 d'Octubre.\n\n###########\n\n  \nEn una not\u00edcia publicada avui a El Pa\u00eds, s'indica que l'equip del ministre de\nl'Interior, Alberto Ruiz Gallard\u00f3n, est\u00e0 preparant una llei per vulnerar\nllibertats fonamentals com el dret a la privacitat tot repartint troians que\ns'instal\u00b7lin als nostres dispositius: tablets i ordinadors (la qual cosa tamb\u00e9\nvoldr\u00e0 dir tel\u00e8fons). Podeu llegir-la aqu\u00ed: [[http://is.gd/hdWUFZ\n](http://is.gd/hdWUFZ )](http://is.gd/hdWUFZ )\n\n  \nDavant aquesta situaci\u00f3 de vulnerabilitat ciutadana, proposo que Pirates de\nCatalunya inici\u00ef una s\u00e8rie de mesures, que podem anar implementant a partir\nd'aquest fil.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[de](https://xifrat.pirata.cat/ideatorrent/?tags=de)\n[Gallardon](https://xifrat.pirata.cat/ideatorrent/?tags=Gallardon)\n[hacking](https://xifrat.pirata.cat/ideatorrent/?tags=hacking)\n[Ministeri](https://xifrat.pirata.cat/ideatorrent/?tags=Ministeri) [MinisteriI\nnterior](https://xifrat.pirata.cat/ideatorrent/?tags=MinisteriInterior)\n[privacitat](https://xifrat.pirata.cat/ideatorrent/?tags=privacitat)\n[troians](https://xifrat.pirata.cat/ideatorrent/?tags=troians)\n\n",
+    "end": {
+        "day": 15,
+        "month": 12,
+        "year": 13
+    },
+    "hour": "11:09",
+    "id": 237,
+    "month": 6,
+    "solutions": [
+        {
+            "desc": "Que el nostre equip jur\u00eddic examini amb lupa el proc\u00e9s de redacci\u00f3 de la nova llei i que Pirates de Catalunya es dediqui sistem\u00e0ticament a denunciar per tots els mitjans possibles: Mass Media, internet... tot el que sobrepassi la llei o intenti canviar-la per retallar-nos drets.",
+            "down": 0,
+            "equal": 0,
+            "id": 840,
+            "title": "Proposta (#1):Examinar amb lupa el proc\u00e9s de redacci\u00f3 de la nova llei",
+            "up": 40
+        },
+        {
+            "desc": "Un cop aprovada la llei, den\u00fancia si cal als jutjats de tot all\u00f2 que sigui inconstitucional o vulneri alguna llei, com la de protecci\u00f3 de dades, etc. Tamb\u00e9 difusi\u00f3 viral a internet i a mass media.",
+            "down": 2,
+            "equal": 7,
+            "id": 841,
+            "title": "Proposta (#2):Den\u00fancia de la llei un cop aprovada",
+            "up": 22
+        },
+        {
+            "desc": "Estudiar mesures de protecci\u00f3 del nostre hardware i software com per exemple la programaci\u00f3 d'antitroians per a tots els SO; workshops divulgatius sobre com protegir la nostra privacitat en tots els SO; eines per evitar aquest tipus de hacking, etc. Alhora, estudiar mesures de protecci\u00f3 legal per prevenir i evitar els problemes que puguin tenir les persones que utilitzin els nostres materials per protegir la seva privacitat.",
+            "down": 2,
+            "equal": 2,
+            "id": 842,
+            "title": "Proposta (#3):Mesures de protecci\u00f3",
+            "up": 26
+        },
+        {
+            "desc": "Ja que Gallard\u00f3n juga amb l'avantatge del m\u00e9s que possible desconeixement de la ciutadania en general sobre aquests temes, proposo que Pirates de Catalunya (o la Confederaci\u00f3n) engegui una campanya d'educaci\u00f3 i alerta ciutadana explicant qu\u00e8 significa el nou Codi Penal de l'infame \"ministre progresista\" del PP.",
+            "down": 1,
+            "equal": 0,
+            "id": 864,
+            "title": "Proposta (#4):Fer una campanya d'alerta ciutadana",
+            "up": 23
+        }
+    ],
+    "status": "In development",
+    "tags": [
+        "de",
+        "Gallardon",
+        "hacking",
+        "Ministeri",
+        "MinisteriInterior",
+        "privacitat",
+        "troians"
+    ],
+    "title": "Idea #237: Mesures per protegir la privacitat enfront del hacking Gallard\u00f3n",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/237",
+    "year": 13
+}

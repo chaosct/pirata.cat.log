@@ -1,0 +1,45 @@
+{
+    "day": 4,
+    "desc": "Una vez acabada la elecci\u00f3n al Parlament, toca reorganizar y estructurar la\nProvincia de Lleida.\n\nEmpezemos por el Coordinador Territorial como paso previo. Parece m\u00e1s f\u00e1cil\nelegir a una persona que reunir al resto y decidirlo en Asamblea.\n\nL@s voluntari@s se presentar\u00e1n hasta el s\u00e1bado 22 de diciembre y la votaci\u00f3n\ndesde el 23 al 28 de diciembre 2012.\n\nAs\u00ed estar\u00e1 todo listo para las Asambleas Generales del 29 de Diciembre.\n\n\u00c1nimo.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[Lleida](https://xifrat.pirata.cat/ideatorrent/?tags=Lleida)\n\n",
+    "end": {
+        "day": 23,
+        "month": 9,
+        "year": 13
+    },
+    "hour": "12:55",
+    "id": 217,
+    "month": 12,
+    "solutions": [
+        {
+            "desc": "Texto Libre",
+            "down": 0,
+            "equal": 0,
+            "id": 796,
+            "title": "Soluci\u00f3 #1:Nombre del Aspirante.",
+            "up": 0
+        },
+        {
+            "desc": "S\u00f3lo si no hay m\u00e1s de 2 soluciones.",
+            "down": 0,
+            "equal": 0,
+            "id": 804,
+            "title": "Soluci\u00f3 #2:Carlos Gonz\u00e1lez Iglesias",
+            "up": 0
+        },
+        {
+            "desc": "Em fa certa por presentar-me per aquest c\u00e0rrec per\u00f2, havent observat la soledat pirata que hi ha en aquesta prov\u00edncia durant les darreres eleccions, doncs no voldria deixar a en Carlos tot sol. No s\u00e9 si em veig en primer lloc, per\u00f2 s\u00ed com a bon col\u00b7laborador. Una mini-presentaci\u00f3: Enginyer en inform\u00e0tica de 34 anys. Treballo com a professor de cicles formatius en una escola de Solsona, ciutat on tamb\u00e9 visc.  Mantinc un bloc aqu\u00ed: http://bloc.gerardfarras.com/Twitter: @gfarrasb",
+            "down": 0,
+            "equal": 0,
+            "id": 805,
+            "title": "Soluci\u00f3 #3:Gerard Farr\u00e0s i Ballabriga",
+            "up": 0
+        }
+    ],
+    "status": "Ja portades a terme",
+    "tags": [
+        "Lleida"
+    ],
+    "title": "Idea #217: Elecci\u00f3n del Coordinador Territorial de Lleida para 2013",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/217",
+    "year": 12
+}

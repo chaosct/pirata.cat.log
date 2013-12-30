@@ -1,0 +1,45 @@
+{
+    "day": 27,
+    "desc": "A la reuni\u00f3 d'avui s'ha proposat canviar als dissabtes la reuni\u00f3 que\nactualment fem els diumenges a riereta.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:  [rieretareunionsdi\ns](https://xifrat.pirata.cat/ideatorrent/?tags=rieretareunionsdis)\n\n",
+    "end": {
+        "day": 25,
+        "month": 12,
+        "year": 13
+    },
+    "hour": "19:24",
+    "id": 148,
+    "month": 11,
+    "solutions": [
+        {
+            "desc": "Canviar als dissabtes la reuni\u00f3 dels diumenges a riereta",
+            "down": 18,
+            "equal": 41,
+            "id": 470,
+            "title": "Soluci\u00f3 #1:Canviar als dissabtes la reuni\u00f3 dels diumenges a riereta",
+            "up": 40
+        },
+        {
+            "desc": "Durant tres mesos alternar la reuni\u00f3 entre dissabtes i diumenges i a la vista de l'assist\u00e8ncia, es podr\u00e0 decidir qu\u00e8 \u00e9s millor: dissabtes, diumenges o dissabtes i diumenges alterns",
+            "down": 27,
+            "equal": 24,
+            "id": 472,
+            "title": "Soluci\u00f3 #2:Altern\u00e0ncia",
+            "up": 18
+        },
+        {
+            "desc": "Proposo pasar les trobades de Riereta dels diumenges als dissabtes tambe a les 17h00, per\u00f2 el primer dissabte de cada mes, seria una reuni\u00f3 \"formal\", amb agenda (comunicada previament), moderador i secretari (que redactar\u00e0 l'acta) accessible per mumble i pad. A cada reuni\u00f3 es nomenarien els moderados i secretaris de la seg\u00fcent reuni\u00f3. Aquestos serien responsables de confeccionar l'ordre del dia de la seg\u00fcent reuni\u00f3 a partir de les aportacions de tots els afilats Pirates a realitzar a un pad, i de verificar que la logistica estar\u00e1 funcionant el dia de la reuni\u00f3 (sala fisica -Riereta o un altre-, wifi, mumble etc).Tamb\u00e9 s'encarregaran de comunicar amb al menys una setmana d'antelacio l'ordre del dia, i obrir un pad per comen\u00e7ar a recollir comentaris sobre el mateix.Altres localizacions que vulguin reunir-se fisicament es ficaran en contacte amb els moderador i secretari, per fer-ne l'oportuna publicitat entre afiliats.",
+            "down": 6,
+            "equal": 20,
+            "id": 473,
+            "title": "Soluci\u00f3 #3:Fer reunions una vegada al mes, i la restacdel mes, trobades",
+            "up": 72
+        }
+    ],
+    "status": "Ja portades a terme",
+    "tags": [
+        "rieretareunionsdis"
+    ],
+    "title": "Idea #148: Canviar als dissabtes la reuni\u00f3 dels diumenges a riereta",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/148",
+    "year": 11
+}

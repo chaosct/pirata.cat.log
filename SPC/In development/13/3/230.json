@@ -1,0 +1,32 @@
+{
+    "day": 20,
+    "desc": "#Esta votaci\u00f3n finalizar\u00e1 el 15 de julio de 2013#\n\n  \nEl pr\u00f3ximo m\u00e9s de Julio caducar\u00e1 el actual convenio sectorial TIC. De acuerdo\ncon la nueva reforma laboral, una vez caduque el convenio, las empresas podr\u00e1n\nacogerse al estatuto de los trabajadores y la negociaci\u00f3n individual, en lugar\ndel acogerse al actual convenio. Esto supone una p\u00e9rdida sustancial de\nderechos de los trabajadores TIC (bajada de sueldos, incremento de la jornada\nlaboral, p\u00e9rdida de beneficios sociales, etc.).\n\n  \nLa no renovaci\u00f3n del convenio no es algo que suceda porque s\u00ed. Las grandes\nempresas del sector tienen paralizada la negociaci\u00f3n, y ya se est\u00e1n frotando\nlas manos pensando en las nuevas condiciones que podr\u00e1n imponer a los\ntrabajadores. Estas empresas tienen nombre: CAPGEMINI, ACCENTURE, IBM, EVERIS\ne INDRA. La sectorial de CC.OO. del sector (COMFIA) ya est\u00e1 llevando a cabo\nmobilizaciones para pedir a estas empresas que desbloqueen la negociaci\u00f3n del\nconvenio.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[Convenio](https://xifrat.pirata.cat/ideatorrent/?tags=Convenio)\n[Laboral](https://xifrat.pirata.cat/ideatorrent/?tags=Laboral)\n[Reforma](https://xifrat.pirata.cat/ideatorrent/?tags=Reforma)\n[TIC](https://xifrat.pirata.cat/ideatorrent/?tags=TIC)\n\n",
+    "end": {
+        "day": 23,
+        "month": 9,
+        "year": 13
+    },
+    "hour": "16:40",
+    "id": 230,
+    "month": 3,
+    "solutions": [
+        {
+            "desc": "Dar nuestro apoyo como partido a COMFIA y pedir a las empresas que desbloqueen la negociaci\u00f3n del convenio sectorial.",
+            "down": 3,
+            "equal": 1,
+            "id": 831,
+            "title": "Proposta (#1):Apoyo y petici\u00f3n.",
+            "up": 7
+        }
+    ],
+    "status": "In development",
+    "tags": [
+        "Convenio",
+        "Laboral",
+        "Reforma",
+        "TIC"
+    ],
+    "title": "Idea #230: Convenio Sectorial TIC.",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/230",
+    "year": 13
+}

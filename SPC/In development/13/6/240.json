@@ -1,0 +1,31 @@
+{
+    "day": 28,
+    "desc": "### Votaci\u00f3 oberta fins el 15 d'Agost de 2013. ###\n\n  \nLa Plataforma Comisi\u00f3n de la Verdad \u00e9s una iniciativa per crear un moviment\nunitari que lluiti per crear una Comissi\u00f3 de la Veritat sobre els crims del\nfranquisme.\n\n  \nManifest: [[http://comisionverdadfranquismo.com/manifiesto-de-las-victimas/\n](http://comisionverdadfranquismo.com/manifiesto-de-las-victimas/\n)](http://comisionverdadfranquismo.com/manifiesto-de-las-victimas/ )\n\n  \nAquesta plataforma, a m\u00e9s de la creaci\u00f3 de la Comissi\u00f3, vol que l'Estat\ncondemni el cop d'estat i la dictadura, derogar la llei d'amnistia i obrir\ninvestigacions (nadons robats, fosses comuns, etc), de les que es derivi la\ndevoluci\u00f3 de patrimoni expol\u00b7liat pel franquisme, retirar s\u00edmbols franquistes\ni tota altra acci\u00f3 necess\u00e0ria.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[condemna](https://xifrat.pirata.cat/ideatorrent/?tags=condemna)\n[franquisme](https://xifrat.pirata.cat/ideatorrent/?tags=franquisme)\n[plataformes](https://xifrat.pirata.cat/ideatorrent/?tags=plataformes)\n\n",
+    "end": {
+        "day": 23,
+        "month": 9,
+        "year": 13
+    },
+    "hour": "19:22",
+    "id": 240,
+    "month": 6,
+    "solutions": [
+        {
+            "desc": "Donar suport oficial i promoure la plataforma, publicant al blog, recollir firmes i qualsevol altra acci\u00f3 que es plantegi.",
+            "down": 1,
+            "equal": 1,
+            "id": 853,
+            "title": "Proposta (#1):Donar suport, difusi\u00f3 i adherir-nos la plataforma",
+            "up": 26
+        }
+    ],
+    "status": "In development",
+    "tags": [
+        "condemna",
+        "franquisme",
+        "plataformes"
+    ],
+    "title": "Idea #240: Donar suport oficial i adherir-nos a la Plataforma Comisi\u00f3n de la Verdad",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/240",
+    "year": 13
+}

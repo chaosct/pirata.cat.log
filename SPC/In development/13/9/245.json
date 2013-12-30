@@ -1,0 +1,38 @@
+{
+    "day": 23,
+    "desc": "Aquesta votaci\u00f3 es tancar\u00e0 en finalitzar la propera assemblea general, el 5\nd'octubre de 2013.\n\n  \n-------------------   \n  \nEns han contactat des del col\u00b7lectiu Som lo que Sembrem (SLQS) per tal de\ndemanar-nos ajuda en l'organitzaci\u00f3 d'una consulta (fonamentalment online) a\non la gent pugui registrar-se i votar totes aquelles Iniciatives Legislatives\n(catalanes, espanyoles o europees) b\u00e9 en curs b\u00e9 rebutjades als parlaments.\n\n  \nVolen que hi participin m\u00e9s entitats, especialment promotors d'altres\nILPs/ECIs rebutjades i grups pro-participaci\u00f3 ciutadana, i pretenen fer\np\u00fablics els resultats de les votacions al maig del 2014, coincidint amb la\ncampanya de les eleccions europees.\n\n  \nComparteixen que en tot refer\u00e8ndum ha d'existir argumentaci\u00f3 de les dues\nbandes i que s'ha d'intentar que es debatin els diferents assumptes amb\nexperts, per tal que la gent pugui formar-se una opini\u00f3 raonada abans de\nvotar.\n\n  \nDe nosaltres necessiten, principalment:\n\n  \n- Coneixement t\u00e8cnic i log\u00edstic sobre com dur a terme una votaci\u00f3 aix\u00ed   \n- Ajuda en difusi\u00f3 a xarxes (a premsa i carrer son for\u00e7a forts, tenen 1000 fedataris)   \n- Ajuda de creatius   \n- Voluntaris en general   \n  \nA nivell t\u00e8cnic, implementar un SPC \u00e9s bastant senzill, i despr\u00e9s caldr\u00e0 molta\nfeina en validar la identitat de tots els votants.\n\n  \nDes de SLQS veuen amb bons ulls el no tancar la plataforma un cop votades les\nILPs, i aprofitar-la per a promocionar futures iniciatives legislatives, aix\u00ed\ncom propostes de qualsevol \u00e0mbit geogr\u00e0fic.\n\n  \nEl proper dia 6 d'octubre SLQS t\u00e9 una assemblea general a Balaguer, a on\ncomentaran tot plegat i esperen que els hi diguem que s\u00ed, que endavant :)\n\n  \nPodeu trobar el resum de la reuni\u00f3 a: [[http://pirates.pad.atkn.net/reunio-\nSLQS-20130917 ](http://pirates.pad.atkn.net/reunio-SLQS-20130917\n)](http://pirates.pad.atkn.net/reunio-SLQS-20130917 )\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[ciutadana](https://xifrat.pirata.cat/ideatorrent/?tags=ciutadana)\n[consultes](https://xifrat.pirata.cat/ideatorrent/?tags=consultes)\n[lo](https://xifrat.pirata.cat/ideatorrent/?tags=lo)\n[participaci](https://xifrat.pirata.cat/ideatorrent/?tags=participaci)\n[pirates](https://xifrat.pirata.cat/ideatorrent/?tags=pirates)\n[que](https://xifrat.pirata.cat/ideatorrent/?tags=que)\n[referndums](https://xifrat.pirata.cat/ideatorrent/?tags=referndums)\n[sembrem](https://xifrat.pirata.cat/ideatorrent/?tags=sembrem)\n[SLQS](https://xifrat.pirata.cat/ideatorrent/?tags=SLQS)\n[som](https://xifrat.pirata.cat/ideatorrent/?tags=som)\n\n",
+    "end": {
+        "day": 5,
+        "month": 10,
+        "year": 13
+    },
+    "hour": "20:43",
+    "id": 245,
+    "month": 9,
+    "solutions": [
+        {
+            "desc": "En base al que s'ha comentat a la descripci\u00f3 d'aquesta votaci\u00f3 i al pad del resum de la reuni\u00f3.",
+            "down": 1,
+            "equal": 1,
+            "id": 863,
+            "title": "Proposta (#1):Implicar-nos en la campanya de multirefer\u00e8ndum",
+            "up": 44
+        }
+    ],
+    "status": "In development",
+    "tags": [
+        "ciutadana",
+        "consultes",
+        "lo",
+        "participaci",
+        "pirates",
+        "que",
+        "referndums",
+        "sembrem",
+        "SLQS",
+        "som"
+    ],
+    "title": "Idea #245: Multirefer\u00e8ndum de ILPs",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/245",
+    "year": 13
+}

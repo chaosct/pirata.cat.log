@@ -1,0 +1,27 @@
+{
+    "day": 26,
+    "desc": "Els pirates d'arreu d'Europa s'estan unint a la campanya Antiprism.eu,\nproposada pels pirates austr\u00edacs i desenvolupada en col\u00b7laboraci\u00f3 amb pirates\nde tota Europa.\n\n  \nS'ha redactat un manifest i creat un lloc web per tal de denunciar la xarxa\nd'espionatge massiu i indiscriminat, i pressionar a l'Uni\u00f3 Europea per lluitar\ncontra l'espionatge dels seus ciutadans, aix\u00ed com establir un marc legal que\nimpossibiliti els sistemes d'espionatge indiscriminat dins de la UE.\n\n  \nPodeu llegir el manifest al seg\u00fcent enlla\u00e7:\n[[http://antiprism.eu/ca](http://antiprism.eu/ca)](http://antiprism.eu/ca)\n(catal\u00e0)\n\n[[http://antiprism.eu/es](http://antiprism.eu/es)](http://antiprism.eu/es)\n(castell\u00e0)\n\n  \nEn aquests moments, 15 partits pirates han donat recolzament al manifest:\n\u00c0ustria, Espanya, Regne Unit, Su\u00e8cia, Rep\u00fablica Txeca, Holanda, Eslov\u00e8nia,\nAlemanya, Fran\u00e7a, Gr\u00e8cia, It\u00e0lia, B\u00e8lgica, Est\u00f2nia i, dels EUA, Florida.\nPirates de Catalunya ha recolzat el document de manera provisional, a l'espera\ndel resultat d'aquesta votaci\u00f3.\n\n  \nAquesta votaci\u00f3 finalitzar\u00e0 el 10 de juliol de 2013.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:  (cap)\n\n",
+    "end": {
+        "day": 23,
+        "month": 9,
+        "year": 13
+    },
+    "hour": "11:13",
+    "id": 239,
+    "month": 6,
+    "solutions": [
+        {
+            "desc": "Recolzar la campanya de forma oficial, fer-ne difusi\u00f3 i col\u00b7laborar en les accions que es duguin a terme (recollides de signatures a Internet, Cryptoparties, manifestacions, etc).",
+            "down": 0,
+            "equal": 1,
+            "id": 852,
+            "title": "Proposta (#1):Recolzar la campanya ANTIPRISM i col\u00b7laborar-hi activament",
+            "up": 49
+        }
+    ],
+    "status": "In development",
+    "tags": [],
+    "title": "Idea #239: Recolzar la campanya ANTIPRISM",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/239",
+    "year": 13
+}

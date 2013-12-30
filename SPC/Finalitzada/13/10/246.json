@@ -1,0 +1,38 @@
+{
+    "day": 20,
+    "desc": "#########################\n\n# Esta votaci\u00f3n finaliza el mi\u00e9rcoles 23\n\n# a las 21:00.\n\n#########################\n\n  \nSe solicita publicar el siguiente texto en apoyo a los huelguistas en Plaza\nSol y el resto del estado, que reclaman la dimisi\u00f3n del gobierno.\n\n  \n---   \n  \nNo podemos tolerar que el Partido Popular siga destruyendo el pa\u00eds a su\nantojo.\n\n  \nEl pasado d\u00eda 12 de octubre Jorge Arzuaga comenz\u00f3 una huelga de hambre,\nreclamando la dimisi\u00f3n del gobierno y la convocatoria de elecciones\nanticipadas. Desde ese momento, m\u00e1s de quince personas ya se han sumado a esta\nhuelga por todo el estado.\n\n  \nDesde su inacci\u00f3n hasta su presencia en continuos esc\u00e1ndalos, este gobierno se\nha deslegitimado con sus hechos, rehuyendo el consenso y gobernando a golpe de\ndecreto ley, ampar\u00e1ndose en una mayor\u00eda absoluta fruto de una ley electoral\ninjusta y antidemocr\u00e1tica, que les permite obrar con total impunidad pese a\nhaber obtenido el respaldo electoral de menos de 11 millones de ciudadanos.\n\n  \nUna huelga de hambre no es un capricho, los participantes se enfrentan a un\ndeterioro f\u00edsico del que podr\u00edan no recuperarse por completo: contra m\u00e1s\ntiempo dure, mayores ser\u00e1n las secuelas.\n\n  \nPor ello, los Piratas queremos hacerles llegar nuestra admiraci\u00f3n y respeto\npor su valent\u00eda, fortaleza y compromiso con toda la sociedad.\n\n  \nNos encontramos ante una compleja encrucijada, por un lado un Partido Popular\nque ignora a la ciudadan\u00eda y por el otro una situaci\u00f3n socioecon\u00f3mica\ninsostenible. El suicidio ha pasado a ser la mayor causa de muerte externa\n(por causas no naturales) en Espa\u00f1a, debido en gran parte a las pol\u00edticas de\nlos gobiernos del Partido Popular y del Partido Socialista Obrero Espa\u00f1ol.\n\n  \nAnte esta situaci\u00f3n, apoyaremos toda huelga e iniciativa pac\u00edfica y respetuosa\ncon los derechos humanos que intente frenar o revertir esta estafa que llaman\ncrisis.\n\nEtiquetes: en podeu posar diverses separant-les amb comes:\n[apoyo](https://xifrat.pirata.cat/ideatorrent/?tags=apoyo)\n[huelga](https://xifrat.pirata.cat/ideatorrent/?tags=huelga)\n\n",
+    "end": {
+        "day": 30,
+        "month": 10,
+        "year": 13
+    },
+    "hour": "18:36",
+    "id": 246,
+    "month": 10,
+    "solutions": [
+        {
+            "desc": "Doy apoyo al texto y a los huelguistas.",
+            "down": 2,
+            "equal": 1,
+            "id": 865,
+            "title": "Proposta (#1):Dar apoyo",
+            "up": 20
+        },
+        {
+            "desc": "Las insinuaciones del aumento de suicidios, y de que sean causados la crisis, no son verdaderas (ver fuentes en el comentario #1). Adem\u00e1s, la OMS aconseja no tomarse los temas de suicidios a la ligera, para evitar el \"efecto llamada\" (\"Efecto Werther\"). Por lo tanto, dichas afirmaciones infundadas deben eliminarse del texto.",
+            "down": 2,
+            "equal": 1,
+            "id": 866,
+            "title": "Proposta (#2):Enmienda: eliminar menci\u00f3n a causalidad de suicidios, por no ser verdadera",
+            "up": 19
+        }
+    ],
+    "status": "Finalitzada",
+    "tags": [
+        "apoyo",
+        "huelga"
+    ],
+    "title": "Idea #246: Apoyo a los activistas en huelga de hambre en Plaza Sol (#MotivosDeTodxs)",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/246",
+    "year": 13
+}

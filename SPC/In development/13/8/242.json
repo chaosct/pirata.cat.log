@@ -1,0 +1,51 @@
+{
+    "day": 1,
+    "desc": "====Fecha L\u00edmite: 18 Agosto 23.59h====\n\n  \nConocido por todos el l\u00edmite de D\u00e9ficit que el Gobierno de Espa\u00f1a autoriza a\nCatalunya, cifrado en el 1,58%, y que estamos utilizando el Presupuesto\nProrrogado del A\u00f1o 2012, el Govern tiene limitadas opciones. Mantener los\nPresupuestos actuales o crear otros. En esta segunda opci\u00f3n cabe la\nposibilidad de hacerlos hasta el tope de d\u00e9ficit permitido.\n\nAs\u00ed, por votaci\u00f3n p\u00fablica, Pirates de Catalunya solicita al Govern de la\nGenalitat que:\n\nEtiquetes: en podeu posar diverses separant-les amb comes:  (cap)\n\n",
+    "end": {
+        "day": 23,
+        "month": 9,
+        "year": 13
+    },
+    "hour": "12:32",
+    "id": 242,
+    "month": 8,
+    "solutions": [
+        {
+            "desc": "...",
+            "down": 4,
+            "equal": 1,
+            "id": 857,
+            "title": "Proposta (#1):Cree unos Presupuestos Nuevos para 2013 con el L\u00edmite del 1,58% de D\u00e9ficit",
+            "up": 2
+        },
+        {
+            "desc": "...",
+            "down": 5,
+            "equal": 1,
+            "id": 858,
+            "title": "Proposta (#2):Prorrogue los Actuales Presupuestos con el l\u00edmite del 1,58% de D\u00e9ficit.",
+            "up": 0
+        },
+        {
+            "desc": "D\u00e9ficit 0, e incluso con superh\u00e1bit que permita enjuagar parte de los 3.500 millones de deuda actual de la Generalitat y evitar el pago de intereses.",
+            "down": 4,
+            "equal": 2,
+            "id": 859,
+            "title": "Proposta (#3):Estabilidad Presupuestaria",
+            "up": 0
+        },
+        {
+            "desc": "En plena recessi\u00f3, i vist el frac\u00e0s estrepit\u00f3s de les mesures d'austeritat a l'economia (vegi's el cas de Gr\u00e8cia, Portugal, It\u00e0lia, Espanya, etc...), pot ser convenient ignorar les pressions del FMI/BM. El mateix FMI ha reconegut que les seves mesures d'austeritat han agreujat la situaci\u00f3 a Gr\u00e8cia. ( http://economia.elpais.com/economia/2013/06/06/actualidad/1370474173_820633.htm l ) Aix\u00ed doncs, per qu\u00e8 seguir una recepta que no s'ha mostrat exitosa, i que est\u00e0 basada en una teoria economica que s'ha demostrat que es sostenia en base a un seguit d'errors en un full de c\u00e0lcul??? ( http://www.expansion.com/2013/04/17/economia/1366218829.html ) Fora d'un context de crisi com el que vivim, s\u00f3c plenament partidari del d\u00e8ficit zero, per\u00f2 em temo que ara mateix no toca. Aix\u00f2 no implica que no s'hagin de buscar formes m\u00e9s eficients de racionalitzaci\u00f3 de la despesa p\u00fablica (a on hi ha molt\u00edssim marge per a retallar despesa sense afectar a CAP servei). [...]Menys externalitzaci\u00f3 de serveis p\u00fablics, m\u00e9s inversi\u00f3 p\u00fablica en infraestructures i m\u00e9s mesures per a ajudar als m\u00e9s necessitats, si cal, superant el l\u00edmit de d\u00e8ficit establert pel govern espanyol.",
+            "down": 2,
+            "equal": 2,
+            "id": 860,
+            "title": "Proposta (#4):Aplicar mesures Keynesianes, ignorant el l\u00edmit imposat per l'estat",
+            "up": 12
+        }
+    ],
+    "status": "In development",
+    "tags": [],
+    "title": "Idea #242: Presupuesto 2013",
+    "url": "https://xifrat.pirata.cat/ideatorrent/idea/242",
+    "year": 13
+}
